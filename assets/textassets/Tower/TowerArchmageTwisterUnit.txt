@@ -1,0 +1,42 @@
+{
+    "TowerArchmageTwisterUnit": {
+        "speed": [
+            1.8
+        ],
+        "timeToLive": [
+            3.0
+        ],
+        "twister_unit": {
+            "COMMENT": "This is the distance from which the twister will catch creeps",
+            "range": [
+                0.35
+            ],
+            "maxPerformCount": [
+                3
+            ],
+            "twister_teleport": {
+                "COMMENT": "This needs to match the time to live of the twister",
+                "totalDamage": [
+                    66.0,
+                    75.9,
+                    87.3,
+                    100.4,
+                    115.4,
+                    132.7,
+                    152.7,
+                    175.6,
+                    201.9,
+                    232.2,
+                    267.0,
+                    307.1,
+                    353.1,
+                    406.1,
+                    467.0
+                ],
+                "duration": [
+                    3.0
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "CreepIceMephit": {
+        "goldReward": [
+            10
+        ],
+        "health": [
+            110
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.1
+        ],
+        "ice_death": {
+            "ice_modifier": {
+                "duration": [
+                    3.0
+                ],
+                "areaRange": [
+                    0.8
+                ]
+            },
+            "damage": {
+                "minDamage": [
+                    60.0
+                ],
+                "maxDamage": [
+                    60.0
+                ],
+                "areaRange": [
+                    0.8
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        }
+    }
+}

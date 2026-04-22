@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="Ao pressionar -Aceitar-, confirmo que li e aceitei os Termos e Condições e a Política de Privacidade"
+
+"BUTTON_CONSENT"="Gerenciar Consentimento"
+
+"BUTTON_ACCEPT"="Aceitar"
+
+"BUTTON_BATTLE"="BATALHA!"
+
+"BUTTON_CANCEL"="CANCELAR"
+
+"BUTTON_CONNECT_APPLE"="Entrar com Apple"
+
+"BUTTON_CONNECT_GOOGLE"="Conectar com Google"
+
+"BUTTON_CONNECT_GUEST"="Jogar como convidado"
+
+"BUTTON_LOGOUT"="Sair"
+
+"BUTTON_LOGOUT_YES"="Sim, sair"
+
+"BUTTON_LOGOUT_NO"="Não, permanecer logado"
+
+"BUTTON_EXIT"="CONTINUAR"
+
+"BUTTON_EXTERNAL"="Entre na batalha contra novos desafiantes!"
+
+"BUTTON_FEEDBACK"="Feedback"
+
+"BUTTON_HELP_US"="Ajude-nos!"
+
+"BUTTON_KEEP_CLOUD"="Usar salvamento na nuvem"
+
+"BUTTON_KEEP_LOCAL"="Manter salvamento local"
+
+"BUTTON_LOCKED"="Bloqueado"
+
+"BUTTON_NEXT"="Próximo"
+
+"BUTTON_OFF"="Off"
+
+"BUTTON_ON"="On"
+
+"BUTTON_PRIVACY_POLICY"="Política de privacidade"
+
+"BUTTON_RECONNECT"="RECONEXÃO"
+
+"BUTTON_RETRY"="TENTAR NOVAMENTE"
+
+"BUTTON_SETTINGS"="Configurações"
+
+"BUTTON_SUPPORT"="Suporte"
+
+"BUTTON_TERMS"="Termos"
+
+"BUTTON_USER"="Conta de usuário"
+
+"BUTTON_DELETE_ACCOUNT"="Excluir conta"
+
+"BUTTON_UPGRADE"="Aprimorar"
+
+"BUTTON_CLAIM_PRIZE"="Cofre grátis!"
+
+"BUTTON_COLLECTION"="Coleção"
+
+"BUTTON_SHOP"="Loja"
+
+"BUTTON_BATTLE_TAB"="Batalha"
+
+"BUTTON_EVENTS_TAB"="Eventos"
+
+"EVENTS_COMING_SOON"="Em breve..."
+
+"BUTTON_CLANS_TAB"="Reinos"
+
+"BUTTON_INFO"="Info"
+
+"BUTTON_USE"="Usar"
+
+"BUTTON_EQUIP"="Equipar"
+
+"BUTTON_UNEQUIP"="Desequipar"
+
+"BUTTON_SKILLS"="HABILIDADES"
+
+"BUTTON_STATS"="ESTATÍSTICAS"
+
+"BUTTON_STAGES"="Fases"
+
+"BUTTON_CREEPS"="Inimigos"
+
+"BUTTON_BOOSTERS"="Boosters"
+
+"BUTTON_OK"="OK"
+
+"BUTTON_OPEN_INSTANTLY"="Pular"
+
+"BUTTON_CONFIRM"="Confirmar"
+
+"BUTTON_MUSIC_VOLUME"="Volume da música"
+
+"BUTTON_SFX_VOLUME"="Volume de efeitos"
+
+"BUTTON_COPY_ID"="ID"
+
+"BUTTON_ALREADY_SIGNED"="Já conectado"
+
+"BUTTON_GUEST_CONTINUE"="Continuar"
+
+"BUTTON_RESTART"="REINICIAR"
+
+"BUTTON_ACCOUNT_WARNING_YES"="Sim, entrar"
+
+"BUTTON_ACCOUNT_WARNING_NO"="Não, manter conta atual"
+
+"BUTTON_MISSIONS"="Missões"
+
+"BUTTON_GIFT"="Pegar presente"
+
+"BUTTON_QUIT"="SAIR"
+
+"CARD_LOCKED_DESCRIPTION_1"="Jogar"
+
+"CARD_LOCKED_DESCRIPTION_2"="Encontre este cartão em um baú para desbloqueá-lo"
+
+"CARD_RARITY_COMMON"="Comum"
+
+"CARD_RARITY_EPIC"="Épico"
+
+"CARD_RARITY_LEGENDARY"="Lendário"
+
+"CARD_RARITY_RARE"="Raro"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="Dano de área máximo"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="Dano de área mín"
+
+"CARD_STAT_AREA_OF_EFFECT"="Área de efeito"
+
+"CARD_STAT_BUFF_PERCENTAGE"="Buff"
+
+"CARD_STAT_ARMOR_REDUCTION"="Redução de armadura"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="Redução de Res. Mágica"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="Chance"
+
+"CARD_STAT_COOLDOWN"="Recarga"
+
+"CARD_STAT_COST"="Custo"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="DOT"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT máx"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT mín"
+
+"CARD_STAT_DAMAGE_TYPE"="Tipo dano"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="Artilharia"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="Artilharia / Mágica"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="Magia"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="Físico"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="Verdadeiro"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="Debuff"
+
+"CARD_STAT_DURATION"="Duração"
+
+"CARD_STAT_HEAL_HP"="Curado PV"
+
+"CARD_STAT_HEAL_HP_MAX"="Cura Máx"
+
+"CARD_STAT_HEAL_HP_MIN"="Curar Mín"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="Unid. afetadas"
+
+"CARD_STAT_MAX_DAMAGE"="Dano Máx"
+
+"CARD_STAT_MIN_DAMAGE"="Dano Mín"
+
+"CARD_STAT_NUMBER_OF_UNITS"="Qtd. unidades"
+
+"CARD_STAT_RANGE"="Alcance"
+
+"CARD_STAT_STRIKE_COUNT"="Golpes"
+
+"CARD_STAT_ARMOR_PIERCING"="Perfuração"
+
+"CARD_STAT_UNIT_ARMOR"="Armadura"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="Velocidade de ataque"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="Velocidade de ataque"
+
+"CARD_STAT_UNIT_HP"="Saúde"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="Resistência mágica"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="Dano máximo na área"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="Dano máximo"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="Dano máximo"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="Dano de área"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="Dano mínimo"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="Dano mínimo"
+
+"CARD_STAT_UNIT_SPEED"="Velocidade"
+
+"CARD_STAT_UNIT2_ARMOR"="Unidade 2 Armadura"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="Velocidade de ataque da Unidade 2"
+
+"CARD_STAT_UNIT2_HP"="Unidade 2 Saúde"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="Dano máximo da unidade 2"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="Dano mínimo da unidade 2"
+
+"CARD_STAT_LEVEL_TEXT"="NIV"
+
+"CARD_STAT_DAMAGE"="Dano"
+
+"CARD_STAT_RANGED_DAMAGE"="Dano à distância"
+
+"CARD_STAT_ARMOR_TYPE"="Tipo de armadura"
+
+"CARD_STAT_VERY_LOW"="Muito baixo"
+
+"CARD_STAT_LOW"="Baixo"
+
+"CARD_STAT_MEDIUM"="Médio"
+
+"CARD_STAT_HIGH"="Alto"
+
+"CARD_STAT_VERY_HIGH"="Muito Alto"
+
+"CARD_STAT_NONE"="Nenhum"
+
+"CARD_STAT_CARD_RANK"="Nível"
+
+"CARD_STAT_CARD_CARD_TYPE"="Tipo"
+
+"CARD_STAT_HP_REDUCTION"="Redução de saúde"
+
+"CARD_STAT_SLOW"="Lento"
+
+"CARD_STAT_HP_TO_ACTIVATE"="Porcentagem de saúde"
+
+"CARD_STAT_TILES_PUSHED"="Azulejos empurrados"
+
+"CARD_TYPE_BARRACK"="QUARTEL"
+
+"CARD_TYPE_RANGED"="À DISTÂNCIA"
+
+"CARD_TYPE_MAGIC"="MAGIA"
+
+"CARD_TYPE_ARTILLERY"="ARTILHARIA"
+
+"CARD_TYPE_DAMAGE"="DANO"
+
+"CARD_TYPE_SUMMON"="INVOCAR"
+
+"CARD_TYPE_UTILITY"="UTILIDADE"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="SUPORTE"
+
+"CARD_TYPE_TANK"="TANQUE"
+
+"CARD_TYPE_FLYING"="VOADOR"
+
+"TOWER_STATS"="ESTATÍSTICAS DA TORRE"
+
+"HERO_STATS"="ESTATÍSTICAS DO HERÓI"
+
+"SPELL_STATS"="ESTATÍSTICAS DE FEITIÇOS"
+
+"CHECKING_UPDATES"="VERIFICANDO ATUALIZAÇÕES"
+
+"CLAIM_HERO_DESCRITPION"="Compartilhe seu feedback através de uma breve pesquisa e ganhe um baú incrível enquanto nos ajuda a melhorar nosso jogo."
+
+"FREE_CHEST_VIEW_TITLE"="PEGUE UM BAÚ!"
+
+"CONNECTING"="CONECTANDO"
+
+"CONNECTION_LOST_CHECK_INTERNET"="Verifique sua conexão com a internet"
+
+"CONNECTION_LOST_BUTTON"="TENTAR"
+
+"CONNECTION_LOST_RECONNECTING"="Reconectando"
+
+"CONNECTION_LOST_TITLE"="Conexão perdida"
+
+"USER_ACCESS_TEXT"="Entrar ou criar conta"
+
+"24_HR_NOTIFICATION_TITLE"="Seu reino precisa de você!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="Defenda suas torres de novos desafiantes!"
+
+"48_HR_NOTIFICATION_TITLE"="É hora da batalha!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="Novas cartas poderosas aguardam! Melhore seu deck e esmague seus inimigos. Lute agora!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="Pegue mais recompensas!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="Recompensas poderosas aguardam em baús estelares. Mergulhe e reivindique-as!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="Hora de coletar"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Seu baú de batalha está pronto! Vença partidas para desbloquear grandes recompensas!"
+
+"DAILY_CHEST_RESET"="O Baú de Batalha será redefinido em:"
+
+"OPEN_BATTLE_CHEST"="Parabéns! Abra o baú para receber seus prêmios!"
+
+"OPEN_BATTLE_WIN"="Vencer"
+
+"BATTLE_CHEST_INSTRUCTIONS"="mais partidas para abrir este baú!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="partida para abrir este baú!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="Psst... Hora de pegar algumas estrelas!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Não espere, pegue suas estrelas e desbloqueie recompensas épicas!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="Suas Recompensas Esperam!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="Reivindique suas recompensas da Estrada dos Troféus agora—não perca!"
+
+"ROOKIE_NOTIFICATION_TITLE"="Continue!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="Você estava com tudo! Desbloqueie troféus, suba de nível e melhore seu deck!"
+
+"DECK_BUILDER_DECK"="BARALHO"
+
+"DECK_BUILDER_EMOJIS"="EMOÇÕES"
+
+"DECK_BUILDER_FILTER_LEVEL"="NÍVEL"
+
+"DECK_BUILDER_FILTER_RARITY"="RAR"
+
+"DECK_BUILDER_FILTER_RANK"="NÍVEL"
+
+"DECK_BUILDER_FILTER_TYPE"="TIPO"
+
+"DECK_BUILDER_FOUND"="Encontrado"
+
+"DECK_BUILDER_HEROES"="HERÓIS"
+
+"DECK_BUILDER_SPELLS"="FEITIÇOS"
+
+"DECK_BUILDER_TOWERS"="TORRES"
+
+"DOWNLOADING"="Atualizando..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="Não, manter minha conta"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="Sim, excluir minha conta"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="LEIA MAIS"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="Você está prestes a solicitar a exclusão permanente de sua conta e todas as suas informações pessoais. Se você clicar em 'Sim', apagaremos todos os dados de sua conta, incluindo: acesso, todos os itens comprados e ganhos, progresso do jogo e níveis."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="Você está prestes a solicitar a exclusão permanente de sua conta e todas as suas informações pessoais. Se você clicar em 'Sim', apagaremos todos os dados de sua conta, incluindo: acesso, todos os itens comprados e ganhos, progresso do jogo e níveis.\n\nPor {0} dias você pode cancelar sua solicitação. Após este período, o processo não poderá ser desfeito! Se você voltar ao jogo, uma nova conta será criada."
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="Tem certeza de que deseja excluir sua conta?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="Você tem {0} dias para mudar de ideia.\nDepois disso, sua conta será permanentemente excluída."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="Registramos sua solicitação de exclusão"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="Sua conta está programada para exclusão"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="Se você mudou de ideia e deseja continuar jogando, clique em ""cancelar exclusão"".\nCaso contrário, o Miniclip iniciará a exclusão permanente da sua conta em {0} dias."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="Cancelar exclusão"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="Continuar exclusão"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="Nenhuma alteração foi feita na sua conta.\nVocê pode reiniciar o processo de exclusão permanente a qualquer momento nas configurações do jogo."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="O processo de exclusão foi cancelado"
+
+"SAVE_WARNING_TITLE"="SALVE SEU PROGRESSO"
+
+"SAVE_WARNING_TEXT"="Conecte sua conta para salvar seu progresso"
+
+"ERROR_DECK_INCOMPLETE"="SEU BARALHO DE BATALHA ESTÁ INCOMPLETO!"
+
+"ERROR_ALREADY_BOUGHT"="JÁ COMPRADO!"
+
+"ERROR_PURCHASE_TITLE"="Erro de compra"
+
+"ERROR_PURCHASE_DESCRIPTION"="Ocorreu um erro ao processar esta compra. Por favor, tente novamente."
+
+"ERROR_NOT_ENOUGH_GEMS"="Gemas insuficientes!"
+
+"ERROR_NOT_ENOUGH_GOLD"="Moedas insuficientes!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="Erro na mudança de nome de usuário"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="Ocorreu um erro ao modificar o nome de usuário, por favor, tente novamente"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="Ocorreu um erro ao atualizar o conteúdo do jogo. Certifique-se de que seu dispositivo tenha espaço de armazenamento livre suficiente e que você esteja conectado à internet, e tente novamente."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="Erro de atualização"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="Ocorreu um erro ao conectar ao servidor do jogo. Verifique se você está conectado à internet."
+
+"ERROR_CONNECTING_SERVER_TITLE"="Erro de conexão"
+
+"ERROR_WAITING_PLAYER_TITLE"="OPONENTE DESISTIU"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="Parece que o oponente saiu do jogo."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="ERRO DE CRIAÇÃO DO USUÁRIO"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="Ocorreu um erro ao criar um novo usuário para este dispositivo."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="Erro de login da Apple"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="Ocorreu um erro ao fazer login com sua conta da Apple. Por favor, tente novamente."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="Ocorreu um erro ao recuperar o token de acesso. Por favor, tente fazer login novamente."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Ocorreu um erro ao vincular a conta. Por favor, tente entrar novamente."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="Erro de login do Google"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="Ocorreu um erro ao fazer login com sua conta do Google. Por favor, tente novamente."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="Ocorreu um erro ao recuperar o token de acesso. Por favor, tente fazer login novamente."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="Ocorreu um erro ao validar o token de acesso. Por favor, tente fazer login novamente."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Ocorreu um erro ao vincular a conta. Por favor, tente entrar novamente."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="Ocorreu um erro ao alternar o usuário local com o usuário remoto. Por favor, tente fazer login novamente."
+
+"ERROR_FRAMEDIFF_TITLE"="CHEATER DETECTED"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="Detectamos atividade suspeita de um dos jogadores, e não é possível continuar a partida."
+
+"ERROR_FRAMEDIFF_BUTTON"="Continuar"
+
+"ERROR_INVALID_SESSION_TITLE"="Algo deu errado!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="A sessão do seu dispositivo expirou. O aplicativo será recarregado agora."
+
+"ERROR_USER_CANCELED_OPERATION"="O usuário cancelou a operação."
+
+"BUTTON_SUMMON"="Invocar"
+
+"EVENTS_SUMMON_RIFT_TITLE"="Altar de Invocação"
+
+"EVENTS_ONSLAUGHT_TITLE"="Investida"
+
+"EVENTS_COIN_FARM_TITLE"="Fazenda de moedas"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="Invoque cartas exclusivas poderosas!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="Derrote todos os inimigos o mais rápido possível!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="Use a Fazenda para encher seu cofrinho!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="Complete {0} invocações e receba o {1} !"
+
+"DATA_WARNING_WINDOW_TITLE"="Jogo salvo detectado!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="Encontramos um jogo salvo diferente na sua conta. Você gostaria de usar o salvamento na nuvem ou manter o local?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="Conta detectada!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="A conta que você está tentando acessar já está vinculada a outro ID do Kingdom Rush Battles. Você gostaria de fazer login nesta conta mesmo assim? (a sessão atual será encerrada)"
+
+"LOGOUT_WINDOW_TITLE"="ATENÇÃO!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="Se você sair, o progresso neste dispositivo será redefinido; no entanto, os dados da sua conta permanecerão na nuvem.\nVocê gostaria de sair mesmo assim? (a sessão atual será encerrada)"
+
+"GAME_MSG_DEFEAT"="DERROTA!"
+
+"GAME_MSG_DRAW"="EMPATE!"
+
+"GAME_MSG_FINAL_WAVE"="Batalha de Chefe!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="SUBIR NÍVEL"
+
+"GAME_MSG_VERSUS"="contra"
+
+"GAME_MSG_VICTORY"="VITÓRIA!"
+
+"GAME_MSG_WAITING_OPPONENT"="Aguardando oponente"
+
+"GAME_MSG_WAVE_NUMBER"="Onda {0}"
+
+"GAME_MODIFIERS_TITLE"="ESCOLHA UM BOOSTER"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="SOBREVIVENTE"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="Sobreviva até a onda 4"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="CONQUISTADOR"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="Ganhe a partida"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="INDESTRUTÍVEL"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="Não perca um único coração"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="BLITZ"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="Ganhe antes da onda 4"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="DESAFIANTE"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="Alcance a onda final"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="MATADOR"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="Mate o chefe final"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="MAESTRIA"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="Vitória no Bootcamp!"
+
+"GAME_UPDATE_BUTTON"="ATUALIZAR"
+
+"GAME_UPDATE_DESCRIPTION"="Uma nova versão do jogo está disponível na loja."
+
+"GAME_UPDATE_TITLE"="ATUALIZAÇÃO DISPONÍVEL!"
+
+"MAINTENANCE_MODE_BUTTON"="SAIR"
+
+"MAINTENANCE_MODE_DESCRIPTION"="O jogo ficará fora do ar até que as atualizações sejam concluídas"
+
+"MAINTENANCE_MODE_TITLE"="MODO DE MANUTENÇÃO"
+
+"INITIALIZING"="INICIALIZANDO"
+
+"LOADING"="CARREGANDO"
+
+"SLOW_CONNECTION"="CONEXÃO LENTA"
+
+"LOADING_WAITING_OPPONENT"="AGUARDANDO OPONENTE"
+
+"LOADING_SYNC_PLAYERS"="SINCRONIZANDO JOGADORES"
+
+"MATCH_MAKING_TIP_1"="Inimigos com armadura física são fracos a magia, e vice-versa."
+
+"MATCH_MAKING_TIP_10"="Inimigos com uma moeda soltam ouro extra ao serem mortos."
+
+"MATCH_MAKING_TIP_2"="Coloque uma Artilharia perto de um Quartel para dano concentrado."
+
+"MATCH_MAKING_TIP_3"="Inimigos voadores não podem ser bloqueados; tente usar Torres de Arqueiros."
+
+"MATCH_MAKING_TIP_4"="As torres têm habilidades únicas no Nível de Upgrade 3."
+
+"MATCH_MAKING_TIP_5"="Escolha potenciadores que resistam às torres do seu oponente."
+
+"MATCH_MAKING_TIP_6"="Vender torres devolve uma porcentagem do seu custo."
+
+"MATCH_MAKING_TIP_7"="Verifique as informações da Arena para estatísticas e habilidades dos inimigos."
+
+"MATCH_MAKING_TIP_8"="Um baralho equilibrado deve incluir 1 de cada tipo de Torre."
+
+"MATCH_MAKING_TIP_9"="Termine as ondas mais rápido que seu oponente para ganhar ouro extra."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="Ganhe experiência de jogador para subir de nível seus boosters"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="Este inimigo surgirá do portal em diferentes estágios."
+
+"SEARCHING_FOR_OPPONENT"="Procurando\noponente..."
+
+"SURVEY_POPUP"="Seu feedback é inestimável para nós! Compartilhe seus pensamentos respondendo a uma rápida pesquisa (2 - 3 min). Suas respostas nos ajudarão a identificar áreas para melhoria e adicionar recursos para aprimorar o jogo e criar uma experiência mais envolvente para todos os jogadores."
+
+"TAB_BATTLE"="Batalha"
+
+"TAB_COLLECTION"="Coleção"
+
+"TAB_SHOP"="Loja"
+
+"TERRAIN_COLISEUM_NAME"="ESTÁDIO"
+
+"TERRAIN_COLISEUM_DESC"="Desafie-se contra outros jogadores neste Estádio ranqueado, lutando contra inimigos e fases anteriores para ganhar Medalhas.\nAgora é a sua vez de se tornar o melhor jogador de Battle Towers do mundo!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="Covil dos Bandidos"
+
+"TERRAIN_FOREST_1_NAME"="FLORESTA DE SILVEROAK"
+
+"TERRAIN_FOREST_2_NAME"="Floresta de Silveroak"
+
+"TERRAIN_FOREST_3_NAME"="Floresta de Silveroak"
+
+"TERRAIN_MOUNTAIN_1_NAME"="MONTANHAS TEMPESTUOSAS"
+
+"TERRAIN_MOUNTAIN_2_NAME"="Montanhas Tempestuosas"
+
+"TERRAIN_MOUNTAIN_3_NAME"="Montanhas Tempestuosas"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="COVIL DOS BANDIDOS"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="Covil dos Bandidos"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="Covil dos Bandidos"
+
+"TERRAIN_TRAINING_NAME"="Campo de Treinamento"
+
+"STAGE_TRAINING_1"="Campo de Treinamento"
+
+"STAGE_FOREST_1"="Porto Do Sul"
+
+"STAGE_FOREST_2"="Campos"
+
+"STAGE_FOREST_3"="Terras agrícolas"
+
+"STAGE_FOREST_4"="Arredores"
+
+"STAGE_FOREST_5"="Ribeira"
+
+"STAGE_MOUNTAIN_1"="Trilhas Congeladas"
+
+"STAGE_MOUNTAIN_2"="Picos Gêmeos"
+
+"STAGE_MOUNTAIN_3"="Ninho de Troll"
+
+"STAGE_MOUNTAIN_4"="Passagem Vento Gelado"
+
+"STAGE_MOUNTAIN_5"="Ravina Gelada"
+
+"STAGE_BANDITS_1"="Terras de Lama"
+
+"STAGE_BANDITS_2"="Acampamento Impiedoso"
+
+"STAGE_BANDITS_3"="Trilha da Víbora"
+
+"STAGE_BANDITS_4"="Travessia do Homem Morto"
+
+"STAGE_BANDITS_5"="Bosque Calado"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="Bem-vindo ao <color=#0DA7FF>Kingdom Rush Battles</color>! <br>Vamos aprender o básico..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="Hora de defender! Vamos <color=#0DA7FF>construir uma Torre</color> para parar esses Goblins selvagens antes que eles escapem!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="Bem feito! Você <color=#0DA7FF>ganhou algum Ouro</color> dos inimigos derrotados. Vamos usá-lo para construir outra torre."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="Cuidado! Inimigos estão passando! Se eles escaparem, você perderá vidas. <color=#0DA7FF>Melhore sua torre</color> para causar mais dano!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="Cuidado! Inimigos estão passando! Se eles escaparem, você <color=#0DA7FF>perderá vidas</color>."
+
+"NEW_TUTORIAL_1_MSG_HERO"="O <color=#0DA7FF>Herói</color> Gerald se junta à batalha! Arraste-o para mais perto dos inimigos para entrar em combate!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="Inimigos mais fortes estão chegando! Vamos <color=#0DA7FF>lançar um Feitiço!</color> Arraste para liberar uma Chuva de Fogo no campo de batalha!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="A batalha se estende acima! Enfrente outros generais - <color=#0DA7FF>o último de pé vence</color>. Boa sorte!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="Vamos lá!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="O oponente está <color=#0DA7FF>prestes a perder!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>Selecione um booster!</color> Eles podem fortalecer suas defesas ou tornar as ondas do seu oponente mais difíceis."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="Não deixe os inimigos escaparem! Construa uma torre para combatê-los!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="Um inimigo <color=#837272>blindado</color> surgiu de um portal! Construa um <color=#0DA7FF>Mago</color> para detê-los."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="Olha! Alguns dos <color=#0DA7FF>inimigos do oponente estão escapando!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="Construir Torres custa Ouro. Ganhe mais Ouro derrotando inimigos."
+
+"TUTORIAL_1_MSG_HERO"="O herói Gerald apareceu! Você pode movê-lo para enfrentar os inimigos que se aproximam."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="Seu oponente também construirá Torres para defender seu lado!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Lance 'Chuva de Fogo' para destruir este grupo de Goblins."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="Você tem um novo Feitiço disponível no seu arsenal"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="Você pode usar seu Ouro para melhorar suas Torres e torná-las mais fortes."
+
+"TUTORIAL_1_MSG_WELCOME"="Bem-vindo ao Kingdom Rush Battles! Vamos começar..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="Selecione este booster. Isso os forçará a lidar com um inimigo voador."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="Selecione 'Chamado do Dragão'. Isso os forçará a lidar com um inimigo voador."
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="O oponente está prestes a perder!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="Agora selecione um Booster de Defesa. Isso ajudará você a lidar com inimigos fortes."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="Selecione 'Torre Poderosa'. Isso ajudará você a lidar com inimigos fortes."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="Este inimigo tem <color=#837272>Armadura Física</color>, tornando-o resistente a danos físicos."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="Este inimigo tem <color=#0DA7FF>Armadura Mágica</color>. As armaduras mudam a cor da barra de saúde do inimigo."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="Construa um Mago para causar <color=#0DA7FF>dano mágico</color> e superar a armadura do inimigo."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="Novos inimigos podem ser muito difíceis. Vamos melhorar só para garantir!"
+
+"TUTORIAL_2_MSG_SKILL_1"="É hora de usar as habilidades da torre. Elas ajudam a lutar contra inimigos ou atacar seu oponente!"
+
+"TUTORIAL_2_MSG_SKILL_2"="Melhore os arqueiros para o nível máximo primeiro"
+
+"TUTORIAL_2_MSG_SKILL_3"="Compre a habilidade 'Tiros Carregados' para atacar as unidades do seu oponente"
+
+"TUTORIAL_2_MSG_WELCOME"="Vamos aprender como interagir com seu oponente."
+
+"TUTORIAL_METAGAME_DECK_01"="Você desbloqueou uma nova Torre! Vamos adicioná-la ao seu baralho."
+
+"TUTORIAL_METAGAME_DECK_02"="Vá conferir a seção de Torres!"
+
+"TUTORIAL_METAGAME_DECK_03"="Você desbloqueou uma nova Torre! Vamos adicioná-la ao seu baralho."
+
+"TUTORIAL_METAGAME_DECK_04"="Subir o nível de uma torre aumentará seu poder usando moedas e fragmentos."
+
+"TUTORIAL_METAGAME_DECK_05"="Agora para equipar os bárbaros no seu deck"
+
+"TUTORIAL_METAGAME_DECK_06"="Substitua a 'Torre dos Paladinos' pela 'Torre dos Bárbaros'"
+
+"TUTORIAL_METAGAME_DECK_07"="Tudo pronto! Agora, coloque o que aprendeu à prova."
+
+"TUTORIAL_METAGAME_CHEST_01"="Ganhe estrelas jogando partidas para desbloquear baús"
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="Você desbloqueou um novo Feitiço! Vamos adicioná-lo ao seu baralho."
+
+"FTUE_DIRECTIVE_01"="Mais 1 vitória para desbloquear um novo Feitiço!"
+
+"FTUE_DIRECTIVE_02"="Mais 1 vitória para desbloquear um novo Feitiço!"
+
+"FTUE_DIRECTIVE_03"="Mais 1 jogo para desbloquear os boosters!"
+
+"TITLE_USER_ACCESS"="ACESSO DO USUÁRIO"
+
+"TITLE_SOUND_SETTINGS"="MÚSICA E SFX"
+
+"TITLE_EXTERNAL"="EXTERNO"
+
+"TITLE_SETTINGS"="CONFIGURAÇÕES"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="MUDAR NOME"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="ESCOLHA SEU NOME"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 caracteres<br>Caracteres especiais não são permitidos"
+
+"ERROR_USERNAME_INVALID"="Nome inválido"
+
+"ERROR_USERNAME_INAPPROPIATE"="Nome não permitido"
+
+"ERROR_USERNAME_UNCHANGED"="Esse já é o seu nome"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="RECOMPENSAS BLOQUEADAS"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="Desbloqueie ciclo para continuar ganhando"
+
+"CHEST_YOUR_GOLD"="Moedas"
+
+"SHOP_GOLD"="Ouro"
+
+"CHEST_YOUR_STARS"="ESTRELAS"
+
+"YOUR_GEM"="Gemas"
+
+"CHEST_RESOURCE_CARD"="Recurso"
+
+"CHEST_GOLD"="MOEDAS"
+
+"CHEST_STAR"="ESTRELAS"
+
+"CHEST_YOUR_REWARD"="Suas Recompensas"
+
+"CHEST_COMMON_TOWER"="Torre Comum"
+
+"CHEST_EPIC_TOWER"="Torre Épica"
+
+"CHEST_RARE_TOWER"="Torre Rara"
+
+"CHEST_LEGENDARY_TOWER"="Torre Lendária"
+
+"CHEST_COMMON_HERO"="Herói Comum"
+
+"CHEST_EPIC_HERO"="Herói Épico"
+
+"CHEST_RARE_HERO"="Herói Raro"
+
+"CHEST_LEGENDARY_HERO"="Herói Lendário"
+
+"CHEST_COMMON_SPELL"="Feitiço Comum"
+
+"CHEST_EPIC_SPELL"="Feitiço Épico"
+
+"CHEST_RARE_SPELL"="Feitiço raro"
+
+"CHEST_LEGENDARY_SPELL"="Feitiço Lendário"
+
+"CHEST_NEW_CARD"="NOVO!"
+
+"CHEST_INFO_NAME_GOLD"="Baú de Ouro"
+
+"CHEST_INFO_NAME_SILVER"="Baú de Madeira"
+
+"CHEST_INFO_NAME_MAGICAL"="Baú Mágico"
+
+"CHEST_INFO_NAME_BRAVERY"="Baú de Batalha"
+
+"CHEST_INFO_NAME_LEVEL_UP"="Baú de Subir Nível"
+
+"CHEST_INFO_CONTAINS_TITLE"="Contém pelo menos:"
+
+"CHEST_INFO_CONTAINS_RARES"="Raros"
+
+"CHEST_INFO_CONTAINS_EPICS"="Épicos"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="Lendários"
+
+"CHEST_INFO_CONTAINS_RARE"="Raro"
+
+"CHEST_INFO_CONTAINS_EPIC"="Épico"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="Lendário"
+
+"CHEST_INFO_CLAIM_BUTTON"="Abrir!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="BLOQUEADO"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="Cartas Comuns"
+
+"CHEST_INFO_CLAIM"="Pegar!"
+
+"CHEST_INFO_UNLOCK_NOW"="Desbloquear agora"
+
+"CHEST_INFO_EXTRA_TITLE"="Chance de:"
+
+"CHEST_TOOLTIP_CLAIM"="PEGA!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="Escolha sua recompensa"
+
+"TROPHY_REWARD_SCREEN_TITLE"="."
+
+"XP_LEVEL_UP_TITLE"="NOVO NÍVEL"
+
+"XP_LEVEL_UP_BOOSTER"="Booster"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="Subir de nível"
+
+"XP_LEVEL_UP_LVL"="Niv"
+
+"DECK_MAX_LEVEL"="MÁX"
+
+"PROGRESS_BAR_MAX"="MÁX"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="Niv"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="Booster melhorado! Melhore seus modificadores de jogo"
+
+"WELCOME_SCREEN_LOG_TEXT"="• Banner de invocação de Elora encerrado\n• Nova carta de invocação: Arqueiros Crepusculares!\nCorreções de bugs\n• Corrigido um bug em que os benefícios de aumento de dano para unidades não eram aplicados em todos os casos.\n• Corrigidos vários benefícios que estavam afetando incorretamente unidades e torres que não deveriam afetar.\n• Artilharia: Corrigido um problema em que os preços das habilidades de nível 3 estavam trocados incorretamente.\nJogabilidade\n• Adicionado um novo chefe, o Gigante, no estágio Vale dos Renegados.\nEquilíbrio\n• Fragmento de Magma / Elemental de Magma: A duração da fase de rocha foi aumentada para 12 segundos.\n• Cavaleiros Foguete:\n   • Vida reduzida em 25%.\n   • Sua habilidade de corrida agora só será ativada quando estiverem a 5 casas da saída (aumentado de 3).\n   • Agora podem ser polimorfizados.\n• Arqueiro das Sombras: Dano à distância reduzido em 30%.\nArenas dos Renegados: O escalonamento de cartas de criaturas e bots foi reduzido a partir do Vale dos Renegados."
+
+"WELCOME_SCREEN_TITLE_TEXT"="Novidades"
+
+"SHOP_SCREEN_PLACEHOLDER"="EM BREVE"
+
+"SHOP_ROYAL_GOLD_CHEST"="Baú do Rei"
+
+"SHOP_ROYAL_SILVER_CHEST"="Baú do Capitão"
+
+"SHOP_ROYAL_BRONZE_CHEST"="Baú do Soldado"
+
+"SHOP_GEMS_SLOT_1"="Punhado de Gemas"
+
+"SHOP_GEMS_SLOT_2"="Pilha de Gemas"
+
+"SHOP_GEMS_SLOT_3"="Bolsa de Gemas"
+
+"SHOP_GEMS_SLOT_4"="Barril de Gemas"
+
+"SHOP_GEMS_SLOT_5"="Cofre-forte de Gemas"
+
+"SHOP_GEMS_SLOT_6"="Montanha de Gemas"
+
+"SHOP_GOLD_SLOT_1"="Punhado de Moedas"
+
+"SHOP_GOLD_SLOT_2"="Bolsa de Moedas"
+
+"SHOP_GOLD_SLOT_3"="Cofre-forte de Moedas"
+
+"SHOP_SPECIAL_OFFER"="Oferta Especial"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Ofertas Especiais"
+
+"SHOP_STARTER_PACK_TITLE"="Pacote Inicial"
+
+"SHOP_GOLD_TITLE"="Moedas"
+
+"SHOP_GEMS_TITLE"="Gemas"
+
+"SHOP_CHESTS_TITLE"="Baús"
+
+"SHOP_FIRST_PURCHASE"="1ª compra"
+
+"SHOP_PURCHASED"="Comprado"
+
+"SHOP_CLAIMED"="Reivindicado"
+
+"SHOP_VALUE"="Valor"
+
+"SHOP_DAILY_LOCKED"="Desbloqueia na Arena"
+
+"SHOP_FOREST_ARENA_PACK"="Pacote Silveroak"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="Pacote Tempestade"
+
+"SHOP_BANDITS_ARENA_PACK"="Pacote de Bandidos"
+
+"SHOP_COLISEUM_ARENA_PACK"="Pacote de Estádio"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="Pacote Abandonado"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 estrelas"
+
+"RATE_US_BUTTON_5_STARS"="5 estrelas"
+
+"RATE_US_TITLE"="Avaliar Jogo"
+
+"RATE_US_DESC"="Se você está gostando de Kingdom Rush Battles, reserve um momento para avaliar o jogo."
+
+"RATE_US_DESC_2"="Obrigado pelo seu apoio"
+
+"RATE_US_OPINION_BUTTON_SEND"="Enviar"
+
+"RATE_US_OPINION_REVIEW"="Escrever feedback..."
+
+"RATE_US_OPINION_TITLE"="Dê-nos a sua opinião"
+
+"RATE_US_OPINION_SENT"="Seu feedback foi enviado"
+
+"TROPHY_INFO_BOOSTERS"="Boosters  "
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="Boosters de Ataque"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="Boosters de Defesa"
+
+"FOREST_STAGE_1"="Floresta 1"
+
+"FOREST_STAGE_2"="Floresta 2"
+
+"FOREST_STAGE_3"="Floresta 3"
+
+"FOREST_STAGE_4"="Floresta 4"
+
+"FOREST_STAGE_5"="Floresta 5"
+
+"MOUNTAIN_STAGE_1"="Montanha 1"
+
+"MOUNTAIN_STAGE_2"="Montanha 2"
+
+"MOUNTAIN_STAGE_3"="Montanha 3"
+
+"MOUNTAIN_STAGE_4"="Montanha 4"
+
+"MOUNTAIN_STAGE_5"="Montanha 5"
+
+"BANDITS_LAIR_1"="Covil dos Bandidos 1"
+
+"BANDITS_LAIR_2"="Covil dos Bandidos 2"
+
+"BANDITS_LAIR_3"="Covil dos Bandidos 3"
+
+"BANDITS_LAIR_4"="Covil dos Bandidos 4"
+
+"BANDITS_LAIR_5"="Covil dos Bandidos 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="Nenhum"
+
+"LEADERBOARD_TITLE"="PLACAR"
+
+"LEADERBOARD_BUTTON"="Classificação"
+
+"LEADERBOARD_TAB_GLOBAL"="Global"
+
+"LEADERBOARD_TAB_LOCAL"="Local"
+
+"LEADERBOARD_USER_NOT_RANKED"="Alcance o Estádio para classificar"
+
+"SPECIAL_BUTTON_NAME"="Arsenal Desbloqueado"
+
+"SELL_TOWER_TITLE"="Vender Torre"
+
+"SELL_TOWER_DESCRIPTION"="Venda esta torre e receba um reembolso de {0} ouro."
+
+"BANDITS_LAIR_STAGE_1"="Covil dos Bandidos 1"
+
+"BANDITS_LAIR_STAGE_2"="Covil dos Bandidos 2"
+
+"BANDITS_LAIR_STAGE_3"="Covil dos Bandidos 3"
+
+"BANDITS_LAIR_STAGE_4"="Covil dos Bandidos 4"
+
+"BANDITS_LAIR_STAGE_5"="Covil dos Bandidos 5"
+
+"TAUNT_THANKS"="Obrigado!"
+
+"TAUNT_GOOD_LUCK"="Boa Sorte"
+
+"TAUNT_OOPS"="Ops..."
+
+"TAUNT_WELL_PLAYED"="Bem Jogado"
+
+"UNMUTE_TO_SEND_EMOTES"="Desativar mudo para enviar e receber emoticons"
+
+"BANDITS_LAIR_STAGE_1"="Covil dos Bandidos 1"
+
+"BANDITS_LAIR_STAGE_2"="Covil dos Bandidos 2"
+
+"BANDITS_LAIR_STAGE_3"="Covil dos Bandidos 3"
+
+"BANDITS_LAIR_STAGE_4"="Covil dos Bandidos 4"
+
+"BANDITS_LAIR_STAGE_5"="Covil dos Bandidos 5"
+
+"TAUNT_THANKS"="Obrigado!"
+
+"TAUNT_GOOD_LUCK"="Boa sorte!"
+
+"TAUNT_OOPS"="Opa..."
+
+"TAUNT_WELL_PLAYED"="Bem Jogado"
+
+"UNMUTE_TO_SEND_EMOTES"="Desativar mudo para enviar e receber emoticons"
+
+"FOREST_STAGE_1"="Floresta 1"
+
+"FOREST_STAGE_2"="Floresta 2"
+
+"FOREST_STAGE_3"="Floresta 3"
+
+"FOREST_STAGE_4"="Floresta 4"
+
+"FOREST_STAGE_5"="Floresta 5"
+
+"MOUNTAIN_STAGE_1"="Montanha 1"
+
+"MOUNTAIN_STAGE_2"="Montanha 2"
+
+"MOUNTAIN_STAGE_3"="Montanha 3"
+
+"MOUNTAIN_STAGE_4"="Montanha 4"
+
+"MOUNTAIN_STAGE_5"="Montanha 5"
+
+"BANDITS_LAIR_1"="Covil dos Bandidos 1"
+
+"BANDITS_LAIR_2"="Covil dos Bandidos 2"
+
+"BANDITS_LAIR_3"="Covil dos Bandidos 3"
+
+"BANDITS_LAIR_4"="Covil dos Bandidos 4"
+
+"BANDITS_LAIR_5"="Covil dos Bandidos 5"
+
+"BANDITS_LAIR_STAGE_1"="Covil dos Bandidos 1"
+
+"BANDITS_LAIR_STAGE_2"="Covil dos Bandidos 2"
+
+"BANDITS_LAIR_STAGE_3"="Covil dos Bandidos 3"
+
+"BANDITS_LAIR_STAGE_4"="Covil dos Bandidos 4"
+
+"BANDITS_LAIR_STAGE_5"="Covil dos Bandidos 5"
+
+"HERO_GERALD_DESCRIPTION"="Herói de Linirea e símbolo de justiça, ele enfrentou ameaças tanto deste mundo quanto de além. Vinculado por um juramento solene, ele é sempre o primeiro a entrar na batalha e o último a recuar, movido por seu dever de proteger os inocentes e defender os fracos a qualquer custo."
+
+"HERO_GERALD_SHORT_DESC"="-Restaura HP quando está baixo.<br>-Fortalece aliados.<br>-Chance de refletir dano."
+
+"HERO_GERALD_NAME"="Gerald Buscador da Luz"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="Quando sua saúde cai perigosamente, ele usa seu poder sagrado para restaurar parte de sua saúde."
+
+"HERO_GERALD_SKILL_0_NAME"="Oração Divina"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="Como Herói de Linirea, sua coragem inabalável irradia para aliados próximos, aumentando periodicamente sua saúde e dano por um curto período."
+
+"HERO_GERALD_SKILL_1_NAME"="Coragem"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="Enquanto luta, ele pode levantar seu escudo por alguns segundos, refletindo brevemente todo o dano recebido de volta aos atacantes."
+
+"HERO_GERALD_SKILL_2_NAME"="Escudo de Retaliação"
+
+"HERO_ALLERIA_DESCRIPTION"="Filha da Rainha Élfica e herdeira de um legado atemporal, Alleria também é uma arqueira ágil e encantadora. Com seu companheiro Wildcat ao lado, eles derrubam inimigos antes mesmo que eles possam mirar. Sua graça na batalha é rivalizada apenas por sua devoção inabalável à natureza."
+
+"HERO_ALLERIA_SHORT_DESC"="-Dispara várias flechas ao mesmo tempo.<br>-Invoca Gato Selvagem.<br>-Chance de se teletransportar quando atingido."
+
+"HERO_ALLERIA_NAME"="Alleria Ventoveloz"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="Carregando sua magia no arco, ela libera uma rajada de flechas mágicas. Estas podem se dispersar para atingir vários inimigos ou se concentrar para dar um golpe poderoso em um único alvo."
+
+"HERO_ALLERIA_SKILL_0_NAME"="Disparo múltiplo"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="Invoca seu leal companheiro Gato Selvagem para lutar ao seu lado, saltando para a batalha com velocidade feroz e garras prontas para defender seu mestre e amigo."
+
+"HERO_ALLERIA_SKILL_1_NAME"="Chamado da Selva"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="Em combate corpo a corpo, ela pode recuar estrategicamente para uma distância segura, evitando o perigo e reposicionando-se para atacar à distância."
+
+"HERO_ALLERIA_SKILL_2_NAME"="Esquiva Rápida"
+
+"HERO_GRAWL_DESCRIPTION"="Protetor dos segredos subterrâneos, empunhando seus punhos e cristais forjados dentro de seu corpo, ele se ergue como a última barreira contra o império subterrâneo mais implacável. Incansável e imóvel, ele luta para manter sua escuridão selada longe do mundo acima."
+
+"HERO_GRAWL_SHORT_DESC"="-Bate no chão para atordoar os inimigos.<br>-Lança uma pedra em inimigos distantes.<br>-Acerta com um soco forte de fragmento."
+
+"HERO_GRAWL_NAME"="Pedreira"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="Golpeia o chão com força devastadora, atordoando e danificando todos os inimigos próximos."
+
+"HERO_GRAWL_SKILL_0_NAME"="Pisão"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="Arranca uma enorme rocha da terra e a arremessa em um alvo distante, causando grande dano e ferindo inimigos próximos com a onda de choque resultante."
+
+"HERO_GRAWL_SKILL_1_NAME"="Lança-Rochas"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="Cobre seus punhos com fragmentos de cristal afiados como navalhas, desferindo um golpe devastador que causa dano massivo e pode obliterar instantaneamente os inimigos."
+
+"HERO_GRAWL_SKILL_2_NAME"="Soco-Estilhaço"
+
+"HERO_INGVAR_DESCRIPTION"="Um dos guerreiros mais formidáveis da Tribo do Urso, ele é reverenciado não apenas por sua força bruta, mas também por seu profundo vínculo espiritual com seus ancestrais. Quando o chamado da guerra ecoa pela terra, Ingvar responde com a fúria do norte."
+
+"HERO_INGVAR_SHORT_DESC"="-Gira com o machado para causar dano em uma área.<br>-Invoca os Ancestrais Vikings para lutar.<br>-Transforma-se em forma de urso quando o HP está baixo."
+
+"HERO_INGVAR_NAME"="Ingvar Garra-de-urso"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="Desencadeia um poderoso golpe giratório com seu machado, causando dano a todos os inimigos ao seu redor."
+
+"HERO_INGVAR_SKILL_0_NAME"="Fúria Viking"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="Sopra uma trompa de guerra sagrada, convocando os espíritos espectrais de seus ancestrais vikings para se juntarem a ele na batalha."
+
+"HERO_INGVAR_SKILL_1_NAME"="Chamado do Ancestral"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="Quando sua saúde está baixa, Ingvar acessa a força primal de sua linhagem. Transformando-se em um urso massivo, ele se torna temporariamente invulnerável, ganha força aumentada e regenera saúde rapidamente"
+
+"HERO_INGVAR_SKILL_2_NAME"="Forma de Urso"
+
+"HERO_DIERDRE_DESCRIPTION"="Resgatada por Aegion após a queda de sua cidade, ela foi forjada através da fé e disciplina sagrada, surgindo como a primeira verdadeira sacerdotisa de linha de frente. Arriscando sua vida para proteger seus aliados onde outros caem, ela se tornou uma luz radiante na hora mais sombria."
+
+"HERO_DIERDRE_SHORT_DESC"="-Cura aliados próximos.<br>-Concede dano extra a até 2 Torres.<br>-Concede armadura extra a ela mesma e aos aliados."
+
+"HERO_DIERDRE_NAME"="Dierdre"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="Usa magia sagrada para lançar um feitiço de cura, restaurando a saúde dos aliados próximos."
+
+"HERO_DIERDRE_SKILL_0_NAME"="Luz Divina"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="Encanta torres próximas com poder sagrado, aumentando seu dano."
+
+"HERO_DIERDRE_SKILL_1_NAME"="Consagração"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="Abençoa a armadura dos aliados próximos, incluindo ela mesma, aumentando sua armadura física por alguns segundos."
+
+"HERO_DIERDRE_SKILL_2_NAME"="Armadura Divina"
+
+"HERO_ASHBITE_DESCRIPTION"="Um poderoso e feroz dragão de fogo, Cinzas derrete qualquer um que ouse ficar em seu caminho. Não se sabe por que ele protege Linirea - alguns sussurram que é por tédio, outros dizem que é sua sede de combate. Seja qual for a razão, quando ele voa para a batalha, as chamas o seguem."
+
+"HERO_ASHBITE_SHORT_DESC"="-Cospe um sopro que causa dano em uma área.<br>-Morde um inimigo com chance de morte instantânea.<br>-Lança uma bola de fogo explosiva."
+
+"HERO_ASHBITE_NAME"="Mordecinzas"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="Desencadeia uma torrente de fogo ardente sobre um inimigo à frente, causando dano contínuo a todos os inimigos pegos em seu caminho flamejante."
+
+"HERO_ASHBITE_SKILL_0_NAME"="Bafo Flamejante"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="Mergulha em um único alvo com uma mordida devastadora, causando dano e com a chance de devorar instantaneamente o inimigo."
+
+"HERO_ASHBITE_SKILL_1_NAME"="Abocanhar"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="Lança uma bola de fogo massiva em um alvo distante. Ao impactar, explode e desencadeia uma série de explosões secundárias, causando grande dano em área."
+
+"HERO_ASHBITE_SKILL_2_NAME"="Rajada Fogaréu"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="Cria uma chuva de meteoros que cai sobre a unidade de um oponente, incendiando o solo e queimando todas as outras unidades próximas."
+
+"HERO_ASHBITE_SKILL_3_NAME"="Meteoros Escaldantes"
+
+"HERO_ASHBITE_PACK_NAME"="Pacote Veterano"
+
+"HERO_MAGNUS_DESCRIPTION"="Antigo aprendiz promissor do infame Vez’nan, ele se juntou ao exército do Reino após seu mestre sucumbir ao lado sombrio. Agora, como um poderoso defensor de Linirea, Magnus domina magia arcana avançada e ilusões com precisão incomparável, seu vasto conhecimento só sendo superado por sua habilidade em combate."
+
+"HERO_MAGNUS_SHORT_DESC"="-Cria sombras clones de si mesmo.<br>-Invoca uma tempestade que causa dano em uma área.<br>-Pode se teletransportar a longas distâncias."
+
+"HERO_MAGNUS_NAME"="Magnus Magister"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="Aproveita a energia arcana avançada para se realocar instantaneamente a grandes distâncias."
+
+"HERO_MAGNUS_SKILL_0_NAME"="Teleporte"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="Como mestre da magia arcana, ele conjura ilusões temporárias de si mesmo para ajudá-lo na batalha."
+
+"HERO_MAGNUS_SKILL_1_NAME"="Miragem"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="Libera uma explosão devastadora de energia arcana em uma ampla área, atingindo todos os inimigos dentro da zona várias vezes."
+
+"HERO_MAGNUS_SKILL_2_NAME"="Tempestade Arcana"
+
+"HERO_HACKSAW_DESCRIPTION"="Um renomado inventor gnomo, Serra percorre o mundo dentro de um mecha personalizado de sua própria criação, armado com uma variedade de dispositivos mortais. Cada nova batalha é tanto um perigo quanto uma oportunidade - apenas combustível para sua próxima invenção."
+
+"HERO_HACKSAW_SHORT_DESC"="-Lança uma lâmina que causa dano aos inimigos.<br>-Perfura um inimigo com chance de morte instantânea.<br>-Coloca uma serra giratória no chão."
+
+"HERO_HACKSAW_NAME"="Tecnomo"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="Coloca uma lâmina de serra no chão. Inimigos pegos na área sofrem dano enquanto a serra estiver ativa."
+
+"HERO_HACKSAW_SKILL_0_NAME"="Serraria"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="Libera um braço perfurador oculto para desferir um golpe poderoso em um inimigo com chance de matá-lo instantaneamente."
+
+"HERO_HACKSAW_SKILL_1_NAME"="MADEIRA!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="Lança uma lâmina que ricocheteia entre vários inimigos, cortando cada um e causando dano a cada golpe."
+
+"HERO_HACKSAW_SKILL_2_NAME"="Lâmina Voadora"
+
+"HERO_VESPER_DESCRIPTION"="Escolhido como comandante das forças restantes na hora mais sombria de Linirea, Véspera transformou o desespero em desafio. Ele usa táticas de guerrilha para liderar ataques precisos contra invasores, tornando-se uma inspiração para novas gerações de heróis."
+
+"HERO_VESPER_SHORT_DESC"="-Dispara uma flecha que atordoa um inimigo.<br>-Dispara uma flecha que ricocheteia.<br>-Ataca um inimigo três vezes consecutivas."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-Dispara uma flecha que atordoa um inimigo.<br>-Dispara uma flecha que ricocheteia.<br>-Ataca um inimigo três vezes consecutivas."
+
+"HERO_VESPER_NAME"="Vesper"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="Dispara uma flecha bem colocada que causa dano e atordoa um único inimigo."
+
+"HERO_VESPER_SKILL_0_NAME"="Flecha no joelho"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="Dispara uma flecha que ricocheteia entre inimigos, causando dano a cada acerto. Requer três alvos para ativar."
+
+"HERO_VESPER_SKILL_1_NAME"="Ricochete"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="Desencadeia uma rajada de três golpes rápidos corpo a corpo em um único inimigo, cada golpe aumenta o dano total causado."
+
+"HERO_VESPER_SKILL_2_NAME"="Floreio Marcial"
+
+"HERO_AEGION_DESCRIPTION"="O capitão solitário que se manteve firme contra a queda da cidade dos Paladinos, liderou seu esquadrão através de ondas implacáveis de inimigos, abrindo um caminho seguro e salvando cidades próximas da Escuridão. Após uma batalha brutal, ele se aposentou, retornando apenas quando uma ameaça surge dentro do Reino."
+
+"HERO_AEGION_SHORT_DESC"="-Empurra inimigos com seu escudo.<br>-Projeta um escudo que bloqueia inimigos.<br>-Usa seu escudo para atirar em inimigos voadores."
+
+"HERO_AEGION_NAME"="Aegion Aço Brilhante"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="Funde seu escudo com poder sagrado para iluminar seu escudo, atingindo inimigos e teleportando-os para trás."
+
+"HERO_AEGION_SKILL_0_NAME"="Escudo Sagrado"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="Gera uma projeção de escudo que bloqueia ataques inimigos por alguns segundos, refletindo qualquer dano recebido de volta ao atacante."
+
+"HERO_AEGION_SKILL_1_NAME"="Escudo Pesado"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="A cada poucos segundos, dispara um feixe focado de seu escudo em direção a um inimigo voador."
+
+"HERO_AEGION_SKILL_2_NAME"="Escudo de Ataque Aéreo"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="Conhecida por seu comportamento frio e magia poderosa, Elora é a feiticeira mais temida das terras do norte. Durante anos, ela enfrentou sozinha os invasores, deixando para trás esculturas de gelo assombradas - avisos silenciosos para todos que ousam desafiá-la."
+
+"HERO_ELORA_SHORT_DESC"="-Deixa um rastro que causa dano ao se mover.<br>-Lança um feitiço congelante com alto dano em área.<br>-Diminui a velocidade dos inimigos em uma área."
+
+"HERO_ELORA_NAME"="Elora Invernal"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="Canaliza sua magia para se mover rapidamente, deixando um rastro de afiados pingentes de gelo que danificam os inimigos que seguem."
+
+"HERO_ELORA_SKILL_0_NAME"="Trilha Congelada"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="Libera uma poderosa magia que envolve uma área em gelo, diminuindo drasticamente o movimento inimigo."
+
+"HERO_ELORA_SKILL_1_NAME"="Permafrost"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="Lança um feitiço feroz e penetrante que faz chover fragmentos de gelo mortais em uma ampla área."
+
+"HERO_ELORA_SKILL_2_NAME"="Tempestade de Gelo"
+
+"HERO_EISKALT_DESCRIPTION"="Um perigoso wyvern de gelo, movido por um forte instinto de caça aos humanos. Sua mera presença é uma força da natureza e um desastre natural por si só. Onde quer que ele desça, a terra inevitavelmente se transforma em um vasto deserto glacial."
+
+"HERO_EISKALT_SHORT_DESC"="-Lança bolas de neve espinhosas.<br>-Cria picos de gelo danosos no chão.<br>-Diminui a velocidade dos inimigos."
+
+"HERO_EISKALT_NAME"="Gélido"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="Lança uma bola de neve espinhosa que percorre o caminho, causando dano aos inimigos."
+
+"HERO_EISKALT_SKILL_0_NAME"="Avalanche"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="Lança um feitiço para invocar espinhos de gelo afiados do chão que se espalham, perfurando e danificando os inimigos pegos dentro."
+
+"HERO_EISKALT_SKILL_1_NAME"="Pico de Gelo"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="Congela o chão abaixo dos inimigos, reduzindo drasticamente sua velocidade de movimento por alguns segundos."
+
+"HERO_EISKALT_SKILL_2_NAME"="Sopro de Gelo"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="Cria uma tempestade glacial que congela no lugar todas as unidades inimigas, atordoando-as por alguns segundos."
+
+"HERO_EISKALT_SKILL_3_NAME"="Tempestade Glacial"
+
+"TOWER_ARCHER_DESCRIPTION"="Arqueiros de elite em treinamento, renomados por sua precisão e olho aguçado para vulnerabilidades inimigas. Mesmo inimigos blindados não estão seguros - cada tiro pode penetrar profundamente, deixando os alvos perigosamente feridos."
+
+"TOWER_ARCHER_NAME"="Torre Arqueira"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="Cada ataque tem uma chance de fazer o inimigo sangrar, causando dano ao longo do tempo.\n(Habilidade sempre ativa)"
+
+"TOWER_ARCHER_SHORT_DESC"="Aprendizes de arqueiros com a habilidade de fazer inimigos sangrarem"
+
+"TOWER_ARCHER_SKILL_0_NAME"="Sangrar"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="Desencadeia uma chuva de flechas que cai em uma área próxima, causando dano físico a todos os inimigos pegos dentro.\n(Compre a habilidade na atualização máxima da torre)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="Chove flechas em uma área, danificando todos os inimigos atingidos."
+
+"TOWER_ARCHER_SKILL_1_NAME"="Chuva de Flechas"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="Ambos arqueiros carregam seus arcos para disparar um ataque poderoso em duas unidades oponentes.\n(Comprar habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="Flechas poderosas atingem duas unidades inimigas."
+
+"TOWER_ARCHER_SKILL_2_NAME"="Disparos Carregados"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="Reconhecidos até mesmo pelos elfos veteranos por suas habilidades com o arco, esses mestres arqueiros atacam de longe enquanto lançam saraivadas devastadoras. Sendo mestres da natureza, eles usam a própria floresta para atrapalhar e ferir seus inimigos."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="Veteranos guardas que comandam a natureza para prender inimigos."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="Esconderijo dos patrulheiros"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="Enquanto atacam, podem usar uma flecha especial que faz com que vinhas surjam do chão, prendendo o inimigo no lugar por alguns segundos. \n(Habilidade sempre ativa)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="Cipós da Floresta"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="Os guardas disparam ondas de flechas tóxicas em todos os inimigos próximos, envenenando-os e causando dano ao longo do tempo. \n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="Lança flechas venenosas que envenenam os inimigos e causam dano ao longo do tempo."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="Flecha Venenosa"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="Usando seu domínio da natureza, o ranger dispara uma flecha encantada para o lado do oponente, convocando uma matilha de Entes Lobos. Ágeis e elusivos, essas criaturas desviam de ataques corpo a corpo enquanto tentam se infiltrar entre as linhas inimigas.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="Invoca um grupo de Ents Lobos no lado do oponente."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="Defensores Verdes"
+
+"TOWER_MAGE_DESCRIPTION"="A linha de frente do reino na defesa mágica, esses aprendizes de magos usam feitiços elementais para concentrar sua mana. Sua magia é volátil e explosiva, e especialmente perigosa para inimigos que tentam passar despercebidos."
+
+"TOWER_MAGE_SHORT_DESC"="Um Mago cujos projéteis mágicos se dividem após atingir um inimigo."
+
+"TOWER_MAGE_NAME"="Torre Mágica"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="Sempre que um raio sobrecarregado atinge um inimigo, a energia excedente faz com que ele se divida em raios adicionais, atingindo inimigos próximos com dano reduzido.\n(Habilidade sempre ativa)"
+
+"TOWER_MAGE_SKILL_0_NAME"="Raio em Cadeia"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="O mago canaliza mana armazenado em uma barragem concentrada de explosões de raios mágicos, causando grande dano a vários inimigos próximos.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="Desencadeia uma barragem mágica que causa dano a vários inimigos próximos."
+
+"TOWER_MAGE_SKILL_1_NAME"="Rajada de Feitiços"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="O mago usa seu cajado para lançar um encantamento protetor em um grupo de unidades inimigas no lado do oponente, concedendo-lhes resistência a danos mágicos.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="Protege alguns inimigos do oponente de dano mágico."
+
+"TOWER_MAGE_SKILL_2_NAME"="Encantamento"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="Tendo alcançado o auge da maestria Arcana, esses poderosos magos podem remodelar a própria realidade. Usando seu vasto conhecimento mágico, eles podem enfraquecer, deslocar ou aniquilar completamente qualquer inimigo que ouse desafiar seu domínio."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="Mestre da magia arcana com o poder de enfraquecer a resistência mágica inimiga."
+
+"TOWER_ARCANE_WIZARD_NAME"="Feiticeiros arcanos"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="Cada ataque tem a chance de conjurar uma aura anti-magia, reduzindo a resistência mágica dos inimigos afetados.\n(Habilidade sempre ativa)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="Ruptura Mágica"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="Através de sua profunda compreensão da magia, o mago cria um círculo que distorce a realidade e teletransporta um grupo de inimigos para trás ao longo de seu caminho.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="Teletransporta vários inimigos para trás"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="Teleporte"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="O Mago Arcano concentra imensa mana para liberar um único e devastador feixe, desintegrando instantaneamente um inimigo.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="Mata instantaneamente qualquer inimigo que alveja."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="Raio Letal"
+
+"TOWER_ARTILLERY_DESCRIPTION"="O produto final da metalurgia anã, esta artilharia pesada é forjada a partir das ligas mais fortes e alimentada por munições devastadoras. Com uma variedade de projéteis especializados, pode aniquilar forças inimigas - mesmo aquelas além de seu alcance."
+
+"TOWER_ARTILLERY_SHORT_DESC"="Artilharia pesada capaz de lançar projéteis de fragmentação explosivos."
+
+"TOWER_ARTILLERY_NAME"="Artilharia Anã"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="Tem uma chance de disparar um projétil de fragmentação que detona no ar, soltando várias bombas menores que se espalham e bombardeiam a área.\n(Habilidade sempre ativa)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="Grupo"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="Lança um míssil guiado que persegue um alvo, detonando ao contato e causando dano em uma área ao redor. Também pode mirar em inimigos voadores.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="Dispara um míssil teleguiado que explode, causando dano aos inimigos em uma área."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="Lança-mísseis"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="Mira e dispara um míssil de alto impacto em direção às unidades oponentes. A explosão libera uma onda de choque que atordoa temporariamente as torres oponentes próximas.\n(Comprar habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="Lança um míssil para o lado do oponente que causa dano e atordoa torres."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="Míssil T.A.R"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="Originalmente construído para perfurar as rochas mais profundas, este poderoso perfurador de mineração anão foi reformado em uma formidável arma defensiva. Ele treme o chão, causando dano e atordoando unidades e estruturas inimigas."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="Uma broca anã atordoa os inimigos a cada golpe."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="Cada ataque estilhaça o chão ao redor da torre, atordoando brevemente todos os inimigos próximos.\n(Habilidade sempre ativa)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="Choque e Pavor"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="Libera todo o poder da broca para romper o terreno, desencadeando uma onda de lava derretida que queima todos os inimigos próximos e deixa o solo queimado que continua a causar dano ao longo do tempo.\n(Comprar habilidade na atualização máxima da torre)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="Queima os inimigos ao redor e enche o chão de magma."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="Fornalha"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="Ao localizar as localizações das torres inimigas, desencadeia um choque sísmico direcionado que fratura o solo sob as torres oponentes, atordoando-as por um curto período.\n(Comprar habilidade na Atualização Máxima da Torre)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="Atordoa algumas torres inimigas causando tremores localizados."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="Terremoto"
+
+"TOWER_BARRACK_DESCRIPTION"="Frequentemente chamados de guardiões sagrados, eles são os escudos e protetores dos cidadãos. Esses poderosos cavaleiros são conhecidos por sua fé inabalável e bravura diante de inimigos fortes."
+
+"TOWER_BARRACK_SHORT_DESC"="Paladinos que se protegem com convicção sagrada."
+
+"TOWER_BARRACK_NAME"="Quartel de Paladinos"
+
+"BARRACK_UNIT_NAME"="Paladino"
+
+"BARRACK_UNIT_SHORT_DESC"="Guerreiro blindado abençoado com resiliência divina."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="No calor da batalha, os Paladinos podem erguer seus escudos com propósito divino, desviando uma parte do dano recebido.\n(Habilidade sempre ativa)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="Vontade de Ferro"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="Potencializado pela luz sagrada, o Paladino golpeia sua espada no chão, criando uma explosão de energia radiante que danifica todos os inimigos ao seu redor.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="Libera uma explosão de energia sagrada, causando dano aos inimigos próximos."
+
+"TOWER_BARRACK_SKILL_1_NAME"="Golpe Santo"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="Ao enfrentar probabilidades difíceis, o Paladino invoca a graça divina para curar uma parte de suas feridas, restaurando saúde através da magia sagrada.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="Restaura a saúde usando energia sagrada."
+
+"TOWER_BARRACK_SKILL_2_NAME"="Luz de Cura"
+
+"TOWER_BARBARIAN_DESCRIPTION"="Esses ferozes e impiedosos guerreiros do norte estão sempre prontos para enfrentar os ambientes mais desafiadores. Mestres do combate com machado, eles podem despedaçar inimigos terrestres ou lançar suas armas para o céu para derrubar inimigos voadores com brutal precisão."
+
+"TOWER_BARBARIAN_SHORT_DESC"="Guerreiros selvagens que podem lançar machados em inimigos voadores."
+
+"TOWER_BARBARIAN_NAME"="Salão de Hidromel"
+
+"BARBARIANS_UNIT_NAME"="Bárbaro"
+
+"BARBARIANS_UNIT_SHORT_DESC"="Guerreiros brutos berserkers movidos pela raiva e instintos."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="Os bárbaros podem mirar e atacar inimigos voadores ao alcance, lançando seus machados com precisão mortal.\n(Habilidade sempre ativa)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="Lançar Machados"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="No calor da batalha, os bárbaros usam sua fúria bruta para girar violentamente com seus machados duplos, cortando todos os inimigos próximos.\n(Compre habilidade na Atualização Máxima da Torre)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="Os bárbaros giram em um redemoinho mortal, causando dano a todos os inimigos próximos."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="Ataque Redemoinho"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="Um terceiro bárbaro aparece no topo da torre e lança machados impiedosamente nas unidades oponentes, causando dano pesado.\n(Compre habilidade na Atualização Máxima da Torre)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="Invoca um terceiro bárbaro para lançar machados nas unidades do oponente."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="Chuva de Machados"
+
+"TOWER_MUSKETEER_DESCRIPTION"="Mortais e pacientes, esses atiradores de elite podem permanecer imóveis por dias, esperando pelo tiro perfeito. Armados com armas de fogo forjadas por anões antigos, apenas os atiradores mais disciplinados são confiáveis com esse nível de poder de fogo."
+
+"TOWER_MUSKETEER_SHORT_DESC"="Atiradores de elite treinados para perfurar armaduras e atacar de longe."
+
+"TOWER_MUSKETEER_NAME"="Guarnição de mosqueteiros"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="Usando munição especial, eles podem perfurar e ignorar parcialmente a armadura física de um inimigo. (Habilidade sempre ativa)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="Golpe Perfurante"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="Dispara um projétil explosivo que detona ao impactar, causando também grande dano em área aos inimigos ao redor do alvo.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="Tiro explosivo que causa dano em área ao redor do alvo."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="Tiro com Estilhaços"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="Os Mosqueteiros coordenam uma série de tiros rápidos e de alta precisão em unidades do lado do oponente. Cada ataque causa dano com uma chance de eliminar instantaneamente cada alvo.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="Dispara uma série de tiros poderosos nas unidades inimigas, com chance de matar instantaneamente."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="Tiros de Sniper"
+
+"TOWER_SORCERER_DESCRIPTION"="Mestres renomados da criação e da magia elemental, eles usam magia da Terra e runas antigas para forjar ou remodelar qualquer coisa de acordo com sua vontade."
+
+"TOWER_SORCERER_SHORT_DESC"="Um mestre de runas cujos ataques erodem a armadura inimiga a cada golpe."
+
+"TOWER_SORCERER_NAME"="Feiticeiro"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="Cada ataque carrega uma maldição persistente que erode parte da armadura física do inimigo.\n(Habilidade sempre ativa)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="Maldição"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="Eles canalizam sua magia através das runas gravadas na torre para transformar inimigos em ovelhas, despojando-os de resistências e reduzindo sua saúde.\n(Compre a habilidade na melhoria máxima da torre)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="Transforma um inimigo em uma ovelha, reduzindo sua saúde e removendo resistências."
+
+"TOWER_SORCERER_SKILL_1_NAME"="Metamorfose"
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="Graças ao seu domínio da magia da Terra, eles convocam poderosos elementais de pedra e solo para proteger o caminho.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="Invoca um Elemental de Pedra para lutar contra os inimigos perto da torre."
+
+"TOWER_SORCERER_SKILL_2_NAME"="Invocar Elemental"
+
+"CREEP_SORCERER_GOLEM_NAME"="Elemental de Pedra"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="Um poderoso elemental de pedra que usa pura força e resiliência inabalável para esmagar inimigos e proteger o caminho."
+
+"TOWER_TESLA_DESCRIPTION"="Originalmente construído para manter a maquinaria anã, o Tesla x104 logo foi descoberto como possuindo um potencial inigualável como uma arma defensiva formidável, capaz de liberar uma fúria elétrica bruta no campo de batalha."
+
+"TOWER_TESLA_SHORT_DESC"="Os raios saltam do alvo para o inimigo mais próximo, causando uma parte do dano a cada vez."
+
+"TOWER_TESLA_NAME"="Tesla x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="Canalizando a força de mil tempestades, libera relâmpagos que saltam entre inimigos, no chão ou no ar. Cada golpe subsequente causa uma parte do dano original.\n(Habilidade sempre ativa)"
+
+"TOWER_TESLA_SKILL_0_NAME"="Circuito"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="Cada ataque tem uma chance de desencadear uma sobrecarga estática, causando dano a todos os inimigos em um raio ao redor da torre.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="Os ataques têm uma chance de liberar uma explosão estática em área ao redor da torre."
+
+"TOWER_TESLA_SKILL_1_NAME"="Alta Tensão"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="Ataca as unidades do oponente com uma onda imparável de relâmpagos trovejantes, causando dano e atordoando-as por alguns segundos.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="Ataca uma unidade oponente, causando dano e atordoando-a."
+
+"TOWER_TESLA_SKILL_2_NAME"="Relâmpago"
+
+"TOWER_GLACIAL_DRUID_NAME"="Druida Glacial"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="Mestres da fúria do inverno, eles empunham magia glacial para conjurar nevascas e ventos congelantes, deixando um rastro de geada e inimigos desacelerados em seu caminho."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="Um mago que controla o gelo e pode desacelerar grupos de inimigos a cada ataque."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="Cada ataque libera uma explosão congelante, diminuindo a velocidade de todos os inimigos em uma área por alguns segundos.\n(Habilidade sempre ativa)"
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="Caminho do Gelo"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="Invoca o antigo poder glacial para convocar um gigantesco Frost Giant no caminho do oponente.\n(Compre a habilidade na melhoria máxima da torre)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="Invoca um Gigante de Gelo no caminho de um oponente."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="Gigante de Gelo"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="Desencadeia uma devastadora tempestade de gelo que congela temporariamente algumas torres inimigas, interrompendo sua função.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="Congela as torres do oponente, desativando-as por um curto período."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="Tempestade de Gelo"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="Esses especialistas na arte da guerra mágica geralmente se posicionam como a última linha de defesa. Com seus feitiços devastadores e magia precisa, eles podem repelir até mesmo o exército mais determinado ou simplesmente mandá-lo embora."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="Um mago de guerra que canaliza energia mágica bruta em projéteis explosivos."
+
+"TOWER_ARCHMAGE_NAME"="Arquimago"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="Cada raio está sobrecarregado com energia instável, dando-lhe a chance de explodir ao impacto e danificar inimigos próximos.\n(Habilidade sempre ativa)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="Massa Crítica"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="Libera o poder de um tornado mágico que arrasa o campo de batalha, causando dano e arrastando inimigos para trás ao longo do caminho.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="Lança um tornado que puxa os inimigos para trás e causa dano."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="Ciclone"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="Combina magia Arcana e Dimensional para transportar alguns inimigos pelo campo de batalha, enviando-os instantaneamente para o lado do oponente.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="Teleporta um inimigo para o lado do oponente."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="Dissipar"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="Através de uma fé inabalável e anos de treinamento sagrado, essas sacerdotisas dominaram a magia divina para proteger seus aliados em perigo. Elas são o melhor seguro de vida que um guerreiro pode ter."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="Um curandeiro devoto que abençoa aliados próximos, reduzindo o dano que recebem."
+
+"TOWER_HOLY_SANCTUARY_NAME"="Santuário Sagrado"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="A sacerdotisa abençoa a torre, concedendo proteção divina a todos os aliados dentro do alcance, reduzindo o dano recebido enquanto permanecerem próximos.\n(Habilidade sempre ativa)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="Guardião da Fé"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="Invoca poder sagrado para temporariamente fortalecer torres próximas, aumentando seu dano por um tempo. (Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="Aumenta temporariamente as torres próximas."
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="Bênção Mágica"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="Ao detectar aliados feridos, a sacerdotisa libera uma explosão de magia de cura, priorizando os feridos e restaurando a saúde de todas as unidades próximas.\n(Compre a habilidade na atualização máxima da torre)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="Restaura unidades aliadas próximas."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="Aura da Vida"
+
+"TOWER_NECROMANCER_DESCRIPTION"="Mestres das artes proibidas, Necromantes torcem a morte à sua vontade. Capazes de erguer os corpos de inimigos caídos como um exército de mortos-vivos para lutar por eles, evitando que seus aliados encontrem o mesmo destino."
+
+"TOWER_NECROMANCER_SHORT_DESC"="Um mago sombrio que reanima inimigos caídos próximos dentro de seu alcance."
+
+"TOWER_NECROMANCER_NAME"="Necromante"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="O Necromante reanima passivamente inimigos caídos dentro do alcance, enviando esqueletos para atacar o lado do oponente.\n(Habilidade sempre ativa)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="Exército Esquelético"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="Invoca uma nuvem de morte venenosa que permanece no campo de batalha, causando dano ao longo do tempo a todos os inimigos pegos dentro.\n(Compre a habilidade na melhoria máxima da torre)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="Cria uma nuvem persistente que causa dano contínuo aos inimigos em sua área."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="Pestilência"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="Invoca um Cavaleiro Esqueleto no lado do oponente. Este guerreiro não-morto de elite não apenas luta incansavelmente, mas também aumenta o dano dos aliados reanimados próximos.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="Invoca um Cavaleiro Esqueleto que melhora os Esqueletos próximos."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="Cavaleiro da Morte"
+
+"TOWER_NECROMANCER_PACK_NAME"="Pacote do Iniciante"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="Originalmente projetados como caminhantes para simplificar patrulhas de rotina, esses mechas foram desde então adaptados para defensores de linha de frente, capazes de suportar uma ampla gama de perigos."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="Um mecha que protege torres, blindando torres próximas de atordoados e interrupções do sistema."
+
+"TOWER_BATTLE_MECHA_NAME"="Meca de Batalha"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="Emite um campo de ressonância estabilizador que impede que torres aliadas próximas sejam atordoadas ou desativadas.\n(Habilidade sempre ativa)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="Poder Mecânico"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="Lança um enxame de mísseis guiados que buscam inimigos no campo de batalha, causando dano a cada acerto.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="Lança mísseis guiados que perseguem e danificam vários inimigos."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="Míssil Vespa"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="Despeja os resíduos mecânicos perigosos acumulados do mecha no chão, criando uma área que desacelera os inimigos que pisam nela.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="Cria uma área de resíduos lentos ao redor do mecha."
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="Descarte Residual"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="Campo de Minas"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="Implanta um campo de minas no lado do oponente a cada poucos segundos."
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="Mecha de Batalha"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="Emite um campo de ressonância estabilizador que impede que torres aliadas próximas sejam atordoadas ou desativadas.\n(Habilidade sempre ativa)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="Formados a partir dos restos das legiões caídas de Linirea, esses sobreviventes endurecidos se especializam em combate guerrilheiro à distância - atacando das sombras com precisão mortal e incendiando as forças inimigas de longe."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="Arqueiros de linha de frente com a capacidade de causar dano crítico e incendiar seus inimigos."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="Exploradores de Arqueria"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="Explorador de Arqueria"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="Guerreiro habilidoso tanto em precisão à distância quanto em combate corpo a corpo."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="Para um arqueiro de linha de frente, cada acerto conta. Ataques à distância têm a chance de causar um golpe crítico, causando dano adicional.\n(Habilidade sempre ativa)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="Golpe Crítico"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="Eles incendeiam suas flechas com óleo e chama, incendiando inimigos e causando dano ao longo do tempo.\n(Compre habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="Inflama os inimigos ao impactar, causando dano por queimadura ao longo do tempo."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="Atirar"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="A cada poucos segundos, quando não estiverem em combate, podem disparar alguns tiros nas unidades do oponente. (Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="Dispara uma rajada de flechas nas unidades inimigas quando não está em combate."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="Prática de Tiro"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="Um caçador experiente, acompanhado de sua águia leal. Eles usam trabalho em equipe para atrair a presa para armadilhas, permitindo que derrubem até as criaturas mais formidáveis."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Um caçador tático apoiado por uma águia treinada, usando armadilhas para eliminar inimigos."
+
+"TOWER_HUNTER_OUTPOST_NAME"="Ponto de Caçadores"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Um caçador tático apoiado por uma águia treinada, usando armadilhas para eliminar inimigos."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Um caçador tático apoiado por uma águia treinada, usando armadilhas para eliminar inimigos."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="Uma águia treinada voa, explorando uma grande área ao redor da torre e atacando qualquer inimigo dentro de seu alcance.\n(Habilidade sempre ativa)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="Caçando Águias"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="O caçador coloca armadilhas para ursos ao longo do caminho. Qualquer inimigo que pisar nelas é danificado e temporariamente atordoado.\n(Compre habilidade na Atualização Máxima da Torre)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="Coloca armadilhas que causam dano e atordoam brevemente os inimigos."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="Armadilhas de Urso"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="Em intervalos regulares, o caçador sinaliza uma águia para voar em direção ao lado do oponente, interrompendo suas fileiras.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="Envia águias pelos caminhos do oponente."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="Explorar e Caçar"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="Formados a partir dos restos das legiões caídas de Linirea, esses sobreviventes endurecidos se especializam em combate guerrilheiro à distância - atacando das sombras com precisão mortal e incendiando as forças inimigas de longe."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="Arqueiros de linha de frente com a capacidade de causar dano crítico e incendiar seus inimigos."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="Arqueiros de linha de frente com a capacidade de causar dano crítico e incendiar seus inimigos."
+
+"TOWER_ARCHERY_SCOUT_NAME"="Exploradores de Arqueria"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="Para um arqueiro de linha de frente, cada acerto conta. Ataques à distância têm uma chance de causar um golpe crítico, causando dano adicional.\n(Habilidade sempre ativa)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="Golpe Crítico"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="Eles acendem suas flechas com óleo e chama, incendiando os inimigos e causando dano ao longo do tempo.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="Incende inimigos ao impactar, causando dano por queimadura ao longo do tempo."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="Atirar"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="A cada poucos segundos, quando não estão em combate, podem disparar alguns tiros nas unidades do oponente. (Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="Dispara uma rajada de flechas nas unidades inimigas quando não está em combate."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="Prática de Tiro"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="Os mais poderosos atiradores de Linirea. Guardiões do céu, seus olhos afiados permitem que atinjam até os alvos mais distantes. Sua leal águia de guerra garante que nenhum inimigo voador escape ileso."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="Atiradores de olhos afiados equipados com longo alcance e táticas anti-aéreas."
+
+"TOWER_ROYAL_ARCHERS_NAME"="Arqueiros Reais"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="Armados com pontas de flecha afiadas como lâminas e mira incomparável, eles causarão dano adicional a inimigos voadores.\n(Habilidade sempre ativa)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="Pontas Afiadas"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="Como especialistas em falcoaria, eles podem enviar sua águia treinada para perseguir e atacar inimigos voadores a cada poucos segundos.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="Envia uma águia para atacar inimigos voadores a cada poucos segundos."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="Águia Rapaz"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="Eles disparam um tiro carregado com flechas que quebram armaduras, reduzindo temporariamente a armadura física do alvo.\n(Compre a habilidade na Atualização Máxima da Torre)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="Dispara flechas carregadas que reduzem temporariamente a armadura inimiga."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="Perfurador de Armadura"
+
+"SPELL_ARCANE_CIRCLE_NAME"="Teletransporte"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="Lança um círculo mágico que teletransporta de volta os inimigos que o cruzam."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="Lança um círculo mágico que teletransporta os inimigos que chegam."
+
+"SPELL_CURSED_VINES_NAME"="Vinhas Amaldiçoadas"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="Faz crescer um grupo de vinhas venenosas no chão que desaceleram os inimigos e causam dano ao longo do tempo."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="Faz crescer cipós que desaceleram os inimigos e os envenenam."
+
+"SPELL_CURSED_VINES_PACK_NAME"="Pacote Casual"
+
+"SPELL_ICY_ZONE_NAME"="Zona Gelada"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="Cobre uma grande área com gelo espesso, desacelerando qualquer inimigo que tentar cruzá-la."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="Cobre uma grande área com gelo espesso, retardando os inimigos."
+
+"SPELL_POLYMORPH_NAME"="Metamorfose"
+
+"SPELL_POLYMORPH_DESCRIPTION"="Transforma quase qualquer inimigo em uma ovelha, reduzindo sua saúde e removendo qualquer armadura que possam ter."
+
+"SPELL_POLYMORPH_SHORT_DESC"="Transforma os inimigos em ovelhas, reduzindo sua saúde e eliminando resistências."
+
+"SPELL_RAIN_OF_FIRE_NAME"="Chuva de Fogo"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="Libera um poderoso feitiço que invoca várias bolas de fogo do céu, atingindo todos os inimigos em sua área várias vezes."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="Causa dano a todos os inimigos na área do feitiço."
+
+"SPELL_REINFORCEMENTS_NAME"="Reforços"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="Invoca temporariamente um par de soldados com equipamento básico para ajudar na batalha."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="Invoca temporariamente um par de soldados para ajudar na batalha."
+
+"REINFORCEMENTS_UNIT_NAME"="Reforço"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="Soldado básico que ajuda na defesa."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="Gigante de Gelo"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="Um titã congelado que resiste a batalhas capazes de destruir exércitos inteiros."
+
+"HUNTING_EAGLE_UNIT_NAME"="Caça da Águia"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="O fiel companheiro do Caçador, atacando inimigos de cima."
+
+"SCOUNT_EAGLE_UNIT_NAME"="Águia de Exploração"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="Uma águia domesticada pelo Caçador, instruída a atacar seu oponente."
+
+"SPELL_STUN_NAME"="Atordoamento Relâmpago"
+
+"SPELL_STUN_DESCRIPTION"="Libera um poderoso trovão para atingir o chão, eletrocutando uma grande área e atordoando todos os inimigos dentro de seu alcance."
+
+"SPELL_STUN_SHORT_DESC"="Aturde inimigos em uma área."
+
+"SPELL_THUNDERBOLT_NAME"="Relâmpago"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="Invoca uma poderosa tempestade de trovões que atinge todos os inimigos na área, causando dano e atordoando-os a cada golpe."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="Ataca os inimigos com trovão, causando dano em uma área e atordoando brevemente os inimigos."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Trovões"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Ataca o inimigo mais forte em uma área, derrotando-o instantaneamente."
+
+"SPELL_SABOTAGE_NAME"="Sabotagem"
+
+"SPELL_SABOTAGE_DESCRIPTION"="Reduz a Armadura ou resistência Mágica de todos os inimigos dentro da área de efeito."
+
+"SPELL_SABOTAGE_SHORT_DESC"="Reduz a resistência de todos os inimigos em uma área"
+
+"SPELL_LINIREAN_LANCERS_NAME"="Lanceiros Linireanos"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="Invoca temporariamente um par de Lanceiros Veteranos para ajudar na batalha."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="Invoca temporariamente um par de Lanceiros Veteranos para ajudar na batalha."
+
+"CREEP_GOBLIN_NAME"="Goblin"
+
+"CREEP_GOBLIN_DESC_1"="Criatura fraca e sem treinamento da tribo goblin"
+
+"CREEP_GOBLIN_SHORT_DESC"="Um goblin pequeno e fraco"
+
+"CREEP_GOBLIN_WARRIOR_NAME"="Guerreiro Goblin"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="Um goblin treinado e mais forte equipado com armadura para suportar mais dano."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="Um goblin mais forte com armadura"
+
+"CREEP_GOBLIN_WIZARD_NAME"="Mago Goblin"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="Um goblin perigoso que usa magia de fogo para queimar seus inimigos."
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="Um goblin conjurador que usa bolas de fogo para causar dano ao longo do tempo."
+
+"CREEP_GOBLIN_COPTER_NAME"="Helicóptero Goblin"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="Uma máquina de sucata robusta, mas instável, criada por goblins para explorar seus territórios."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="Quando o helicóptero é destruído, o goblin cai no chão e continua andando"
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="Um veículo voador sucateado que, quando destruído, faz o piloto cair no chão."
+
+"CREEP_ORC_NAME"="Orc"
+
+"CREEP_ORC_DESC_1"="Criaturas perigosas e resilientes que vivem entre tribos de goblins"
+
+"CREEP_ORC_SHORT_DESC"="Um inimigo perigoso com pele grossa que o protege de ataques físicos."
+
+"CREEP_ORC_CHAMPION_NAME"="Campeão Orc"
+
+"CREEP_ORC_CHAMPION_DESC_1"="Um Orc resistente e bem treinado, preparado para lutar contra qualquer inimigo perigoso."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="Um formidável guerreiro orc, equipado e treinado para destruir qualquer inimigo."
+
+"CREEP_ORC_SHAMAN_NAME"="Xamã Orc"
+
+"CREEP_ORC_SHAMAN_DESC_1"="Um curandeiro da tribo goblin, geralmente visto na retaguarda, apoiando guerreiros."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="Um curandeiro goblin que restaura a saúde de todos os aliados próximos."
+
+"CREEP_OGRE_NAME"="Ogro"
+
+"CREEP_OGRE_DESC_1"="Uma criatura temível e resiliente que rompe qualquer defesa com força bruta."
+
+"CREEP_OGRE_SHORT_DESC"="Muito perigoso e poderoso; cada golpe causa dano em área."
+
+"CREEP_HATCHLING_NAME"="Filhote de Aranha"
+
+"CREEP_HATCHLING_DESC_1"="Aranhas recém-nascidas, geralmente vistas em grandes grupos seguindo uma Matriarca."
+
+"CREEP_HATCHLING_SHORT_DESC"="Pequenas e rápidas, essas aranhas recém-nascidas sempre se movem em grupos."
+
+"CREEP_MATRIARCH_NAME"="Aranha matriarca"
+
+"CREEP_MATRIARCH_DESC_1"="Uma aranha das profundezas da floresta que usa sua prole para caçar e explorar."
+
+"CREEP_MATRIARCH_SHORT_DESC"="Uma aranha grande que tende a botar ovos, gerando filhotes de aranha"
+
+"CREEP_GARGOYLE_NAME"="Gárgula"
+
+"CREEP_GARGOYLE_DESC_1"="Uma criatura noturna que voa pelos céus noturnos da floresta."
+
+"CREEP_GARGOYLE_SHORT_DESC"="Uma criatura noturna que voa pelos céus noturnos da floresta."
+
+"CREEP_WULF_NAME"="Wulf"
+
+"CREEP_WOLF_NAME"="Wulf"
+
+"CREEP_WULF_DESC_1"="Um animal da floresta rápido e inteligente que persegue sua presa em bandos."
+
+"CREEP_WOLF_SHORT_DESC"="Uma criatura que caça sua presa rapidamente; se você vir uma, mais estão certamente a caminho."
+
+"BOSS_KRUM_THAK_NAME"="Krum Thak"
+
+"BOSS_KRUM_THAK_DESC_1"="Um xamã poderoso que protege seus aliados e usa raios mortais para eliminar inimigos."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="Um xamã poderoso que protege aliados enquanto lança raios para derrubar inimigos."
+
+"BOSS_GUL_THAK_NAME"="Gul'Thak"
+
+"BOSS_GUL_THAK_DESC_1"="Um poderoso chefe que cura seus aliados enquanto avança contra qualquer inimigo detectado."
+
+"BOSS_GUL_THAK_SHORT_DESC"="Um poderoso chefe que cura seus aliados e investe contra inimigos quando próximos"
+
+"CREEP_TROLL_NAME"="Troll"
+
+"CREEP_TROLL_DESC_1"="Uma criatura fraca da raça Troll que compartilha o traço de regeneração."
+
+"CREEP_TROLL_SHORT_DESC"="Uma criatura fraca da raça Troll. Regenera HP ao longo do tempo."
+
+"CREEP_TROLL_BREAKER_NAME"="Troll Destruidor"
+
+"CREEP_TROLL_BREAKER_DESC_1"="Equipado com armadura e um tronco de árvore, este gigante pode romper até as defesas mais fortificadas."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="Um Troll gigante com dano em área graças ao tronco que usa como arma. Regenera HP ao longo do tempo."
+
+"CREEP_TROLL_CHAMPION_NAME"="Troll campeão"
+
+"CREEP_TROLLCHAMPION_NAME"="Troll campeão"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="Guerreiros resilientes com regeneração da raça Troll, especializados em ataques à distância"
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="Trolls fortes que podem atacar à distância. Regenera HP ao longo do tempo."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="Chefe Troll"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="Este troll usa seus tambores para curar e aumentar o dano e a velocidade de todos os aliados próximos. Possui alta capacidade de regeneração."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="Um chefe que apoia seus aliados com vários buffs. Regenera HP ao longo do tempo."
+
+"CREEP_TROLL_PATHFINDER_NAME"="Troll rastreador"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="Um pequeno troll que aproveita o terreno usando seus patins para deslizar sobre o gelo, regenerando sua saúde ao longo do tempo."
+
+"CREEP_PATHFINDER_NAME"="Troll rastreador"
+
+"CREEP_PATHFINDER_SHORT_DESC"="Troll rápido que usa seus patins para deslizar e evadir inimigos. Regenera HP ao longo do tempo."
+
+"CREEP_WINTER_WULF_NAME"="Lobo invernal"
+
+"CREEP_WINTER_WULF_DESC_1"="Uma criatura ágil com uma pelagem especial que lhe permite resistir à magia e ao clima extremo."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="Uma criatura rápida e ágil que evita facilmente alguns ataques corpo a corpo"
+
+"CREEP_YETI_NAME"="Yeti"
+
+"CREEP_YETI_DESC_1"="Uma criatura grande e perigosa; poucos ousam ficar em seu caminho."
+
+"CREEP_YETI_SHORT_DESC"="Uma criatura resiliente capaz de destruir qualquer coisa em seu caminho."
+
+"CREEP_SNOW_GOLEM_NAME"="Golem de Neve"
+
+"CREEP_SNOW_GOLEM_DESC_1"="Um golem de montanha com a capacidade de atacar à distância e se dividir quando quebrado."
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="Ataca à distância e, ao morrer, se divide em dois golems menores."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="Pequeno Golem de Neve"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="Pequeno golem de neve, geralmente criado a partir de fragmentos de um golem maior."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="Pequeno e fraco pequeno golem com ataque à distância"
+
+"CREEP_ICE_MEPHIT_NAME"="Mefit de Gelo"
+
+"CREEP_ICE_MEPHIT_DESC_1"="Uma criatura da montanha que irrita os habitantes. Ao morrer, explode, congelando tudo ao seu redor."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="Quando morre, gera uma explosão que causa dano e congela quaisquer unidades próximas."
+
+"CREEP_WINTER_FAERIE_NAME"="Fada do Inverno"
+
+"CREEP_WINTER_FAERIE_DESC_1"="Um espírito da montanha que perfura qualquer coisa em seu caminho; nem mesmo armaduras podem resistir aos seus ataques."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="Dispara múltiplos fragmentos de gelo que ignoram parcialmente a armadura"
+
+"BOSS_JT_NAME"="J.T."
+
+"BOSS_JT_DESC_1"="O rei da montanha; tudo o que cruza seu caminho acaba congelado ou devorado."
+
+"BOSS_JT_SHORT_DESC"="Um brutamontes gigante que devora inimigos e congela torres."
+
+"BOSS_ULGUK_HAI_NAME"="Ulguk-Hai"
+
+"BOSS_ULGUK_HAI_DESC_1"="Poderoso Troll da Montanha que usa seu escudo para bloquear qualquer dano físico."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="Um líder poderoso que avança com seu escudo levantado, bloqueando dano físico, baixando-o apenas em combate."
+
+"CREEP_BANDIT_NAME"="Bandido"
+
+"CREEP_BANDIT_DESC_1"="Pequenos e ágeis, podem ser o menor escalão da gangue, mas seus golpes são fortes."
+
+"CREEP_BANDIT_SHORT_DESC"="Frágil mas ágil bandido, eles podem desviar de alguns ataques e bater forte."
+
+"CREEP_BANDIT_ARCHER_NAME"="Arqueiro Bandido"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="Um arqueiro com visão extraordinária, permitindo-lhes atirar a uma distância maior do que outros arqueiros."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="Usando sua visão aguçada, ele pode atirar mais longe do que outros arqueiros."
+
+"CREEP_BRIGAND_NAME"="Assaltante"
+
+"CREEP_BRIGAND_DESC_1"="Bandido com armadura de sucata, que quebra se ele sofrer muito dano, deixando o bandido desarmado."
+
+"CREEP_BRIGAND_SHORT_DESC"="Um bandido mais forte, uma vez derrotado, sua armadura se quebra, transformando-o em um bandido comum."
+
+"CREEP_TRICKSTER_NAME"="Taumaturgo"
+
+"CREEP_TRICKSTER_DESC_1"="Bandido enganador que usa truques para escapar de lutas ou perseguidores."
+
+"CREEP_TRICKSTER_SHORT_DESC"="Quando bloqueado, pode se tornar invisível, evitando a detecção por alguns segundos."
+
+"CREEP_FOREST_SEER_NAME"="Vidente da Floresta"
+
+"CREEP_FOREST_SEER_DESC_1"="Bandido com conhecimento de magia, capaz de criar ilusões para enganar seus inimigos."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="Bandido conhecedor de magia que se clona quando bloqueado"
+
+"CREEP_FOREST_SEER_CLONE_NAME"="Vidente da Floresta Ilusão"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="Clone temporário criado pelo Vidente da Floresta"
+
+"CREEP_MARAUDER_NAME"="Facínora"
+
+"CREEP_MARAUDER_DESC_1"="Um brutamontes fortemente equipado para resistir a qualquer ataque, geralmente usado como escudo para proteger outros bandidos."
+
+"CREEP_MARAUDER_SHORT_DESC"="Brutamonte blindado capaz de resistir muitos ataques"
+
+"CREEP_RAIDER_NAME"="Invasor"
+
+"CREEP_RAIDER_DESC_1"="Guerreiro de longo alcance letal equipado com uma bola com espinhos que ignora qualquer tipo de armadura."
+
+"CREEP_RAIDER_SHORT_DESC"="Guerreiro mortal à distância que causa dano verdadeiro"
+
+"CREEP_PILLAGER_NAME"="Salteador"
+
+"CREEP_PILLAGER_DESC_1"="Incrivelmente resistentes bandidos com equipamentos mágicos capazes de resistir à magia e causar dano em área."
+
+"CREEP_PILLAGER_SHORT_DESC"="Bandido incrivelmente resistente que causa dano em área。"
+
+"CREEP_WORG_NAME"="Worg"
+
+"CREEP_WORG_DESC_1"="Um parente mais resiliente do Wulf, esses Worgs foram treinados para enfrentar soldados inimigos."
+
+"CREEP_WORG_SHORT_DESC"="Worg treinado pela gangue para evadir alguns ataques corpo a corpo"
+
+"CREEP_WILD_EAGLE_NAME"="Águia Selvagem"
+
+"CREEP_WILD_EAGLE_DESC_1"="Uma águia selvagem domada por um habilidoso Mestre das Feras da gangue"
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="Esta águia às vezes desce para atacar unidades abaixo dela antes de seguir em frente."
+
+"BOSS_KINGPIN_NAME"="Chefão"
+
+"BOSS_KINGPIN_DESC_1"="Líder de gangue imparável que usa ouro roubado para contratar e apoiar seus membros."
+
+"BOSS_KINGPIN_SHORT_DESC"="Um líder de bandidos que destrói tudo em seu caminho, pode curar seus aliados e chamar reforços dos acampamentos."
+
+"BOSS_EINAR_NAME"="Einar o Guardião das Feras"
+
+"BOSS_EINAR_DESC_1"="Um mestre das feras que usa worgs e águias para detectar e atacar seus alvos."
+
+"BOSS_EINAR_SHORT_DESC"="Um mestre das feras capaz de invocar águias e uma matilha de worgs"
+
+"CREEP_DARK_ROOKIE_NAME"="Novato Sombrio"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="Um pequeno inimigo blindado, peões descartáveis do Senhor das Trevas."
+
+"CREEP_DARK_ROOKIE_DESC_1"="Quando perdem parte de seu HP, eles perdem sua armadura aumentando a velocidade"
+
+"CREEP_DARK_KNIGHT_NAME"="Cavaleiro Sombrio"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="Um inimigo resistente e blindado. Eles são a principal força do Exército das Trevas"
+
+"CREEP_DARK_KNIGHT_DESC_1"="Quando perdem parte de seu HP, eles perdem o escudo, reduzindo sua armadura e aumentando sua velocidade."
+
+"CREEP_DARK_SLAYER_NAME"="Matador das trevas"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="Um inimigo blindado mortal. Se um cair em batalha, outros cavaleiros podem dar continuidade ao seu legado."
+
+"CREEP_DARK_SLAYER_DESC_1"="Depois que eles morrem, eles deixam sua espada e um Cavaleiro das Trevas pode pegá-la para se tornar um matador."
+
+"CREEP_DARK_CAVALRY_NAME"="Cavalaria Sombria"
+
+"CREEP_DARK_CAVALRY_DESC_1"="Avança em alta velocidade contra um inimigo, atordoando-o por alguns segundos."
+
+"CREEP_DARK_CAVALRY_DESC_2"="Deixa um Cavaleiro das Trevas no local após a morte"
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="Cavaleiro sombrio que avança contra os inimigos, destruindo qualquer bloqueio que tente deter seu caminho."
+
+"CREEP_SHADOW_ARCHER_NAME"="Arqueiro Sombrio"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="Um atacante fraco, mas rápido de longa distância"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Mago Eldritch"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="Um mago poderoso com um ataque mágico amplo"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Eles lançam um feitiço que atinge algumas vezes e ignora armadura"
+
+"CREEP_ROCKET_RIDER_NAME"="Cavaleiro Foguete"
+
+"CREEP_ROCKET_RIDER_DESC_1"="Inimigo voador blindado"
+
+"CREEP_ROCKET_RIDER_DESC_2"="Perde seu jetpack quando destruído e cai no chão."
+
+"CREEP_DARK_CROW_NAME"="Corvo Sombrio"
+
+"CREEP_DARK_CROW_DESC_1"="Um corvo treinado voador com resistência mágica"
+
+"CREEP_DARK_CROW_SHORT_DESC"="A cada poucos segundos ataca uma unidade abaixo por alguns segundos, depois continua no caminho."
+
+"CREEP_MAGMA_SHARD_NAME"="Fragmento de Magma"
+
+"CREEP_MAGMA_SHARD_DESC_1"="Um inimigo blindado problemático feito de lava, que pode reviver após alguns segundos em estado de rocha."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="Transforma-se em uma estátua rochosa quando morto. Se não for morto nesse estado, pode ressurgir novamente com vida completa"
+
+"CREEP_GOLEM_HEAD_NAME"="Cabeça de Golem"
+
+"CREEP_GOLEM_HEAD_DESC_1"="Inimigo pequeno e fracamente armado"
+
+"BOSS_JUGGERNAUT_NAME"="Gigante"
+
+"BOSS_JUGGERNAUT_DESC_1"="Pode invocar um grupo de Cabeças de Golem alguns blocos à frente"
+
+"BOSS_JUGGERNAUT_DESC_2"="Lança um míssil de longo alcance que causa alto dano"
+
+"BOSS_WAR_ZEPPELIN_NAME"="Fortaleza Voadora"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="Lança um barril de piche em uma torre que a deixa atordoada por alguns segundos."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="A Fortaleza voará por seu próprio caminho aéreo"
+
+"CREEP_FLYING_SHEEP_NAME"="Ovelha Voadora"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="Inimigo se transformou em uma ovelha voadora"
+
+"CREEP_SHEEP_NAME"="Ovelha"
+
+"CREEP_SHEEP_SHORT_DESC"="Inimigo transformado em ovelha"
+
+"CREEP_SKELETON_SMALL_NAME"="Esqueleto"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="Esqueletos reanimados que atacam seres vivos"
+
+"CREEP_SKELETON_BIG_NAME"="Cavaleiro Esqueleto"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="Esqueleto reanimado equipado com escudo e capacete"
+
+"CREEP_DEATH_RIDER_NAME"="Cavaleiro da Morte"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="Cavaleiro esqueleto forte montando um cavalo mortal. Fortalece todos os outros esqueletos ao redor."
+
+"CREEP_VERDANT_DEFENDER_NAME"="Lobo Ent"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="Criatura semelhante a uma árvore na forma de um Lobo. Às vezes, pode desviar de ataques corpo a corpo."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="aumento no dano de todos os feitiços"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="aumento no dano das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="aumento no dano corpo a corpo de todas as torres"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="aumento no dano de alcance de todas as torres"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="aumento no dano de todas as torres"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="aumento no dano das habilidades de todas as torres"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="aumento na velocidade de ataque de todas as torres"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="redução no tempo de recarga de todas as habilidades das torres"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="aumento no dano corpo a corpo das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="aumento no dano de alcance das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="aumento no dano das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="aumento no dano das habilidades das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="aumento na velocidade de ataque das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="redução no tempo de recarga das habilidades das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="aumento no alcance das torres mágicas"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="aumento no dano corpo a corpo das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="aumento do dano à distância das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="aumento no dano das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="aumento do dano das habilidades das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="aumento na velocidade de ataque das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="redução no tempo de recarga das habilidades das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="aumento no alcance das torres de artilharia"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="aumento do dano corpo a corpo dos quartéis"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="aumento do dano de alcance dos quartéis"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="aumento no dano dos quartéis"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="aumento do dano das habilidades do quartel"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="aumento na velocidade de ataque dos quartéis"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="redução do tempo de recarga de habilidades dos quartéis"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="aumento no alcance dos quartéis"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="aumento no dano de habilidades das torres arqueiras"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="aumento na velocidade de ataque das torres arqueiras"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="aumento na saúde dos aliados"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="aumento na armadura dos aliados"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="aumento no dano dos aliados"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="aumento no dano corpo a corpo dos aliados"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="aumento no dano à distância dos aliados"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="aumento na velocidade dos aliados"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="aumento no dano de todos os feitiços"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="redução no tempo de recarga de todos os feitiços"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="aumento na área de todos os feitiços"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="aumento no dano do herói"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="aumento no dano corpo a corpo do herói"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="aumento no dano de alcance do herói"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="aumento na saúde do herói"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="aumento na velocidade do herói"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="redução do tempo de renascimento do herói"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="diminuição da saúde dos inimigos"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="diminuição da velocidade dos inimigos"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="diminuição da armadura física dos inimigos"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="diminuição da armadura mágica dos inimigos"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="diminuição do dano dos inimigos"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="redução no tempo de recarga dos feitiços de invocação"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="aumento do alcance das torres de longo alcance"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Ira de Mana"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Força do Canhão"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="Assalto à Torre"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="Visão da Torre"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="Força da Torre"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="Explosão de Torre"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="Espira Tempo"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="Pulso da Torre"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="Assalto Mágico"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="Precisão Mágica"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="Força Mágica"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="Explosão Mágica"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="Ritmo Mágico"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="Pulso Mágico"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="Visão Mágica"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="Assalto de Canhão"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="Precisão do Canhão"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Força do Canhão"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="Explosão de Canhão"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="Ritmo do Canhão"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="Pulso de Canhão"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="Mira do Canhão"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="Assalto à Guarnição"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="Precisão da Guarnição"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="Força de Guarnição"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="Explosão de Guarnição"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="Guarnição Tempo"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="Pulso de Guarnição"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="Visão da Guarnição"
+
+"PERK_NAME_INCREASE_UNITS_HP"="Resistência da Infantaria"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="Fortitude de Infantaria"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="Poder da Infantaria"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="Assalto de Infantaria"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="Precisão de Infantaria"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="Infantaria Rápida"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Ira de Mana"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="Foco de Mana"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="Dispersão de Mana"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="Poder Heroico"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="Assalto Heroico"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="Precisão Heroica"
+
+"PERK_NAME_INCREASE_HERO_HP"="Resistência Heroica"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="Apressa Heróica"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="Renascimento Heroico"
+
+"PERK_NAME_DECREASE_CREEP_HP"="Fragilidade do Invasor"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="Fadiga do Invasor"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="Decadência do Invasor"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="Depleção de Invasores"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="Fraqueza do Invasor"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="Foco de Invocação"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="Mira do Atirador"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="Rajada do Atirador"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="Ritmo do Atirador"
+
+"MODIFIER_TITLE_EAGLE_EYES"="Olhos de Águia"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="Alcance da torre <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="Alcance da torre <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="Alcance da torre <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="Alcance da torre <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="Frenesi de Herói"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="Dano do herói <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="Dano do herói <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="Dano do herói <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="Dano do herói <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="Mercador da Morte"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="Ouro ganho <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="Ouro ganho <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="Ouro ganho <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="Ouro ganho <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="Torre Poderosa"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="Dano da torre <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="Dano da torre <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="Dano da torre <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="Dano da torre <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="Mestre de Feitiços"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="Recarga de feitiço <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="Recarga de feitiço <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="Recarga de feitiço <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="Recarga de feitiço <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="Aumenta o alcance de ataque de todas as torres"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="Aumenta o dano do herói"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="Aumenta o ouro ganho ao matar inimigos"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="Aumenta o dano causado por todas as torres"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="Reduz o tempo de recarga de todos os feitiços"
+
+"MODIFIER_TITLE_BROODMOTHER"="Chamado da Mãe da Ninhada"
+
+"CREEP_BROODMOTHER_NAME"="Mãe da Ninhada"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="Uma aranha gigante que põe ovos para gerar filhotes maiores"
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="<color=#FFFFFF>Gera uma<color=#F36D4D> Mãe da Ninhada<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="Poder da Mãe da Ninhada <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="Poder da Mãe da Ninhada <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="Poder da Mãe da Ninhada <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="Torre de Fazenda"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="Transformar 1 torre a cada 25 segundos"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="Transformar 1 torre a cada 23 segundos"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="Transforme 1 torre a cada <color=#F36D4D>19<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="Transforme <color=#F36D4D>2<color=#FFFFFF> torres a cada <color=#F36D4D>18<color=#FFFFFF> segundos"
+
+"MODIFIER_TITLE_DRAGON"="Chamado do Dragão"
+
+"CREEP_FLYING_DRAGON_NAME"="Dragão"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="Grande dragão voador com resistência mágica que ataca qualquer inimigo próximo à distância."
+
+"MODIFIER_DESC_DRAGON_LVL1"="<color=#FFFFFF>Invoca um <color=#F36D4D>Dragão <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_DRAGON_LVL2"="Poder do Dragão <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="Poder do Dragão <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="Poder do Dragão <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="Invocação Espectral"
+
+"CREEP_GHOST_SMALL_NAME"="Fantasma"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="Alma de um pequeno inimigo, fraco mas numeroso"
+
+"CREEP_GHOST_FLYING_NAME"="Fantasma Voador"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="Raramente vistas, essas almas flutuam, observando e ajudando seus aliados de cima."
+
+"CREEP_GHOST_BIG_NAME"="Grande Fantasma"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="Uma alma forte e resiliente, determinada a completar sua tarefa final."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="Creeps mortos têm <color=#F36D4D>30% de chance de aparecer como um fantasma"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="Chance de 40%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="Chance de 50%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="Chance de 60%"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="Balões Goblin"
+
+"CREEP_GOBLIN_BALLOON_NAME"="Balão Goblin"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="Um balão robusto pilotado por um pequeno goblin que lança bombas em qualquer inimigo abaixo dele."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>Gerar <color=#F36D4D>Balões Goblin <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="Poder dos Balões Goblin <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="Poder dos Balões Goblin <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="Poder dos Balões Goblin <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="Golems Voadores Blindados"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="Golem Blindado Voador"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="Inimigo voador resistente a qualquer dano físico"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Gerar <color=#F36D4D>Golems Voadores Blindados <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="Poder dos Golems Voadores Blindados <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="Poder dos Golems Voadores Blindados <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="Poder dos Golems Voadores Blindados <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="Golem Voador Mágico"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="Inimigo voador resistente a dano mágico"
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="Golems Voadores Mágicos"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Invocar <color=#F36D4D>Golems Voadores Mágicos <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="Poder dos Golems Voadores Mágicos <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="Poder dos Golems Voadores Mágicos <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="Poder dos Golems Voadores Mágicos <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="Grande Golem de Armadura"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="Golem de pedra poderoso com resistência a dano físico"
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="Pequeno Golem Blindado"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="Golem de pedra fraco, mas resistente a dano físico"
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="Golems Blindados"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="<color=#FFFFFF>Gerar <color=#F36D4D>Golems Blindados <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="Golem Blindado Poder <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="Golem Blindado Poder <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="Golem Blindado Poder <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="Grande Golem Mágico"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="Golem mágico poderoso com resistência a dano mágico"
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="Pequeno Golem Mágico"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="Golem de pedra fraco, mas resistente a dano mágico"
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="Golems Mágicos"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="<color=#FFFFFF>Invocar <color=#F36D4D>Golems Mágicos <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="Poder dos Golens Mágicos <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="Poder dos Golens Mágicos <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="Poder dos Golens Mágicos <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="Grande Xamã Orc"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="Grande Xamã Orc"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="Chame dois poderosos xamãs conjuradores de feitiços que atordoam e destroem qualquer inimigo em seu caminho."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="<color=#FFFFFF>Gerar <color=#F36D4D>Grandes Xamãs Orcs <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="Grande Poder do Xamã Orc <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="Grande Poder do Xamã Orc<color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="Grande Poder do Xamã Orc <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="Armadillos"
+
+"CREEP_WAR_HOUND_NAME"="Warmadillo"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="Um grupo de pequenas criaturas que rolam muito rápido quando não paradas"
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="<color=#FFFFFF>Invoca um<color=#F36D4D> Enxame de Armadillos <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="Poder dos Armadillos <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="Poder dos Armadillos <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="Poder dos Armadillos <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="Uma aranha gigante que põe ovos para gerar filhotes maiores"
+
+"MODIFIER_DRAGON_DESC_1"="Grande dragão voador com resistência mágica que ataca qualquer inimigo próximo à distância."
+
+"MODIFIER_FARM_DESCRIPTION"="Transforma temporariamente as torres do oponente em fazendas inúteis"
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="Inimigo voador blindado que vem em bandos"
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="Um bando de golems voadores com resistência mágica"
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="Creeps mortos podem aparecer como fantasmas no lado do oponente"
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="Inimigo voador que lança bombas nas unidades abaixo dele"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="grupo de pequenos e grandes golems com armadura física"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="surge com um grupo de pequenos golems blindados"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="Pacote de pequenos e grandes golems com resistência mágica"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="surge com um grupo de pequenos golems resistentes à magia"
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="Xamã poderoso que lança um raio que atordoa e causa dano às unidades ao redor da área alvo"
+
+"MODIFIER_WARMADILLO_DESC_1"="Inimigo com Armadura Física que rola muito rápido quando não bloqueado"
+
+"MODIFIER_TITLE_THUNDERBIRD"="Pássaro Trovão"
+
+"CREEP_THUNDERBIRD_NAME"="Pássaro Trovão"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="Grande criatura voadora que espalha eletricidade de suas asas, chocando um grupo de inimigos."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="<color=#FFFFFF>Invoca um <color=#F36D4D>Pássaro Trovão<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="Poder do Thunderbird <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="Poder do Thunderbird <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="Poder do Thunderbird <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="Trollberseker"
+
+"CREEP_TROLLZERKER_NAME"="Trollberseker"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="Troll bruto que fica enfurecido quando sua saúde está baixa, aumentando seu ataque e velocidade. Regenera HP ao longo do tempo."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="<color=#FFFFFF>Invoca um <color=#F36D4D>Trollzerker<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="Poder do Trollzerker <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="Poder do Trollzerker <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="Poder do Trollzerker <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="Dragubons"
+
+"CREEP_DRAGUBON_NAME"="Dragubon"
+
+"CREEP_DRAGUBON_SHORT_DESC"="Dragão de pequeno porte que, se sentir em perigo, começa a voar por alguns segundos."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="<color=#FFFFFF>Invoca um<color=#F36D4D> bando de Dragubons <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="Poder de Dragubons <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="Poder de Dragubons <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="Poder de Dragubons <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="Nevasca"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="Congela <color=#F18081>1 torre a cada <color=#F18081>17<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="Congela 1 torre a cada 15 segundos"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="Congele 2 torres a cada 13 segundos"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="Congela 2 torres a cada <color=#F18081>10<color=#FFFFFF> segundos"
+
+"MODIFIER_TITLE_FROSTBITE"="Congelamento"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="Congela 2 unidades a cada 18 segundos"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="Congele 3 unidades a cada 16 segundos"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="Congele 4 unidades a cada 14 segundos"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="Congele 5 unidades a cada 11 segundos"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="Arauto da Geada"
+
+"CREEP_FROST_HARBINGER_NAME"="Arauto da Geada"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="Troll lançador de feitiços que teleporta aliados para frente. Regenera HP ao longo do tempo."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="<color=#FFFFFF>Invoca um <color=#F36D4D>Arauto do Gelo <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="Poder do Arauto da Geada <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="Poder do Arauto da Geada <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="Poder do Arauto da Geada <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="Congela temporariamente as torres inimigas, tornando-as incapazes de atacar"
+
+"MODIFIER_DRAGUBONS_DESC_1"="Uma manada de pequenos dragões que voam sobre qualquer inimigo que tenta bloqueá-los."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#REF!"
+
+"MODIFIER_FROSTBITE_DESC_1"="Congela temporariamente as unidades inimigas, tornando-as mais lentas para mover e atacar"
+
+"MODIFIER_FROST_HARBINGER_1"="Poderoso arcanista Troll que usa teleporte para mover um grupo de inimigos à frente."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="Um voador imparável que lança trovões em qualquer unidade que estiver embaixo"
+
+"MODIFIER_TROLLZEKER_DESC_1"="Guerreiro feroz da raça Troll. Quando sua saúde está baixa, ele fica enfurecido, aumentando sua força e velocidade."
+
+"CREEP_BUSH_NAME"="Emboscador"
+
+"CREEP_BUSH_SHORT_DESC"="Esses bandidos só perdem a camuflagem quando bloqueados por uma unidade"
+
+"MODIFIER_TITLE_BUSH"="Emboscadores"
+
+"MODIFIER_BUSH_DESC_1"="Especialistas em infiltração, eles podem passar por todas as defesas sem serem detectados."
+
+"MODIFIER_DESC_BUSH_LVL1"="<color=#FFFFFF>Gera <color=#F36D4D>Emboscadores <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_BUSH_LVL2"="Poder do Emboscador <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="Poder do Emboscador <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="Poder do Emboscador <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="Líder dos Bandidos"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="Comanda bandidos próximos a vestirem armaduras, transformando-os em Brigantes"
+
+"MODIFIER_TITLE_BANDITLEADER"="Líder dos Bandidos"
+
+"MODIFIER_BANDITLEADER_DESC_1"="Líder feroz que organiza e equipa bandidos para a batalha"
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="<color=#FFFFFF>Gera um<color=#F36D4D> Líder dos Bandidos<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="Líder dos Bandidos Poder <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="Líder dos Bandidos Poder <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="Líder dos Bandidos Poder <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="Escudos de Bandidos"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="Formação defensiva que libera bandidos de dentro a cada poucos segundos"
+
+"MODIFIER_TITLE_BANDITSHIELDS"="Escudos de Bandidos"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="Formação defensiva de bandidos que periodicamente libera lutadores de suas fileiras."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="<color=#FFFFFF>Gera <color=#F36D4D>Escudos de Bandido <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="HP dos Escudos de Bandidos <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="Escudos de Bandidos HP <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="Escudos de Bandidos HP <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="Planador de Bandido"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="Bandido voador que mergulha e explode quando morto"
+
+"MODIFIER_TITLE_BANDITGLIDERS"="Planadores de Bandidos"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="Bandidos que usam um planador para voar sobre as defesas; em caso de dano sério, eles colidem com seus inimigos."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="<color=#FFFFFF>Gera <color=#F36D4D>Planadores de Bandidos<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="Poder dos Planadores de Bandidos <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="Poder dos Planadores Bandidos <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="Poder dos Planadores Bandidos <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="Esmagador"
+
+"CREEP_SMASHER_SHORT_DESC"="Bandido bruto que joga pedras nas torres, atordoando-as"
+
+"MODIFIER_TITLE_SMASHER"="Esmagador"
+
+"MODIFIER_SMASHER_DESC_1"="Brutamontes de alto escalão que avança atirando pedras em unidades e torres, desativando-as por alguns segundos."
+
+"MODIFIER_DESC_SMASHER_LVL1"="<color=#FFFFFF>Gera um <color=#F36D4D>Esmagador <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_SMASHER_LVL2"="Poder dos Esmagadores <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="Poder dos Esmagadores <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="Poder dos Esmagadores <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="Bombas de Fumaça"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="Cortina de fumaça que impede o alvo de qualquer aliado dentro"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="<color=#FFFFFF>Gera <color=#F36D4D>Bombas de Fumaça <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="Poder das Bombas de Fumaça <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="Poder das Bombas de Fumaça <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="Poder das Bombas de Fumaça <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="Elemental de Magma"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="Elemental de Magma"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="Elemental de Magma"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>Gera <color=#F36D4D>um Elemental de Magma<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="Gera um Elemental de Magma com poder extra <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>Gera <color=#F36D4D> 2 <color=#FFFFFF>Elementais de Magma com poder extra <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="Gera 2 Elementais de Magma com poder extra <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="Morcego ruidoso"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="<color=#FFFFFF>Gerar <color=#F36D4D>Morcego Gritador <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="Poder do Morcego Gritador <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="Poder do Morcego Gritador <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="Poder do Morcego Gritador <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="Ferreiro Sombrio"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="Ferreiro Sombrio"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="Chamacorvos Sombrio"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="Chamacorvos Sombrio"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>Invocar <color=#F36D4D>Invocador de Corvos Sombrios<color=#FFFFFF> nas ondas do oponente"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="Poder do Chamador de Corvos Sombrio <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="Poder do Chamador de Corvos Sombrio <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="Poder do Chamador de Corvos Sombrio <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="Destino Flamejante"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="Invoca <color=#F36D4D>3 <color=#FFFFFF>meteoritos que causam dano às unidades inimigas a cada <color=#F36D4D>17<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="Invoca 3 meteoritos com <color=#F36D4D>10%<color=#FFFFFF> de poder extra a cada <color=#F36D4D>15<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="Invoca <color=#F36D4D>4<color=#FFFFFF> meteoritos com <color=#F36D4D>25%<color=#FFFFFF> de poder extra a cada <color=#F36D4D>15<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="Invoca <color=#F36D4D>5<color=#FFFFFF> meteoritos com <color=#F36D4D>40%<color=#FFFFFF> de poder extra a cada <color=#F36D4D>10<color=#FFFFFF> segundos"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="Pedra Derretida"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="Atordoa <color=#F18081>2 <color=#FFFFFF>torres a cada <color=#F18081>17<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="Atordoa 2 torres a cada <color=#F18081>15<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="Atordoa <color=#F18081>3 <color=#FFFFFF>torres a cada <color=#F18081>13<color=#FFFFFF> segundos"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="Atordoa <color=#F18081>4 <color=#FFFFFF>torres a cada <color=#F18081>9<color=#FFFFFF> segundos"
+
+"MISSIONS_LOGINS_DONE"="Entrar"
+
+"MISSIONS_PLAY_GAMES"="Jogar Partidas"
+
+"MISSIONS_DEFEAT_CREEPS"="Derrotar inimigos"
+
+"MISSIONS_TOWER_BUILD"="Construir Torres"
+
+"MISSIONS_TOWER_SKILL_BUY"="Comprar Habilidades de Torre"
+
+"MISSIONS_TOWER_UPGRADE"="Melhore suas Torres no jogo"
+
+"MISSIONS_SPELL_DAMAGE"="Cause dano usando suas Magias"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="Use feitiços de invocação"
+
+"MISSIONS_SPELL_USE"="Usar Feitiços"
+
+"MISSIONS_HERO_DAMAGE"="Cause dano com seu herói"
+
+"MISSIONS_CARD_USE"="Usar carta"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="Comprar Ofertas Diárias"
+
+"MISSIONS_SPEND_GEMS"="Usar Gemas"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="Desbloquear baú usando Gemas"
+
+"MISSIONS_CHEST_OPEN"="Abrir Baús"
+
+"MISSIONS_STARS_EARN"="Ganhar Estrelas"
+
+"TITLE_MISSIONS"="Missões"
+
+"TITLE_DAILY_MISSIONS"="Missões Diárias"
+
+"TAUNT_THANKS"="Obrigado!"
+
+"TAUNT_GOOD_LUCK"="Boa sorte!"
+
+"TAUNT_OOPS"="Ops"
+
+"TAUNT_WELL_PLAYED"="Bem jogado!"
+
+"UNMUTE_TO_SEND_EMOTES"="Ative para enviar e receber emoticons"
+
+"EVENT_COINFARM_BIG_CREEP"="Grande Monstro"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="Gerar um grande monstro no caminho inimigo"
+
+"EVENT_COINFARM_ALL_OUT"="Ataque Total"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="Solte barris no caminho do inimigo para causar dano"
+
+"EVENT_COINFARM_ENCHANTMENT"="Encantamento"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="Conceda um buff de armadura em alguns inimigos no caminho do inimigo"
+
+"EVENT_COINFARM_FARM_ANIMALS"="Animais da Fazenda"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="Gerar criaturas de animais de fazenda no caminho inimigo"
+
+"EVENT_COINFARM_SPEED"="Creeps Rápidos"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="Dar um buff de velocidade em alguns inimigos no caminho"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="Pressione para continuar"
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="TELA DE RECOMPENSAS"
+
+"SUMMON_SCROLLS"="Pergaminhos"
+
+"SUMMON_SCROLLS_1"="Pergaminhos de Invocação"
+
+"SUMMON_SCROLLS_2"="Pergaminhos de Invocação"
+
+"SUMMON_SCROLLS_3_SPECIAL"="Pergaminhos de Invocação"
+
+"SUMMON_SCROLLS_GEMS"="Pergaminhos de Invocação"
+
+"YOUR_SCROLLS"="Pergaminhos"
+
+"EVENT_TICKET"="Ingressos para Evento"
+
+"YOUR_TICKETS"="Ingressos para Evento"
+
+"REMAINING_PURCHASE"="Restante"
+
+"MEGA_GEMS_OFFER"="Mega Oferta de Gemas"
+
+"MEGA_COINS_OFFER"="Mega Oferta de Moedas"
+
+"ACCOUNT_BANNED_TITLE"="Conta Banida"
+
+"ACCOUNT_BANNED_DESC"="Sua conta foi banida por violar os Termos de Serviço"
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>APRESSE-SE!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="Jogo salvo detectado"
+
+"ACCOUNT_CONFLICT_DESC"="Dois jogos salvos diferentes foram detectados"
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="Salvar na Nuvem"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="Salvar Local"
+
+"GAME_MSG_WAVE_CLEAR"="<color=#87FF62>ONDA LIMPA!"
+
+"GAME_MSG_WAVE_LOST"="<color=#FF7B7B>ONDA PERDIDA!"
+
+"GAME_MSG_WAVE_WON"="ONDA VENCIDA"
+
+"TITLE_LEADERBOARD_REWARDS"="Recompensas Globais"
+
+"STADIUM_RULE_1"="Ganhe medalhas competindo no Estádio"
+
+"STADIUM_RULE_2"="Suba no Ranking"
+
+"STADIUM_RULE_3"="Ganhe recompensas exclusivas!"
+
+"ONSLAUGHT_RULE_1"="Derrote todos os inimigos mais rápido que seu oponente..."
+
+"ONSLAUGHT_RULE_2"="Você perde 1 vida se demorar muito"
+
+"ONSLAUGHT_RULE_3"="Vença para obter recompensas únicas!"
+
+"SUMMON_RIFT_RULE_1"="Colete Pergaminhos de Invocação de outros Eventos"
+
+"SUMMON_RIFT_RULE_2"="Use-os para tentar conseguir uma carta exclusiva…"
+
+"SUMMON_RIFT_RULE_3"="Complete várias invocações para obter a carta exclusiva garantida!"
+
+"HERO_BERESAD_DESCRIPTION"="Uma escuridão antiga que fez um acordo com Vez'nan por todo o ouro do reino, trazendo ruína e destruição aos reinos da superfície. Nem as defesas mais fortes do Reino dos Anões puderam parar sua ganância."
+
+"HERO_BERESAD_SHORT_DESC"="- Invoca golem.<br>- Amedronta inimigos, fazendo-os recuar.<br>- Mata instantaneamente, causando dano aos inimigos próximos."
+
+"HERO_BERESAD_NAME"="Beresad"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="Com um rugido feroz, Beresad aterroriza seus inimigos, forçando-os a recuar em pânico."
+
+"HERO_BERESAD_SKILL_0_NAME"="Tema o Dragão"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="Cospe uma pedra no caminho e a imbuí com magia, criando um golem que luta contra inimigos por alguns segundos."
+
+"HERO_BERESAD_SKILL_1_NAME"="Filhote de Dragão"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="Concentra sua respiração para liberar um raio de fogo mortal que desintegra o alvo e desencadeia uma poderosa explosão."
+
+"HERO_BERESAD_SKILL_2_NAME"="aniquilar"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="Beresad encanta alguns inimigos, fazendo com que eles rendam Ouro extra ao serem derrotados."
+
+"HERO_BERESAD_SKILL_3_NAME"="Imposto de Morte"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="Combinando rochas, sucatas e a magia de Beresad, esta criação é um símbolo de ganância e força bruta."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="Feito de materiais comuns e reforçado por magia poderosa, representa a vontade de seu criador."
+
+"HERO_BERESAD_MINION_NAME"="Golem Sombrio"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="O primeiro jogador a derrotar todos os inimigos tira 1 Vida do oponente. (Nível máximo do cartão 5)"
+
+"EVENTS_ONSLAUGHT_REWARD"="Próxima Recompensa"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="Torre sombria alimentada pelos acólitos de Vez'nan, erguendo-se orgulhosamente e impondo terror a todos que tentam passar sem permissão. Ao focar seu raio nos inimigos, ela os desgasta ao longo do tempo até atingir um estado crítico que desencadeia uma explosão."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="Uma torre sombria que corrói lentamente os inimigos um por um até que não reste nenhum."
+
+"TOWER_BLAZING_GEM_NAME"="Gema Ardente"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="Cada inimigo derrotado explodirá em uma explosão sobrenatural que causa dano a outros inimigos.\n(Habilidade sempre ativa)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="Poder Instável"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="Permite que a Gema Flamejante atinja 2 alvos ao mesmo tempo, dividindo o dano, mas aumentando o dano total.\n(Comprar habilidade com torre no máximo)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="Pode atingir 2 alvos ao mesmo tempo"
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="Gema da Multiplicação"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="Um poderoso Mago Eldritch que surge quando o acólito de seu mestre o chama. Quando seu HP se esgota, ele entra em uma segunda forma imóvel, concedendo Resistência Mágica aos aliados próximos antes de desaparecer.\n(Comprar habilidade com torre no máximo)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="Invoca um Magus Eldritch no lado do oponente"
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="Chamado Eldritch"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="Canaliza a magia dos acólitos para destruir uma unidade inimiga"
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="A cada poucos segundos, a torre dispara um raio que causa dano e pode matar instantaneamente uma unidade do lado do oponente.\n(Habilidade sempre ativa)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="Raio Destruidor"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Magus Eldritch"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Os aprendizes de Vez'nan usam seu poder corrupto para destruir seus inimigos"
+
+"GAME_MSG_WAVE_DRAW"="EMPATE"
+
+"TITLE_LANGUAGE"="IDIOMA"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="INVOCAÇÃO<br>FENDA"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="Tem certeza de que deseja alterar as configurações de idioma?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="IDIOMA"
+
+"BUTTON_YES"="Sim"
+
+"BUTTON_NO"="Não"
+
+"FREE_TAG"="GRÁTIS"
+
+"TOOLTIP_CLAIM"="PEGA!"
+
+"ERROR_LOADING_SHOP"="ERRO AO CARREGAR LOJA"
+
+"SHOP_OFFER_EXPIRES_IN"="Oferta expira em:"
+
+"SHOP_ARENA_PACK_TITLE"="Pacote de Arena"
+
+"SHOP_DAILY_DEALS_TITLE"="Ofertas Diárias"
+
+"SHOP_CHESTS_TITLE"="Baús"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Ofertas Especiais"
+
+"EVENTS_LOCKED_EVENT_TITLE"="Evento Bloqueado"
+
+"COMING_SOON"="EM BREVE"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="Cartas para desbloquear:"
+
+"BUTTON_CLAIM"="PEGAR"
+
+"BUTTON_REWARDS"="Recompensas"
+
+"MISSIONS_WEEKLY"="Semanal"
+
+"MISSIONS_DAILY"="Diário"
+
+"MISSIONS_RESETS_IN"="Reinicia em:"
+
+"STADIUM_REWARD_POP_UP_NAME"="Parabéns {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="Você foi o número {0} no placar. Reivindique suas recompensas!"
+
+"TOWER_TESLA_PACK_NAME"="Pacote Casual"
+
+"TAP_TO_CONTINUE"="Toque para continuar"
+
+"TIPS_SCREEN_TITLE"="Dicas"
+
+"REWARDS_TITLE"="Recompensas"
+
+"NEW_ARENA_UNLOCKED"="Nova arena<br>desbloqueada !"
+
+"SELECT_CARD_TO_REPLACE"="SELECIONE UMA CARTA PARA SUBSTITUIR"
+
+"TIMER_DAY"="d"
+
+"TIMER_HOUR"="h"
+
+"TIMER_MINUTE"="min"
+
+"TIMER_SECOND"="s"
+
+"COLISSEUM_WAITING_TO_DELIVER"="Estádio fechado. Prêmios a caminho..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="Carta {0}"
+
+"CARD_STAT_RESPAWN_TIME"="Tempo de renascimento"
+
+"PRIVATE_MATCH_TITLE"="PARTIDA AMIGÁVEL"
+
+"PRIVATE_MATCH_ENTER_CODE"="Inserir Código"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="Digite o código para entrar"
+
+"PRIVATE_MATCH_CREATE_MATCH"="CRIAR PARTIDA"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="Aguardando oponente..."
+
+"PRIVATE_MATCH_CONNECTING"="Conectando..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="Criando sala..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="JUNTAR"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="Por favor, insira o código da sala"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="Tempo de conexão esgotado. Tente novamente."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="Falha ao iniciar partida"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="Falha ao entrar na sala"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="Desconectado da sala"
+
+"ERROR"="ERRO"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="Novato Sombrio"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="Cavaleiro das Trevas"
+
+"PRIVATE_PVP_RULE_1"="Crie uma partida para gerar um código único…"
+
+"PRIVATE_PVP_RULE_2"="Compartilhe o código com seu amigo! Eles podem participar inserindo-o."
+
+"PRIVATE_PVP_RULE_3"="Curta uma partida privada em um mapa aleatório!"
+
+"PRIVATE_PVP_RULE_4"="Níveis máximos de cartas {0} - Níveis máximos de impulsionadores {1}"
+
+"CHASER_PACK_TITLE"="Pacote {0}"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="Espada Sombria"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="O legado do matador transformará o próximo cavaleiro a empunhar esta espada."
+
+"PRIVATE_MATCH_INVITATION_CODE"="Código de Convite"
+
+"SHOP_EMOTES_OFFERS_TITLE"="Emotes"
+
+"NEW_EMOTE"="Novo Emote!"
+
+"SHOP_ACQUIRED"="Adquirido"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="Liga de Bronze"
+
+"TERRAIN_STADIUM_SILVER_NAME"="Liga Prata"
+
+"TERRAIN_STADIUM_GOLD_NAME"="Liga de Ouro"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="Liga Diamante"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="Liga dos Campeões"
+
+"COLLECTION_EMOTES"="Emotes"
+
+"TERRAIN_STADIUM_REWARD"="Recompensa:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="Tropas de elite do Exército Negro treinadas tanto no céu quanto no solo, patrulhando o campo de batalha com precisão implacável. Com um único comando, elas mudam de guardiãs de linha de frente robustas para caçadoras que atacam os inimigos com fogo implacável."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="Soldados versáteis que dominam tanto a terra quanto o céu, caçando inimigos com precisão mortal."
+
+"TOWER_ROCKET_GUNNERS_NAME"="Atiradores de Foguete"
+
+"ROCKET_GUNNERS_UNIT_NAME"="Atirador de Foguetes"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="Soldado treinado para alternar entre ataques com propulsão a jato e combate em terra firme"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="Os Atiradores podem ativar seus jetpacks para voar sobre o caminho ou desativá-los para lutar no chão.\n(Habilidade sempre disponível)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="Manobra Aérea"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="Aplica um revestimento corrosivo a cada tiro, reduzindo a armadura do inimigo e causando dano em área no impacto.\n(Compre a habilidade no Máximo de Melhoria da Torre)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="Cada tiro reduz a armadura e causa dano em área."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="Revestimento Fosfórico"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="Lança mísseis teleguiados que eliminam instantaneamente um alvo ao impacto.\n(Compre a habilidade no Máximo de Melhoria da Torre)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="Dispara mísseis que matam instantaneamente um alvo"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="Mísseis de Ferrão"
+
+"EMOTE_AEGION_PONDERING"="Pensativo"
+
+"EMOTE_ALLERIA_ANGRY"="Alleria Brava"
+
+"EMOTE_ALLERIA_SHINE"="Alleria Feliz"
+
+"EMOTE_ASHBITE_HEART"="Ashbite Amoroso"
+
+"EMOTE_BERESAD_MONEY"="Lide com isso"
+
+"EMOTE_CHICKEN_SCREAM"="Galinha Brava"
+
+"EMOTE_DENAS_ANGRY"="Denas Pistola"
+
+"EMOTE_DENAS_CRY"="Chora Mais"
+
+"EMOTE_DENAS_GOLD"="Dim-dim"
+
+"EMOTE_DENAS_LAUGH"="Denas Feliz"
+
+"EMOTE_DIERDRE_ANGRY"="Seja Realista"
+
+"EMOTE_EISKALT_SURPRISE"="Desaprovação"
+
+"EMOTE_ELORA_TIME_CLOCK"="Suspiro..."
+
+"EMOTE_GERALD_BEACH"="Modo Tranquilo"
+
+"EMOTE_GERALD_DESPAIR"="Desespero..."
+
+"EMOTE_GERALD_SHINE"="Sorriso Brilhante"
+
+"EMOTE_GOBLIN_ANGRY"="Frustrado"
+
+"EMOTE_GOBLIN_FIRE"="Tá Tudo Bem"
+
+"EMOTE_GOBLIN_GIFT"="Surpresa!"
+
+"EMOTE_GOBLIN_GOOFY"="Fazendo Palhaçada"
+
+"EMOTE_GOBLIN_KISS"="Beijos pra Você"
+
+"EMOTE_GOBLIN_OOPS"="Opa"
+
+"EMOTE_GOBLIN_SLEEPING"="Bons Sonhos"
+
+"EMOTE_GOBLIN_SNOW"="Goblin da Neve"
+
+"EMOTE_GOBLIN_TAUNT"="Goblin Zombeteiro"
+
+"EMOTE_GRAWL_BICEP"="Grawl Exibido"
+
+"EMOTE_GRAWL_CHRISTMAS"="Clima de Festa"
+
+"EMOTE_HACKSAW_LAUGH"="Maníaco"
+
+"EMOTE_INGVAR_TRANSFORM"="Virando Urso!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="Toca Aqui"
+
+"EMOTE_SKELETON_SHOCKED"="O QUÊ!?"
+
+"EMOTE_SKELETON_SWEAT"="Esqueleto Suado"
+
+"EMOTE_SOLDIER_CELEBRATION"="Celebração"
+
+"EMOTE_VESPER_OK"="Perfeito"
+
+"CREEP_PIG_NAME"="Porco"
+
+"CREEP_GOAT_NAME"="Cabra"
+
+"CREEP_GOOSE_NAME"="Ganso"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="VALE DOS RENEGADOS"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="Vale dos Renegados"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="Vale dos Renegados"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="Pacote Lendário de Inverno"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="Pacote Épico de Inverno"
+
+"SHOP_SEASON_OFFERS_TITLE"="Especiais sazonais"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="Um novato do Exército Sombrio enfraquecido, mal protegido por uma armadura despedaçada."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="Mesmo com parte de sua armadura despedaçada, este cavaleiro continua sendo uma ameaça aterrorizante."
+
+"CREEP_GOOSE_SHORT_DESC"="Um ganso poderoso espalhando caos pela fazenda"
+
+"CREEP_DONKEY_RIDER_NAME"="Cavaleiro de Burro"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="Fazendeiro"
+
+"CREEP_PIG_SHORT_DESC"="Um porco rebelde que sempre escapa da sua jaula"
+
+"CREEP_GOAT_SHORT_DESC"="O Melhor"
+
+"MODIFIER_TITLE_DARK_PRIEST"="Sacerdote das Trevas"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="Inimigo com resistência mágica que transforma unidades em Recrutas Sombrios ou Cavaleiros Sombrios"
+
+"CREEP_DARK_PRIEST_NAME"="Sacerdote das Trevas"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="Um sacerdote maligno que espalha a palavra do Senhor das Trevas, corrompendo qualquer um para se juntar ao Exército das Trevas."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>Gera 2 <color=#F36D4D> Sacerdotes Sombrios <color=#FFFFFF>nas ondas do oponente"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="Poder do Sacerdote Sombrio <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="Poder do Sacerdote Sombrio <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="Poder do Sacerdote Sombrio <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="Baú da Liga Bronze"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="Baú da Liga de Prata"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="Baú da Liga de Ouro"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="Baú da Liga de Diamante"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="Baú da Liga dos Campeões"
+
+"CARDS_TAB"="Cartas"
+
+"HERO_RAELYN_DESCRIPTION"="Uma comandante imponente e brutal do Exército das Trevas, Raelyn fica na linha de frente, pronta para derrubar qualquer coisa em seu caminho. Sua dedicação inabalável à batalha inspira medo em seus inimigos e uma devoção feroz entre seus cavaleiros."
+
+"HERO_RAELYN_SHORT_DESC"="- Protege-se com um escudo.<br>- Atordoa e enfraquece inimigos com medo.<br>- Entra em fúria, causando dano em área mais rápido."
+
+"HERO_RAELYN_NAME"="Raelyn"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="Sua bravura incomparável lhe concede um escudo que anula todo o dano por um curto período de tempo."
+
+"HERO_RAELYN_SKILL_0_NAME"="Inquebrável"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="Seu grito de guerra furioso deixa os inimigos em pânico, atordoando-os e reduzindo seu dano."
+
+"HERO_RAELYN_SKILL_1_NAME"="Inspirar Medo"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="A cada poucos segundos, sua sede por destruição a leva à raiva, aumentando sua velocidade de ataque e fazendo com que seus golpes causem dano em área."
+
+"HERO_RAELYN_SKILL_2_NAME"="Ataque"
+
+"STAGE_FORSAKEN_1"="Garfo Carmesim"
+
+"STAGE_FORSAKEN_2"="Terras Cinzentas"
+
+"STAGE_FORSAKEN_3"="Os Desperdícios"
+
+"STAGE_FORSAKEN_4"="Beco Sombrio"
+
+"STAGE_FORSAKEN_5"="Trilha de Pedra Negra"
+
+"STAGE_FORSAKEN_6"="Caminho Caído"
+
+"COMMAND_ORDER_UNIT_NAME"="Caçador Sombrio Caído"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="A alma de um matador que continua lutando mesmo na morte"
+
+"COIN_FARM_RULE_1"="Poderes Especiais da Fazenda substituem seus Feitiços aqui..."
+
+"COIN_FARM_RULE_2"="Use-os para vencer e coletar Moedas em seu banco..."
+
+"COIN_FARM_RULE_3"="Complete o banco antes do término do evento e ganhe todas as Moedas que você salvou!"
+
+"COIN_FARM_RULE_4"="Níveis máximos de cartas {0} - Níveis máximos de impulsionadores {1}"
+
+"SPELL_COMMAND_ORDER_NAME"="Ordem Caída"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="feitiço proibido"
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="Chame um Slayer caído para ajudá-lo no campo de batalha"
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Golpe Supremo"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Invoca um feitiço proibido para destruir o inimigo mais poderoso na área"
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="Ataca o inimigo mais forte em uma área, eliminando-o instantaneamente."
+
+"MENU_OFFER_ICON_SALE"="PROMOÇÃO"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="COLETE AS MOEDAS AGORA!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="Deseja coletar suas moedas agora? Você receberá apenas suas economias atuais."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="Um poderoso Elemental de Magma surge em um ponto aleatório à frente no mapa. Após ser derrotado, ele entra em uma forma de rocha para se curar e reviver."
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="Um Elemental de Magma que emerge como um desastre natural vivo, deixando apenas destruição para trás."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="Um Elemental de Magma que foi destruído e entra em uma fase de reconstrução para se curar."
+
+"CREEP_SCREECHER_BAT_NAME"="Morcego Uivador"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="Um morcego gigante que voa, atordoando quem estiver em seu caminho."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="Um morcego gigante que usa seu grito supersônico para atordoar inimigos próximos."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="Os trabalhadores do Exército das Trevas são aqueles que preparam e reparam as forças do Senhor das Trevas."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="Reparador"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="Invoca o Ferreiro das Sombras nas ondas do oponente"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="Poder do Ferreiro Sombrio <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="Poder do Ferreiro Sombrio <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="Poder do Ferreiro Sombrio <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="Um Corvo Sombrio que invoca Corvos Negros a cada poucos segundos"
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="Treinador de corvos que espalha corvos por todo o reino para criar uma vasta rede de inteligência."
+
+"MODIFIER_DESC_FLAMING_FATE"="Causa erupções violentas que lançam rochas em chamas ao redor dos inimigos."
+
+"MODIFIER_DESC_MOLTEN_STONE"="Gera terremotos por todo o campo de batalha, enterrando torres inimigas em rocha por alguns segundos."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="Arqueiro mortal que dispara flechas com velocidade cegante, atingindo inimigos antes que possam reagir"
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="Um inimigo blindado voador que aciona um impulso de foguete quando é atacado"
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="Um Fragmento de Magma que foi destruído e entra em uma fase de reconstrução para se curar."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="Golem"
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="Uma máquina de cerco gigante que destrói qualquer castelo no caminho de Vez'nan."
+
+"NEW_LEAGUE_UNLOCKED"="Liga desbloqueada!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="Servidor em manutenção. Término estimado: {0}"
+
+"HERO_ASRA_DESCRIPTION"="Forjada através de um treinamento implacável, Asra é uma das assassinas sombrias mais mortais que já surgiu do Exército das Trevas. Seu olhar silencioso é tão letal quanto suas lâminas, e aqueles que o encontram raramente vivem o suficiente para se arrepender. Escolhida pessoalmente por Vez'nan, ela ataca com rapidez, precisão e sem piedade."
+
+"HERO_ASRA_SHORT_DESC"="- Teletransporta-se e lança um escudo.<br>- Dispara uma rajada de flechas que quebra armadura.<br>- Envenena fatalmente inimigos com sua adaga."
+
+"HERO_ASRA_NAME"="Asra"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="Libera uma rajada de flechas poderosas que causam dano e quebram parte da armadura inimiga."
+
+"HERO_ASRA_SKILL_0_NAME"="Flechas de Ônix"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="Desfere um golpe rápido e letal com sua lâmina envenenada, envenenando o inimigo até que pereça."
+
+"HERO_ASRA_SKILL_1_NAME"="Picada de Aranha"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="Usando sua Dança Sombria, ela pode se teletransportar instantaneamente para qualquer lugar, fornecendo um escudo protetor adicional ao aparecer perto de tropas inimigas."
+
+"HERO_ASRA_SKILL_2_NAME"="Lampejo do Véu Noturno"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="Um arqueiro impiedoso impulsionado pela crueldade e obsessão, caçando sem remorso. Cada inimigo morto sob suas flechas alimenta seu poder, fortalecendo seus ataques e transformando a morte em sua maior arma."
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="Uma torre de arqueiros implacável que ganha poder de ataque a cada inimigo morto, tornando cada tiro uma ameaça crescente."
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="Arco Crepuscular"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="A torre pode mudar seu foco de dano de mirar no inimigo mais próximo da saída para mirar no inimigo com o maior HP máximo.\n(Habilidade sempre ativa)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="Foco Inimigo"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="Invoca dois Assediadores para ajudar na batalha. Esses guerreiros ferozes e ágeis causam dano letal enquanto têm chance de evitar ataques recebidos.\n(Comprar habilidade com torre no máximo)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="Invoca dois Assediadores para patrulhar a área e destruir quem tentar se aproximar da torre."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="Suporte de Lâminas"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="Dispara uma flecha envolta em magia negra que confunde a unidade inimiga alvo, impedindo-a de usar habilidades por alguns segundos.\n(Comprar habilidade com torre no máximo)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="Alvos Heróis primeiro, impedindo o uso de habilidades por um curto período de tempo."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="Caça Silenciosa"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="Cada morte feita por esta torre aumenta seu dano de ataque por alguns segundos, até 3 vezes."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="Cada inimigo morto pelas flechas desta torre tem sua alma absorvida, fortalecendo-as e aumentando seu dano, até um máximo de 3 vezes.\n(Habilidade sempre ativa)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="Emoção da caça"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="Agressores"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="Guerreiros habilidosos dos Elfos do Crepúsculo especializados em combate corpo a corpo. Eles representam a etapa final antes de se tornarem Assediadores de Elite."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="Guerreiros Elfos do Crepúsculo com chance de esquivar ataques corpo a corpo."
+
+"INBOX_TAG_UPDATE"="Atualização"
+
+"INBOX_TAG_NEWS"="Notícias"
+
+"INBOX_TAG_GIFT"="Presente"
+
+"INBOX_TITLE"="CAIXA"
+
+"INBOX_NO_MESSAGES"="Nenhuma mensagem disponível"
+
+"INBOX_SHOW_ALL_MESSAGES"="Mostrar tudo"
+
+"INBOX_READ"="Ler"
+
+"HERO_ALLERIA_WILDCAT_NAME"="Alleria & Presa Selvagem"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="Em uma forma muito mais velha e sábia, esta guardiã da floresta está pronta para liberar toda a força da natureza. Montando sua Presa Selvagem já crescida, ela é capaz de desferir golpes mortais enquanto ainda atira em inimigos distantes."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- Desmonta da Presa Selvagem ao morrer.<br>- Dispara uma flecha que desacelera e causa dano em área.<br>- Ruge e enfraquece os creeps próximos."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="Desmontar"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="Em grave perigo, ela desmonta de sua Presa Selvagem e recua para continuar lutando até que a fera esteja pronta para a batalha novamente."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="Disparo de Espinhos"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="Dispara uma flecha poderosa carregada com a força da natureza que faz crescer vinhas no caminho, desacelerando e causando dano aos inimigos que cruzam a área."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="Rugido da Presa Selvagem"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="A Presa Selvagem solta um rugido feroz que intimida os inimigos, reduzindo a força de seus golpes enquanto aumenta o dano que recebem."
+
+"MEGA_TICKET_OFFER_1"="Super Oferta de Ingressos"
+
+"MEGA_TICKET_OFFER_2"="Oferta Incrível de Ingressos"
+
+"PLAYER_PROFILE_TITLE"="Perfil"
+
+"PLAYER_PROFILE_STATS_TITLE"="Estatísticas do jogador"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="Avatares"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="Faixas"
+
+"PLAYER_PROFILE_TITLES_TITLE"="Títulos"
+
+"PLAYER_PROFILE_USER_TAB"="Usuário"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="Editar perfil"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="Sequência atual"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="Melhor sequência"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="Vitórias"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="Derrotas"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="Taxa de vitórias"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="Total de cartas"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="Heróis desbloqueados"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="Torres desbloqueadas"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="Feitiços desbloqueados"
+
+"PLAYER_PROFILE_STAT_MATCHES"="Partidas"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="Investida de ferro"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="Desafio de investida avançado para jogadores fortes!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="O primeiro jogador a derrotar todos os inimigos tira 1 vida do oponente. (Nível máx. de carta 9)"
+
+"ONSLAUGHT_2_RULE_1"="Derrote todos os inimigos mais rápido que seu oponente..."
+
+"ONSLAUGHT_2_RULE_2"="Você perde 1 vida se demorar demais..."
+
+"ONSLAUGHT_2_RULE_3"="Vença para conseguir recompensas únicas!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="RECRUTA DE LINIREA"
+
+"PROFILE_TITLE_DARK_ROOKIE"="NOVATO DAS TREVAS"
+
+"PROFILE_TITLE_FOREST_RANGER"="GUARDIÃO DA FLORESTA"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="GUERREIRO VALENTE"
+
+"PROFILE_TITLE_0005"="DIABRETE DE LAVA"
+
+"PROFILE_TITLE_0006"="MESTRE DA FURTIVIDADE"
+
+"PROFILE_TITLE_0007"="GÊNIO TÁTICO"
+
+"PROFILE_TITLE_0008"="SENHOR DA GUERRA LENDÁRIO"
+
+"BUTTON_KINGDOM_PASS"="PASSE DO REINO"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="PEGAR OURO"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="A fazenda está fechada, pegue suas moedas!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="Alterar nome de usuário"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="Você confirma que deseja alterar seu nome de usuário?"
+
+"EVENTS_REOPENS_IN"="Reabre em..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="A fazenda está fechada, mas você ainda pode pegar suas moedas não reclamadas!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="Última chance para moedas!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="Fazenda de moedas fecha em breve! Jogue partidas e pegue moedas agora!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="Pacote Épico do Despertar I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="Pacote Épico do Despertar II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="Pacote Lendário do Despertar I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="Pacote Lendário do Despertar II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="Limite atingido!"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="Nenhum"
+
+"ERROR_INVALID_RESPONSE_TITLE"="Algo deu errado!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="Não foi possível processar a resposta do servidor. Por favor, tente novamente."
+
+"HERO_BONEHART_DESCRIPTION"="Os poderosos restos esqueléticos do outrora legítimo Fausto. Este colossal Dracoliche comanda a morte, convocando mortos-vivos e espalhando pragas enquanto dizima as forças inimigas com um poder terrível. Tendo sido o escolhido da Deusa Elynie, ele agora vaga pelas terras com sua alma manchada por forças sombrias e proibidas."
+
+"HERO_BONEHART_SHORT_DESC"="- Invoca Wyverns.<br>- Cai no caminho, causando dano.<br>- Espalha a Praga."
+
+"HERO_BONEHART_NAME"="Bravosso"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="A cada punhado de inimigos abatidos, Wyverns Esqueléticos surgem para assombrar o caminho do oponente. Quando destruídos, explodem em uma nuvem purulenta, espalhando a Praga para todas as unidades próximas."
+
+"HERO_BONEHART_SKILL_0_NAME"="Wyverns Esqueléticos"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="Dissolve-se na escuridão antes de se chocar no caminho do inimigo, causando grande dano em área e amaldiçoando todos os sobreviventes com a Praga."
+
+"HERO_BONEHART_SKILL_1_NAME"="Nova da Doença"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="Exala um miasma putrefato de seus ossos amaldiçoados, sufocando o caminho do inimigo em uma nuvem pestilenta que retarda todos que a respiram e os aflige com a Praga."
+
+"HERO_BONEHART_SKILL_2_NAME"="Nuvem de Praga"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="Lança uma saraivada de projéteis carregados de doenças de seu corpo em decomposição, espalhando a Praga indiscriminadamente pelo campo de batalha e atingindo os inimigos onde quer que estejam."
+
+"HERO_BONEHART_SKILL_3_NAME"="Explosão Contagiante"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="Uma criatura de osso amaldiçoada que assombra os céus, infectando todos abaixo com a praga de seu sombrio mestre."
+
+"HERO_BONEHART_WYVERN_NAME"="Wyvern Esquelético"
+
+"BUY_GOLDEN_PASS"="Obter Passe Dourado"
+
+"BUY_PLATINUM_PASS"="Obter Passe Platina"
+
+"DECK_BUILDER_WILDCARDS"="CURINGAS"
+
+"SEASON_PASS_COMMON_TITLE"="COMUM"
+
+"SEASON_PASS_GOLDEN_TITLE"="DOURADO"
+
+"SEASON_PASS_PLATINUM_TITLE"="PLATINA"
+
+"SEASON_PASS_REWARDS"="RECOMPENSAS"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 10 NÍVEIS DE PASSE EXTRAS"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="Ver todas as recompensas"
+
+"SEASON_PASS_NAME"="CORRENTES DA FÚRIA"
+
+"SEASON_PASS_WIDGET_LOCKED"="PASSE DO REINO<br> Desbloqueado na Arena 1"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="RESGATAR<br>RECOMPENSA!"
+
+"WILDCARD_RARITY_COMMON"="Curinga Comum"
+
+"WILDCARD_RARITY_RARE"="Curinga Raro"
+
+"WILDCARD_RARITY_EPIC"="Curinga Épico"
+
+"WILDCARD_RARITY_LEGENDARY"="Curinga Lendário"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="ESCOLHA UMA CARTA COMUM"
+
+"WILDCARD_VIEW_TITLE_RARE"="ESCOLHA UMA CARTA RARA"
+
+"WILDCARD_VIEW_TITLE_EPIC"="ESCOLHA UMA CARTA ÉPICA"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="ESCOLHA UMA CARTA LENDÁRIA"
+
+"WILDCARD_VIEW_SUBTITLE"="Totalizando"
+
+"WILDCARD_VIEW_NAME"="Curingas"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="Adicionar {0} {1} a esta carta?"
+
+"WILDCARD_VIEW_WILD_CARD"="Curinga"
+
+"WILDCARD_VIEW_WILD_CARDS"="Curingas"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="Adicionar Curingas"
+
+"WILDCARD_POPUP_DESCRIPTION"="Use Curingas para adicionar progresso de melhoria em qualquer carta!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="Nenhuma carta válida para usar Curingas."
+
+"WILDCARD_YOUR_CARDS"="Suas cartas"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="Obtenha Curingas para melhorar suas cartas!"
+
+"COLLECTION_TYPE_BANNER"="BANNER DE PERFIL"
+
+"COLLECTION_TYPE_TITLE"="TÍTULO DE PERFIL"
+
+"COLLECTION_TYPE_AVATAR"="AVATAR DE PERFIL"
+
+"BANNER_BANDITS"="Esconderijo dos Saqueadores"
+
+"BANNER_BASICBLUE"="Azul Éter"
+
+"BANNER_BASICGREEN"="Verde Vibrante"
+
+"BANNER_BASICPURPLE"="Roxo Arcano"
+
+"BANNER_BASICRED"="Vermelho Brasa"
+
+"BANNER_BASICYELLOW"="Amarelo Solar"
+
+"BANNER_DESERT"="Arredores de Hammerhold"
+
+"BANNER_DESERT2"="Dunas de Brasa"
+
+"BANNER_LINIREA"="Campos Verdes de Linirea"
+
+"BANNER_LINIREA"="Campos Verdes de Linirea"
+
+"BANNER_LINIREA2"="As Terras Agrícolas"
+
+"BANNER_MOUNTAIN"="Planalto Pico Gelado"
+
+"BANNER_TRAINING"="Pátio do Quartel"
+
+"BANNER_TRAINING2"="Campo de Tiro com Arco"
+
+"AVATAR_FOOTMAN"="SOLDADO DE LINIREA"
+
+"AVATAR_GOBLIN"="GOBLIN TRAVESSO"
+
+"HERO_MALIK_NAME"="Rei Malik"
+
+"HERO_MALIK_DESCRIPTION"="Feroz em batalha, ele subiu de prisioneiro quebrado na Pedreira de Sangue a uma lenda forjada na tempestade. Pegando um martelo caído, ele quebrou suas correntes e abriu seu caminho em incontáveis batalhas como campeão imparável de Linirea, até reivindicar seu trono como Rei de Hammerhold, agora um guardião inabalável de seu povo."
+
+"HERO_MALIK_SHORT_DESC"="- Alto dano ao inimigo mais forte.<br>- Silencia torres do oponente.<br>- Pode saltar longas distâncias."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ NOVA CARTA LENDÁRIA<br>REI MALIK"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="Cada ataque de Malik destrói a armadura e a resistência mágica dos inimigos por alguns segundos."
+
+"HERO_MALIK_SKILL_0_NAME"="Desabilitar"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="Invoca um poderoso golpe de trovão que silencia algumas torres do oponente, desativando suas habilidades por alguns segundos e reduzindo o dano que causam."
+
+"HERO_MALIK_SKILL_1_NAME"="O Trovão"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="Mira o inimigo mais resistente do mapa, atingindo-o com um raio e causando dano equivalente a uma porcentagem de sua vida total."
+
+"HERO_MALIK_SKILL_2_NAME"="Raio Desacorrentado"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="Ao se mover longas distâncias, ele salta e mergulha no chão, causando dano em área aos inimigos próximos e os atordoando por alguns segundos."
+
+"HERO_MALIK_SKILL_3_NAME"="Terremoto"
+
+"PROFILE_TITLE_S1_FREE"="PIONEIRO"
+
+"PROFILE_TITLE_S1_GOLD"="GUERREIRO DAS AREIAS"
+
+"PROFILE_TITLE_S1_PLATINUM"="QUEBRA-CORRENTES"
+
+"EMOTE_ALRIC_FACEPALM"="Facepalm do Alric"
+
+"EMOTE_MALIK_BOLT"="Raio de Malik"
+
+"SEASON_PASS_COMMON_PASS"="Passe<br>Comum"
+
+"SEASON_PASS_GOLDEN_PASS"="Passe<br>Dourado"
+
+"SEASON_PASS_PLATINUM_PASS"="Passe<br>Platina"
+
+"AVATAR_MAGE"="APRENDIZ DE MAGO"
+
+"AVATAR_SHEEP"="OVELHA LOUCA"
+
+"AVATAR_YOUNGMALIK"="MALIK JOVEM"
+
+"BUTTON_REROLL"="ROLAR DE NOVO"
+
+"BUTTON_KEEP"="MANTER"
+
+"N_ROLLS_REMAINING"="Restantes: {0}"
+
+"SEASON_PASS_TIME_LEFT"="Tempo restante"
+
+"CHEST_INFO_NAME_SEASON_FREE"="Baú Comum"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="Baú Arcano"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="Baú Bônus"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="Baú Mítico"
+
+"SEASON_PASS_SEASON_NUMBER"="Kingdom Pass - Temporada 1"
+

@@ -1,0 +1,90 @@
+{
+    "MG_TowerArcaneWizard_2": {
+        "stats": {
+            "COST": [
+                180
+            ],
+            "CARD_RANK": [
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+",
+                "EX"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                2.0
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                462,
+                531,
+                611,
+                703,
+                808,
+                929,
+                1069,
+                1229,
+                1413,
+                1625,
+                1869,
+                2149,
+                2472,
+                2843,
+                3269
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                517,
+                595,
+                684,
+                786,
+                904,
+                1040,
+                1196,
+                1375,
+                1582,
+                1819,
+                2092,
+                2405,
+                2766,
+                3181,
+                3658
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_MAGIC"
+            ],
+            "RANGE": [
+                160
+            ]
+        },
+        "skill1": {
+            "CHANCE_PERCENTAGE": [
+                "40%"
+            ],
+            "MAGIC_RESISTANCE_REDUCTION": [
+                "60%"
+            ],
+            "DURATION": [
+                11
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Increase_Spell_Damage"
+                ],
+                "perkPercentage": [
+                    3
+                ]
+            }
+        }
+    }
+}

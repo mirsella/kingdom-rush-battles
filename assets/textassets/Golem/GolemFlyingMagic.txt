@@ -1,0 +1,10 @@
+{
+    "GolemFlyingMagic": {
+        "ai": {
+            "tags": [
+                "flying",
+                "magic"
+            ]
+        }
+    }
+}

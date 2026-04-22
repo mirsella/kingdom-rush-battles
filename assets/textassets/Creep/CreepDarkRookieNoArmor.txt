@@ -1,0 +1,44 @@
+{
+    "CreepDarkRookieNoArmor": {
+        "goldReward": [
+            9
+        ],
+        "goldRewardShiny": [
+            107
+        ],
+        "health": [
+            52
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8
+                ],
+                "maxDamage": [
+                    12
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

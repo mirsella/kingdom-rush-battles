@@ -1,0 +1,70 @@
+{
+    "HeroEiskaltAvalancheUnit": {
+        "speed": [
+            2.0
+        ],
+        "timeToLive": [
+            4.0
+        ],
+        "Avalanche_unit": {
+            "range": [
+                1
+            ],
+            "Ball_DOT": {
+                "COMMENT": "Time to calculate damage,also How much time after leaving the area is going to be affected",
+                "duration": [
+                    1
+                ],
+                "For GD": [
+                    "Here it says health but in this case is fixed damage being removed over time"
+                ],
+                "minHealth": [
+                    22.0,
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7
+                ],
+                "maxHealth": [
+                    33.0,
+                    38.0,
+                    43.6,
+                    50.2,
+                    57.7,
+                    66.4,
+                    76.3,
+                    87.8,
+                    100.9,
+                    116.1,
+                    133.5,
+                    153.5,
+                    176.6,
+                    203.0,
+                    233.5
+                ],
+                "tickTime": [
+                    0.2
+                ]
+            },
+            "slow": {
+                "COMMENT": "speed debuff duration after the spike ball leaves",
+                "duration": [
+                    1
+                ],
+                "movementSpeedPercentage": [
+                    0
+                ]
+            }
+        }
+    }
+}

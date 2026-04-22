@@ -1,0 +1,80 @@
+{
+    "CreepBanditShields": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            553,
+            780,
+            1105,
+            1625
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.6
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6,
+                    8,
+                    12,
+                    18
+                ],
+                "maxDamage": [
+                    9,
+                    12,
+                    17,
+                    25
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "spawn": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                14.0,
+                12.0,
+                10.0,
+                8.0
+            ],
+            "unit": {
+                "count": [
+                    2,
+                    3,
+                    3,
+                    3
+                ]
+            },
+            "safeDistanceToExit": [
+                2.5
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

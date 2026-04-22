@@ -1,0 +1,48 @@
+{
+	"Idle1_1" : {
+		"attachs" :
+		{
+			"touchBounds2" : [80,80,0.05,13.75],
+			"target1Offset" : [1,0,0,1,0,14.85],
+			"target1" : [1,0,0,1,0,-1.5]
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"touchBounds2" : [80,80,0.05,13.75],
+					"target1Offset" : [1,0,0,1,0,14.85],
+					"target1" : [1,0,0,1,0,-1.5]
+				}
+			}
+		}
+	},
+	"Idle2_1" : {
+		"attachs" :
+		{
+			"touchBounds2" : [80,80,0.05,13.75],
+			"target1Offset" : [1,0,0,1,0,14.85],
+			"target1" : [1,0,0,1,0,-1.5]
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"touchBounds2" : [80,80,0.05,13.75],
+					"target1Offset" : [1,0,0,1,0,14.85],
+					"target1" : [1,0,0,1,0,-1.5]
+				}
+			}
+		}
+	}
+}

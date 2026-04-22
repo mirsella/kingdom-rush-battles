@@ -1,0 +1,8 @@
+{
+	"MechanicIcyZone":{
+		
+		"mechanic": {
+			"range": [ 0.9 ]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "Smasher": {
+        "ai": {
+            "tags": [
+                "bulk",
+                "armor",
+				"stun"
+            ]
+        }
+    }
+}

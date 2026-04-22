@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="Kabul Et' butonuna basarak, Şartlar ve Koşulları ve Gizlilik Politikasını okuduğumu ve kabul ettiğimi onaylıyorum"
+
+"BUTTON_CONSENT"="Onay Yönetimi"
+
+"BUTTON_ACCEPT"="Kabul etmek"
+
+"BUTTON_BATTLE"="SAVAŞ!"
+
+"BUTTON_CANCEL"="İPTAL"
+
+"BUTTON_CONNECT_APPLE"="Apple ile giriş yap"
+
+"BUTTON_CONNECT_GOOGLE"="Google ile bağlan"
+
+"BUTTON_CONNECT_GUEST"="Misafir olarak oyna"
+
+"BUTTON_LOGOUT"="Çıkış yap"
+
+"BUTTON_LOGOUT_YES"="Evet, çıkış yap"
+
+"BUTTON_LOGOUT_NO"="Hayır, bağlı kal"
+
+"BUTTON_EXIT"="Devam"
+
+"BUTTON_EXTERNAL"="Atlayın ve yeni rakiplere karşı savaşın!"
+
+"BUTTON_FEEDBACK"="Geri Bildirim"
+
+"BUTTON_HELP_US"="Yardım Et!"
+
+"BUTTON_KEEP_CLOUD"="Bulut kaydını kullan"
+
+"BUTTON_KEEP_LOCAL"="Yerel kaydı tut"
+
+"BUTTON_LOCKED"="Kilitli"
+
+"BUTTON_NEXT"="SONRAKI"
+
+"BUTTON_OFF"="Kapat"
+
+"BUTTON_ON"="Aç"
+
+"BUTTON_PRIVACY_POLICY"="Gizlilik Politikası"
+
+"BUTTON_RECONNECT"="TEKRAR BAĞLAN"
+
+"BUTTON_RETRY"="YENIDEN DENE"
+
+"BUTTON_SETTINGS"="Ayarlar"
+
+"BUTTON_SUPPORT"="Destek"
+
+"BUTTON_TERMS"="Şartlar"
+
+"BUTTON_USER"="Kullanıcı Hesabı"
+
+"BUTTON_DELETE_ACCOUNT"="Hesap sil"
+
+"BUTTON_UPGRADE"="Seviye atla"
+
+"BUTTON_CLAIM_PRIZE"="Ücretsiz sandık!"
+
+"BUTTON_COLLECTION"="Koleksiyon"
+
+"BUTTON_SHOP"="Dükkan"
+
+"BUTTON_BATTLE_TAB"="Savaş"
+
+"BUTTON_EVENTS_TAB"="Etkinlikler"
+
+"EVENTS_COMING_SOON"="Çok yakında..."
+
+"BUTTON_CLANS_TAB"="Krallıklar"
+
+"BUTTON_INFO"="Bilgi"
+
+"BUTTON_USE"="Kullan"
+
+"BUTTON_EQUIP"="Donat"
+
+"BUTTON_UNEQUIP"="Çıkar"
+
+"BUTTON_SKILLS"="BECERİLER"
+
+"BUTTON_STATS"="İSTATİSTİK"
+
+"BUTTON_STAGES"="Aşamalar"
+
+"BUTTON_CREEPS"="Düşmanlar"
+
+"BUTTON_BOOSTERS"="Güçlendiriciler"
+
+"BUTTON_OK"="Tamam"
+
+"BUTTON_OPEN_INSTANTLY"="Geç"
+
+"BUTTON_CONFIRM"="Onayla"
+
+"BUTTON_MUSIC_VOLUME"="Müzik sesi"
+
+"BUTTON_SFX_VOLUME"="Ses efekleri"
+
+"BUTTON_COPY_ID"="ID"
+
+"BUTTON_ALREADY_SIGNED"="Zaten giriş yapıldı"
+
+"BUTTON_GUEST_CONTINUE"="Devam"
+
+"BUTTON_RESTART"="YENİDEN"
+
+"BUTTON_ACCOUNT_WARNING_YES"="Evet, giriş yap"
+
+"BUTTON_ACCOUNT_WARNING_NO"="Hayır, mevcut hesabı koru"
+
+"BUTTON_MISSIONS"="Görevler"
+
+"BUTTON_GIFT"="Hediye Al"
+
+"BUTTON_QUIT"="ÇIKIŞ"
+
+"CARD_LOCKED_DESCRIPTION_1"="Oyna"
+
+"CARD_LOCKED_DESCRIPTION_2"="Bu kartı bir sandıkta bulup açın"
+
+"CARD_RARITY_COMMON"="Yaygın"
+
+"CARD_RARITY_EPIC"="Epik"
+
+"CARD_RARITY_LEGENDARY"="Efsanevi"
+
+"CARD_RARITY_RARE"="Nadir"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="Maksimum alan hasarı"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="Alan hasarı min"
+
+"CARD_STAT_AREA_OF_EFFECT"="Etkileşim alanı"
+
+"CARD_STAT_BUFF_PERCENTAGE"="Güçlendirme"
+
+"CARD_STAT_ARMOR_REDUCTION"="Zırh Azaltma"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="Büyü Direnci Azaltma"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="Şans"
+
+"CARD_STAT_COOLDOWN"="Bekleme Süresi"
+
+"CARD_STAT_COST"="Maliyet"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="DOT"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT maks"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT min"
+
+"CARD_STAT_DAMAGE_TYPE"="Hasar türü"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="Topçu"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="Topçu / Sihir"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="Büyü"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="Fiziksel"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="Gerçek"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="Zayıflatma"
+
+"CARD_STAT_DURATION"="Süre"
+
+"CARD_STAT_HEAL_HP"="İyileşen HP"
+
+"CARD_STAT_HEAL_HP_MAX"="İyileştir Max"
+
+"CARD_STAT_HEAL_HP_MIN"="İyileş Min"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="Etkilenen birim"
+
+"CARD_STAT_MAX_DAMAGE"="Hasar Maks"
+
+"CARD_STAT_MIN_DAMAGE"="Hasar Min"
+
+"CARD_STAT_NUMBER_OF_UNITS"="Birim miktarı"
+
+"CARD_STAT_RANGE"="Menze"
+
+"CARD_STAT_STRIKE_COUNT"="Vuruşlar"
+
+"CARD_STAT_ARMOR_PIERCING"="Zırh Delme"
+
+"CARD_STAT_UNIT_ARMOR"="Zırh"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="Saldırı Hızı"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="Saldırı hızı"
+
+"CARD_STAT_UNIT_HP"="Sağlık"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="Büyü direnci"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="Maksimum alan hasarı"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="Maksimum hasar"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="Maksimum hasar"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="Alan hasarı"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="Minimum hasar"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="Minimum hasar"
+
+"CARD_STAT_UNIT_SPEED"="Hız"
+
+"CARD_STAT_UNIT2_ARMOR"="Birim 2 Zırh"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="Birim 2 Saldırı Hızı"
+
+"CARD_STAT_UNIT2_HP"="Birim 2 Sağlık"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="Birim 2 maksimum hasar"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="Birim 2 en az hasar"
+
+"CARD_STAT_LEVEL_TEXT"="SEV"
+
+"CARD_STAT_DAMAGE"="Hasar"
+
+"CARD_STAT_RANGED_DAMAGE"="Menzilli Hasar"
+
+"CARD_STAT_ARMOR_TYPE"="Zırh Türü"
+
+"CARD_STAT_VERY_LOW"="Çok düşük"
+
+"CARD_STAT_LOW"="Düşük"
+
+"CARD_STAT_MEDIUM"="Orta"
+
+"CARD_STAT_HIGH"="Yüksek"
+
+"CARD_STAT_VERY_HIGH"="Çok Yüksek"
+
+"CARD_STAT_NONE"="Hiçbiri"
+
+"CARD_STAT_CARD_RANK"="Seviye"
+
+"CARD_STAT_CARD_CARD_TYPE"="Tür"
+
+"CARD_STAT_HP_REDUCTION"="Sağlık azaltma"
+
+"CARD_STAT_SLOW"="Yavaş"
+
+"CARD_STAT_HP_TO_ACTIVATE"="Sağlık yüzdesi"
+
+"CARD_STAT_TILES_PUSHED"="Döşemeler itildi"
+
+"CARD_TYPE_BARRACK"="KIŞLA"
+
+"CARD_TYPE_RANGED"="MESAFE"
+
+"CARD_TYPE_MAGIC"="BÜYÜ"
+
+"CARD_TYPE_ARTILLERY"="TOPÇULUK"
+
+"CARD_TYPE_DAMAGE"="HASAR"
+
+"CARD_TYPE_SUMMON"="ÇAĞIRMAK"
+
+"CARD_TYPE_UTILITY"="YARAR"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="DESTEK"
+
+"CARD_TYPE_TANK"="TANK"
+
+"CARD_TYPE_FLYING"="UÇAN"
+
+"TOWER_STATS"="KULE İSTATİSTİKLERİ"
+
+"HERO_STATS"="KAHRAMAN İSTATİSTİKLERİ"
+
+"SPELL_STATS"="BÜYÜ İSTATİSTİKLERİ"
+
+"CHECKING_UPDATES"="GÜNCELLEMELER KONTROL EDİLİYOR"
+
+"CLAIM_HERO_DESCRITPION"="Kısa bir anketle geri bildiriminizi paylaşın ve oyunumuzu geliştirmemize yardımcı olurken harika bir sandık kazanın."
+
+"FREE_CHEST_VIEW_TITLE"="HİSSE KUTUSU AL!"
+
+"CONNECTING"="BAĞLANIYOR"
+
+"CONNECTION_LOST_CHECK_INTERNET"="İnternet bağlantınızı kontrol edin"
+
+"CONNECTION_LOST_BUTTON"="TEKRAR"
+
+"CONNECTION_LOST_RECONNECTING"="Yeniden bağlanıyor"
+
+"CONNECTION_LOST_TITLE"="Bağlantı kesildi"
+
+"USER_ACCESS_TEXT"="Giriş yap veya hesap oluştur"
+
+"24_HR_NOTIFICATION_TITLE"="Krallığınız sizi çağırıyor!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="Yeni rakiplere karşı kulelerini savun!"
+
+"48_HR_NOTIFICATION_TITLE"="Savaş zamanı!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="Yeni güçlü kartlar seni bekliyor! Destenizi yükseltin ve düşmanlarınızı ezin. Şimdi savaşın!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="Daha fazla ödül al!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="Yıldız sandıklarında güçlü ödüller seni bekliyor. Dalmaya ve talep etmeye hazır mısın!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="Toplama zamanı"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Savaş Sandığınız hazır! Harika ödüller açmak için maçları kazanın!"
+
+"DAILY_CHEST_RESET"="Savaş Sandığı sıfırlanacak:"
+
+"OPEN_BATTLE_CHEST"="Tebrikler! Hazineyi açarak ödüllerini al!"
+
+"OPEN_BATTLE_WIN"="Kazanmak"
+
+"BATTLE_CHEST_INSTRUCTIONS"="bu sandığı açmak için daha fazla maç!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="bu sandığı açmak için maç!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="Psst... Yıldızları kapma zamanı!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Bekleme, yıldızlarını topla ve destansı ödülleri aç!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="Ödülleriniz Sizi Bekliyor!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="Şimdi Kupa Yolu ödüllerinizi alın—kaçırmayın!"
+
+"ROOKIE_NOTIFICATION_TITLE"="Devam et!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="Harikaydın! Kupaları aç, seviye atla ve desteni güçlendir!"
+
+"DECK_BUILDER_DECK"="DESTE"
+
+"DECK_BUILDER_EMOJIS"="DUYGULAR"
+
+"DECK_BUILDER_FILTER_LEVEL"="SEVİYE"
+
+"DECK_BUILDER_FILTER_RARITY"="NADIR"
+
+"DECK_BUILDER_FILTER_RANK"="SEVİYE"
+
+"DECK_BUILDER_FILTER_TYPE"="TÜR"
+
+"DECK_BUILDER_FOUND"="Bulundu"
+
+"DECK_BUILDER_HEROES"="KAHRAMANLAR"
+
+"DECK_BUILDER_SPELLS"="BÜYÜLER"
+
+"DECK_BUILDER_TOWERS"="KULELER"
+
+"DOWNLOADING"="Güncelleniyor..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="Hayır, hesabımı tut"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="Evet, hesabımı sil"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="DAHA FAZLA OKU"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="Hesabınızın ve tüm kişisel bilgilerinizin kalıcı olarak silinmesini talep etmek üzeresiniz. 'Evet' tıklarsanız, erişim, satın alınan ve kazanılan tüm öğeler, oyun ilerlemesi ve seviyeler dahil olmak üzere hesabınızdaki tüm verileri sileceğiz."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="Bạn sắp yêu cầu xóa vĩnh viễn tài khoản và tất cả thông tin cá nhân của mình. Nếu bạn nhấp 'Có', chúng tôi sẽ xóa tất cả dữ liệu tài khoản của bạn, bao gồm: quyền truy cập, tất cả các vật phẩm đã mua và đạt được, tiến trình trò chơi và cấp độ.\n\nTrong {0} ngày, bạn có thể hủy yêu cầu của mình. Sau khoảng thời gian này, quá trình không thể hoàn tác! Nếu bạn quay lại trò chơi, một tài khoản mới sẽ được tạo.Retry"
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="Hesabınızı silmek istediğinizden emin misiniz?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="Kararınızı değiştirmek için {0} gününüz var.\nBundan sonra hesabınız kalıcı olarak silinecektir."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="Silme talebinizi kaydettik"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="Hesabınız silinmek üzere planlandı"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="Eğer fikrinizi değiştirdiyseniz ve oynamaya devam etmek istiyorsanız, ""silme işlemini iptal et""e tıklayın.\nAksi takdirde Miniclip, hesabınızın kalıcı olarak silinmesini {0} gün içinde başlatacaktır."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="Silme iptal"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="Silme işlemine devam et"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="Hesabınızda herhangi bir değişiklik yapılmadı.\nOyun ayarlarından kalıcı silme işlemini istediğiniz zaman yeniden başlatabilirsiniz."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="Silme işlemi iptal edildi"
+
+"SAVE_WARNING_TITLE"="İLERLEMENİ KAYDET"
+
+"SAVE_WARNING_TEXT"="Hesap bağlantınızı yaparak ilerlemenizi kaydedin"
+
+"ERROR_DECK_INCOMPLETE"="SAVAŞ DESTENİZ TAM DEĞİL!"
+
+"ERROR_ALREADY_BOUGHT"="ZATEN SATIN ALINDI!"
+
+"ERROR_PURCHASE_TITLE"="Satın alma hatası"
+
+"ERROR_PURCHASE_DESCRIPTION"="Bu satın alma işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin."
+
+"ERROR_NOT_ENOUGH_GEMS"="Yeterli mücevher yok!"
+
+"ERROR_NOT_ENOUGH_GOLD"="Yeterli para yok!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="Kullanıcı adı değiştirme hatası"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="Kullanıcı adını değiştirirken bir hata oluştu, lütfen tekrar deneyin"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="Bir hata oluştu, oyun içeriği güncellenirken. Lütfen cihazınızda yeterli boş depolama alanı olduğundan ve internete bağlı olduğunuzdan emin olun, ardından tekrar deneyin."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="Güncelleme hatası"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="Oyun sunucusuna bağlanırken bir hata oluştu. İnternete bağlı olduğunuzu kontrol edin."
+
+"ERROR_CONNECTING_SERVER_TITLE"="Bağlantı hatası"
+
+"ERROR_WAITING_PLAYER_TITLE"="Rakip ayrıldı"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="Görünüşe göre rakip oyunu terk etti."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="KULLANICI OLUŞTURMA HATASI"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="Bu cihaz için yeni bir kullanıcı oluşturulurken bir hata oluştu."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="Apple Girişi Hatası"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="Apple hesabınızla oturum açarken bir hata oluştu. Lütfen tekrar deneyin."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="Erişim belirtecini alırken bir hata oluştu. Lütfen tekrar giriş yapmayı deneyin."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Hesap bağlanırken bir hata oluştu. Lütfen tekrar oturum açmayı deneyin."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="Google giriş hatası"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="Google hesabınızla oturum açarken bir hata oluştu. Lütfen tekrar deneyin."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="Erişim belirtecini alırken bir hata oluştu. Lütfen tekrar giriş yapmayı deneyin."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="Erişim belirtecini doğrularken bir hata oluştu. Lütfen tekrar giriş yapmayı deneyin."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Hesap bağlanırken bir hata oluştu. Lütfen tekrar oturum açmayı deneyin."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="Uzak kullanıcı ile yerel kullanıcı arasında geçiş yaparken bir hata oluştu. Lütfen tekrar giriş yapmayı deneyin."
+
+"ERROR_FRAMEDIFF_TITLE"="Hile tespit edildi"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="Şüpheli bir oyuncunun etkinliğini tespit ettik ve maça devam etmek mümkün değil."
+
+"ERROR_FRAMEDIFF_BUTTON"="Devam"
+
+"ERROR_INVALID_SESSION_TITLE"="Bir şeyler yanlış gitti!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="Cihazınızın oturumu süresi doldu. Uygulama şimdi yeniden yüklenecek."
+
+"ERROR_USER_CANCELED_OPERATION"="Kullanıcı işlemi iptal etti."
+
+"BUTTON_SUMMON"="Çağır"
+
+"EVENTS_SUMMON_RIFT_TITLE"="Çağırma Altarı"
+
+"EVENTS_ONSLAUGHT_TITLE"="Saldırı"
+
+"EVENTS_COIN_FARM_TITLE"="Para çiftliği"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="Güçlü özel kartları çağırın!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="Her düşmanı mümkün olduğunca hızlı yenin!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="Kumbaran doldurmak için Çiftliği kullanın!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="{0} kez çağrıyı tamamlayın ve {1} alın!"
+
+"DATA_WARNING_WINDOW_TITLE"="Oyun kaydı tespit edildi!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="Farklı bir kayıt oyunu bulduk. Bulut kaydını mı kullanmak istersiniz yoksa yerel kaydı mı tutmak istersiniz?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="Hesap tespit edildi!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="Hesap girmeye çalıştığınız başka bir Kingdom Rush Battles ID'sine zaten bağlı. Yine de bu hesaba giriş yapmak ister misiniz? (mevcut oturum kapanacak)"
+
+"LOGOUT_WINDOW_TITLE"="DİKKAT!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="Eğer çıkış yaparsanız, bu cihazdaki ilerleme sıfırlanacaktır; ancak, hesabınızdaki veriler bulutta kalacaktır.\nYine de çıkış yapmak ister misiniz? (mevcut oturum kapanacaktır)"
+
+"GAME_MSG_DEFEAT"="MAĞLUBİYET!"
+
+"GAME_MSG_DRAW"="BERABERE!"
+
+"GAME_MSG_FINAL_WAVE"="Boss Savaşı!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="Seviye Atla"
+
+"GAME_MSG_VERSUS"="karşı"
+
+"GAME_MSG_VICTORY"="ZAFER!"
+
+"GAME_MSG_WAITING_OPPONENT"="Rakibi bekliyor"
+
+"GAME_MSG_WAVE_NUMBER"="Dalga {0}"
+
+"GAME_MODIFIERS_TITLE"="BİR GÜÇLENDİRİCİ SEÇ"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="HAYATTA KALAN"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="Dördüncü dalgaya kadar hayatta kal"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="FETİHÇİ"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="Maçı kazan"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="KIRILMAZ"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="Hiç can kaybetme"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="BLITZ"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="4. dalga öncesinde kazan"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="CHALLENGER"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="Son dalgaya ulaş"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="KATİL"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="Sonuç bossunu öldür"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="USTALIK"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="Bootcamp'te zafer!"
+
+"GAME_UPDATE_BUTTON"="GÜNCELLE"
+
+"GAME_UPDATE_DESCRIPTION"="Yeni bir oyun versiyonu mağazada mevcut."
+
+"GAME_UPDATE_TITLE"="GÜNCELLEME MEVCUT!"
+
+"MAINTENANCE_MODE_BUTTON"="ÇIKIŞ"
+
+"MAINTENANCE_MODE_DESCRIPTION"="Oyun güncellemeleri tamamlanana kadar kapalı kalacaktır"
+
+"MAINTENANCE_MODE_TITLE"="BAKIM MODU"
+
+"INITIALIZING"="İNİTİLEŞİYOR"
+
+"LOADING"="Yükleniyor"
+
+"SLOW_CONNECTION"="YAVAŞ BAĞLANTI"
+
+"LOADING_WAITING_OPPONENT"="RAKİBİ BEKLİYOR"
+
+"LOADING_SYNC_PLAYERS"="OYUNCULAR SENKRONİZE EDİLİYOR"
+
+"MATCH_MAKING_TIP_1"="Fiziksel zırh düşmanları sihire zayıftır, ve tam tersi."
+
+"MATCH_MAKING_TIP_10"="Üzerinde bozuk para olan düşmanlar öldürüldüğünde ekstra altın düşürür."
+
+"MATCH_MAKING_TIP_2"="Yerleştirilen bir Top, bir Kışla yakınında yoğun hasar için yerleştirin."
+
+"MATCH_MAKING_TIP_3"="Uçan düşmanlar engellenemez; Okçu Kuleleri kullanmayı deneyin."
+
+"MATCH_MAKING_TIP_4"="Üst düzeyde 3'te kulelerin benzersiz yetenekleri vardır."
+
+"MATCH_MAKING_TIP_5"="Seçeneklerinizi rakibinizin kulelerine karşı dayanıklı güçlendiricilerle belirleyin."
+
+"MATCH_MAKING_TIP_6"="Kuleleri satmak, maliyetlerinin bir yüzdesini geri verir."
+
+"MATCH_MAKING_TIP_7"="Arenanın bilgilerini kontrol edin, düşman istatistikleri ve becerileri için."
+
+"MATCH_MAKING_TIP_8"="Dengeli bir deste, her türden 1 kule içermelidir."
+
+"MATCH_MAKING_TIP_9"="Daha hızlı dalgaları tamamlayarak rakibinizden ekstra altın kazanın."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="Oyuncu deneyimi kazanarak güçlendiricilerini seviye atlat!"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="Bu düşman, farklı aşamalarda portaldan çıkacak."
+
+"SEARCHING_FOR_OPPONENT"="Rakip\naranıyor..."
+
+"SURVEY_POPUP"="Geri bildiriminiz bizim için çok değerli! Düşüncelerinizi hızlı bir anket (2 - 3 dakika) yaparak paylaşın. Yanıtlarınız, geliştirme alanlarını belirlememize ve oyunu geliştirmek ve tüm oyuncular için daha ilgi çekici bir deneyim yaratmak için özellikler eklememize yardımcı olacaktır."
+
+"TAB_BATTLE"="Savaş"
+
+"TAB_COLLECTION"="Koleksiyon"
+
+"TAB_SHOP"="Mağaza"
+
+"TERRAIN_COLISEUM_NAME"="STADYUM"
+
+"TERRAIN_COLISEUM_DESC"="Bu sıralamalı Stadyumda diğer oyunculara karşı kendinizi zorlayın, önceki düşmanlara ve aşamalara karşı savaşarak Madalyalar kazanın.\nDünyanın en iyi Battle Towers oyuncusu olma zamanı şimdi!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="Haydut İni"
+
+"TERRAIN_FOREST_1_NAME"="GÜMÜŞMEŞE ORMANI"
+
+"TERRAIN_FOREST_2_NAME"="Gümüşmeşe Ormanı"
+
+"TERRAIN_FOREST_3_NAME"="Silveroak Ormanı"
+
+"TERRAIN_MOUNTAIN_1_NAME"="FIRTINA BULUT DAĞLARI"
+
+"TERRAIN_MOUNTAIN_2_NAME"="FIRTINA BULUT DAĞLARI"
+
+"TERRAIN_MOUNTAIN_3_NAME"="Fırtına Bulutu Dağları"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="HAYDUT İNİ"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="Haydut İni"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="Haydut İni"
+
+"TERRAIN_TRAINING_NAME"="Eğitim Kampı"
+
+"STAGE_TRAINING_1"="Eğitim Alanı"
+
+"STAGE_FOREST_1"="Southport"
+
+"STAGE_FOREST_2"="Tarlalar"
+
+"STAGE_FOREST_3"="Tarım arazileri"
+
+"STAGE_FOREST_4"="Dış"
+
+"STAGE_FOREST_5"="Nehir Kenarı"
+
+"STAGE_MOUNTAIN_1"="Dondurulmuş İzler"
+
+"STAGE_MOUNTAIN_2"="İkiz Zirveler"
+
+"STAGE_MOUNTAIN_3"="Troll Yuvası"
+
+"STAGE_MOUNTAIN_4"="Buz Rüzgarı Geçidi"
+
+"STAGE_MOUNTAIN_5"="Buzlu Geçit"
+
+"STAGE_BANDITS_1"="Çamur Diyarları"
+
+"STAGE_BANDITS_2"="Haydut Kampı"
+
+"STAGE_BANDITS_3"="Engerek Yolu"
+
+"STAGE_BANDITS_4"="Ölü Adam Geçidi"
+
+"STAGE_BANDITS_5"="Sessiz Orman"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="<color=#0DA7FF>Kingdom Rush Battles</color>'a hoş geldiniz! <br>Temel bilgileri öğrenelim..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="Savunma zamanı! Bu vahşi Goblinler kaçmadan önce onları durdurmak için bir <color=#0DA7FF>Kule inşa edelim</color>!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="Aferin! Yenilen düşmanlardan <color=#0DA7FF>biraz Altın kazandın</color>. Hadi bunu başka bir kule inşa etmek için kullanalım."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="Dikkat! Düşmanlar geçiyor! Kaçarlarsa can kaybedersiniz. <color=#0DA7FF>Kulenizi yükseltin</color> daha fazla hasar vermek için!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="Dikkat! Düşmanlar geçiyor! Kaçarlarsa <color=#0DA7FF>can kaybedersiniz</color>."
+
+"NEW_TUTORIAL_1_MSG_HERO"="<color=#0DA7FF>Kahraman</color> Gerald savaşa katılıyor! Savaşmak için onu düşmanlara daha yakın sürükleyin!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="Daha güçlü düşmanlar geliyor! Haydi bir <color=#0DA7FF>Büyü yapalım!</color> Savaş alanına Ateş Yağmuru yağdırmak için sürükleyin!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="Savaş yukarıya doğru genişliyor! Diğer generallerle yüzleş - <color=#0DA7FF>ayakta kalan son kişi kazanır</color>. İyi şanslar!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="Başlasın!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="Rakip <color=#0DA7FF>kaybetmek üzere!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>Bir güçlendirici seçin!</color> Savunmalarınızı güçlendirebilir veya rakibinizin dalgalarını zorlaştırabilirler."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="Düşmanların kaçmasına izin verme! Onlarla savaşmak için bir kule inşa et!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="Bir <color=#837272>zırhlı</color> düşman bir portalden çıktı! Onları durdurmak için bir <color=#0DA7FF>Büyücü</color> inşa et."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="Bak! Bazı <color=#0DA7FF>rakibin düşmanları kaçıyor!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="Kule inşa etmek Altın maliyetlidir. Düşmanları yenerek daha fazla Altın kazanın."
+
+"TUTORIAL_1_MSG_HERO"="Kahraman Gerald ortaya çıktı! Gelen düşmanlarla savaşmak için onu hareket ettirebilirsin."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="Rakibiniz de kendi tarafını savunmak için Kuleler inşa edecek!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Ateş Yağmuru'nu kullanarak bu Goblin grubunu yok et."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="Cephaneliğinizde yeni bir Büyü mevcut"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="Altınınızı Kulelerinizi yükseltmek ve daha güçlü hale getirmek için kullanabilirsiniz."
+
+"TUTORIAL_1_MSG_WELCOME"="Kingdom Rush Battles'a hoş geldiniz! Başlayalım..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="Bu Güçlendiriciyi seçin. Bu, onları uçan bir düşmanla başa çıkmaya zorlayacaktır."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="Ejderha Çağrısı'nı seçin. Bu, onların Uçan bir düşmanla başa çıkmasını zorlayacaktır."
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="Rakip kaybetmek üzere!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="Şimdi bir Savunma Güçlendirici seçin. Bu, güçlü düşmanlarla başa çıkmanıza yardımcı olacaktır."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="Güçlü Kule'yi seçin. Bu, güçlü düşmanlarla başa çıkmanıza yardımcı olacaktır."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="Bu düşmanın <color=#837272>Fiziksel Zırhı</color> var, bu da onu fiziksel hasara karşı dirençli kılar."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="Bu düşmanın <color=#0DA7FF>Sihirli Zırhı</color> var. Zırhlar düşmanın sağlık çubuğunun rengini değiştirir."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="Bir Büyücü inşa ederek <color=#0DA7FF>büyü hasarı</color> verin ve düşmanın zırhını aşın."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="Yeni düşmanlar çok zorlu olabilir. Güvende olmak için yükseltelim!"
+
+"TUTORIAL_2_MSG_SKILL_1"="Kule Becerilerini kullanma zamanı. Düşmanlarla savaşmaya veya rakibine saldırmaya yardımcı olurlar!"
+
+"TUTORIAL_2_MSG_SKILL_2"="Önce Okçuları maksimum seviyeye yükseltin"
+
+"TUTORIAL_2_MSG_SKILL_3"="Rakibinizin birimlerine saldırmak için 'Yüklü Atışlar' Becerisini satın alın!"
+
+"TUTORIAL_2_MSG_WELCOME"="Rakibinizle nasıl etkileşim kuracağınızı öğrenelim."
+
+"TUTORIAL_METAGAME_DECK_01"="Yeni bir Kule açtınız! Hadi destenize ekleyelim."
+
+"TUTORIAL_METAGAME_DECK_02"="Kuleler bölümünü kontrol et!"
+
+"TUTORIAL_METAGAME_DECK_03"="Yeni bir Kule açtınız! Hadi destenize ekleyelim."
+
+"TUTORIAL_METAGAME_DECK_04"="Bir Kuleyi Seviye Atlatmak, gücünü madeni paralar ve parçalar kullanarak artıracaktır."
+
+"TUTORIAL_METAGAME_DECK_05"="Şimdi güvertendeki barbarları donat"
+
+"TUTORIAL_METAGAME_DECK_06"="Paladin Kulesi'ni 'Barbar Kulesi' ile değiştirin"
+
+"TUTORIAL_METAGAME_DECK_07"="Hepsi tamam! Şimdi öğrendiklerinizi test edin."
+
+"TUTORIAL_METAGAME_CHEST_01"="Maçlar oynayarak sandıkları açmak için yıldız kazanın"
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="Yeni bir Büyü açtınız! Hadi destenize ekleyelim."
+
+"FTUE_DIRECTIVE_01"="Yeni Bir Büyü Açmak İçin 1 Galibiyet Daha!"
+
+"FTUE_DIRECTIVE_02"="Yeni Bir Büyü Açmak İçin 1 Galibiyet Daha!"
+
+"FTUE_DIRECTIVE_03"="Güçlendiricileri açmak için 1 oyun daha!"
+
+"TITLE_USER_ACCESS"="KULLANICI ERİŞİMİ"
+
+"TITLE_SOUND_SETTINGS"="MÜZİK VE SFX"
+
+"TITLE_EXTERNAL"="DIŞ"
+
+"TITLE_SETTINGS"="AYARLAR"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="İSMİ DEĞİŞTİR"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="İSMİNİ SEÇ"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 karakter sınırı<br>Özel karakterlere izin verilmez"
+
+"ERROR_USERNAME_INVALID"="Geçersiz ad"
+
+"ERROR_USERNAME_INAPPROPIATE"="İsim izin verilmedi"
+
+"ERROR_USERNAME_UNCHANGED"="Bu zaten senin adın"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="ÖDÜLLER KİLİTLİ"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="Döngüyü aç, ödül kazanmaya devam et"
+
+"CHEST_YOUR_GOLD"="Jeton"
+
+"SHOP_GOLD"="Altın"
+
+"CHEST_YOUR_STARS"="YILDIZLAR"
+
+"YOUR_GEM"="Mücevher"
+
+"CHEST_RESOURCE_CARD"="Kaynak"
+
+"CHEST_GOLD"="JETON"
+
+"CHEST_STAR"="YILDIZLAR"
+
+"CHEST_YOUR_REWARD"="Ödülleriniz"
+
+"CHEST_COMMON_TOWER"="Ortak Kule"
+
+"CHEST_EPIC_TOWER"="Epik Kule"
+
+"CHEST_RARE_TOWER"="Nadir Kule"
+
+"CHEST_LEGENDARY_TOWER"="Efsanevi Kule"
+
+"CHEST_COMMON_HERO"="Sıradan Kahraman"
+
+"CHEST_EPIC_HERO"="Epik Kahraman"
+
+"CHEST_RARE_HERO"="Nadir Kahraman"
+
+"CHEST_LEGENDARY_HERO"="Efsanevi Kahraman"
+
+"CHEST_COMMON_SPELL"="Ortak Büyü"
+
+"CHEST_EPIC_SPELL"="Epik Büyü"
+
+"CHEST_RARE_SPELL"="Nadir Büyü"
+
+"CHEST_LEGENDARY_SPELL"="Efsanevi Büyü"
+
+"CHEST_NEW_CARD"="YENİ!"
+
+"CHEST_INFO_NAME_GOLD"="Altın Sandık"
+
+"CHEST_INFO_NAME_SILVER"="Ahşap Sandık"
+
+"CHEST_INFO_NAME_MAGICAL"="Büyülü Sandık"
+
+"CHEST_INFO_NAME_BRAVERY"="Savaş Sandığı"
+
+"CHEST_INFO_NAME_LEVEL_UP"="Seviye Atlama Sandığı"
+
+"CHEST_INFO_CONTAINS_TITLE"="En az içerir:"
+
+"CHEST_INFO_CONTAINS_RARES"="Nadir"
+
+"CHEST_INFO_CONTAINS_EPICS"="Epik"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="Efsaneler"
+
+"CHEST_INFO_CONTAINS_RARE"="Nadir"
+
+"CHEST_INFO_CONTAINS_EPIC"="Epik"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="Efsanevi"
+
+"CHEST_INFO_CLAIM_BUTTON"="Aç!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="KİLİTLİ"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="Ortak Kartlar"
+
+"CHEST_INFO_CLAIM"="Talep Et!"
+
+"CHEST_INFO_UNLOCK_NOW"="Şimdi aç"
+
+"CHEST_INFO_EXTRA_TITLE"="Şansı:"
+
+"CHEST_TOOLTIP_CLAIM"="AL!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="Ödülünü Seç"
+
+"TROPHY_REWARD_SCREEN_TITLE"="Ödül"
+
+"XP_LEVEL_UP_TITLE"="YENİ SEVİYE"
+
+"XP_LEVEL_UP_BOOSTER"="Güçlendirici"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="Seviye Atlama"
+
+"XP_LEVEL_UP_LVL"="Sev"
+
+"DECK_MAX_LEVEL"="MAKS"
+
+"PROGRESS_BAR_MAX"="MAKS"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="Sev"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="Güçlendirici gelişti! Oyun değiştiricilerini geliştir"
+
+"WELCOME_SCREEN_LOG_TEXT"="• Elora Çağırma Yarığı afişi sona erdi\n• Yeni Çağırma Yarığı Kartı: Alacakaranlık Uzun Yayları!\nHata Düzeltmeleri\n• Birimlerin hasar artırma avantajlarının her durumda uygulanmadığı bir hata düzeltildi.\n• Etkilememesi gereken birimleri ve kuleleri yanlış bir şekilde etkileyen çeşitli avantajlar düzeltildi.\n• Topçu: Seviye 3 yetenek fiyatlarının yanlış bir şekilde yer değiştirdiği bir sorun düzeltildi.\nOynanış\n• Terk Edilmiş Vadi aşamasına yeni bir patron olan Dev eklendi.\nDenge\n• Magma Parçası / Magma Elementali: Kaya fazının süresi 12 saniyeye çıkarıldı.\n• Roket Binici:\n   • Sağlık %25 azaltıldı.\n   • Hücum yetenekleri artık sadece çıkıştan 5 kare uzaktayken tetiklenecek (3'ten artırıldı).\n   • Artık polimorfizlenebilirler.\n• Gölge Okçu: Menzilli hasar %30 azaltıldı.\nTerk Edilmiş Arenalar: Yaratık ve bot kartı ölçeklendirmesi Terk Edilmiş Vadi'den itibaren azaltıldı."
+
+"WELCOME_SCREEN_TITLE_TEXT"="Yenilikler"
+
+"SHOP_SCREEN_PLACEHOLDER"="YAKINDA"
+
+"SHOP_ROYAL_GOLD_CHEST"="Kralın Sandığı"
+
+"SHOP_ROYAL_SILVER_CHEST"="Kaptanın Sandığı"
+
+"SHOP_ROYAL_BRONZE_CHEST"="Asker Sandığı"
+
+"SHOP_GEMS_SLOT_1"="Bir Avuç Mücevher"
+
+"SHOP_GEMS_SLOT_2"="Mücevher Yığını"
+
+"SHOP_GEMS_SLOT_3"="Mücevher Torbası"
+
+"SHOP_GEMS_SLOT_4"="Mücevher Fıçısı"
+
+"SHOP_GEMS_SLOT_5"="Mücevher Kasası"
+
+"SHOP_GEMS_SLOT_6"="Mücevher Dağı"
+
+"SHOP_GOLD_SLOT_1"="Bir Avuç Madeni Para"
+
+"SHOP_GOLD_SLOT_2"="Para Torbası"
+
+"SHOP_GOLD_SLOT_3"="Para Kasası"
+
+"SHOP_SPECIAL_OFFER"="Özel Teklif"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Özel Teklifler"
+
+"SHOP_STARTER_PACK_TITLE"="Başlangıç Paketi"
+
+"SHOP_GOLD_TITLE"="Jeton"
+
+"SHOP_GEMS_TITLE"="Mücevher"
+
+"SHOP_CHESTS_TITLE"="Sandıklar"
+
+"SHOP_FIRST_PURCHASE"="İlk Satın Alma"
+
+"SHOP_PURCHASED"="Satın Alındı"
+
+"SHOP_CLAIMED"="Talep Edildi"
+
+"SHOP_VALUE"="Değer"
+
+"SHOP_DAILY_LOCKED"="Arenada Açılır"
+
+"SHOP_FOREST_ARENA_PACK"="Silveroak Paketi"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="Fırtına Paketi"
+
+"SHOP_BANDITS_ARENA_PACK"="Haydut Paketi"
+
+"SHOP_COLISEUM_ARENA_PACK"="Stadyum Paketi"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="Terk Edilmiş Paket"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 yıldız"
+
+"RATE_US_BUTTON_5_STARS"="5 yıldız"
+
+"RATE_US_TITLE"="Oyunu Değerlendir"
+
+"RATE_US_DESC"="Kingdom Rush Battles'ı beğendiyseniz, oyunu değerlendirmek için bir dakikanızı ayırın."
+
+"RATE_US_DESC_2"="Desteğiniz için teşekkürler"
+
+"RATE_US_OPINION_BUTTON_SEND"="Gönder"
+
+"RATE_US_OPINION_REVIEW"="Geri bildirim yaz..."
+
+"RATE_US_OPINION_TITLE"="Bize fikrinizi verin"
+
+"RATE_US_OPINION_SENT"="Geri bildiriminiz gönderildi"
+
+"TROPHY_INFO_BOOSTERS"="Güçlendirici"
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="Saldırı Güçlendiriciler"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="Savunma Güçlendiriciler"
+
+"FOREST_STAGE_1"="Orman 1"
+
+"FOREST_STAGE_2"="Orman 2"
+
+"FOREST_STAGE_3"="Orman 3"
+
+"FOREST_STAGE_4"="Orman 4"
+
+"FOREST_STAGE_5"="Orman 5"
+
+"MOUNTAIN_STAGE_1"="Dağ 1"
+
+"MOUNTAIN_STAGE_2"="Dağ 2"
+
+"MOUNTAIN_STAGE_3"="Dağ 3"
+
+"MOUNTAIN_STAGE_4"="Dağ 4"
+
+"MOUNTAIN_STAGE_5"="Dağ 5"
+
+"BANDITS_LAIR_1"="Haydut İni 1"
+
+"BANDITS_LAIR_2"="Haydut İni 2"
+
+"BANDITS_LAIR_3"="Haydut İni 3"
+
+"BANDITS_LAIR_4"="Haydut İni 4"
+
+"BANDITS_LAIR_5"="Haydut İni 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="Hiçbiri"
+
+"LEADERBOARD_TITLE"="LİDER TABLOSU"
+
+"LEADERBOARD_BUTTON"="Liderlik Tablosu"
+
+"LEADERBOARD_TAB_GLOBAL"="Global"
+
+"LEADERBOARD_TAB_LOCAL"="Yerel"
+
+"LEADERBOARD_USER_NOT_RANKED"="Stadyuma ulaşmak için sıralan"
+
+"SPECIAL_BUTTON_NAME"="Cephanelik Açıldı"
+
+"SELL_TOWER_TITLE"="Kule Sat"
+
+"SELL_TOWER_DESCRIPTION"="Bu kuleyi sat ve {0} altın iadesi al."
+
+"BANDITS_LAIR_STAGE_1"="Haydut İni 1"
+
+"BANDITS_LAIR_STAGE_2"="Haydut İni 2"
+
+"BANDITS_LAIR_STAGE_3"="Haydut İni 3"
+
+"BANDITS_LAIR_STAGE_4"="Haydut İni 4"
+
+"BANDITS_LAIR_STAGE_5"="Haydut İni 5"
+
+"TAUNT_THANKS"="Teşekkürler!"
+
+"TAUNT_GOOD_LUCK"="İyi Şanslar"
+
+"TAUNT_OOPS"="Eyvah..."
+
+"TAUNT_WELL_PLAYED"="Aferin"
+
+"UNMUTE_TO_SEND_EMOTES"="Sessizliği kaldırarak ifade gönder ve al"
+
+"BANDITS_LAIR_STAGE_1"="Haydut İni 1"
+
+"BANDITS_LAIR_STAGE_2"="Haydut İni 2"
+
+"BANDITS_LAIR_STAGE_3"="Haydut İni 3"
+
+"BANDITS_LAIR_STAGE_4"="Haydut İni 4"
+
+"BANDITS_LAIR_STAGE_5"="Haydut İni 5"
+
+"TAUNT_THANKS"="Teşekkürler!"
+
+"TAUNT_GOOD_LUCK"="İyi şanslar!"
+
+"TAUNT_OOPS"="Eyvah..."
+
+"TAUNT_WELL_PLAYED"="Aferin"
+
+"UNMUTE_TO_SEND_EMOTES"="Sessizliği kaldırarak ifade gönder ve al"
+
+"FOREST_STAGE_1"="Orman 1"
+
+"FOREST_STAGE_2"="Orman 2"
+
+"FOREST_STAGE_3"="Orman 3"
+
+"FOREST_STAGE_4"="Orman 4"
+
+"FOREST_STAGE_5"="Orman 5"
+
+"MOUNTAIN_STAGE_1"="Dağ 1"
+
+"MOUNTAIN_STAGE_2"="Dağ 2"
+
+"MOUNTAIN_STAGE_3"="Dağ 3"
+
+"MOUNTAIN_STAGE_4"="Dağ 4"
+
+"MOUNTAIN_STAGE_5"="Dağ 5"
+
+"BANDITS_LAIR_1"="Haydut İni 1"
+
+"BANDITS_LAIR_2"="Haydut İni 2"
+
+"BANDITS_LAIR_3"="Haydut İni 3"
+
+"BANDITS_LAIR_4"="Haydut İni 4"
+
+"BANDITS_LAIR_5"="Haydut İni 5"
+
+"BANDITS_LAIR_STAGE_1"="Haydut İni 1"
+
+"BANDITS_LAIR_STAGE_2"="Haydut İni 2"
+
+"BANDITS_LAIR_STAGE_3"="Haydut İni 3"
+
+"BANDITS_LAIR_STAGE_4"="Haydut İni 4"
+
+"BANDITS_LAIR_STAGE_5"="Haydut İni 5"
+
+"HERO_GERALD_DESCRIPTION"="Linirea'nın kahramanı ve adaletin sembolü olarak, bu dünyadan ve ötesinden gelen tehditlere karşı durdu. Kutsal bir yeminle bağlı olan o, her zaman savaşa ilk atılan ve geri çekilen son kişidir, masumları koruma ve zayıfları savunma görevine bağlı olarak hareket eder."
+
+"HERO_GERALD_SHORT_DESC"="-HP düşükken yeniler.<br>-Müttefikleri güçlendirir.<br>-Hasarı yansıtma şansı."
+
+"HERO_GERALD_NAME"="Gerald Işık Arayıcısı"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="Sağlığı tehlikeli derecede düştüğünde, sağlığının bir kısmını geri kazanmak için kutsal gücünü kullanır."
+
+"HERO_GERALD_SKILL_0_NAME"="İlahi Dua"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="Linirea'nın Kahramanı olarak, sarsılmaz cesareti yakın müttefiklere yayılır, periyodik olarak sağlıklarını ve hasarlarını kısa bir süre artırır."
+
+"HERO_GERALD_SKILL_1_NAME"="Cesaret"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="Savaşırken, birkaç saniyeliğine kalkanını kaldırarak gelen tüm hasarı saldırganlara geri yansıtabilir."
+
+"HERO_GERALD_SKILL_2_NAME"="Misilleme Kalkanı"
+
+"HERO_ALLERIA_DESCRIPTION"="Elf Kraliçesi'nin kızı ve zamansız bir mirasın varisi olan Alleria, aynı zamanda hızlı ve çekici bir okçudur. Yanında Vahşi Kedi yoldaşıyla, düşmanları nişan almadan önce alt ederler. Savaşta zarafeti, yalnızca doğaya olan sarsılmaz bağlılığıyla yarışır."
+
+"HERO_ALLERIA_SHORT_DESC"="-Aynı anda birden fazla ok fırlatır.<br>-Vahşi Kedi çağırır.<br>-Vurulduğunda ışınlanma şansı."
+
+"HERO_ALLERIA_NAME"="Alleria Hızlı Rüzgar"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="Yayına büyüsünü yükleyerek, büyülü ok yağmuru salar. Bu oklar, birden fazla düşmanı vurmak için dağılabilir veya tek bir hedefe güçlü bir darbe indirmek için odaklanabilir."
+
+"HERO_ALLERIA_SKILL_0_NAME"="Çoklu atış"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="Sadık Yaban Kedisi yoldaşını yanına savaşması için çağırır, savaş alanına vahşi bir hızla atlar ve efendisini ve arkadaşını savunmaya hazır pençeleriyle."
+
+"HERO_ALLERIA_SKILL_1_NAME"="Doğanın Çağrısı"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="Yakın dövüşte, tehlikeden kaçınarak güvenli bir mesafeye stratejik olarak geri çekilip uzaktan saldırmak için yeniden konumlanabilir."
+
+"HERO_ALLERIA_SKILL_2_NAME"="Hızlı Kaçınma"
+
+"HERO_GRAWL_DESCRIPTION"="Yeraltı sırlarının koruyucusu, vücudunda dövülmüş yumrukları ve kristalleri kullanarak, en acımasız yeraltı imparatorluğuna karşı son bariyer olarak duruyor. Amansız ve hareketsiz, karanlıklarının yukarıdaki dünyadan uzak tutulması için savaşıyor."
+
+"HERO_GRAWL_SHORT_DESC"="-Yere vurarak düşmanları sersemletir.<br>-Uzak düşmanlara kaya fırlatır.<br>-Güçlü bir parça yumruğu ile vurur."
+
+"HERO_GRAWL_NAME"="Grawl"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="Yere yıkıcı bir güçle vurur, yakındaki tüm düşmanları sersemletir ve hasar verir."
+
+"HERO_GRAWL_SKILL_0_NAME"="Ezme"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="Yerden devasa bir kaya parçası koparır ve uzak bir hedefe fırlatır, ağır hasar verir ve oluşan şok dalgasıyla yakındaki düşmanları yaralar."
+
+"HERO_GRAWL_SKILL_1_NAME"="Kaya Fırlatma"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="Jilet gibi keskin kristal parçalarıyla yumruklarını kaplar, düşmanları anında yok edebilecek büyük hasar veren yıkıcı bir darbe indirir."
+
+"HERO_GRAWL_SKILL_2_NAME"="Parça Yumruğu"
+
+"HERO_INGVAR_DESCRIPTION"="Ayı Kabilesi'nin en korkutucu savaşçılarından biri olan o, sadece kaba kuvvetiyle değil, atalarıyla olan derin manevi bağıyla da saygı görür. Savaş çağrısı ülke genelinde yankılandığında, İngvar kuzeyin öfkesiyle yanıt verir."
+
+"HERO_INGVAR_SHORT_DESC"="-Balta ile dönerek bir alanda hasar verir.<br>-Savaşmak için Viking Atalarını çağırır.<br>-HP düşük olduğunda Ayı formuna dönüşür."
+
+"HERO_INGVAR_NAME"="İngvar Ayıpençesi"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="Baltasıyla güçlü bir döner saldırı yaparak etrafındaki tüm düşmanlara hasar verir."
+
+"HERO_INGVAR_SKILL_0_NAME"="Viking Öfkesi"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="Kutsal bir savaş borusu çalarak, Viking atalarının hayalet ruhlarını savaşa katılmak üzere çağırır."
+
+"HERO_INGVAR_SKILL_1_NAME"="Ataların Çağrısı"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="Sağlığı düşük olduğunda, İngvar soyunun ilkel gücüne başvurur. Devasa bir ayıya dönüşerek geçici olarak yenilmez hale gelir, artan güç kazanır ve sağlığını hızla yeniler"
+
+"HERO_INGVAR_SKILL_2_NAME"="Ayı Formu"
+
+"HERO_DIERDRE_DESCRIPTION"="Kasabası düştükten sonra Aegion tarafından kurtarılan o, inanç ve kutsal disiplinle şekillendi, ilk gerçek cephe rahibesi olarak yükseldi. Başkalarının düştüğü yerde müttefiklerini korumak için hayatını riske atarak, en karanlık saatte parlak bir ışık haline geldi."
+
+"HERO_DIERDRE_SHORT_DESC"="-Yakındaki müttefikleri iyileştirir.<br>-En fazla 2 Kuleye ekstra hasar verir.<br>-Kendisine ve müttefiklerine ekstra zırh verir."
+
+"HERO_DIERDRE_NAME"="Dierdre"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="Kutsal büyü kullanarak yakın müttefiklerin sağlığını yenileyen bir iyileştirme büyüsü yapar."
+
+"HERO_DIERDRE_SKILL_0_NAME"="Kutsal Işık"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="Yakındaki kuleleri kutsal güçle büyüleyerek hasarlarını artırır."
+
+"HERO_DIERDRE_SKILL_1_NAME"="Kutsal Kılmak"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="Yakınındaki müttefiklerin zırhını kutsar - kendisi dahil - birkaç saniyeliğine fiziksel zırhlarını artırır."
+
+"HERO_DIERDRE_SKILL_2_NAME"="Kutsanmış Zırh"
+
+"HERO_ASHBITE_DESCRIPTION"="Güçlü ve korkunç bir ateş Ejderhası, Külısır yoluna çıkmaya cüret eden herkesi eritiyor. Linirea'yı neden koruduğu bilinmiyor - bazıları bunun sıkıntıdan olduğunu fısıldarken, diğerleri savaş arzusundan olduğunu söylüyor. Sebep ne olursa olsun, savaşa uçtuğunda, alevler onu takip eder."
+
+"HERO_ASHBITE_SHORT_DESC"="-Alanı hasara uğratan nefes püskürtür.<br>-Düşmanı ısırır ve anında öldürme şansı vardır.<br>-Patlayıcı bir ateş topu fırlatır."
+
+"HERO_ASHBITE_NAME"="Külısır"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="Önündeki düşmana kızgın bir ateş akışı salar, alevli yolunda yakalanan tüm düşmanlara sürekli hasar verir."
+
+"HERO_ASHBITE_SKILL_0_NAME"="Alev Nefesi"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="Tek bir hedefe yıkıcı bir ısırıkla dalar, hasar verir ve düşmanı anında yutma şansı vardır."
+
+"HERO_ASHBITE_SKILL_1_NAME"="Ziyafet"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="Uzak bir hedefe devasa bir ateş topu fırlatır. Çarpma anında patlar ve bir dizi ikincil patlamayı tetikleyerek ağır alan hasarı verir."
+
+"HERO_ASHBITE_SKILL_2_NAME"="Yaban Ateşi Barajı"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="Bir rakibin biriminin üzerine yağan, yeri ateşe veren ve yakındaki diğer birimleri yakan bir meteor yağmuru oluşturur."
+
+"HERO_ASHBITE_SKILL_3_NAME"="Yakıcı Meteorlar"
+
+"HERO_ASHBITE_PACK_NAME"="Veteran Paketi"
+
+"HERO_MAGNUS_DESCRIPTION"="Bir zamanlar kötü şöhretli Vez’nan’ın umut vadeden çırağı olan Magnus, ustası karanlık tarafa düştükten sonra Krallık ordusuna katıldı. Şimdi Linirea’nın güçlü bir savunucusu olarak gelişmiş arkan büyülerini ve illüzyonlarını eşsiz bir hassasiyetle kullanıyor; engin bilgisi ise yalnızca savaş mahareti tarafından gölgede bırakılıyor."
+
+"HERO_MAGNUS_SHORT_DESC"="-Kendi gölge klonlarını oluşturur.<br>-Bir alanda hasar veren bir fırtına çağırır.<br>-Uzun mesafelere ışınlanabilir."
+
+"HERO_MAGNUS_NAME"="Magnus Büyübozan"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="Gelişmiş arkana enerjisini kullanarak büyük mesafeler arasında anında yer değiştirir."
+
+"HERO_MAGNUS_SKILL_0_NAME"="Teleport"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="Büyülü sanatların ustası olarak, savaşta kendisine yardım etmek için geçici illüzyonlar yaratır."
+
+"HERO_MAGNUS_SKILL_1_NAME"="Serap"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="Geniş bir alanda yıkıcı bir büyü enerjisi patlaması serbest bırakır, bölgedeki tüm düşmanlara birden fazla kez vurur."
+
+"HERO_MAGNUS_SKILL_2_NAME"="Arkane Fırtına"
+
+"HERO_HACKSAW_DESCRIPTION"="Ünlü bir cüce mucit olan Testere, kendi tasarımı olan özel yapım bir meka içinde dünyayı dolaşır ve ölümcül aletlerle donatılmıştır. Her yeni savaş hem bir tehlike hem de bir fırsattır - sadece bir sonraki icadı için yakıttır."
+
+"HERO_HACKSAW_SHORT_DESC"="-Bir bıçak fırlatır ve düşmanlara zarar verir.<br>-Bir düşmanı delip geçer ve anında öldürme şansı vardır.<br>-Yere dönen bir testere koyar."
+
+"HERO_HACKSAW_NAME"="Testere"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="Yere bir testere bıçağı yerleştirir. Alan içindeki düşmanlar, testere aktif kaldığı sürece hasar alır."
+
+"HERO_HACKSAW_SKILL_0_NAME"="Kereste Fabrikası"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="Gizli bir matkap kolunu serbest bırakarak düşmana güçlü bir darbe indirir ve anında öldürme şansı sunar."
+
+"HERO_HACKSAW_SKILL_1_NAME"="AĞAÇ!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="Birden fazla düşman arasında sekerek her birini kesen ve her vuruşta hasar veren bir bıçak fırlatır."
+
+"HERO_HACKSAW_SKILL_2_NAME"="Uçan Testere"
+
+"HERO_VESPER_DESCRIPTION"="Linirea'nın en karanlık saatinde kalan kuvvetlerin komutanı olarak seçilen Vesper, umutsuzluğu direnişe dönüştürdü. İşgalcilere karşı hassas saldırılar düzenlemek için gerilla taktikleri kullanarak yeni nesil kahramanlara ilham kaynağı oldu."
+
+"HERO_VESPER_SHORT_DESC"="-Bir düşmanı sersemleten bir ok atar.<br>-Seken bir ok atar.<br>-Bir düşmana art arda üç kez vurur."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-Bir düşmanı sersemleten bir ok atar.<br>-Seken bir ok atar.<br>-Bir düşmana art arda üç kez vurur."
+
+"HERO_VESPER_NAME"="Vesper"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="İyi yerleştirilmiş bir ok fırlatarak tek bir düşmana hasar verir ve sersemletir."
+
+"HERO_VESPER_SKILL_0_NAME"="Dize gelmiş ok"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="Düşmanlar arasında sekerek her vuruşta hasar veren bir ok atar. Etkinleştirmek için üç hedef gerektirir."
+
+"HERO_VESPER_SKILL_1_NAME"="Sekme"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="Tek bir düşmana üç hızlı yakın dövüş darbesi yapar, her vuruş toplam verilen hasarı artırır."
+
+"HERO_VESPER_SKILL_2_NAME"="Savaş Sanatı"
+
+"HERO_AEGION_DESCRIPTION"="Yalnız kaptan, Paladin şehrinin düşüşüne karşı yılmadan durdu, ekibini acımasız düşman dalgaları arasından geçirerek güvenli bir yol açtı ve yakın kasabaları Karanlıktan kurtardı. Zorlu bir savaştan sonra emekli oldu, sadece Krallık içinde bir tehdit ortaya çıktığında geri döndü."
+
+"HERO_AEGION_SHORT_DESC"="-Kalkanıyla düşmanları geri iter.<br>-Düşmanları engelleyen bir kalkan projekte eder.<br>-Kalkanını kullanarak uçan düşmanlara ateş eder."
+
+"HERO_AEGION_NAME"="Aegion Parlakçelik"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="Kalkanını kutsal güçle birleştirerek kalkanını aydınlatır, düşmanlara saldırır ve onları geriye ışınlar."
+
+"HERO_AEGION_SKILL_0_NAME"="Kutsal Kalkan"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="Birkaç saniye boyunca düşman saldırılarını engelleyen ve alınan hasarı saldırgana geri yansıtan bir kalkan projeksiyonu oluşturur."
+
+"HERO_AEGION_SKILL_1_NAME"="Ağır Kalkan"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="Her birkaç saniyede bir, kalkanından uçan bir düşmana odaklanmış bir ışın ateşler."
+
+"HERO_AEGION_SKILL_2_NAME"="Hava Saldırısı Kalkanı"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="Soğuk tavırları ve güçlü büyüsüyle tanınan Elora, kuzey topraklarının en korkulan büyücüsüdür. Yıllarca istilacılara karşı tek başına durdu, geride ürkütücü buz heykelleri bırakarak - ona meydan okumaya cüret eden herkese sessiz uyarılar."
+
+"HERO_ELORA_SHORT_DESC"="-Hareket ederken hasar veren bir iz bırakır.<br>-Yüksek alan hasarı veren bir dondurma büyüsü yapar.<br>-Bir alandaki düşmanları yavaşlatır."
+
+"HERO_ELORA_NAME"="Elora Kış Şarkısı"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="Büyüsünü hızlı hareket etmek için kullanır, peşinden gelen düşmanlara zarar veren keskin buz sarkıtları bırakır."
+
+"HERO_ELORA_SKILL_0_NAME"="Donmuş Yol"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="Güçlü bir büyü salarak bir alanı buzla kaplar, düşman hareketini büyük ölçüde yavaşlatır."
+
+"HERO_ELORA_SKILL_1_NAME"="Permafrost"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="Geniş bir alana ölümcül buz parçaları yağdıran güçlü ve delici bir büyü yapar."
+
+"HERO_ELORA_SKILL_2_NAME"="Buz Fırtınası"
+
+"HERO_EISKALT_DESCRIPTION"="İnsanlara karşı güçlü bir av içgüdüsüyle hareket eden tehlikeli bir buz wyvern'i. Sadece varlığı bile doğanın bir gücü ve başlı başına bir felakettir. İndiği her yer kaçınılmaz olarak geniş bir buz çölüne dönüşür."
+
+"HERO_EISKALT_SHORT_DESC"="-Dikenli kartopları atar.<br>-Zeminde zarar veren buz dikenleri oluşturur.<br>-Düşmanları yavaşlatır."
+
+"HERO_EISKALT_NAME"="Buzul"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="Dikenli bir kartopu fırlatır, yolda ilerleyerek düşmanlara hasar verir."
+
+"HERO_EISKALT_SKILL_0_NAME"="Çığ"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="Yerden çıkan sivri buzları çağıran bir büyü yaparak, yakalanan düşmanları delip zarar verir."
+
+"HERO_EISKALT_SKILL_1_NAME"="Buz Zirvesi"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="Düşmanların altındaki zemini dondurarak hareket hızlarını birkaç saniye boyunca ciddi şekilde yavaşlatır."
+
+"HERO_EISKALT_SKILL_2_NAME"="Buz Nefesi"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="Yerinde dondurarak tüm rakip birimleri birkaç saniyeliğine sersemleten bir buzul fırtınası yaratır."
+
+"HERO_EISKALT_SKILL_3_NAME"="Buz Fırtınası"
+
+"TOWER_ARCHER_DESCRIPTION"="Eğitimdeki elit okçular, hassas nişancılıkları ve düşman zayıflıklarına karşı keskin gözleriyle tanınır. Zırhlı düşmanlar bile güvende değil - her atış derinlemesine nüfuz edebilir, hedefleri tehlikeli şekilde yaralayabilir."
+
+"TOWER_ARCHER_NAME"="Okçu Kulesi"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="Her saldırının düşmanı kanatma ve zamanla hasar verme şansı vardır.\n(Yetenek her zaman aktif)"
+
+"TOWER_ARCHER_SHORT_DESC"="Düşmanları kanatma yeteneğine sahip çırak okçular"
+
+"TOWER_ARCHER_SKILL_0_NAME"="Kanama"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="Yakındaki bir alana ok yağmuru salarak, yakalanan tüm düşmanlara fiziksel hasar verir.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="Bir alana ok yağdırır, vurulan tüm düşmanlara zarar verir."
+
+"TOWER_ARCHER_SKILL_1_NAME"="Ok Yağmuru"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="Her iki okçu da yaylarını gererek iki rakip birime güçlü bir saldırı yapar.\n(Maksimum Kule Yükseltmesinde Beceri Satın Al)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="Güçlü oklar iki rakip birimi vurur."
+
+"TOWER_ARCHER_SKILL_2_NAME"="Yüklü Atışlar"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="Usta Elfler tarafından bile okçuluk becerileriyle tanınan bu usta korucular, uzaktan saldırırken yıkıcı ok yağmurları salarlar. Doğanın ustaları olarak, düşmanlarını engellemek ve zarar vermek için ormanın kendisini kullanırlar."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="Düşmanları tuzağa düşürmek için doğayı yöneten kıdemli korucular."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="Korucu Sığınağı"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="Saldırı sırasında, düşmanı birkaç saniye yerinde hapseden, yerden fışkıran asmalar oluşturan özel bir ok kullanabilirler. \n(Yetenek her zaman aktif)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="Orman Asmaları"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="Korucular, yakındaki tüm düşmanlara zehirli ok dalgaları fırlatır, onları zehirler ve zamanla hasar verir. \n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="Zehirli oklar fırlatır, düşmanları zehirler ve zamanla hasar verir."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="Zehirli Ok"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="Doğanın ustalığını kullanarak, korucu rakibin tarafına büyülü bir ok atar ve bir Kurt Ent sürüsü çağırır. Çevik ve kaçamak olan bu yaratıklar, yakın dövüş saldırılarından kaçınırken düşman hatları arasında sızmaya çalışır.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="Rakibin tarafına bir grup Kurt Ent çağırır."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="Yeşil Savunucular"
+
+"TOWER_MAGE_DESCRIPTION"="Krallığın büyülü savunmasındaki ön cephe, bu çırak büyücüler manalarını yoğunlaştırmak için elementsel büyüler kullanır. Büyüleri değişken ve patlayıcıdır ve özellikle fark edilmeden geçmeye çalışan düşmanlar için tehlikelidir."
+
+"TOWER_MAGE_SHORT_DESC"="Bir düşmana çarptıktan sonra büyü cıvataları bölünen bir Büyücü."
+
+"TOWER_MAGE_NAME"="Büyücü Kulesi"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="Aşırı yüklenmiş bir cıvata bir düşmana çarptığında, fazla enerji ek cıvatalara bölünerek yakındaki düşmanlara azaltılmış hasar verir.\n(Yetenek her zaman aktif)"
+
+"TOWER_MAGE_SKILL_0_NAME"="Zincir Yıldırım"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="Büyücü, depolanan manayı odaklanmış bir büyü cıvatası patlamasına dönüştürerek, yakındaki birden fazla düşmana ağır hasar verir.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="Yakındaki birden fazla düşmana zarar veren büyülü bir saldırı başlatır."
+
+"TOWER_MAGE_SKILL_1_NAME"="Büyü Yağmuru"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="Büyücü, rakibin tarafındaki bir grup düşman birimine koruyucu bir büyü yapmak için asasını kullanır ve onlara büyü hasarına karşı direnç kazandırır.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="Bazı rakip düşmanları büyü hasarından korur."
+
+"TOWER_MAGE_SKILL_2_NAME"="Büyü"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="Büyücü ustalığında zirveye ulaşan bu güçlü büyücüler, gerçekliği yeniden şekillendirebilirler. Geniş büyü bilgilerini kullanarak, alanlarına meydan okumaya cüret eden herhangi bir düşmanı zayıflatabilir, yerinden edebilir veya tamamen yok edebilirler."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="Düşman büyü direncini zayıflatma gücüne sahip kadim büyü ustası."
+
+"TOWER_ARCANE_WIZARD_NAME"="Büyücü"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="Her saldırı, etkilenen düşmanların büyü direncini azaltan bir anti-büyü aurası oluşturma şansına sahiptir.\n(Yetenek her zaman aktif)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="Büyü Kırılması"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="Büyüyü derinlemesine anlayarak, büyücü bir grup düşmanı yolları boyunca geri ışınlayan gerçekliği çarpıtan bir daire yaratır.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="Birden fazla düşmanı geri ışınlar"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="Teleport"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="Büyücü, tek bir yıkıcı ışın salmak için muazzam manayı odaklar, bir düşmanı anında yok eder.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="Hedef aldığı düşmanı anında öldürür."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="Ölüm Işını"
+
+"TOWER_ARTILLERY_DESCRIPTION"="Cüce metalurjisinin nihai ürünü olan bu ağır topçu, en güçlü alaşımlardan dövülmüş ve yıkıcı mühimmatlarla çalışmaktadır. Çeşitli özel mermilerle, menzilinin ötesindeki düşman kuvvetlerini bile yok edebilir."
+
+"TOWER_ARTILLERY_SHORT_DESC"="Patlayıcı küme mermileri fırlatabilen ağır topçu."
+
+"TOWER_ARTILLERY_NAME"="Cüce Topçusu"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="Havada patlayan ve bölgeyi bombalayan birden fazla küçük bomba bırakan bir küme mermisi ateşleme şansı vardır.\n(Yetenek her zaman aktif)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="Küme"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="Hedefe yönelen, temas ettiğinde patlayan ve çevresindeki alanda hasar veren güdümlü bir füze fırlatır. Uçan düşmanları da hedef alabilir.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="Hedefe kilitlenen bir füze fırlatır, patlayarak bir alandaki düşmanlara zarar verir."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="Füze Fırlatıcı"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="Rakip birimlere doğru yüksek etkili bir füze hedefler ve ateşler. Patlama, yakındaki rakip kuleleri geçici olarak sersemleten bir şok dalgası salar.\n(Maksimum Kule Yükseltmesinde Beceri Satın Al)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="Rakip tarafına hasar veren ve kuleleri sersemleten bir füze fırlatır."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="T.A.R Füzesi"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="Başlangıçta en derin kayaları delmek için inşa edilen bu güçlü Cüce madencilik matkabı, korkunç bir savunma silahı olarak yeniden dövülmüştür. Yeri sarsarak düşman birimlerine ve yapılara hasar verir ve sersemletir."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="Bir Cüce matkabı her vuruşta düşmanları sersemletir."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="Her saldırı, kulenin etrafındaki zemini parçalayarak yakındaki tüm düşmanları kısa süreliğine sersemletir.\n(Yetenek her zaman aktif)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="Şok ve Dehşet"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="Matkabın tüm gücünü serbest bırakarak araziyi parçalar, yakındaki tüm düşmanları yakan ve zamanla hasar vermeye devam eden yanmış bir zemin bırakan erimiş lav dalgasını tetikler.\n(Maksimum Kule Yükseltmesinde beceri satın al)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="Etrafındaki düşmanları yakar ve zemini magma ile doldurur."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="Fırın Patlaması"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="Düşman kule konumlarını belirleyerek, rakip kulelerin altındaki zemini kıran ve onları kısa süreliğine sersemleten hedefli bir sismik şok tetikler.\n(Maksimum Kule Yükseltmesinde Beceri Satın Al)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="Bazı düşman kulelerini yerel sarsıntılarla sersemletir."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="Deprem"
+
+"TOWER_BARRACK_DESCRIPTION"="Sıklıkla kutsal koruyucular olarak adlandırılanlar, vatandaşların kalkanları ve koruyucularıdır. Bu güçlü şövalyeler, güçlü düşmanlarla karşılaştıklarında sarsılmaz inançları ve cesaretleriyle tanınırlar."
+
+"TOWER_BARRACK_SHORT_DESC"="Kutsal inançla kendini koruyan paladinler."
+
+"TOWER_BARRACK_NAME"="Paladin Kışlası"
+
+"BARRACK_UNIT_NAME"="Paladin"
+
+"BARRACK_UNIT_SHORT_DESC"="Tanrı tarafından kutsanmış zırhlı savaşçı."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="Savaşın ortasında, Paladinler gelen hasarın bir kısmını saptırarak kalkanlarını ilahi bir amaçla kaldırabilirler.\n(Yetenek her zaman aktif)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="Demir İrade"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="Kutsal ışıkla güçlendirilmiş Paladin, kılıcını yere vurur ve etrafındaki tüm düşmanlara zarar veren parlak bir enerji patlaması yaratır.\n(Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="Kutsal enerjinin patlamasını serbest bırakır, yakındaki düşmanlara zarar verir."
+
+"TOWER_BARRACK_SKILL_1_NAME"="Kutsal Darbe"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="Zor bir durumla karşılaştığında, Paladin ilahi lütfu çağırarak yaralarının bir kısmını iyileştirir ve kutsal sihirle sağlığını geri kazandırır.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="Kutsal enerji kullanarak sağlık yeniler."
+
+"TOWER_BARRACK_SKILL_2_NAME"="Şifa Işığı"
+
+"TOWER_BARBARIAN_DESCRIPTION"="Bu savaşçıların kuzeydeki bu sert ve acımasız savaşçıları, her zaman en zorlu ortamlarda durmaya hazırdır. Balta dövüşünün ustaları olarak, yer altındaki düşmanları parçalayabilir veya silahlarını gökyüzüne fırlatarak havadaki düşmanları acımasız bir hassasiyetle düşürebilirler."
+
+"TOWER_BARBARIAN_SHORT_DESC"="Uçan düşmanlara balta fırlatabilen vahşi savaşçılar."
+
+"TOWER_BARBARIAN_NAME"="Barbarian Mead Hall"
+
+"BARBARIANS_UNIT_NAME"="Barbar"
+
+"BARBARIANS_UNIT_SHORT_DESC"="Öfke ve içgüdülerle beslenen acımasız savaşçı berserkerler."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="Barbarlar menzildeki uçan düşmanları ölümcül isabetlilikle balta fırlatarak hedefleyebilir ve vurabilirler.\n(Yetenek her zaman aktif)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="Balta Fırlatmak"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="Savaşın ortasında, barbarlar, çift baltalarıyla şiddetle dönerek yakınlardaki tüm düşmanları kesmek için ham öfkelerini kullanır.\n(Beceri satın al Maksimum Kule Yükseltmesinde)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="Barbarlar, etrafındaki tüm düşmanlara zarar veren ölümcül bir girdapta döner."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="Kasırga Saldırısı"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="Üçüncü bir barbar, kulenin tepesinde belirir ve rakip birimlere acımasızca baltalar fırlatır, ağır hasar verir.\n(Beceri Satın Al Maksimum Kule Yükseltmesinde)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="Üçüncü bir barbar çağırarak rakibin birimlerine balta fırlatır."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="Ağaç Yağmuru"
+
+"TOWER_MUSKETEER_DESCRIPTION"="Öldürücü ve sabırlı olan bu keskin nişancılar, mükemmel atışı beklemek için günlerce hareketsiz kalabilirler. Eski cüceler tarafından dövülmüş ateşli silahlarla donatılan, yalnızca en disiplinli nişancılara bu seviyede ateş gücü emanet edilir."
+
+"TOWER_MUSKETEER_SHORT_DESC"="Elit keskin nişancılar zırhı delip uzaktan vurmak için eğitilmiştir."
+
+"TOWER_MUSKETEER_NAME"="Musketeer Kışlası"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="Özel mühimmat kullanarak, düşmanın fiziksel zırhını delip kısmen görmezden gelebilirler. (Yetenek her zaman aktiftir)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="Delik Penetran"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="Bir patlayıcı mermi ateşler, çarptığında patlar ve hedefin etrafındaki düşmanlara da ağır alan hasarı verir.\n(Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="Patlama atışı, hedefin etrafında alan hasarı verir."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="Shrapnel Atışı"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="Musketerler, rakibin tarafındaki birimlere hızlı ve yüksek hassasiyetle bir dizi atış koordine eder. Her saldırı hasar verir ve her hedefi anında ortadan kaldırma şansı vardır.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="Rakip birimlere güçlü atışlar yapar, anında öldürme şansı vardır."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="Keskin Nişancı Atışları"
+
+"TOWER_SORCERER_DESCRIPTION"="Ünlü yaratım ve element sihir ustaları, toprak büyüsünü ve antik runeleri kullanarak istedikleri gibi her şeyi şekillendirmek veya yeniden şekillendirmek için kullanırlar."
+
+"TOWER_SORCERER_SHORT_DESC"="Bir rune ustası, her saldırıda düşmanın zırhını aşındıran."
+
+"TOWER_SORCERER_NAME"="Büyücü"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="Her saldırı, düşmanın fiziksel zırhının bir kısmını aşındıran kalıcı bir lanet taşır.\n(Beceri her zaman aktiftir)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="Lanetlenme"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="Onlar, kuledeki oymalı runlar aracılığıyla sihirlerini yönlendirerek düşmanları koyunlara dönüştürür, dirençlerini alır ve sağlıklarını azaltır.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="Düşmanı bir koyuna dönüştürerek sağlığını azaltır ve dirençleri kaldırır."
+
+"TOWER_SORCERER_SKILL_1_NAME"="Polimorf"
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="Toprak büyüsündeki ustalıkları sayesinde, yolu korumak için taş ve topraktan güçlü elementaller çağırıyorlar.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="Bir Taş Elementali çağırarak kuleye yakın düşmanlarla savaşır."
+
+"TOWER_SORCERER_SKILL_2_NAME"="Elemental Çağır"
+
+"CREEP_SORCERER_GOLEM_NAME"="Taş Elementali"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="Bir güçlü taş elementi, düşmanları ezmek ve yolu korumak için saf güç ve sarsılmaz dayanıklılık kullanır."
+
+"TOWER_TESLA_DESCRIPTION"="Başlangıçta Cüce makinelerini korumak için inşa edilen Tesla x104, kısa sürede savaş alanında ham elektrik öfkesini serbest bırakabilen güçlü bir savunma silahı olarak eşsiz bir potansiyele sahip olduğu keşfedildi."
+
+"TOWER_TESLA_SHORT_DESC"="Yıldırımlar hedeflerinden en yakın düşmana doğru yayılır ve her seferinde hasarın bir kısmını verir."
+
+"TOWER_TESLA_NAME"="Tesla x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="Binayı güçlendiren bin fırtınanın gücünü kanalize ederek, yerde veya havada düşmanlar arasında kıvrılan yıldırımlar serbest bırakır. Her sonraki darbe, orijinal hasarın bir kısmını verir.\n(Beceri her zaman aktiftir)"
+
+"TOWER_TESLA_SKILL_0_NAME"="Devre"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="Her saldırı, kule etrafındaki bir alandaki tüm düşmanlara zarar veren statik aşırı yükü tetikleme şansına sahiptir.\n(Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="Saldırılar, kule etrafında bir alan etkisi statik patlaması başlatma şansına sahiptir."
+
+"TOWER_TESLA_SKILL_1_NAME"="Aşırı Yükleme"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="Düşmanın birimlerine durdurulamaz bir gök gürültüsü dalgasıyla saldırır, hasar verir ve onları birkaç saniye sersemletir.\n(Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="Rakip birimi vurur, hasar verir ve sersemletir."
+
+"TOWER_TESLA_SKILL_2_NAME"="Yıldırım"
+
+"TOWER_GLACIAL_DRUID_NAME"="Buz Druid"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="Kışın öfkesinin ustaları, kar fırtınaları ve dondurucu rüzgarlar yaratmak için buzul büyüsü kullanarak, arkalarında don ve yavaşlatılmış düşmanlardan oluşan bir iz bırakırlar."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="Frost büyüsü kullanan bir büyücü, her saldırıda düşman gruplarını yavaşlatabilir."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="Her saldırı, bir soğuk patlama yayarak, bir alandaki tüm düşmanları birkaç saniye boyunca yavaşlatır.\n(Beceri her zaman aktiftir)"
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="Buz Patikası"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="Antik buzul gücünü çağırarak rakibin yoluna dev bir Buz Devi çağırır.\n(Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="Buzgulu bir Buz Devi'ni rakibin yoluna çağırır."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="Buz Dev"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="Buz gibi bir dondurucu fırtına serbest bırakır, bazı düşman kulelerini geçici olarak dondurur ve işlevlerini durdurur.\n(Beceri satın alımını Maksimum Kule Yükseltmesinde yapın)"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="Rakip kulelerini dondurur, kısa bir süreliğine devre dışı bırakır."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="Buz Fırtınası"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="Bu sihir savaş sanatında uzmanlar genellikle son savunma hattı olarak dururlar. Yıkıcı büyüleri ve hassas sihirleriyle, en kararlı orduları bile geri püskürtebilir veya sadece onları uzaklaştırabilirler."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="Savaş büyücüsü, ham sihir enerjisini patlayıcı mermilere dönüştüren."
+
+"TOWER_ARCHMAGE_NAME"="Büyücü"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="Her bir yıldırım, dengesiz enerji ile aşırı yüklenmiştir ve çarpışma anında patlayarak yakındaki düşmanlara zarar verme şansı verir.\n(Beceri her zaman aktiftir)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="Kritik Kütlesi"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="Büyü gücünü serbest bırakır, savaş alanında yırtıcı bir kasırga yaratır, düşmanlara zarar verir ve düşmanları yol boyunca geri çeker.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="Tornadoyu fırlatır, düşmanları geriye çeker ve hasar verir."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="Twister"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="Arkane ve Boyutsal büyüyü birleştirerek bazı düşmanları savaş alanında taşır, onları anında rakibin tarafına gönderir.\n(Beceri satın al Maksimum Kule Yükseltmesinde)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="Bir düşmanı rakibin tarafına teleport eder."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="Dağıtmak"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="Sarsılmaz bir inanç ve yıllarca süren kutsal eğitim sayesinde, bu rahibeler, tehlikede olan müttefiklerini korumak için ilahi büyüyü ustalıkla kullanmayı başardılar. Onlar, bir savaşçının alabileceği en iyi hayat sigortasıdır."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="Yakındaki müttefikleri kutsayan, aldıkları hasarı azaltan sadık bir şifacı."
+
+"TOWER_HOLY_SANCTUARY_NAME"="Kutsal Sığınak"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="Rahibe kuleyi kutsar, menzil içindeki tüm müttefiklere ilahi koruma sağlar, yakında kaldıkları sürece gelen hasarı azaltır.\n(Yetenek her zaman aktif)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="İnançın Koruyucusu"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="Kutsal gücü çağırarak yakındaki kuleleri geçici olarak güçlendirir, hasarlarını bir süre artırır. (Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="Geçici olarak yakın kuleleri güçlendirir."
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="Büyülü Lütuf"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="Duyduğunda yaralı müttefikler, rahibe bir iyileştirme büyüsü patlaması serbest bırakır, yaralıları önceliklendirir ve yakındaki tüm birimlerin sağlığını geri kazandırır.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="Yakındaki müttefik birimleri iyileştirir."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="Hayat Aura"
+
+"TOWER_NECROMANCER_DESCRIPTION"="Yasak sanatların ustaları, Nekromancer'lar ölümü kendi iradelerine göre çarpıtır. Düşen düşmanların bedenlerini onlara savaşmak için bir undead ordusu olarak kaldırma yeteneğine sahipler, müttefiklerinin aynı kaderle karşılaşmasını engelliyorlar."
+
+"TOWER_NECROMANCER_SHORT_DESC"="Karanlık bir büyücü, menzilindeki yakın düşmüş düşmanları yeniden canlandırır."
+
+"TOWER_NECROMANCER_NAME"="Nekromant"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="Nekromans, menzil içindeki düşmüş düşmanları pasif olarak diriltir ve iskeletleri rakibin tarafına saldırmak için gönderir.\n(Yetenek her zaman aktif)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="İskelet Ordusu"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="Zehirli ölüm bulutunu çağırır, savaş alanında kalır ve içinde yakalanan tüm düşmanlara zamanla hasar verir.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="Sürekli hasar veren bir bulut oluşturur."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="Veba"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="Bir Skelett Şövalyesi'ni rakibin tarafına çağırır. Bu elit ölümsüz savaşçı sadece amansızca savaşmakla kalmaz, aynı zamanda yakındaki yeniden canlandırılan müttefiklerin hasarını da artırır.\n(Maksimum Kule Yükseltmesinde yeteneği satın al)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="Yakındaki İskeletleri güçlendiren bir İskelet Atlısı çağırır."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="Ölüm Binicisi"
+
+"TOWER_NECROMANCER_PACK_NAME"="Başlangıç Paketi"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="Başlangıçta rutin devriyeyi basitleştirmek için yürüyücü olarak tasarlanan bu mecha'lar, o zamandan beri çok çeşitli tehlikelere dayanabilen ön hat savunucularına dönüştürülmüştür."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="Kuleleri koruyan, yakındaki kuleleri sersemletme ve sistem bozulmalarından koruyan bir mecha."
+
+"TOWER_BATTLE_MECHA_NAME"="Savaş Mechası"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="Bir dengeleyici rezonans alanı yayar, bu da yakındaki müttefik kulelerin sersemlemesini veya devre dışı kalmasını engeller.\n(Beceri her zaman aktiftir)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="Mekanik Gücü"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="Bir grup homing füzesi fırlatır ve savaş alanındaki düşmanları hedef alır, her vuruşta hasar verir.\n(Beceri satın alımını Maksimum Kule Yükseltmesinde yapın)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="Fırlatılan homing füzeleri, birden fazla düşmanı takip edip hasar verir."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="arı füzesi"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="Boşaltır atık mekanik tehlikeli birikmiş mecha'yı yere dökerek üzerine basan düşmanları yavaşlatan bir alan oluşturur.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="Yavaş atık alanı mecha etrafında oluşturur."
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="Atık İmhası"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="Mayın Tarlası"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="Her birkaç saniyede rakibin tarafında mayın tarlası kurar. Bu mayınlar temas ettiğinde patlayarak düşman birimlerine alan hasarı verir.\n(Yetenek her zaman aktif)"
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="Savaş Mechası"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="Bir denge rezonans alanı yayar ve yakındaki müttefik kulelerin sersemlemesini veya devre dışı kalmasını engeller.\n(Beceri her zaman aktiftir)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="Linirea'nın düşen lejyonlarının kalıntılarından oluşan bu sert hayatta kalanlar, gölgelerden ölümcül bir hassasiyetle vurup düşman güçlerine uzaktan ateş açarak nişancı gerilla savaşında uzmanlaşmıştır."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="Ön hat kirişçileri, kritik hasar verme ve düşmanlarını ateşe verme yeteneğine sahip."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="Okçular Keşifçileri"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="Okçuların İstihbaratı"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="Usta hem uzak mesafe hassasiyetinde hem de yakın dövüşte savaşçı."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="Ön cephe okçusu için her vuruş önemlidir. Menzilli saldırıların kritik vuruş yapma şansı vardır ve ek hasar verir.\n(Beceri her zaman aktiftir)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="Kritik Vuruşu"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="Oklarını yağ ve alevle tutuştururlar, düşmanları ateşe verip zamanla hasar verirler.\n(Beceri satın al Maksimum Kule Yükseltmesinde)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="Çarptığında düşmanları tutuşturur, zaman içinde yanık hasarı verir."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="Ateş Et"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="Her birkaç saniyede bir, savaşta olmadıklarında, rakip birimlere birkaç atış yapabilirler. (Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="Saldırıda değilken rakip birimlere ok fırlatır."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="Hedef Pratiği"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="Deneyimli bir avcı, sadık kartalıyla birlikte. Takım çalışması kullanarak avı tuzaklara çekiyorlar ve en güçlü yaratıkları bile alt edebiliyorlar."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Eğitimli bir kartal tarafından desteklenen ve düşmanları yok etmek için tuzaklar kullanan taktik avcı."
+
+"TOWER_HUNTER_OUTPOST_NAME"="Avcı İstasyonu"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Eğitimli bir kartal tarafından desteklenen ve düşmanları yok etmek için tuzaklar kullanan taktik avcı."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Eğitimli bir kartal tarafından desteklenen ve düşmanları yok etmek için tuzaklar kullanan taktik avcı."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="Eğitimli bir kartal süzülür, kule etrafındaki geniş bir alanı araştırır ve menzilindeki herhangi bir düşmanı saldırır.\n(Yetenek her zaman aktif)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="Şahin Avı"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="Avcı, yol boyunca ayı tuzakları kurar. Üzerine basan düşmanlar hasar alır ve geçici olarak sersemler.\n(Beceri satın al Maksimum Kule Yükseltmesinde)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="Kısa süreli olarak düşmanları sersemleten ve hasar veren tuzaklar yerleştirir."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="Ayı Tuzakları"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="Düzenli aralıklarla, avcı bir kartala rakibin tarafına doğru uçması için sinyal verir ve onların sıralarını bozar.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="Rakiplerin yollarına kartalları gönderir."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="Keşfet ve Avla"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="Linirea'nın düşen lejyonlarının kalıntılarından oluşan bu sert hayatta kalanlar, gölgelerden ölümcül bir hassasiyetle vurup düşman güçlerine uzaktan ateş açarak nişancı gerilla savaşında uzmanlaşmıştır."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="Kritik hasar verme ve düşmanlarını ateşe verme yeteneğine sahip ön hat okçuları."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="Ön hat kolları, kritik hasar verme ve düşmanlarını ateşe verme yeteneğine sahip okçular."
+
+"TOWER_ARCHERY_SCOUT_NAME"="Okçular Keşifçileri"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="Ön cephe okçusu için her vuruş önemlidir. Menzilli saldırıların kritik vuruş yapma şansı vardır ve ek hasar verir.\n(Beceri her zaman aktiftir)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="Kritik Vuruş"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="Onlar oklarını yağ ve alevle ateşleyerek düşmanları ateşe verir ve zamanla hasar verir.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="Çarpma anında düşmanları ateşler, zamanla yanık hasarı verir."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="Ateş Et"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="Her birkaç saniyede bir, savaşta olmadıklarında, rakip birimlere birkaç atış yapabilirler. (Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="Savaşta değilken rakip birimlere ok yağmuru yağdırır."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="Hedef Pratiği"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="Linirea'nın en güçlü nişancıları. Gökyüzünün koruyucuları, keskin gözleri en uzak hedefleri vurabilmelerini sağlar. Sadık savaş kartalları, hiçbir uçan düşmanın yara almadan kaçmasına izin vermez."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="Uzun menzil ve hava savunma taktikleriyle donatılmış keskin gözlü nişancılar."
+
+"TOWER_ROYAL_ARCHERS_NAME"="Kraliyet Okçuları"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="Eşsiz nişan alma yeteneği ve jilet gibi keskin ok uçlarıyla donanmış olanlar, uçan düşmanlara bonus hasar vereceklerdir.\n(Beceri her zaman aktiftir)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="Keskin Ok Uçları"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="Falconry uzmanları olarak, eğitilmiş kartallarını her birkaç saniyede bir uçan düşmanları kovalamak ve saldırmak için gönderebilirler.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="Her birkaç saniyede bir uçan düşmanları saldırmak için bir kartal gönderir."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="Açgı Kelebeği"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="Onlar, hedefin fiziksel zırhını geçici olarak azaltan zırh delici oklarla uçan bir şarj atışı yaparlar.\n(Maksimum Kule Yükseltmesinde yetenek satın al)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="Şarjlı oklar fırlatır ve düşmanın zırhını geçici olarak azaltır."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="Zırh Delici"
+
+"SPELL_ARCANE_CIRCLE_NAME"="Teleporta"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="Büyülü bir daire oluşturur ve onu geçen gelen düşmanları geri teleport eder."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="Gelen düşmanları geri ışınlayan sihirli bir daire oluşturur."
+
+"SPELL_CURSED_VINES_NAME"="Lanetlendi Sarmaşık"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="Yerde düşmanları yavaşlatan ve zamanla hasar veren zehirli sarmaşık kümesi yetiştirir."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="Sarmalar büyüterek düşmanları yavaşlatır ve zehirler."
+
+"SPELL_CURSED_VINES_PACK_NAME"="Kasa Paketi"
+
+"SPELL_ICY_ZONE_NAME"="Buzlu Bölge"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="Büyük bir alanı kalın buzla kaplar, geçmeye çalışan herhangi bir düşmanı yavaşlatır."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="Kalın buzla büyük bir alanı kaplar, düşmanları yavaşlatır."
+
+"SPELL_POLYMORPH_NAME"="Polimorf"
+
+"SPELL_POLYMORPH_DESCRIPTION"="Hemen hemen her düşmanı bir koyuna dönüştürerek sağlıklarını azaltır ve sahip olabilecekleri zırhı kaldırır."
+
+"SPELL_POLYMORPH_SHORT_DESC"="Düşmanları koyunlara dönüştürerek sağlıklarını azaltır ve dirençleri ortadan kaldırır."
+
+"SPELL_RAIN_OF_FIRE_NAME"="Ateş Yağmuru"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="Bir güçlü büyü serbest bırakır ve gökyüzünden birden fazla ateş topu çağırarak alanındaki tüm düşmanlara birden fazla kez saldırır."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="Tüm düşmanlara büyünün alanında hasar verir."
+
+"SPELL_REINFORCEMENTS_NAME"="Takviye"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="Geçici olarak savaşta yardımcı olmak için temel ekipmana sahip bir çift asker çağırır."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="Geçici olarak savaşta yardımcı olması için bir çift asker çağırır."
+
+"REINFORCEMENTS_UNIT_NAME"="Takviye"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="Temel asker, savunmaya yardımcı olur."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="Buz Dev"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="Tüm orduları paramparça edebilecek savaşlara dayanan donmuş bir titan."
+
+"HUNTING_EAGLE_UNIT_NAME"="Avcı Kartal"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="Avcı'nın sadık yoldaşı, düşmanları yukarıdan saldırıyor."
+
+"SCOUNT_EAGLE_UNIT_NAME"="İzci Kartalı"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="Avcı tarafından evcilleştirilmiş ve rakibine saldırması emredilmiş bir kartal."
+
+"SPELL_STUN_NAME"="Yıldırım Sersemletme"
+
+"SPELL_STUN_DESCRIPTION"="Güçlü bir gök gürültüsü salarak yere çarpar, geniş bir alanı elektrikle çarpar ve menzilindeki tüm düşmanları sersemletir."
+
+"SPELL_STUN_SHORT_DESC"="Dondurur düşmanları bir alanda."
+
+"SPELL_THUNDERBOLT_NAME"="Yıldırım"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="Güçlü bir fırtına çağırarak alandaki tüm düşmanları vurur, her vuruşta hasar verir ve onları sersemletir."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="Yıldırım ile düşmanlara saldırarak bir alanda hasar verir ve düşmanları kısa süreliğine sersemletir."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Şimşek"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Bölgedeki en güçlü düşmana saldırır, onu anında yok eder."
+
+"SPELL_SABOTAGE_NAME"="Sabotaj"
+
+"SPELL_SABOTAGE_DESCRIPTION"="Etkileşim alanındaki tüm düşmanların Zırh veya Büyü direncini azaltır."
+
+"SPELL_SABOTAGE_SHORT_DESC"="Tüm düşmanların direncini bir alanda azaltır"
+
+"SPELL_LINIREAN_LANCERS_NAME"="Linirean Mızraklıları"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="Geçici olarak savaşa yardım etmek için bir çift Veteran Mızrakçı çağırır."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="Geçici olarak savaşa yardım etmek için bir çift Veteran Mızrakçı çağırır."
+
+"CREEP_GOBLIN_NAME"="Goblin"
+
+"CREEP_GOBLIN_DESC_1"="Goblin kabilesinden zayıf ve eğitimsiz yaratık"
+
+"CREEP_GOBLIN_SHORT_DESC"="Küçük ve zayıf bir goblin"
+
+"CREEP_GOBLIN_WARRIOR_NAME"="Goblin Savaşçısı"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="Zırh kuşanmış, daha fazla hasara dayanabilen eğitimli ve güçlü bir goblin."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="Zırhlı daha güçlü bir goblin"
+
+"CREEP_GOBLIN_WIZARD_NAME"="Goblin Büyücüsü"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="Tehlikeli bir goblin, düşmanlarını yakmak için ateş büyüsü kullanır."
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="Ateş topları kullanarak zamanla hasar veren büyücü bir goblin."
+
+"CREEP_GOBLIN_COPTER_NAME"="Goblin Helikopter"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="Goblinler tarafından kendi bölgelerini keşfetmek için yaratılmış sağlam ama dengesiz bir hurda makinesi."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="Helikopter yok edildiğinde, goblin yere düşer ve yürümeye devam eder"
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="Hurda bir uçan araç, yok edildiğinde pilotun yere düşmesine neden olur."
+
+"CREEP_ORC_NAME"="Ork"
+
+"CREEP_ORC_DESC_1"="Goblin kabileleri arasında yaşayan tehlikeli ve dayanıklı yaratıklar"
+
+"CREEP_ORC_SHORT_DESC"="Kalın derisiyle fiziksel saldırılardan korunan tehlikeli bir düşman."
+
+"CREEP_ORC_CHAMPION_NAME"="Ork Şampiyonu"
+
+"CREEP_ORC_CHAMPION_DESC_1"="Tehlikeli düşmanlarla savaşmaya hazırlıklı, dirençli ve iyi eğitimli bir Ork."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="Güçlü bir ork savaşçısı, herhangi bir düşmanı yok etmek için donatılmış ve eğitilmiştir."
+
+"CREEP_ORC_SHAMAN_NAME"="Ork Şaman"
+
+"CREEP_ORC_SHAMAN_DESC_1"="Goblin kabilesinin bir şifacısı, genellikle savaşçıları destekleyen arka saflarda görülür."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="Yakındaki tüm müttefiklerin sağlığını yenileyen bir goblin şifacı."
+
+"CREEP_OGRE_NAME"="Ogre"
+
+"CREEP_OGRE_DESC_1"="Korkunç ve dayanıklı bir yaratık, kaba kuvvetle her türlü savunmayı kırar."
+
+"CREEP_OGRE_SHORT_DESC"="Çok tehlikeli ve güçlü; her vuruş alan hasarı verir."
+
+"CREEP_HATCHLING_NAME"="Örümcek Yavrusu"
+
+"CREEP_HATCHLING_DESC_1"="Yeni doğmuş örümcekler, genellikle bir Anaç'ı takip eden büyük gruplar halinde görülür."
+
+"CREEP_HATCHLING_SHORT_DESC"="Küçük ve hızlı, bu yeni doğmuş örümcekler her zaman gruplar halinde hareket eder."
+
+"CREEP_MATRIARCH_NAME"="Örümcek Ana"
+
+"CREEP_MATRIARCH_DESC_1"="Ormanın derinliklerinden gelen ve avlanmak ve keşif yapmak için yavrularını kullanan bir örümcek."
+
+"CREEP_MATRIARCH_SHORT_DESC"="Büyük bir örümcek, yumurta bırakma eğiliminde, örümcek yavruları üretir"
+
+"CREEP_GARGOYLE_NAME"="Gargoyle"
+
+"CREEP_GARGOYLE_DESC_1"="Ormanın gece göklerinde süzülen gececi bir yaratık."
+
+"CREEP_GARGOYLE_SHORT_DESC"="Ormanın gece göklerinde süzülen gececi bir yaratık."
+
+"CREEP_WULF_NAME"="Kurt"
+
+"CREEP_WOLF_NAME"="Kurt"
+
+"CREEP_WULF_DESC_1"="Hızlı ve zeki bir orman hayvanı, avını sürüler halinde takip eder."
+
+"CREEP_WOLF_SHORT_DESC"="Avını hızla avlayan bir yaratık; birini görürseniz, daha fazlası yolda demektir."
+
+"BOSS_KRUM_THAK_NAME"="Krum'Thak"
+
+"BOSS_KRUM_THAK_DESC_1"="Güçlü bir şaman, müttefiklerini korur ve düşmanları yok etmek için ölümcül yıldırımlar kullanır."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="Güçlü bir şaman, müttefikleri korurken düşmanları yok etmek için yıldırım çağırır."
+
+"BOSS_GUL_THAK_NAME"="Gul'Thak"
+
+"BOSS_GUL_THAK_DESC_1"="Güçlü bir şef, tespit edilen herhangi bir düşmana saldırırken müttefiklerini iyileştirir."
+
+"BOSS_GUL_THAK_SHORT_DESC"="Yakınlardayken müttefiklerini iyileştiren ve düşmanlara saldıran güçlü bir şef"
+
+"CREEP_TROLL_NAME"="Troll"
+
+"CREEP_TROLL_DESC_1"="Troll ırkının zayıf bir yaratığı, rejenerasyon özelliğini paylaşır."
+
+"CREEP_TROLL_SHORT_DESC"="Troll ırkından zayıf bir yaratık. Zamanla HP yeniler."
+
+"CREEP_TROLL_BREAKER_NAME"="Yıkıcı Trol"
+
+"CREEP_TROLL_BREAKER_DESC_1"="Zırh ve ağaç gövdesi ile donatılmış bu dev, en sağlam savunmaları bile aşabilir."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="Kullandığı kütük sayesinde alan hasarı veren dev bir Trol. Zamanla HP yeniler."
+
+"CREEP_TROLL_CHAMPION_NAME"="Trol Şampiyonu"
+
+"CREEP_TROLLCHAMPION_NAME"="Trol Şampiyonu"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="Dayanıklı savaşçılar, Troll ırkından gelen rejenerasyon ile, menzilli saldırılarda uzmanlaşmış"
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="Uzaktan saldırabilen güçlü troller. Zamanla HP yeniler."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="Trol Şefi"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="Bu trol, davulunu kullanarak yakındaki tüm müttefiklerin hasarını ve hızını artırır ve iyileştirir. Yüksek yenilenme yeteneklerine sahiptir."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="Müttefiklerini çeşitli güçlendirmelerle destekleyen bir reis. Zamanla HP yeniler."
+
+"CREEP_TROLL_PATHFINDER_NAME"="Troll Kâşifi"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="Küçük bir trol, patenlerini kullanarak buz üzerinde kayarak araziden yararlanır ve zamanla sağlığını yeniler."
+
+"CREEP_PATHFINDER_NAME"="Troll Kâşifi"
+
+"CREEP_PATHFINDER_SHORT_DESC"="Hızlı trol, kaykaylarını kullanarak kayar ve düşmanlardan kaçar. Zamanla HP yeniler."
+
+"CREEP_WINTER_WULF_NAME"="Kış Kurdu"
+
+"CREEP_WINTER_WULF_DESC_1"="Büyüye ve aşırı hava koşullarına direnmesini sağlayan özel kürkü olan çevik bir yaratık."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="Hızlı ve çevik bir yaratık, bazı yakın dövüş saldırılarından kolayca kaçınır"
+
+"CREEP_YETI_NAME"="Yeti"
+
+"CREEP_YETI_DESC_1"="Büyük ve tehlikeli bir yaratık; çok az kişi onun yoluna çıkmaya cesaret eder."
+
+"CREEP_YETI_SHORT_DESC"="Yoluna çıkan her şeyi yok edebilen dayanıklı bir yaratık."
+
+"CREEP_SNOW_GOLEM_NAME"="Kar Golemi"
+
+"CREEP_SNOW_GOLEM_DESC_1"="Bir dağ golemi, uzaktan saldırma yeteneğine sahip ve kırıldığında parçalanır."
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="Uzaktan saldırır ve öldüğünde iki küçük golema ayrılır."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="Küçük Kar Golemi"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="Küçük kar golemi, genellikle daha büyük bir golemin parçalarından yaratılır."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="Küçük ve zayıf küçük golem menzilli saldırı ile"
+
+"CREEP_ICE_MEPHIT_NAME"="Buz Mephit"
+
+"CREEP_ICE_MEPHIT_DESC_1"="Dağ yaratığı, sakinleri rahatsız eder. Ölünce patlar, etrafındaki her şeyi dondurur."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="Öldüğünde, hasar veren ve yakındaki birimleri donduran bir patlama oluşturur."
+
+"CREEP_WINTER_FAERIE_NAME"="Kış Perisi"
+
+"CREEP_WINTER_FAERIE_DESC_1"="Yoluna çıkan her şeyi delen bir dağ ruhu; zırh bile saldırılarına dayanamaz."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="Birden fazla buz parçası fırlatır ve zırhı kısmen görmezden gelir"
+
+"BOSS_JT_NAME"="J.T."
+
+"BOSS_JT_DESC_1"="Dağın kralı; yoluna çıkan her şey donmuş veya yutulmuş olarak sona erer."
+
+"BOSS_JT_SHORT_DESC"="Devleri yiyen ve kuleleri donduran bir dev."
+
+"BOSS_ULGUK_HAI_NAME"="Ulguk-Hai"
+
+"BOSS_ULGUK_HAI_DESC_1"="Güçlü Dağ Trolü, gelen fiziksel hasarı engellemek için kalkanını kullanır."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="Güçlü bir lider, kalkanı kaldırarak ilerler, fiziksel hasarı engeller, sadece savaşta indirir."
+
+"CREEP_BANDIT_NAME"="Haydut"
+
+"CREEP_BANDIT_DESC_1"="Küçük ve çevik, çetede en düşük rütbeye sahip olabilirler, ama vuruşları serttir."
+
+"CREEP_BANDIT_SHORT_DESC"="Kırılgan ama çevik haydut, bazı saldırılardan kaçabilir ve sert vurabilirler."
+
+"CREEP_BANDIT_ARCHER_NAME"="Haydut Okçusu"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="Olağanüstü görüşe sahip bir okçu, diğer okçulardan daha uzun menzile atış yapmalarını sağlar."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="Keskin görüşünü kullanarak, diğer okçulardan daha uzağa atış yapabilir."
+
+"CREEP_BRIGAND_NAME"="Haydut"
+
+"CREEP_BRIGAND_DESC_1"="Hurda zırhlı haydut, çok fazla hasar alırsa zırhı kırılır ve haydut silahsız kalır."
+
+"CREEP_BRIGAND_SHORT_DESC"="Daha güçlü bir haydut, yenildikten sonra zırhı kırılır ve onu sıradan bir hayduta dönüştürür."
+
+"CREEP_TRICKSTER_NAME"="Hileci"
+
+"CREEP_TRICKSTER_DESC_1"="Kandırıcı haydut, dövüşlerden veya takipçilerden kaçmak için hileler kullanır."
+
+"CREEP_TRICKSTER_SHORT_DESC"="Engellendiğinde, birkaç saniye boyunca tespit edilmekten kaçınarak görünmez olabilir."
+
+"CREEP_FOREST_SEER_NAME"="Orman Kâhini"
+
+"CREEP_FOREST_SEER_DESC_1"="Büyü anlayışına sahip haydut, düşmanlarını aldatmak için illüzyonlar yaratabilir."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="Büyü bilen haydut engellendiğinde kendini klonlar"
+
+"CREEP_FOREST_SEER_CLONE_NAME"="Orman Kâhini İllüzyonu"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="Orman Kâhini tarafından oluşturulan geçici klon"
+
+"CREEP_MARAUDER_NAME"="Yağmacı"
+
+"CREEP_MARAUDER_DESC_1"="Herhangi bir saldırıya dayanacak şekilde ağır donanımlı bir kaba kuvvet, genellikle diğer haydutları korumak için kalkan olarak kullanılır."
+
+"CREEP_MARAUDER_SHORT_DESC"="Zırhlı kaba kuvvet birçok saldırıya dayanabilir"
+
+"CREEP_RAIDER_NAME"="Yağmacı"
+
+"CREEP_RAIDER_DESC_1"="Ölümcül menzilli savaşçı, her türlü zırhı görmezden gelen dikenli bir topla donatılmıştır."
+
+"CREEP_RAIDER_SHORT_DESC"="Ölümcül menzilli savaşçı, gerçek hasar verir"
+
+"CREEP_PILLAGER_NAME"="Yağmacı"
+
+"CREEP_PILLAGER_DESC_1"="Büyüye direnebilen ve alan hasarı verebilen büyülü ekipmanlara sahip inanılmaz derecede zorlu haydutlar."
+
+"CREEP_PILLAGER_SHORT_DESC"="Son derece dayanıklı haydut, alan hasarı verir。"
+
+"CREEP_WORG_NAME"="Worg"
+
+"CREEP_WORG_DESC_1"="Wulf'un daha dayanıklı bir akrabası olan bu Worglar, düşman askerleriyle yüzleşmek için eğitildi."
+
+"CREEP_WORG_SHORT_DESC"="Çete tarafından bazı yakın dövüş saldırılarından kaçınmak için eğitilmiş Worg"
+
+"CREEP_WILD_EAGLE_NAME"="Vahşi Kartal"
+
+"CREEP_WILD_EAGLE_DESC_1"="Çetenin yetenekli Bir Canavar Ustası tarafından evcilleştirilmiş vahşi bir kartal"
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="Bu kartal bazen altındaki birimlere saldırmak için aşağı iner ve sonra devam eder."
+
+"BOSS_KINGPIN_NAME"="Patron"
+
+"BOSS_KINGPIN_DESC_1"="Durdurulamaz çete lideri, çete üyelerini işe almak ve desteklemek için çalınan altını kullanır."
+
+"BOSS_KINGPIN_SHORT_DESC"="Yoluna çıkan her şeyi ezip geçen, müttefiklerini iyileştirebilen ve kamplardan takviye çağırabilen bir haydut lideri."
+
+"BOSS_EINAR_NAME"="Einar Canavar Bekçisi"
+
+"BOSS_EINAR_DESC_1"="Bir canavar ustası, hedeflerini tespit etmek ve saldırmak için worglar ve kartalları kullanır."
+
+"BOSS_EINAR_SHORT_DESC"="Bir grup worg ve kartal çağırabilen bir canavar ustası"
+
+"CREEP_DARK_ROOKIE_NAME"="Kara Çaylak"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="Küçük bir zırhlı düşman, Karanlık Lord’un harcanabilir piyonları."
+
+"CREEP_DARK_ROOKIE_DESC_1"="HP'lerinin bir kısmını kaybettiklerinde, zırhlarını kaybederler ve hızları artar"
+
+"CREEP_DARK_KNIGHT_NAME"="Kara Şövalye"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="Dirençli ve zırhlı bir düşman. Onlar Karanlık Ordu'nun ana gücüdür"
+
+"CREEP_DARK_KNIGHT_DESC_1"="HP'lerinin bir kısmını kaybettiklerinde kalkanlarını kaybederler, zırhları azalır ve hızları artar."
+
+"CREEP_DARK_SLAYER_NAME"="Karanlık Katil"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="Ölümcül bir zırhlı düşman. Biri savaşta düşerse, diğer şövalyeler onun mirasını sürdürebilir."
+
+"CREEP_DARK_SLAYER_DESC_1"="Öldükten sonra kılıçlarını bırakırlar ve bir Kara Şövalye onu alarak katil olabilir."
+
+"CREEP_DARK_CAVALRY_NAME"="Kara Süvari"
+
+"CREEP_DARK_CAVALRY_DESC_1"="Yüksek hızda bir düşmana doğru saldırarak birkaç saniyeliğine sersemletir."
+
+"CREEP_DARK_CAVALRY_DESC_2"="Öldükten sonra bulunduğu yere Kara Şövalye bırakır"
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="Düşmanlara doğru hücum eden, yolunu kesmeye çalışan her türlü engeli yok eden karanlık şövalye."
+
+"CREEP_SHADOW_ARCHER_NAME"="Gölge Okçusu"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="Zayıf ama hızlı uzun mesafeli saldırgan"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Eldritch Büyücüsü"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="Geniş büyü saldırısına sahip güçlü bir büyücü"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Birkaç kez vuran ve zırhı görmezden gelen bir büyü yapıyorlar"
+
+"CREEP_ROCKET_RIDER_NAME"="Roket Binici"
+
+"CREEP_ROCKET_RIDER_DESC_1"="Zırhlı uçan düşman"
+
+"CREEP_ROCKET_RIDER_DESC_2"="Yok edildiğinde jetpack'ini kaybeder ve yere düşer."
+
+"CREEP_DARK_CROW_NAME"="Kara Karga"
+
+"CREEP_DARK_CROW_DESC_1"="Büyü direncine sahip eğitilmiş bir uçan karga"
+
+"CREEP_DARK_CROW_SHORT_DESC"="Her birkaç saniyede bir kez aşağıdaki birime birkaç saniye saldırır, sonra yola devam eder."
+
+"CREEP_MAGMA_SHARD_NAME"="Magma Parçası"
+
+"CREEP_MAGMA_SHARD_DESC_1"="Lavdan yapılmış, zorlu bir zırhlı düşman; kaya hâlindeyken birkaç saniye sonra yeniden canlanabilir."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="Öldüğünde kayalık bir heykele dönüşür. O durumda öldürülmezse, tam sağlıkla yeniden doğabilir"
+
+"CREEP_GOLEM_HEAD_NAME"="Golem Kafası"
+
+"CREEP_GOLEM_HEAD_DESC_1"="Küçük ve zayıf zırhlı düşman"
+
+"BOSS_JUGGERNAUT_NAME"="Dev"
+
+"BOSS_JUGGERNAUT_DESC_1"="Bir grup Golem Kafası'nı birkaç kare ileriye çağırabilir"
+
+"BOSS_JUGGERNAUT_DESC_2"="Uzun menzilli yüksek hasar veren bir füze fırlatır"
+
+"BOSS_WAR_ZEPPELIN_NAME"="Uçan Kale"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="Bir kuleye birkaç saniyeliğine sersemleten bir katran fıçısı fırlatır."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="Kale kendi uçuş yolunda uçacak"
+
+"CREEP_FLYING_SHEEP_NAME"="Uçan Koyun"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="Düşman uçan bir koyuna dönüştü"
+
+"CREEP_SHEEP_NAME"="Koyun"
+
+"CREEP_SHEEP_SHORT_DESC"="Düşman koyuna dönüştü"
+
+"CREEP_SKELETON_SMALL_NAME"="İskelet"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="Diriltilmiş iskeletler yaşayan varlıklara saldırır"
+
+"CREEP_SKELETON_BIG_NAME"="İskelet Şövalye"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="Yeniden canlandırılmış kalkan ve miğferli iskelet"
+
+"CREEP_DEATH_RIDER_NAME"="Ölüm Binicisi"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="Güçlü iskelet şövalye ölümcül bir at sürüyor. Etrafındaki diğer iskeletleri güçlendirir."
+
+"CREEP_VERDANT_DEFENDER_NAME"="Kurt Ent"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="Ağaç benzeri bir yaratık, Kurt şeklinde. Bazen yakın dövüş saldırılarından kaçabilir."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="tüm büyülerin hasarında artış"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="topçu kulelerinin hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="tüm kulelerin yakın dövüş hasarında artış"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="tüm kulelerin menzil hasarında artış"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="tüm kulelerin hasarının artması"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="tüm kulelerin beceri hasarında artış"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="tüm kulelerin saldırı hızında artış"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="tüm kulelerin beceri bekleme sürelerinde azalma"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="büyü kulelerinin yakın dövüş hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="büyü kulelerinin menzil hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="büyü kulelerinin hasar artışı"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="büyü kulelerinin beceri hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="büyü kulelerinin saldırı hızında artış"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="büyü kulelerinin yetenek bekleme süresinde azalma"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="büyü kulelerinin menzilinde artış"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="topçu kulelerinin yakın dövüş hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="topçu kulelerinin menzilli hasar artışı"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="topçu kulelerinin hasar artışı"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="topçu kulelerinin yetenek hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="topçu kulelerinin saldırı hızında artış"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="topçu kulelerinin beceri bekleme süresinde azalma"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="topçu kulelerinin menzilinde artış"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="kışlaların yakın dövüş hasarını artırma"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="kışlaların menzil hasarının artışı"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="kışlaların hasar artışı"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="kışla becerileri hasarındaki artış"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="kışlaların saldırı hızında artış"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="kışlaların yetenek bekleme süresinin azalması"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="kışlaların menzilini artırma"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="okçu kulelerinin yetenek hasarında artış"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="okçu kulelerinin saldırı hızında artış"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="müttefiklerin sağlığında artış"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="müttefiklerin zırhında artış"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="müttefiklerin hasar artışı"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="müttefiklerin yakın dövüş hasarındaki artış"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="müttefiklerin menzilli hasar artışı"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="müttefiklerin hızında artış"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="tüm büyülerin hasarını artırma"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="tüm büyülerin bekleme süresinde azalma"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="tüm büyülerin alanında artış"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="kahramanın hasar artışı"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="kahramanın yakın dövüş hasarındaki artış"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="kahramanın menzil hasarındaki artış"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="kahramanın sağlığında artış"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="kahramanın hız artışı"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="kahramanın yeniden doğma süresinin azalması"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="düşmanların sağlığında azalma"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="düşmanların hızında azalma"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="düşmanların fiziksel zırhında azalma"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="düşmanların büyü zırhında azalma"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="düşmanların hasarının azalması"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="çağırma büyülerinin bekleme süresinin azalması"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="menzilli kulelerin menzil artışı"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Mana Gazabı"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Topçu Gücü"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="Kule Saldırısı"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="Kule Görüşü"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="Kule Gücü"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="Kule Patlaması"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="Zaman Kulesi"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="Kule Darbesi"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="Büyü Saldırısı"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="Büyü Hassasiyeti"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="Büyü Gücü"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="Büyü Patlaması"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="Büyü Zamanı"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="Büyü Darbesi"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="Büyü Görüşü"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="Topçu Saldırısı"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="Top Gibi Hassasiyet"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Topçu Gücü"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="Top Gülle"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="Top Tempo"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="Top Gülle"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="Top Nişangahı"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="Garnizon Saldırısı"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="Garnizon Hassasiyeti"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="Garnizon Gücü"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="Garnizon Patlaması"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="Garnizon Hızı"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="Garnizon Darbesi"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="Garnizon Görüşü"
+
+"PERK_NAME_INCREASE_UNITS_HP"="Piyade Dayanıklılığı"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="Piyade Dayanıklılığı"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="Piyade Gücü"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="Piyade Saldırısı"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="Piyade Hassasiyeti"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="Piyade Hızı"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Mana Gazabı"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="Mana Odaklanma"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="Mana Yayılımı"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="Kahraman Gücü"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="Kahramanca Saldırı"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="Kahramanca Hassasiyet"
+
+"PERK_NAME_INCREASE_HERO_HP"="Kahramanca Dayanıklılık"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="Kahraman Hızı"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="Kahraman Canlanışı"
+
+"PERK_NAME_DECREASE_CREEP_HP"="İstilacı Kırılganlığı"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="İstilacı Yorgunluğu"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="İstilacı Çürümesi"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="İstilacı Tükenmesi"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="İstilacı Zayıflığı"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="Odaklan"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="Nişancı Nişangahı"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="Nişancı Patlaması"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="Nişancı Temposu"
+
+"MODIFIER_TITLE_EAGLE_EYES"="Kartal Gözü"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="Kule menzili <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="Kule menzili <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="Kule menzili <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="Kule menzili <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="Kahraman Çılgınlığı"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="Kahraman hasarı <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="Kahraman hasarı <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="Kahraman hasarı <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="Kahraman hasarı <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="Ölüm Tüccarı"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="Kazanılan altın <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="Kazanılan altın <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="Kazanılan altın <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="Kazanılan altın <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="Güçlü Kule"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="Kule hasarı <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="Kule hasarı <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="Kule hasarı <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="Kule hasarı <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="Büyü Ustası"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="Büyü bekleme süresi <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="Büyü bekleme süresi <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="Büyü bekleme süresi <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="Büyü bekleme süresi <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="Tüm kulelerin saldırı menzilini artırır"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="Kahramanın hasarını artırır"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="Düşmanları öldürerek kazanılan altını artırır"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="Tüm kulelerin verdiği hasarı artırır"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="Tüm büyülerin bekleme süresini azaltır"
+
+"MODIFIER_TITLE_BROODMOTHER"="Ana Kraliçesi'nin Çağrısı"
+
+"CREEP_BROODMOTHER_NAME"="Ana Kraliçesi"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="Yumurta bırakarak daha büyük yavrular çıkaran dev örümcek."
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="Rakibin dalgalarında bir<color=#F36D4D> Ana Kraliçesi <color=#FFFFFF>doğurur"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="Ana Kraliçesi Gücü <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="Ana Kraliçesi Gücü <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="Ana Kraliçesi Gücü <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="Çiftlik Kulesi"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="Her <color=#F36D4D>25<color=#FFFFFF> saniyede <color=#F36D4D>1 <color=#FFFFFF>kuleyi dönüştür"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="Her <color=#F36D4D>23<color=#FFFFFF> saniyede 1 kuleyi dönüştür"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="Her <color=#F36D4D>19<color=#FFFFFF> saniyede 1 kuleyi dönüştür"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="Her <color=#F36D4D>18<color=#FFFFFF> saniyede <color=#F36D4D>2<color=#FFFFFF> kuleyi dönüştür"
+
+"MODIFIER_TITLE_DRAGON"="Ejderha Çağrısı"
+
+"CREEP_FLYING_DRAGON_NAME"="Ejderha"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="Yakındaki herhangi bir düşmana menzilden saldıran büyülü dirence sahip büyük uçan ejderha."
+
+"MODIFIER_DESC_DRAGON_LVL1"="Rakibin dalgalarına bir <color=#F36D4D>Ejderha <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_DRAGON_LVL2"="Ejderha Gücü <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="Ejderha Gücü <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="Ejderha Gücü <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="Hayalet Çağrısı"
+
+"CREEP_GHOST_SMALL_NAME"="Hayalet"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="Küçük bir düşmanın ruhu, zayıf ama çok sayıda"
+
+"CREEP_GHOST_FLYING_NAME"="Uçan Hayalet"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="Nadiren görülen bu ruhlar, yukarıdan müttefiklerini izler ve onlara yardım eder."
+
+"CREEP_GHOST_BIG_NAME"="Büyük Hayalet"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="Güçlü ve dayanıklı bir ruh, son görevini tamamlamaya kararlı."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="Ölü yaratıkların <color=#F36D4D>%30 ihtimalle hayalet olarak yeniden doğma şansı var"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="Şans <color=#F36D4D>%40"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="Şans <color=#F36D4D>%50"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="%60 şans<color=#F36D4D>%"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="Goblin Balonları"
+
+"CREEP_GOBLIN_BALLOON_NAME"="Goblin Balonu"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="Küçük bir goblin tarafından kullanılan sağlam bir balon, altındaki düşmanlara bomba atar."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>Rakibin dalgalarında <color=#F36D4D>Goblin Balonları <color=#FFFFFF>oluştur"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="Goblin Balonları Güç <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="Goblin Balonları Güç <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="Goblin Balonları Güç <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="Zırhlı Uçan Golemler"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="Uçan Zırhlı Golem"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="Uçan ve fiziksel hasara karşı dirençli bir düşman"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="Rakibin dalgalarında <color=#F36D4D>Zırhlı Uçan Golemler <color=#FFFFFF>oluştur"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="Zırhlı Uçan Golemler Gücü <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="Zırhlı Uçan Golemler Gücü <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="Zırhlı Uçan Golemler Gücü <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="Büyülü Uçan Golem"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="Büyü hasarına karşı dirençli uçan düşman"
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="Büyülü Uçan Golemler"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="Rakibin dalgalarında <color=#F36D4D>Büyülü Uçan Golemler <color=#FFFFFF>oluştur"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="Büyülü Uçan Golemler Gücü <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="Büyülü Uçan Golemler Gücü <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="Büyülü Uçan Golemler Gücü <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="Büyük Zırhlı Golem"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="Güçlü taş golem, fiziksel hasara karşı dirençli"
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="Küçük Zırhlı Golem"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="Zayıf taş golem ama fiziksel hasara dayanıklı"
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="Zırhlı Golem"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="Rakibin dalgalarında Zırhlı Golem çıkar"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="Zırhlı Golemler Güç <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="Zırhlı Golemler Güç <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="Zırhlı Golemler Güç <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="Büyük Büyülü Golem"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="Güçlü büyülü golem, büyü hasarına karşı dirençli"
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="Küçük Büyülü Golem"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="Zayıf taş golem ama büyü hasarına dayanıklı"
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="Büyülü Golem"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="Rakibin dalgalarına <color=#F36D4D>Sihirli Golem <color=#FFFFFF>çağır"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="Büyülü Golem Gücü <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="Büyülü Golem Gücü <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="Büyülü Golem Gücü <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="Büyük Ork Şamanı"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="Büyük Ork Şamanı"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="İki güçlü büyücü Şaman çağırarak yollarındaki tüm düşmanları sersemletip yok eder."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="Rakibin dalgalarında <color=#F36D4D>Büyük Ork Şamanları <color=#FFFFFF>oluştur"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="Büyük Ork Şaman Gücü <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="Büyük Ork Şaman Gücü<color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="Büyük Ork Şamanı Gücü <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="Zırh Dilli"
+
+"CREEP_WAR_HOUND_NAME"="Zırh Dillo"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="Durdurulmadığında çok hızlı yuvarlanan küçük yaratıklar grubu."
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="Rakip dalgalarına<color=#F36D4D> Zırh Dilli Rulosu <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="Zırh Dilli Gücü <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="Zırh Dilli Gücü <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="Zırh Dilli Gücü <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="Yumurta bırakarak daha büyük yavrular çıkaran dev bir örümcek."
+
+"MODIFIER_DRAGON_DESC_1"="Yakındaki herhangi bir düşmana menzilden saldıran büyülü dirence sahip büyük uçan ejderha."
+
+"MODIFIER_FARM_DESCRIPTION"="Geçici olarak rakibin kulelerini işe yaramaz çiftliklere dönüştürür"
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="Zırhlı uçan düşman gruplar halinde gelir"
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="Büyü direncine sahip uçan golemler sürüsü"
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="Ölü düşmanlar rakibin tarafında hayalet olarak ortaya çıkma şansına sahiptir"
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="Üzerine bomba atan uçan düşman"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="Fiziksel zırhlı küçük ve büyük golem grubu"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="Küçük zırhlı golemler grubuyla ortaya çıkar"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="Küçük ve büyük golemlerden oluşan, büyü direncine sahip bir grup"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="Büyülü direnci olan daha küçük golemlerle birlikte ortaya çıkar"
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="Hedef alanın etrafındaki birimleri sersemleten ve hasar veren yıldırım atan güçlü Şaman."
+
+"MODIFIER_WARMADILLO_DESC_1"="Engellemediğinde çok hızlı yuvarlanan Fiziksel Zırhlı düşman"
+
+"MODIFIER_TITLE_THUNDERBIRD"="Gökkuşağı Kuşu"
+
+"CREEP_THUNDERBIRD_NAME"="Gökkuşağı Kuşu"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="Kanatlarından elektrik yayan, bir grup düşmanı şok eden büyük uçan yaratık."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="Rakibin dalgalarında bir <color=#F36D4D>Thunderbird <color=#FFFFFF>oluşturur"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="Güçlü Kuş Gücü <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="Thunderbird Gücü <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="Güçlü Kuş Gücü <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="Trollzerker"
+
+"CREEP_TROLLZERKER_NAME"="Trollzerker"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="Sağlığı düşük olduğunda öfkelenen, saldırı ve hızını artıran Troll brute. Zamanla HP yeniler."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="Rakibin dalgalarında bir <color=#F36D4D>Trollzerker<color=#FFFFFF> oluşturur"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="Trollzerker Gücü <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="Trollzerker Gücü <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="Trollzerker Gücü <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="Dragubonlar"
+
+"CREEP_DRAGUBON_NAME"="Dragubon"
+
+"CREEP_DRAGUBON_SHORT_DESC"="Tehlikede olduğunu hissederse birkaç saniye uçmaya başlayan küçük ejderha."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="Rakibin dalgalarına<color=#F36D4D> bir grup Dragubon <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="Dragubons Gücü <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="Dragubons Gücü <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="Dragubons Gücü <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="Kar Fırtınası"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="Her <color=#F18081>17<color=#FFFFFF> saniyede <color=#F18081>1 <color=#FFFFFF>kuleyi dondur"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="Her <color=#F18081>15<color=#FFFFFF> saniyede 1 kuleyi dondur"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="Her <color=#F18081>13<color=#FFFFFF> saniyede <color=#F18081>2 <color=#FFFFFF>kuleyi dondur"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="Her 10 saniyede 2 kuleyi dondur"
+
+"MODIFIER_TITLE_FROSTBITE"="Donma"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="Her <color=#F36D4D>18<color=#FFFFFF> saniyede <color=#F36D4D>2 <color=#FFFFFF>birimi dondur"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="Her <color=#F36D4D>16<color=#FFFFFF> saniyede <color=#F36D4D>3 <color=#FFFFFF>birimi dondur"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="Her <color=#F36D4D>14<color=#FFFFFF> saniyede <color=#F36D4D>4 <color=#FFFFFF>birimi dondur"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="Her <color=#F36D4D>11<color=#FFFFFF> saniyede <color=#F36D4D>5 <color=#FFFFFF>birimi dondur"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="Buz Habercisi"
+
+"CREEP_FROST_HARBINGER_NAME"="Buz Habercisi"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="Büyü yapan trol, müttefikleri ileriye ışınlar. Zamanla HP yeniler."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="Rakibin dalgalarına bir <color=#F36D4D>Buz Habercisi <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="Buz Peygamberi Gücü <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="Buz Habercisi Gücü <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="Buz Müjdecisi Gücü <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="Geçici olarak düşman kulelerini dondurur, saldırmalarını engeller"
+
+"MODIFIER_DRAGUBONS_DESC_1"="Herhangi bir düşmanı engellemeye çalışan küçük ejderhaların stampedesı."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#BAŞV!"
+
+"MODIFIER_FROSTBITE_DESC_1"="Düşman birimlerini geçici olarak dondurur, hareketlerini ve saldırılarını yavaşlatır"
+
+"MODIFIER_FROST_HARBINGER_1"="Güçlü arcanist Troll, bir grup düşmanı öne taşımak için teleport kullanır."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="Durmadan uçan ve altındaki birime yıldırım yağdıran"
+
+"MODIFIER_TROLLZEKER_DESC_1"="Troll ırkının vahşi savaşçısı. Canı azaldığında öfkelenir, gücünü ve hızını artırır."
+
+"CREEP_BUSH_NAME"="Pusu"
+
+"CREEP_BUSH_SHORT_DESC"="Bu haydutlar yalnızca bir birim tarafından engellendiklerinde kamuflajlarını kaybederler."
+
+"MODIFIER_TITLE_BUSH"="Pusu Kuranlar"
+
+"MODIFIER_BUSH_DESC_1"="Sızma konusunda uzmanlar, tüm savunmaları tespit edilmeden geçebilirler."
+
+"MODIFIER_DESC_BUSH_LVL1"="Rakip dalgalarına <color=#F36D4D>Pusu Kuranlar <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_BUSH_LVL2"="Pusu Gücü <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="Pusu Gücü <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="Pusu Gücü <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="Haydut Lideri"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="Yakındaki haydutlara zırh giymelerini emrederek onları Haydutlara dönüştürür."
+
+"MODIFIER_TITLE_BANDITLEADER"="Haydut Lideri"
+
+"MODIFIER_BANDITLEADER_DESC_1"="Savaş için haydutları organize eden ve donatan şiddetli lider"
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="Rakip dalgalarına<color=#F36D4D> Haydut Lideri <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="Haydut Lideri Gücü <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="Haydut Lideri Gücü <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="Haydut Lideri Gücü <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="Haydut Kalkanları"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="Savunma formasyonu her birkaç saniyede bir içinden haydutlar çıkarır"
+
+"MODIFIER_TITLE_BANDITSHIELDS"="Haydut Kalkanları"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="Haydutların, saflarından periyodik olarak savaşçı salan savunma formasyonu."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="Rakip dalgalarında <color=#F36D4D> Kalkanlı Haydutlar <color=#FFFFFF> oluşturur"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="Haydut Kalkanları HP <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="Haydut Kalkanları HP <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="Haydut Kalkanları HP <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="Haydut Planörü"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="Öldüğünde dalış yapıp patlayan uçan haydut"
+
+"MODIFIER_TITLE_BANDITGLIDERS"="Haydut Planörler"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="Savunmaları aşmak için planör kullanan haydutlar; ciddi hasar durumunda düşmanlarına çarparlar."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="Rakip dalgalarında <color=#F36D4D> Bandit Gliders <color=#FFFFFF>oluşturur"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="Haydut Planörleri Gücü <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="Haydut Planörleri Gücü <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="Haydut Planörleri Gücü <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="Parçalayıcı"
+
+"CREEP_SMASHER_SHORT_DESC"="Kuleleri sersemleten kayalar fırlatan haydut brute."
+
+"MODIFIER_TITLE_SMASHER"="Parçalayıcı"
+
+"MODIFIER_SMASHER_DESC_1"="Birliklere ve kulelere taş atarak ilerleyen, onları birkaç saniye etkisiz hale getiren yüksek rütbeli kabadayı."
+
+"MODIFIER_DESC_SMASHER_LVL1"="Rakibin dalgalarında bir <color=#F36D4D>Smasher <color=#FFFFFF>oluşturur"
+
+"MODIFIER_DESC_SMASHER_LVL2"="Smasher Gücü <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="Smasher Gücü <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="Smasher Gücü <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="Duman Bombası"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="Duman perdesi, içindeki herhangi bir müttefiki hedeflemeyi engeller"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="Rakip dalgalarına <color=#F36D4D>Duman Bombası <color=#FFFFFF>oluşturur"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="Duman Bombası gücü <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="Duman Bombası gücü <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="Duman Bombası gücü <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="Magma Elementali"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="Magma Elementali"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="Magma Elementali"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>Rakibin dalgalarında <color=#F36D4D>bir Magma Elementali<color=#FFFFFF> çağırır"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="Ek güç ile bir Magma Elementali çağırır <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>Ek güç ile <color=#F36D4D> 2 <color=#FFFFFF>Magma Elementali çağırır <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="Ek güç ile 2 Magma Elementali çağırır <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="Çığlıkçı Yarasa"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="Rakibin dalgalarında <color=#F36D4D>Çığlıkçı Yarasa <color=#FFFFFF>çıkar"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="Çığlık Yarasası Gücü <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="Çığlık Yarasası Gücü <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="Çığlık Yarasası Gücü <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="Gölge Demirci"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="Gölge Demirci"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="Gölge Çağırıcı"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="Gölge Çağırıcı"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>Rakip dalgaları üzerine <color=#F36D4D>Gölge Karga Çağırıcısı<color=#FFFFFF> çağır"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="Gölge Karga Çağıranı Gücü <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="Gölge Karga Çağıranı Gücü <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="Gölge Karga Çağıranı Gücü <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="Alevli Kader"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="Rakip birimlere her <color=#F36D4D>17<color=#FFFFFF> saniyede hasar veren <color=#F36D4D>3 <color=#FFFFFF>meteor oluşturur"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="Her <color=#F36D4D>10%<color=#FFFFFF> ekstra güçle 3 meteor oluşturur her <color=#F36D4D>15<color=#FFFFFF> saniyede"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="Her <color=#F36D4D>15<color=#FFFFFF> saniyede <color=#F36D4D>25%<color=#FFFFFF> ekstra güçle <color=#F36D4D>4 <color=#FFFFFF>meteorit oluşturur"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="Her <color=#F36D4D>10<color=#FFFFFF> saniyede <color=#F36D4D>40%<color=#FFFFFF> ekstra güçle <color=#F36D4D>5<color=#FFFFFF> meteor oluşturur"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="Eritilmiş Taş"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="Her <color=#F18081>17<color=#FFFFFF> saniyede <color=#F18081>2 <color=#FFFFFF>kuleyi sersemletirir"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="Her 15 saniyede 2 kuleyi sersemletirir"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="Her <color=#F18081>13<color=#FFFFFF> saniyede <color=#F18081>3 <color=#FFFFFF>kuleyi sersemletirir"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="Her <color=#F18081>9<color=#FFFFFF> saniyede <color=#F18081>4 <color=#FFFFFF>kuleyi sersemletirir"
+
+"MISSIONS_LOGINS_DONE"="Giriş Yap"
+
+"MISSIONS_PLAY_GAMES"="Maçları Oyna"
+
+"MISSIONS_DEFEAT_CREEPS"="Düşmanları Yen"
+
+"MISSIONS_TOWER_BUILD"="Kule İnşa Et"
+
+"MISSIONS_TOWER_SKILL_BUY"="Kule Becerilerini Satın Al"
+
+"MISSIONS_TOWER_UPGRADE"="Oyun içi Kulelerini Yükselt"
+
+"MISSIONS_SPELL_DAMAGE"="Büyülerini kullanarak hasar ver"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="Çağırma türü Büyülerle müttefik çağır"
+
+"MISSIONS_SPELL_USE"="Büyüleri Kullan"
+
+"MISSIONS_HERO_DAMAGE"="Kahramanınızla hasar verin"
+
+"MISSIONS_CARD_USE"="Kart kullan"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="Günlük Fırsatları Satın Al"
+
+"MISSIONS_SPEND_GEMS"="Elmas Kullan"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="Göğüs açmak için Taşları kullan"
+
+"MISSIONS_CHEST_OPEN"="Sandıkları Aç"
+
+"MISSIONS_STARS_EARN"="Yıldız Kazan"
+
+"TITLE_MISSIONS"="Görevler"
+
+"TITLE_DAILY_MISSIONS"="Günlük Görevler"
+
+"TAUNT_THANKS"="Teşekkürler!"
+
+"TAUNT_GOOD_LUCK"="İyi Şanslar!"
+
+"TAUNT_OOPS"="Hata..."
+
+"TAUNT_WELL_PLAYED"="Aferin!"
+
+"UNMUTE_TO_SEND_EMOTES"="Emot gönderip almak için etkinleştir"
+
+"EVENT_COINFARM_BIG_CREEP"="Büyük Yaratık"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="Düşman yoluna büyük bir yaratık çıkar"
+
+"EVENT_COINFARM_ALL_OUT"="Hepsi Bitti"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="Düşman yoluna hasar veren varilleri bırak"
+
+"EVENT_COINFARM_ENCHANTMENT"="Büyü"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="Düşman yolundaki bazı yaratıklara zırh güçlendirmesi ver"
+
+"EVENT_COINFARM_FARM_ANIMALS"="Çiftlik Hayvanları"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="Düşman yoluna çiftlik hayvanları yarat"
+
+"EVENT_COINFARM_SPEED"="Hızlı Düşmanlar"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="Düşman yolundaki bazı yaratıklara hız artışı ver"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="Devam etmek için basın..."
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="Ödüller Ekranı"
+
+"SUMMON_SCROLLS"="Parşömenler"
+
+"SUMMON_SCROLLS_1"="Çağrı Parşömenleri"
+
+"SUMMON_SCROLLS_2"="Çağrı Parşömenleri"
+
+"SUMMON_SCROLLS_3_SPECIAL"="Çağrı Parşömenleri"
+
+"SUMMON_SCROLLS_GEMS"="Çağrı Parşömenleri"
+
+"YOUR_SCROLLS"="Parşömenler"
+
+"EVENT_TICKET"="Etkinlik Biletleri"
+
+"YOUR_TICKETS"="Etkinlik Biletleri"
+
+"REMAINING_PURCHASE"="Kalan"
+
+"MEGA_GEMS_OFFER"="Mega Mücevher Teklifi"
+
+"MEGA_COINS_OFFER"="Mega Para Teklifi"
+
+"ACCOUNT_BANNED_TITLE"="Hesap Yasaklandı"
+
+"ACCOUNT_BANNED_DESC"="Hesabınız, Hizmet Şartlarını ihlal ettiği için yasaklandı"
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>ACELE ET!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="Kayıtlı oyun tespit edildi!"
+
+"ACCOUNT_CONFLICT_DESC"="İki farklı kayıtlı oyun tespit edildi."
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="Bulut Kaydet"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="Yerel Kayıt"
+
+"GAME_MSG_WAVE_CLEAR"="DALGA TEMİZLENDİ!"
+
+"GAME_MSG_WAVE_LOST"="Dalga Kaybedildi!"
+
+"GAME_MSG_WAVE_WON"="Dalga Kazanıldı!"
+
+"TITLE_LEADERBOARD_REWARDS"="Küresel Ödüller"
+
+"STADIUM_RULE_1"="Stadyumda yarışarak Madalya kazanın"
+
+"STADIUM_RULE_2"="Sıralamada yüksel"
+
+"STADIUM_RULE_3"="Özel ödüller kazanın!"
+
+"ONSLAUGHT_RULE_1"="Rakibinden daha hızlı bir şekilde her düşmanı yen..."
+
+"ONSLAUGHT_RULE_2"="Çok uzun sürerse 1 can kaybedersin..."
+
+"ONSLAUGHT_RULE_3"="Kazandıkça benzersiz ödüller kazan!"
+
+"SUMMON_RIFT_RULE_1"="Diğer Etkinliklerden Çağrı Parşömenleri Topla"
+
+"SUMMON_RIFT_RULE_2"="Bunları kullanarak özel bir kart elde etmeyi deneyin…"
+
+"SUMMON_RIFT_RULE_3"="Birkaç çağırmayı tamamlayın ve garantili özel kartı alın!"
+
+"HERO_BERESAD_DESCRIPTION"="Vez'nan ile krallığın tüm altını için anlaşma yapan kadim bir karanlık, yüzey krallıklarına yıkım ve felaket getirdi. Cüce Krallığı'nın en güçlü savunmaları bile onun açgözlülüğünü durduramadı."
+
+"HERO_BERESAD_SHORT_DESC"="- Golem çağırır.<br>- Düşmanları korkutur, geri çekilmelerini sağlar.<br>- Yakındaki düşmanlara zarar veren anında öldürme."
+
+"HERO_BERESAD_NAME"="Beresad"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="Korkunç bir kükremeyle, Beresad düşmanlarına korku salar, onları panikle geri çekilmeye zorlar."
+
+"HERO_BERESAD_SKILL_0_NAME"="Ejderhadan Kork"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="Yola bir kaya tükürür ve onu büyüyle doldurarak birkaç saniye boyunca düşmanlarla savaşan bir golem yaratır."
+
+"HERO_BERESAD_SKILL_1_NAME"="Ejderha Yavrusu"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="Nefesini yoğunlaştırarak hedefi yok eden ve güçlü bir patlamayı tetikleyen ölümcül bir ateş ışını serbest bırakır."
+
+"HERO_BERESAD_SKILL_2_NAME"="Yok Et"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="Beresad, bazı rakip düşmanları büyüleyerek ölümde size ekstra Altın kazandırır."
+
+"HERO_BERESAD_SKILL_3_NAME"="Ölüm Vergisi"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="Beresad'ın büyüsüyle taşları, hurdaları birleştirerek yapılan bu yaratım, hem açgözlülüğün hem de ham gücün bir sembolüdür."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="Yaygın malzemelerden yapılmış ve güçlü büyü ile güçlendirilmiş, yaratıcısının iradesini temsil eder."
+
+"HERO_BERESAD_MINION_NAME"="Karanlık Golem"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="Tüm düşmanları yenen ilk oyuncu, rakibinden 1 Can alır. (Maksimum Kart seviyesi 5)"
+
+"EVENTS_ONSLAUGHT_REWARD"="Sonraki Ödül"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="Vez'nan'ın müritleri tarafından beslenen karanlık kule, gururla yükselir ve izinsiz geçmeye çalışan herkese korku salar. Düşmanlara ışınını odaklayarak, onları zamanla yıpratır ve patlamayı tetikleyen kritik bir duruma ulaşır."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="Düşmanları teker teker yavaşça aşındıran karanlık bir kule, hiçbiri kalmayana kadar"
+
+"TOWER_BLAZING_GEM_NAME"="Alevli Mücevher"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="Yenilen her düşman, diğer düşmanlara zarar veren doğaüstü bir patlamayla infilak edecek.\n(Beceri her zaman aktif)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="Dengesiz Güç"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="Alevli Mücevherin aynı anda 2 hedefe vurmasını sağlar, hasarı böler ancak genel hasar çıktısını artırır.\n(Kule maksimum yükseltmede beceri satın al)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="Aynı anda 2 hedefe vurabilir"
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="Çarpma Taşı"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="Efendisinin müridi tarafından çağrıldığında ortaya çıkan güçlü bir Eldritch Büyücüsü. HP’si tükendiğinde, yok olmadan önce yakındaki müttefiklerine Büyü Direnci veren hareketsiz ikinci bir forma geçer.\n(Kule maksimum yükseltmede beceri satın al)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="Rakibin tarafına bir Eldritch Magus çağırır"
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="Eldritch Çağrısı"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="Akolitlerin büyüsünü karşıt bir birimi yok etmek için kanalize eder."
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="Her birkaç saniyede bir, kule bir ışın ateşler ve rakibin tarafındaki bir birimi anında öldürebilir.\n(Beceri her zaman aktif)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="Yıkım Işını"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Eldritch Büyücü"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Vez'nan'ın çırakları, düşmanlarını yok etmek için yozlaşmış güçlerini kullanır."
+
+"GAME_MSG_WAVE_DRAW"="BERABERE"
+
+"TITLE_LANGUAGE"="Dil"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="ÇAĞIR<br>YARIK"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="Dil ayarlarını değiştirmek istediğinizden emin misiniz?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="DİL"
+
+"BUTTON_YES"="Evet"
+
+"BUTTON_NO"="Hayır"
+
+"FREE_TAG"="Ücretsiz"
+
+"TOOLTIP_CLAIM"="AL!"
+
+"ERROR_LOADING_SHOP"="MAĞAZA YÜKLEME HATASI"
+
+"SHOP_OFFER_EXPIRES_IN"="Teklifin süresi doluyor:"
+
+"SHOP_ARENA_PACK_TITLE"="Arena Paketi"
+
+"SHOP_DAILY_DEALS_TITLE"="Günlük Fırsatlar"
+
+"SHOP_CHESTS_TITLE"="Sandıklar"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Özel Teklifler"
+
+"EVENTS_LOCKED_EVENT_TITLE"="Kilitli Etkinlik"
+
+"COMING_SOON"="YAKINDA"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="Açılacak kartlar:"
+
+"BUTTON_CLAIM"="AL"
+
+"BUTTON_REWARDS"="Ödüller"
+
+"MISSIONS_WEEKLY"="Haftalık"
+
+"MISSIONS_DAILY"="Günlük"
+
+"MISSIONS_RESETS_IN"="Sıfırlanır:"
+
+"STADIUM_REWARD_POP_UP_NAME"="Tebrikler {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="Liderlik tablosunda {0} numaraydınız. Ödüllerinizi talep edin!"
+
+"TOWER_TESLA_PACK_NAME"="Gündelik Paket"
+
+"TAP_TO_CONTINUE"="Devam etmek için dokunun"
+
+"TIPS_SCREEN_TITLE"="İpuçları"
+
+"REWARDS_TITLE"="Ödüller"
+
+"NEW_ARENA_UNLOCKED"="Yeni arena<br>açıldı !"
+
+"SELECT_CARD_TO_REPLACE"="DEĞİŞTİRİLECEK KARTI SEÇİN"
+
+"TIMER_DAY"="g"
+
+"TIMER_HOUR"="sa"
+
+"TIMER_MINUTE"="dk"
+
+"TIMER_SECOND"="sn"
+
+"COLISSEUM_WAITING_TO_DELIVER"="Stadyum kapalı. Ödüller yolda..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="{0} Kartı"
+
+"CARD_STAT_RESPAWN_TIME"="Yeniden Doğma Süresi"
+
+"PRIVATE_MATCH_TITLE"="Dostluk Maçı"
+
+"PRIVATE_MATCH_ENTER_CODE"="Kodu Gir"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="Koda giriniz"
+
+"PRIVATE_MATCH_CREATE_MATCH"="Maç Oluştur"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="Rakip bekleniyor..."
+
+"PRIVATE_MATCH_CONNECTING"="Bağlanıyor..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="Oda oluşturuluyor..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="Katıl"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="Lütfen bir oda kodu girin"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="Bağlantı zaman aşımına uğradı. Lütfen tekrar deneyin."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="Maç başlatılamadı"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="Odaya katılamadı"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="Odadan ayrıldı"
+
+"ERROR"="HATA"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="Karanlık Çaylak"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="Kara Şövalye"
+
+"PRIVATE_PVP_RULE_1"="Benzersiz bir kod oluşturmak için eşleştirme yap…"
+
+"PRIVATE_PVP_RULE_2"="Arkadaşınla kodu paylaş! Girene katılabilirler."
+
+"PRIVATE_PVP_RULE_3"="Rastgele bir haritada özel bir maçın keyfini çıkarın!"
+
+"PRIVATE_PVP_RULE_4"="(Max kart seviyeleri {0} - Max destekleyici seviyeleri {1})"
+
+"CHASER_PACK_TITLE"="{0} Paketi"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="Karanlık Kılıç"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="Katilin mirası, bu kılıcı sallayacak sonraki şövalyeyi dönüştürecek."
+
+"PRIVATE_MATCH_INVITATION_CODE"="Davet Kodu"
+
+"SHOP_EMOTES_OFFERS_TITLE"="İfadeler"
+
+"NEW_EMOTE"="Yeni Emote!"
+
+"SHOP_ACQUIRED"="Edinilmiş"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="Bronz Ligi"
+
+"TERRAIN_STADIUM_SILVER_NAME"="Gümüş Ligi"
+
+"TERRAIN_STADIUM_GOLD_NAME"="Altın Ligi"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="Elmas Ligi"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="Şampiyonlar Ligi"
+
+"COLLECTION_EMOTES"="İfadeler"
+
+"TERRAIN_STADIUM_REWARD"="Ödül:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="Hem ve karada eğitilmiş Elit Karanlık Ordu askerleri, acımasız bir hassasiyetle savaş alanını devriye geziyor. Tek bir komutla, sağlam ön hat koruyuculardan acımasız ateş gücüyle düşmanlara saldıran süzülen avcılara dönüşüyorlar."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="Ölümcül hassasiyetle düşmanları avlayan karada ve havada hakim askerler."
+
+"TOWER_ROCKET_GUNNERS_NAME"="Roketçi Topçular"
+
+"ROCKET_GUNNERS_UNIT_NAME"="Roketçi"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="Jet destekli saldırılar ve sağlam zemin savaşı arasında geçiş yapabilen asker."
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="Topçular, yol üzerinde uçmak için jetpack'lerini etkinleştirebilir veya yerde savaşmak için devre dışı bırakabilir.\n(Yetenek her zaman kullanılabilir)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="Hava Manevrası"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="Her saldırıya korozyon kaplama uygular, düşman zırhını azaltır ve etki alanında hasar verir."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="Her atış zırhı azaltır ve alan hasarı verir."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="Fosforik Kaplama"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="Hedefe isabet ettiğinde hemen hedefi yok eden güdümlü füzeleri fırlatır."
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="Hedefi anında öldüren füzeler ateşler."
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="İğne Füzeleri"
+
+"EMOTE_AEGION_PONDERING"="Düşünceli"
+
+"EMOTE_ALLERIA_ANGRY"="Kızgın Alleria"
+
+"EMOTE_ALLERIA_SHINE"="Mutlu Alleria"
+
+"EMOTE_ASHBITE_HEART"="Sevgi Dolu Ashbite"
+
+"EMOTE_BERESAD_MONEY"="Kabul Et"
+
+"EMOTE_CHICKEN_SCREAM"="Kızgın Tavuk"
+
+"EMOTE_DENAS_ANGRY"="Sinirli Denas"
+
+"EMOTE_DENAS_CRY"="Daha Çok Ağla"
+
+"EMOTE_DENAS_GOLD"="Para Sesi"
+
+"EMOTE_DENAS_LAUGH"="Mutlu Denas"
+
+"EMOTE_DIERDRE_ANGRY"="Gerçekçi Ol"
+
+"EMOTE_EISKALT_SURPRISE"="Onaylamama"
+
+"EMOTE_ELORA_TIME_CLOCK"="İç Çekiş..."
+
+"EMOTE_GERALD_BEACH"="Rahat Mod"
+
+"EMOTE_GERALD_DESPAIR"="Umutsuzluk..."
+
+"EMOTE_GERALD_SHINE"="Parlak Gülümseme"
+
+"EMOTE_GOBLIN_ANGRY"="Hayal Kırıklığı"
+
+"EMOTE_GOBLIN_FIRE"="Sorun Yok"
+
+"EMOTE_GOBLIN_GIFT"="Sürpriz!"
+
+"EMOTE_GOBLIN_GOOFY"="Saçmalama"
+
+"EMOTE_GOBLIN_KISS"="Sana Öpücükler"
+
+"EMOTE_GOBLIN_OOPS"="Ayy"
+
+"EMOTE_GOBLIN_SLEEPING"="Tatlı Rüyalar"
+
+"EMOTE_GOBLIN_SNOW"="Kar Goblini"
+
+"EMOTE_GOBLIN_TAUNT"="Alay Goblini"
+
+"EMOTE_GRAWL_BICEP"="Kaslarını Gösteren Grawl"
+
+"EMOTE_GRAWL_CHRISTMAS"="Şenlik Havası"
+
+"EMOTE_HACKSAW_LAUGH"="Manyak"
+
+"EMOTE_INGVAR_TRANSFORM"="Ayıya Dönüşüyorum!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="Kardeş Yumruğu"
+
+"EMOTE_SKELETON_SHOCKED"="NE!?"
+
+"EMOTE_SKELETON_SWEAT"="Terli İskelet"
+
+"EMOTE_SOLDIER_CELEBRATION"="Kutlama"
+
+"EMOTE_VESPER_OK"="Mükemmel"
+
+"CREEP_PIG_NAME"="Domuz"
+
+"CREEP_GOAT_NAME"="Keçi"
+
+"CREEP_GOOSE_NAME"="Kaz"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="TERK EDİLMİŞ VADİ"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="Reddedilen Vadisi"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="Unutulmuş Vadisi"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="Efsanevi Kış Paketi"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="Destansı Kış Paketi"
+
+"SHOP_SEASON_OFFERS_TITLE"="Mevsimlik Özel"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="Kırık zırhla zayıflamış bir Karanlık Ordu acemi askeri."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="Zırhının bir kısmı kırılmış olsa bile, bu şövalye hala korkutucu bir tehdit olarak kalıyor."
+
+"CREEP_GOOSE_SHORT_DESC"="Çiftlikte kaos yayan güçlü bir kaz."
+
+"CREEP_DONKEY_RIDER_NAME"="Eşek Binicisi"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="Şövalye olmayı arzulayan bir çiftçi"
+
+"CREEP_PIG_SHORT_DESC"="Kafesinden her zaman kaçan asi bir domuz."
+
+"CREEP_GOAT_SHORT_DESC"="KEÇİ"
+
+"MODIFIER_TITLE_DARK_PRIEST"="Karanlık Rahip"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="Büyü direnci olan bir düşman, birimleri Koyu Çıraklar veya Koyu Şövalyelere dönüştürür."
+
+"CREEP_DARK_PRIEST_NAME"="Karanlık Rahip"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="Karanlık Lord'un sözlerini yayarak, herkesi Karanlık Ordusu'na katılmaya zorlayan kötü bir rahip."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>Rakibin dalgalarında 2 <color=#F36D4D> Karanlık Rahip <color=#FFFFFF>çağırır"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="Karanlık Rahip Gücü <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="Karanlık Rahip Gücü <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="Karanlık Rahip Gücü <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="Bronz Ligi Sandığı"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="Gümüş Lig Sandığı"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="Altın Ligi Sandığı"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="Elmas Ligi Sandığı"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="Şampiyonlar Ligi Sandığı"
+
+"CARDS_TAB"="KARTLAR"
+
+"HERO_RAELYN_DESCRIPTION"="Karanlık Ordunun etkileyici ve acımasız komutanı Raelyn, ön saflarda durur ve yolunda olan her şeyi kesmeye hazırdır. Savaşa olan kararlılığı düşmanlarında korku uyandırırken, şövalyeleri arasında da şiddetli bir bağlılık yaratır."
+
+"HERO_RAELYN_SHORT_DESC"="- Kendini bir kalkanla korur.<br>- Korku ile düşmanları sersemletir ve zayıflatır.<br>- Öfkeye kapılarak daha hızlı alan hasarı verir."
+
+"HERO_RAELYN_NAME"="Raelyn"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="Onun eşsiz cesareti, kısa bir süre için tüm hasarı yok eden bir kalkan sağlar."
+
+"HERO_RAELYN_SKILL_0_NAME"="Kırılmaz"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="Öfkeli savaş çığlığı düşmanları panik haline getirir, onları sersemletir ve hasarlarını azaltır."
+
+"HERO_RAELYN_SKILL_1_NAME"="Korku Yarat"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="Her saldırı hızını arttırarak ve darbelerinin alan hasar vermesine neden olarak, yıkım arzusu onu ara ara öfkelendirir."
+
+"HERO_RAELYN_SKILL_2_NAME"="Saldırı"
+
+"STAGE_FORSAKEN_1"="Kızıl Çatal"
+
+"STAGE_FORSAKEN_2"="Kül Diyarları"
+
+"STAGE_FORSAKEN_3"="Çöller"
+
+"STAGE_FORSAKEN_4"="Karanlık Sokak"
+
+"STAGE_FORSAKEN_5"="Kara Taş Yolu"
+
+"STAGE_FORSAKEN_6"="Düşmüş Yol"
+
+"COMMAND_ORDER_UNIT_NAME"="Düşmüş Karanlık Katil"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="Ölümde bile savaşmaya devam eden bir katilin ruhu."
+
+"COIN_FARM_RULE_1"="Özel Çiftlik Güçleri burada Büyülerini değiştiriyor..."
+
+"COIN_FARM_RULE_2"="Onları kullanarak kazan ve bankanda Paraları topla..."
+
+"COIN_FARM_RULE_3"="Etkinlik sona ermeden bankayı tamamla ve biriktirdiğin tüm Paraları kazan!"
+
+"COIN_FARM_RULE_4"="(Max kart seviyeleri {0} - Max destekleyici seviyeleri {1})"
+
+"SPELL_COMMAND_ORDER_NAME"="Düşmüş Düzen"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="Savaş alanına kaos getirmek için durdurulamaz bir katilin ruhunu çağıran yasaklanmış bir büyü."
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="Savaş alanında sana yardım etmek için bir düşmüş Katil çağır."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Nihai Darbe"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Bölgedeki en güçlü düşmanı yok etmek için yasaklanmış bir büyü çağırır"
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="Bir bölgedeki en güçlü düşmanı vurarak anında yok eder."
+
+"MENU_OFFER_ICON_SALE"="İNDİRİM"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="PARALARI ŞİMDİ TOPLA!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="Şimdi paralarınızı toplamak istiyor musunuz? Yalnızca mevcut birikiminizi alırsınız."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="Güçlü bir Magma Elementali, haritanın ilerisinde rastgele bir noktada ortaya çıkar. Yenildikten sonra kendini iyileştirmek ve diriltmek için bir kaya formuna girer"
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="Doğal bir felaket olarak ortaya çıkan bir Magma Elementali, yalnızca yıkım bırakarak."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="Bir Magma Elementali, yıkıldıktan sonra kendini iyileştirmek için bir onarım aşamasına girer."
+
+"CREEP_SCREECHER_BAT_NAME"="Çığlık Yarasası"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="Yolunda duran herkesi sersemleten uçan dev yarasa."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="Yakınındaki düşmanları sersemletmek için süpersonik çığlığını kullanan dev yarasa."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="Karanlık Ordunun işgücü, Kötü Lord'un kuvvetlerini hazırlayan ve onarımlarını yapanlardır."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="Yaralı askerlerin ve Şövalyelerin kırık zırhlarını tamir eden dayanıklı bir birim."
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="<color=#FFFFFF>Rakip dalgalar üzerine <color=#F36D4D>Gölge Demirci<color=#FFFFFF> yaratır"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="Gölge Demirci Gücü <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="Gölge Demirci Gücü <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="Gölge Demirci Gücü <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="Bir Gölge Kargacı, her birkaç saniyede bir Koyu Kargalar doğurur."
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="Krallar arasında kargaları yayarak geniş bir istihbarat ağı oluşturan bir karga eğitmeni."
+
+"MODIFIER_DESC_FLAMING_FATE"="Düşmanların etrafında uçan alevli kayalar gönderen şiddetli patlamalara neden olur."
+
+"MODIFIER_DESC_MOLTEN_STONE"="Savaş alanında depremler oluşturarak düşman kulelerini birkaç saniye boyunca kaya altına gömer."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="Hızlı oklarla düşmanları vurarak ölümcül okçu."
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="Saldırıldığında roket itişini tetikleyen uçan zırhlı bir düşman."
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="Yıkılan ve kendini iyileştirmek için yeniden inşa aşamasına giren bir Magma Parçası."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="Juggernaut tarafından fırlatılan küçük zırhlı golem."
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="Vez'nan'ın yolunda duran herhangi bir kaleyi yok eden devasa bir kuşatma makinesi."
+
+"NEW_LEAGUE_UNLOCKED"="Lig Açıldı!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="Sunucu bakımda. Tahmini bitiş saati: {0}"
+
+"HERO_ASRA_DESCRIPTION"="Acımasız bir eğitimle dövülmüş Asra, Karanlık Ordu'dan çıkan en ölümcül Gölge Suikastçilerden biridir. Sessiz bakışları bıçakları kadar öldürücüdür ve onunla karşılaşanlar pişman olmak için yeterince uzun yaşamazlar. Vez'nan tarafından bizzat seçilen Asra, hızlı, kesin ve acımasızca saldırır."
+
+"HERO_ASRA_SHORT_DESC"="- Işınlanır ve kalkan oluşturur.<br>- Zırh kıran ok yağmuru atar.<br>- Hançeriyle düşmanları öldürücü şekilde zehirler."
+
+"HERO_ASRA_NAME"="Asra"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="Hasar veren ve düşman zırhının bir kısmını kıran güçlü ok yağmuru salar."
+
+"HERO_ASRA_SKILL_0_NAME"="Oniks Okları"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="Zehirli bıçağıyla hızlı ve ölümcül bir darbe indirerek düşmanı ölene kadar zehirler."
+
+"HERO_ASRA_SKILL_1_NAME"="Örümcek Isırığı"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="Gölge Dansını kullanarak anında herhangi bir yere ışınlanabilir ve düşman birliklerinin yanında belirdiğinde ek bir koruyucu kalkan sağlar."
+
+"HERO_ASRA_SKILL_2_NAME"="Gece Peçesi Kırpışı"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="Acımasız bir okçu, acımasızlık ve takıntıyla sürüklenir, acımadan avlanır. Okları altında öldürülen her düşman, güçlerini besler, saldırılarını güçlendirir ve ölümü en büyük silahlarına dönüştürür."
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="Her düşman öldürüldüğünde saldırı gücü artan acımasız bir okçu kulesi, her atışı büyüyen bir tehdit haline getiriyor."
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="Alacakaranlık Uzun Yayı"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="Kule, hasar odağını çıkışa en yakın düşmanı hedeflemekten maksimum canı en yüksek düşmanı hedeflemeye değiştirebilir.\n(Beceri her zaman aktif)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="Düşman Odaklanması"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="Savaşa yardım etmek için iki Tacizci çağırır. Bu vahşi ve çevik savaşçılar, gelen saldırılardan kaçınma şansına sahipken ölümcül hasar verirler.\n(Maksimum Kule Yükseltmesinde beceri satın alın)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="Kuleye yaklaşmaya çalışan herkesi yok etmek için iki Tacizci çağırır."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="Destek Bıçakları"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="Karanlık büyüyle sarılmış bir ok atar ve hedef rakip birimi şaşırtır, birkaç saniye boyunca yetenekleri kullanmasını engeller.\n(Maksimum Kule Yükseltmesinde beceri satın alın)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="Kahramanlara öncelik verir, kısa bir süre için yetenek kullanımını engeller."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="Sessiz Av"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="Bu kule tarafından yapılan her öldürme, saldırı hasarını birkaç saniye için, 3 kata kadar artırır."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="Bu kulenin okları tarafından öldürülen her düşmanın ruhu emilir, onları güçlendirir ve hasarlarını maksimum 3 kata kadar artırır.\n(Beceri her zaman aktif)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="Avcı heyecanı"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="Tacizciler"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="Yakın dövüşte uzmanlaşmış Yetenekli Alacakarga Elf savaşçıları. Onlar, Elit Tacizciler olarak yükselmeden önceki son aşamayı temsil ediyorlar."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="Yakın dövüş saldırılarından kaçınma şansına sahip Alacakaranlık Elf Savaşçıları."
+
+"INBOX_TAG_UPDATE"="Güncelleme"
+
+"INBOX_TAG_NEWS"="Haberler"
+
+"INBOX_TAG_GIFT"="Hediye"
+
+"INBOX_TITLE"="GELENLER"
+
+"INBOX_NO_MESSAGES"="Kullanılabilir mesaj yok"
+
+"INBOX_SHOW_ALL_MESSAGES"="Tümünü göster"
+
+"INBOX_READ"="Oku"
+
+"HERO_ALLERIA_WILDCAT_NAME"="Alleria & Vahşi Diş"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="Çok daha yaşlı ve bilge bir formda, bu orman koruyucusu doğanın tüm gücünü serbest bırakmaya hazırdır. Artık büyümüş Vahşi Dişine binerek, uzaktaki düşmanlara ok atmaya devam ederken ölümcül pençe darbeleri indirebilir."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- Öldürüldüğünde Vahşi Dişten iner.<br>- Bir alanda yavaşlatan ve hasar veren bir ok fırlatır.<br>- Kükreyerek yakındaki creepleri zayıflatır."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="İnme"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="Büyük tehlikede, Vahşi Dişinden iner ve canavar tekrar savaşa hazır olana kadar dövüşmeye devam etmek için geri çekilir."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="Diken Atışı"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="Doğanın gücüyle dolu güçlü bir ok fırlatır, yol boyunca sarmaşıklar büyütür ve alanı geçen düşmanları yavaşlatıp hasar verir."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="Vahşi Diş Kükremesi"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="Vahşi Diş, düşmanları korkutan sert bir kükreme çıkarır, vuruşlarının gücünü azaltırken aldıkları hasarı artırır."
+
+"MEGA_TICKET_OFFER_1"="Süper Bilet Teklifi"
+
+"MEGA_TICKET_OFFER_2"="Muhteşem Bilet Teklifi"
+
+"PLAYER_PROFILE_TITLE"="Profil"
+
+"PLAYER_PROFILE_STATS_TITLE"="Oyuncu İstatistikleri"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="Avatarlar"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="Afişler"
+
+"PLAYER_PROFILE_TITLES_TITLE"="Unvanlar"
+
+"PLAYER_PROFILE_USER_TAB"="Kullanıcı"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="Profili düzenle"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="Mevcut Seri"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="En İyi Seri"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="Zaferler"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="Yenilgiler"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="Kazanma Oranı"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="Toplam Kart"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="Kilidi Açılmış Kahramanlar"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="Kilidi Açılmış Kuleler"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="Kilidi Açılmış Büyüler"
+
+"PLAYER_PROFILE_STAT_MATCHES"="Maçlar"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="Demir Saldırı"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="Güçlü oyuncular için gelişmiş Saldırı meydan okuması!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="Tüm düşmanları ilk yenen oyuncu rakipten 1 Can alır. (Maks. Kart seviyesi 9)"
+
+"ONSLAUGHT_2_RULE_1"="Tüm düşmanları rakibinden daha hızlı yen..."
+
+"ONSLAUGHT_2_RULE_2"="Çok uzun süre alırsan 1 can kaybedersin..."
+
+"ONSLAUGHT_2_RULE_3"="Eşsiz ödüller kazanmak için kazan!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="LİNİREA ACEMİSİ"
+
+"PROFILE_TITLE_DARK_ROOKIE"="KARANLIK ACEMİ"
+
+"PROFILE_TITLE_FOREST_RANGER"="ORMAN BEKÇİSİ"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="CESARETLİ SAVAŞÇI"
+
+"PROFILE_TITLE_0005"="LAV CİNİ"
+
+"PROFILE_TITLE_0006"="GİZLİLİK USTASI"
+
+"PROFILE_TITLE_0007"="TAKTİK DEHASı"
+
+"PROFILE_TITLE_0008"="EFSANEVİ SAVAŞ LORDU"
+
+"BUTTON_KINGDOM_PASS"="KRALLIK PASI"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="ALTIN TALEP ET"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="Çiftlik kapandı, jetonlarını al!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="Kullanıcı Adını Değiştir"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="Kullanıcı Adınızı değiştirmek istediğinizi onaylıyor musunuz?"
+
+"EVENTS_REOPENS_IN"="Tekrar açılış..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="Çiftlik kapandı ama talep edilmemiş jetonlarını hâlâ alabilirsin!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="Jeton için son çağrı!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="Para çiftliği yakında kapanıyor! Maçlar oynayın ve jeton alın!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="Destansı Uyanış Paketi I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="Destansı Uyanış Paketi II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="Efsanevi Uyanış Paketi I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="Efsanevi Uyanış Paketi II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="Limite Ulaşıldı!"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="Hiçbiri"
+
+"ERROR_INVALID_RESPONSE_TITLE"="Bir şeyler ters gitti!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="Sunucu yanıtı işlenemedi. Lütfen tekrar deneyin."
+
+"HERO_BONEHART_DESCRIPTION"="Bir zamanlar meşru olan Faustus'un güçlü iskelet kalıntıları. Bu devasa Dracolich ölüme hükmeder; ölümsüzler çağırır ve veba yayarken düşman güçlerini korkunç bir güçle yok eder. Bir zamanlar Tanrıça Elynie'nin seçilmişi olan bu varlık, artık ruhu karanlık ve yasak güçlerle lekelenmiş olarak topraklarda dolaşır."
+
+"HERO_BONEHART_SHORT_DESC"="- Wyvern çağırır.<br>- Yola çakılarak hasar verir.<br>- Veba yayar."
+
+"HERO_BONEHART_NAME"="Bonehart"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="Her düşürülen düşman grubu için İskelet Ejderhaları rakibin yolunu avlamak üzere yükselir. Yok edildiklerinde, irin dolu bir buluta dönüşerek yakındaki tüm birimlere Veba yayarlar."
+
+"HERO_BONEHART_SKILL_0_NAME"="İskelet Ejderhaları"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="Düşmanın yoluna çakılmadan önce karanlığa karışır, büyük alan hasarı verir ve tüm hayatta kalanları Veba ile lanetler."
+
+"HERO_BONEHART_SKILL_1_NAME"="Hastalık Patlaması"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="Lanetli kemiklerinden çürük bir miazmayı dışarı üfler, düşmanın yolunu solunduğunda herkesi yavaşlatan ve Veba'ya yakalatan salgın bir bulutla kaplar."
+
+"HERO_BONEHART_SKILL_2_NAME"="Veba Bulutu"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="Çürüyen vücudundan hastalık dolu mermi yağmuru fırlatır, Veba'yı savaş alanına ayrım gözetmeksizin saçar ve düşmanları nerede olurlarsa olsunlar vurur."
+
+"HERO_BONEHART_SKILL_3_NAME"="Yayılan Patlama"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="Gökyüzünü avlayan lanetli bir kemik yaratığı; karanlık efendisinin vebası ile alttaki herkesi enfekte eder."
+
+"HERO_BONEHART_WYVERN_NAME"="İskelet Ejderhası"
+
+"BUY_GOLDEN_PASS"="Altın Pas Al"
+
+"BUY_PLATINUM_PASS"="Platin Pas Al"
+
+"DECK_BUILDER_WILDCARDS"="JOKERLER"
+
+"SEASON_PASS_COMMON_TITLE"="NORMAL"
+
+"SEASON_PASS_GOLDEN_TITLE"="ALTIN"
+
+"SEASON_PASS_PLATINUM_TITLE"="PLATİN"
+
+"SEASON_PASS_REWARDS"="ÖDÜLLER"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 10 EKSTRA PAS SEVİYESİ"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="Tüm ödülleri göster"
+
+"SEASON_PASS_NAME"="ÖFKE ZİNCİRLERİ"
+
+"SEASON_PASS_WIDGET_LOCKED"="KRALLIK PASI<br> Arena 1'de Açılır"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="ÖDÜLÜ<br>AL!"
+
+"WILDCARD_RARITY_COMMON"="Normal Joker"
+
+"WILDCARD_RARITY_RARE"="Nadir Joker"
+
+"WILDCARD_RARITY_EPIC"="Destansı Joker"
+
+"WILDCARD_RARITY_LEGENDARY"="Efsanevi Joker"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="NORMAL KART SEÇ"
+
+"WILDCARD_VIEW_TITLE_RARE"="NADİR KART SEÇ"
+
+"WILDCARD_VIEW_TITLE_EPIC"="DESTANSI KART SEÇ"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="EFSANEVİ KART SEÇ"
+
+"WILDCARD_VIEW_SUBTITLE"="Toplam"
+
+"WILDCARD_VIEW_NAME"="Jokerler"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="{0} {1} bu karta eklensin mi?"
+
+"WILDCARD_VIEW_WILD_CARD"="Joker"
+
+"WILDCARD_VIEW_WILD_CARDS"="Jokerler"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="Joker Ekle"
+
+"WILDCARD_POPUP_DESCRIPTION"="Herhangi bir kartın yükseltme ilerlemesini eklemek için Joker kullan!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="Joker kullanılacak geçerli kart yok."
+
+"WILDCARD_YOUR_CARDS"="Kartların"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="Kartlarını geliştirmek için Joker edin!"
+
+"COLLECTION_TYPE_BANNER"="PROFİL BAYRAKI"
+
+"COLLECTION_TYPE_TITLE"="PROFİL UNVANI"
+
+"COLLECTION_TYPE_AVATAR"="PROFİL AVATARI"
+
+"BANNER_BANDITS"="Yağmacıların Sığınağı"
+
+"BANNER_BASICBLUE"="Eter Mavisi"
+
+"BANNER_BASICGREEN"="Yemyeşil"
+
+"BANNER_BASICPURPLE"="Gizemli Mor"
+
+"BANNER_BASICRED"="Kor Kırmızısı"
+
+"BANNER_BASICYELLOW"="Güneş Sarısı"
+
+"BANNER_DESERT"="Hammerhold Dışı"
+
+"BANNER_DESERT2"="Kor Kumulları"
+
+"BANNER_LINIREA"="Linirea'nın Yeşil Tarlaları"
+
+"BANNER_LINIREA"="Linirea'nın Yeşil Tarlaları"
+
+"BANNER_LINIREA2"="Tarım Arazileri"
+
+"BANNER_MOUNTAIN"="Buz Zirvesi Yaylası"
+
+"BANNER_TRAINING"="Kışla Alanı"
+
+"BANNER_TRAINING2"="Okçuluk Sahası"
+
+"AVATAR_FOOTMAN"="LİNİREA PİYADESİ"
+
+"AVATAR_GOBLIN"="YARAMAZ GOBLIN"
+
+"HERO_MALIK_NAME"="Kral Malik"
+
+"HERO_MALIK_DESCRIPTION"="Savaşta sert, Kan Ocağı'ndaki kırık bir mahkumdan fırtınada dövülmüş bir efsaneye yükseldi. Düşen bir çekici kavrayarak zincirlerini parçaladı ve Linirea'nın durdurulamaz şampiyonu olarak sayısız savaşta yolunu açtı; Hammerhold Kralı olarak tahtını talep edene kadar, şimdi halkının kırılmaz koruyucusu."
+
+"HERO_MALIK_SHORT_DESC"="- En güçlü düşmana yüksek hasar.<br>- Rakip kuleleri susturur.<br>- Uzağa zıplayabilir."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ YENİ EFSANEVİ KART<br>KRAL MALİK"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="Malik'in her saldırısı düşmanların zırhını ve büyü direncini birkaç saniyeliğine parçalar."
+
+"HERO_MALIK_SKILL_0_NAME"="Etkisizleştir"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="Rakibin bazı kulelerini susturan güçlü bir yıldırım çarpması çağırır, yeteneklerini birkaç saniyeliğine devre dışı bırakır ve verdikleri hasarı azaltır."
+
+"HERO_MALIK_SKILL_1_NAME"="Yıldırım"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="Haritadaki en dayanıklı düşmanı hedef alır, onu yıldırımla vurur ve toplam canının belirli bir yüzdesine eşdeğer hasar verir."
+
+"HERO_MALIK_SKILL_2_NAME"="Zincirinden Kurtulmuş Şimşek"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="Uzun mesafe hareket ederken zıplar ve yere çarpar, yakındaki düşmanlara alan hasarı verir ve onları birkaç saniyeliğine sersemletir."
+
+"HERO_MALIK_SKILL_3_NAME"="Deprem"
+
+"PROFILE_TITLE_S1_FREE"="ÖNCÜ"
+
+"PROFILE_TITLE_S1_GOLD"="KUM SAVAŞÇISI"
+
+"PROFILE_TITLE_S1_PLATINUM"="ZİNCİR KIRICI"
+
+"EMOTE_ALRIC_FACEPALM"="Alric Facepalm"
+
+"EMOTE_MALIK_BOLT"="Malik'in Yıldırımı"
+
+"SEASON_PASS_COMMON_PASS"="Normal<br>Pas"
+
+"SEASON_PASS_GOLDEN_PASS"="Altın<br>Pas"
+
+"SEASON_PASS_PLATINUM_PASS"="Platin<br>Pas"
+
+"AVATAR_MAGE"="BÜYÜCÜ ÇIRAĞI"
+
+"AVATAR_SHEEP"="DELI KOYUN"
+
+"AVATAR_YOUNGMALIK"="GENÇ MALİK"
+
+"BUTTON_REROLL"="YENİDEN AT"
+
+"BUTTON_KEEP"="SAKLA"
+
+"N_ROLLS_REMAINING"="Kalan: {0}"
+
+"SEASON_PASS_TIME_LEFT"="Kalan Süre"
+
+"CHEST_INFO_NAME_SEASON_FREE"="Normal Sandık"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="Gizemli Sandık"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="Bonus Sandık"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="Mitik Sandık"
+
+"SEASON_PASS_SEASON_NUMBER"="Kingdom Pass - Sezon 1"
+

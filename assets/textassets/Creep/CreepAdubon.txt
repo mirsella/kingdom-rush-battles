@@ -1,0 +1,77 @@
+{
+    "CreepAdubon": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            135,
+            218,
+            330,
+            390
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.2
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8,
+                    13,
+                    20,
+                    23
+                ],
+                "maxDamage": [
+                    11,
+                    17,
+                    26,
+                    31
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "jump": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                12
+            ],
+            "range": [
+                0.55
+            ],
+            "safeDistanceToExit": [
+                4.5
+            ],
+            "adubon_jump": {
+                "duration": [
+                    4
+                ],
+                "movementSpeedPercentage": [
+                    60
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ]
+        }
+    }
+}

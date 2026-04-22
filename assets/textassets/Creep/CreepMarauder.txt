@@ -1,0 +1,41 @@
+{
+    "CreepMarauder": {
+        "goldReward": [
+            43
+        ],
+        "health": [
+            850
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    20.0
+                ],
+                "maxDamage": [
+                    35.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

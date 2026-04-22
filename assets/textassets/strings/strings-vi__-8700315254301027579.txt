@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="Nhấn -Chấp nhận-, tôi xác nhận rằng tôi đã đọc và chấp nhận Điều khoản & Điều kiện và Chính sách Bảo mật"
+
+"BUTTON_CONSENT"="Quản lý đồng ý"
+
+"BUTTON_ACCEPT"="Chấp nhận"
+
+"BUTTON_BATTLE"="BATTLE!"
+
+"BUTTON_CANCEL"="HỦY"
+
+"BUTTON_CONNECT_APPLE"="Đăng nhập với Apple"
+
+"BUTTON_CONNECT_GOOGLE"="Kết nối với Google"
+
+"BUTTON_CONNECT_GUEST"="Chơi với tư cách khách"
+
+"BUTTON_LOGOUT"="Đăng xuất"
+
+"BUTTON_LOGOUT_YES"="Có, đăng xuất"
+
+"BUTTON_LOGOUT_NO"="Không, duy trì đăng nhập"
+
+"BUTTON_EXIT"="Tiếp tục"
+
+"BUTTON_EXTERNAL"="Nhảy vào và chiến đấu với những thách thức mới!"
+
+"BUTTON_FEEDBACK"="Phản hồi"
+
+"BUTTON_HELP_US"="Giúp Chúng Tôi!"
+
+"BUTTON_KEEP_CLOUD"="Sử dụng lưu đám mây"
+
+"BUTTON_KEEP_LOCAL"="Giữ lưu cục bộ"
+
+"BUTTON_LOCKED"="Bị khóa"
+
+"BUTTON_NEXT"="TIẾP"
+
+"BUTTON_OFF"="Tắt"
+
+"BUTTON_ON"="Bật"
+
+"BUTTON_PRIVACY_POLICY"="Chính sách bảo mật"
+
+"BUTTON_RECONNECT"="KẾT NỐI LẠI"
+
+"BUTTON_RETRY"="THỬ LẠI"
+
+"BUTTON_SETTINGS"="Cài đặt"
+
+"BUTTON_SUPPORT"="Hỗ trợ"
+
+"BUTTON_TERMS"="Điều khoản"
+
+"BUTTON_USER"="Tài khoản người dùng"
+
+"BUTTON_DELETE_ACCOUNT"="Xóa tài khoản"
+
+"BUTTON_UPGRADE"="Nâng cấp"
+
+"BUTTON_CLAIM_PRIZE"="Hòm miễn phí!"
+
+"BUTTON_COLLECTION"="Bộ sưu tập"
+
+"BUTTON_SHOP"="Cửa hàng"
+
+"BUTTON_BATTLE_TAB"="Battle"
+
+"BUTTON_EVENTS_TAB"="Sự kiện"
+
+"EVENTS_COMING_SOON"="Sắp ra mắt..."
+
+"BUTTON_CLANS_TAB"="Vương quốc"
+
+"BUTTON_INFO"="Thông tin"
+
+"BUTTON_USE"="Sử dụng"
+
+"BUTTON_EQUIP"="Trang bị"
+
+"BUTTON_UNEQUIP"="Tháo ra"
+
+"BUTTON_SKILLS"="KỸ NĂNG"
+
+"BUTTON_STATS"="THỐNG KÊ"
+
+"BUTTON_STAGES"="Giai đoạn"
+
+"BUTTON_CREEPS"="Kẻ địch"
+
+"BUTTON_BOOSTERS"="Tăng cường"
+
+"BUTTON_OK"="OK"
+
+"BUTTON_OPEN_INSTANTLY"="Bỏ qua"
+
+"BUTTON_CONFIRM"="Xác nhận"
+
+"BUTTON_MUSIC_VOLUME"="Âm lượng nhạc"
+
+"BUTTON_SFX_VOLUME"="Âm lượng hiệu ứng"
+
+"BUTTON_COPY_ID"="ID"
+
+"BUTTON_ALREADY_SIGNED"="Đã đăng nhập"
+
+"BUTTON_GUEST_CONTINUE"="Tiếp tục"
+
+"BUTTON_RESTART"="KHỞI ĐỘNG LẠI"
+
+"BUTTON_ACCOUNT_WARNING_YES"="Có, đăng nhập"
+
+"BUTTON_ACCOUNT_WARNING_NO"="Không, giữ tài khoản hiện tại"
+
+"BUTTON_MISSIONS"="Nhiệm vụ"
+
+"BUTTON_GIFT"="Nhận quà"
+
+"BUTTON_QUIT"="THOÁT"
+
+"CARD_LOCKED_DESCRIPTION_1"="Chơi"
+
+"CARD_LOCKED_DESCRIPTION_2"="Tìm thẻ này trong rương để mở khóa"
+
+"CARD_RARITY_COMMON"="Phổ biến"
+
+"CARD_RARITY_EPIC"="Sử thi"
+
+"CARD_RARITY_LEGENDARY"="Huyền thoại"
+
+"CARD_RARITY_RARE"="Hiếm"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="Sát thương khu vực tối đa"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="Sát thương khu vực tối thiểu"
+
+"CARD_STAT_AREA_OF_EFFECT"="Khu vực ảnh hưởng"
+
+"CARD_STAT_BUFF_PERCENTAGE"="Tăng cường"
+
+"CARD_STAT_ARMOR_REDUCTION"="Giảm giáp"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="Giảm Kháng Phép"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="Cơ hội"
+
+"CARD_STAT_COOLDOWN"="Hồi chiêu"
+
+"CARD_STAT_COST"="Chi phí"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="DOT"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT tối đa"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT tối thiểu"
+
+"CARD_STAT_DAMAGE_TYPE"="Loại sát thương"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="Pháo bin"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="Pháo binh / Phép thuật"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="Ma Thuật"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="Vật lý"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="Thật"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="Debuff"
+
+"CARD_STAT_DURATION"="Thời lượng"
+
+"CARD_STAT_HEAL_HP"="Hồi HP"
+
+"CARD_STAT_HEAL_HP_MAX"="Hồi Máx"
+
+"CARD_STAT_HEAL_HP_MIN"="Hồi Mín"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="ĐV ảnh hưởng"
+
+"CARD_STAT_MAX_DAMAGE"="Sát Thương Tối Đa"
+
+"CARD_STAT_MIN_DAMAGE"="Sát Thương Tối Thiểu"
+
+"CARD_STAT_NUMBER_OF_UNITS"="SL đơn vị"
+
+"CARD_STAT_RANGE"="Tầm"
+
+"CARD_STAT_STRIKE_COUNT"="Đánh"
+
+"CARD_STAT_ARMOR_PIERCING"="Xuyên giáp"
+
+"CARD_STAT_UNIT_ARMOR"="Áo giáp"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="Tốc độ TC"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="Tốc độ TC"
+
+"CARD_STAT_UNIT_HP"="Sức khỏe"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="Kháng phép"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="Sát thương diện tích tối đa"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="Sát thương tối đa"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="Sát thương tối đa"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="Sát thương khu vực"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="Sát thương tối thiểu"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="Sát thương tối thiểu"
+
+"CARD_STAT_UNIT_SPEED"="Tốc độ"
+
+"CARD_STAT_UNIT2_ARMOR"="Đơn vị 2 Áo giáp"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="Tốc độ tấn công của Đơn vị 2"
+
+"CARD_STAT_UNIT2_HP"="Đơn vị 2 Sức khỏe"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="Sát thương tối đa của đơn vị 2"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="Sát thương tối thiểu của đơn vị 2"
+
+"CARD_STAT_LEVEL_TEXT"="CẤP"
+
+"CARD_STAT_DAMAGE"="Thiệt hại"
+
+"CARD_STAT_RANGED_DAMAGE"="Sát thương từ xa"
+
+"CARD_STAT_ARMOR_TYPE"="Loại giáp"
+
+"CARD_STAT_VERY_LOW"="Rất thấp"
+
+"CARD_STAT_LOW"="Thấp"
+
+"CARD_STAT_MEDIUM"="Trung bình"
+
+"CARD_STAT_HIGH"="Cao"
+
+"CARD_STAT_VERY_HIGH"="Rất Cao"
+
+"CARD_STAT_NONE"="Không có"
+
+"CARD_STAT_CARD_RANK"="Cấp"
+
+"CARD_STAT_CARD_CARD_TYPE"="Loại"
+
+"CARD_STAT_HP_REDUCTION"="Giảm sức khỏe"
+
+"CARD_STAT_SLOW"="Chậm"
+
+"CARD_STAT_HP_TO_ACTIVATE"="Tỷ lệ sức khỏe"
+
+"CARD_STAT_TILES_PUSHED"="Gạch đẩy"
+
+"CARD_TYPE_BARRACK"="TRẠI BINH"
+
+"CARD_TYPE_RANGED"="KHOẢNG CÁCH"
+
+"CARD_TYPE_MAGIC"="PHÉP LẠ"
+
+"CARD_TYPE_ARTILLERY"="PHÁO BINH"
+
+"CARD_TYPE_DAMAGE"="THƯƠNG VONG"
+
+"CARD_TYPE_SUMMON"="GỌI"
+
+"CARD_TYPE_UTILITY"="TIỆN ÍCH"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="HỖ TRỢ"
+
+"CARD_TYPE_TANK"="TANK"
+
+"CARD_TYPE_FLYING"="BAY"
+
+"TOWER_STATS"="THỐNG KÊ THÁP"
+
+"HERO_STATS"="THỐNG KÊ ANH HÙNG"
+
+"SPELL_STATS"="THỐNG KÊ PHÉP THUẬT"
+
+"CHECKING_UPDATES"="KIỂM TRA CẬP NHẬT"
+
+"CLAIM_HERO_DESCRITPION"="Chia sẻ phản hồi của bạn qua một khảo sát ngắn và nhận một rương tuyệt vời trong khi giúp chúng tôi cải thiện trò chơi của mình."
+
+"FREE_CHEST_VIEW_TITLE"="NHẬN MỘT HỘP!"
+
+"CONNECTING"="ĐANG KẾT NỐI"
+
+"CONNECTION_LOST_CHECK_INTERNET"="Kiểm tra kết nối internet của bạn"
+
+"CONNECTION_LOST_BUTTON"="THỬ LẠI"
+
+"CONNECTION_LOST_RECONNECTING"="Kết nối lại"
+
+"CONNECTION_LOST_TITLE"="Mất kết nối"
+
+"USER_ACCESS_TEXT"="Đăng nhập hoặc tạo tài khoản"
+
+"24_HR_NOTIFICATION_TITLE"="Vương quốc của bạn cần bạn!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="Bảo vệ tháp của bạn khỏi những kẻ thách thức mới!"
+
+"48_HR_NOTIFICATION_TITLE"="Đã đến lúc chiến đấu!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="Những lá bài mạnh mẽ mới đang chờ đợi! Nâng cấp bộ bài của bạn và nghiền nát kẻ thù. Chiến đấu ngay!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="Nhận thêm phần thưởng!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="Phần thưởng mạnh mẽ đang chờ trong rương sao. Hãy khám phá và nhận chúng!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="Đã đến lúc thu thập"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Rương chiến đấu của bạn đã sẵn sàng! Thắng trận để mở khóa phần thưởng tuyệt vời!"
+
+"DAILY_CHEST_RESET"="Trận chiến rương sẽ được đặt lại trong:"
+
+"OPEN_BATTLE_CHEST"="Chúc mừng! Mở rương để nhận phần thưởng của bạn!"
+
+"OPEN_BATTLE_WIN"="Thắng"
+
+"BATTLE_CHEST_INSTRUCTIONS"="để mở rương này cần thêm trận đấu!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="trận đấu để mở rương này!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="Suỵt... Đã đến lúc lấy sao!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Đừng chờ đợi, lấy sao của bạn và mở khóa phần thưởng hoành tráng!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="Phần Thưởng Đang Chờ Bạn!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="Nhận phần thưởng Đường Cúp của bạn ngay bây giờ—đừng bỏ lỡ!"
+
+"ROOKIE_NOTIFICATION_TITLE"="Tiếp tục!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="Bạn đang rất tuyệt! Mở khóa cúp, lên cấp và tăng cường bộ bài của bạn!"
+
+"DECK_BUILDER_DECK"="BỘ BÀI"
+
+"DECK_BUILDER_EMOJIS"="BIỂU CẢM"
+
+"DECK_BUILDER_FILTER_LEVEL"="CẤP ĐỘ"
+
+"DECK_BUILDER_FILTER_RARITY"="HIẾM"
+
+"DECK_BUILDER_FILTER_RANK"="CẤP"
+
+"DECK_BUILDER_FILTER_TYPE"="LOẠI"
+
+"DECK_BUILDER_FOUND"="Tìm thấy"
+
+"DECK_BUILDER_HEROES"="ANH HÙNG"
+
+"DECK_BUILDER_SPELLS"="PHÉP THUẬT"
+
+"DECK_BUILDER_TOWERS"="THÁP"
+
+"DOWNLOADING"="Đang cập nhật..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="Không, giữ tài khoản của tôi"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="Có, xóa tài khoản của tôi"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="ĐỌC THÊM"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="Bạn sắp yêu cầu xóa vĩnh viễn tài khoản và tất cả thông tin cá nhân của mình. Nếu bạn nhấp 'Có', chúng tôi sẽ xóa tất cả dữ liệu tài khoản của bạn, bao gồm: quyền truy cập, tất cả các vật phẩm đã mua và đạt được, tiến trình trò chơi và cấp độ."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="quyền truy cập, tất cả các vật phẩm đã mua và đạt được, tiến trình trò chơi và cấp độ.\n\nTrong {0} ngày, bạn có thể hủy yêu cầu của mình. Sau khoảng thời gian này, quá trình không thể hoàn tác! Nếu bạn quay lại trò chơi, một tài khoản mới sẽ được tạo."
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="Bạn có chắc chắn muốn xóa tài khoản của mình không?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="Bạn có {0} ngày để thay đổi quyết định.\nSau đó, tài khoản của bạn sẽ bị xóa vĩnh viễn."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="Chúng tôi đã đăng ký yêu cầu xóa của bạn"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="Tài khoản của bạn được lên lịch để xóa"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="Nếu bạn đã thay đổi ý định và muốn tiếp tục chơi, hãy nhấp vào ""hủy xóa"".\nNếu không, Miniclip sẽ bắt đầu xóa vĩnh viễn tài khoản của bạn trong {0} ngày."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="Hủy xóa"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="Tiếp tục xóa"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="Không có thay đổi nào được thực hiện đối với tài khoản của bạn.\nBạn có thể khởi động lại quá trình xóa vĩnh viễn bất cứ lúc nào từ cài đặt trò chơi."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="Quá trình xóa đã bị hủy"
+
+"SAVE_WARNING_TITLE"="LƯU TIẾN TRÌNH CỦA BẠN"
+
+"SAVE_WARNING_TEXT"="Lưu tiến trình của bạn bằng cách kết nối tài khoản"
+
+"ERROR_DECK_INCOMPLETE"="BỘ THẺ CHIẾN ĐẤU CỦA BẠN CHƯA ĐẦY ĐỦ!"
+
+"ERROR_ALREADY_BOUGHT"="ĐÃ MUA!"
+
+"ERROR_PURCHASE_TITLE"="LỖI MUA HÀNG"
+
+"ERROR_PURCHASE_DESCRIPTION"="Đã xảy ra lỗi trong quá trình xử lý giao dịch này. Vui lòng thử lại."
+
+"ERROR_NOT_ENOUGH_GEMS"="Không đủ đá quý!"
+
+"ERROR_NOT_ENOUGH_GOLD"="KHÔNG ĐỦ TIỀN!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="LỖI THAY ĐỔI TÊN NGƯỜI DÙNG"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="Đã xảy ra lỗi khi sửa đổi tên người dùng, vui lòng thử lại"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="Đã xảy ra lỗi khi cập nhật nội dung trò chơi. Vui lòng đảm bảo thiết bị của bạn có đủ dung lượng trống và bạn đã kết nối với internet, sau đó hãy thử lại."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="LỖI CẬP NHẬT"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="Đã xảy ra lỗi khi kết nối với máy chủ trò chơi. Vui lòng xác minh rằng bạn đã kết nối với internet."
+
+"ERROR_CONNECTING_SERVER_TITLE"="LỖI KẾT NỐI"
+
+"ERROR_WAITING_PLAYER_TITLE"="ĐỐI THỦ THOÁT"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="Có vẻ như đối thủ đã rời khỏi trò chơi."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="LỖI TẠO NGƯỜI DÙNG"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="Đã xảy ra lỗi khi tạo người dùng mới cho thiết bị này."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="LỖI ĐĂNG NHẬP APPLE"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="Đã xảy ra lỗi khi đăng nhập bằng tài khoản Apple của bạn. Vui lòng thử lại."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="Đã xảy ra lỗi khi lấy mã truy cập. Vui lòng thử đăng nhập lại."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Đã xảy ra lỗi khi liên kết tài khoản. Vui lòng thử đăng nhập lại."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="LỖI ĐĂNG NHẬP GOOGLE"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="Đã xảy ra lỗi khi đăng nhập bằng tài khoản Google của bạn. Vui lòng thử lại."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="Đã xảy ra lỗi khi lấy mã truy cập. Vui lòng thử đăng nhập lại."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="Đã xảy ra lỗi khi xác thực mã truy cập. Vui lòng thử đăng nhập lại."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Đã xảy ra lỗi khi liên kết tài khoản. Vui lòng thử đăng nhập lại."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="Đã xảy ra lỗi khi chuyển đổi người dùng cục bộ với người dùng từ xa. Vui lòng thử đăng nhập lại."
+
+"ERROR_FRAMEDIFF_TITLE"="PHÁT HIỆN GIAN LẬN"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="Chúng tôi đã phát hiện hoạt động đáng ngờ từ một trong những người chơi, và không thể tiếp tục trận đấu."
+
+"ERROR_FRAMEDIFF_BUTTON"="TIẾP TỤC"
+
+"ERROR_INVALID_SESSION_TITLE"="Đã có sự cố xảy ra!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="Phiên của thiết bị của bạn đã hết hạn. Ứng dụng sẽ được tải lại ngay bây giờ."
+
+"ERROR_USER_CANCELED_OPERATION"="Người dùng đã hủy thao tác."
+
+"BUTTON_SUMMON"="Triệu hồi"
+
+"EVENTS_SUMMON_RIFT_TITLE"="Bàn Thờ Triệu Hồi"
+
+"EVENTS_ONSLAUGHT_TITLE"="Cuộc tấn công"
+
+"EVENTS_COIN_FARM_TITLE"="Nông trại tiền"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="Triệu hồi những lá bài độc quyền mạnh mẽ!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="Đánh bại mọi kẻ thù càng nhanh càng tốt!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="Sử dụng Trang Trại để làm đầy heo đất của bạn!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="Hoàn thành {0} lần triệu hồi và nhận {1} !"
+
+"DATA_WARNING_WINDOW_TITLE"="Trò chơi đã lưu được phát hiện!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="Chúng tôi đã tìm thấy một tệp lưu trò chơi khác trong tài khoản của bạn. Bạn có muốn sử dụng tệp lưu đám mây hay giữ tệp cục bộ?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="Tài khoản đã được phát hiện!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="Tài khoản bạn đang cố gắng đăng nhập đã được liên kết với một ID Kingdom Rush Battles khác. Bạn có muốn đăng nhập vào tài khoản này không? (phiên hiện tại sẽ đóng)"
+
+"LOGOUT_WINDOW_TITLE"="CẢNH BÁO!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="Nếu bạn đăng xuất, tiến trình trên thiết bị này sẽ được đặt lại; tuy nhiên, dữ liệu tài khoản của bạn sẽ vẫn ở trên đám mây.\nBạn có muốn đăng xuất? (phiên hiện tại sẽ đóng)"
+
+"GAME_MSG_DEFEAT"="THẤT BẠI!"
+
+"GAME_MSG_DRAW"="HÒA!"
+
+"GAME_MSG_FINAL_WAVE"="Trận chiến với Boss!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="Cấp Độ Lên"
+
+"GAME_MSG_VERSUS"="đối"
+
+"GAME_MSG_VICTORY"="CHIẾN THẮNG!"
+
+"GAME_MSG_WAITING_OPPONENT"="Đang chờ đối thủ"
+
+"GAME_MSG_WAVE_NUMBER"="Đợt {0}"
+
+"GAME_MODIFIERS_TITLE"="CHỌN MỘT TĂNG CƯỜNG"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="NGƯỜI SỐNG SÓT"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="Sống sót đến làn sóng thứ 4"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="CHINH PHỤC"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="Giành chiến thắng trận đấu"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="BẤT TỬ"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="Không mất một trái tim nào"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="CHỚP NHOÁNG"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="Chinh phục trước sóng 4"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="THỬ THÁCH"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="Đạt đến làn sóng cuối cùng"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="SÁT THỦ"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="Bắn hạ boss cuối"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="THÀNH THẠO"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="Chiến thắng tại Bootcamp!"
+
+"GAME_UPDATE_BUTTON"="CẬP NHẬT"
+
+"GAME_UPDATE_DESCRIPTION"="Một phiên bản mới của trò chơi có sẵn trong cửa hàng."
+
+"GAME_UPDATE_TITLE"="CẬP NHẬT CÓ SẴN!"
+
+"MAINTENANCE_MODE_BUTTON"="Thoát"
+
+"MAINTENANCE_MODE_DESCRIPTION"="Trò chơi sẽ ngừng hoạt động cho đến khi các bản cập nhật hoàn tất"
+
+"MAINTENANCE_MODE_TITLE"="Chế độ bảo trì"
+
+"INITIALIZING"="Đang khởi tạo"
+
+"LOADING"="Đang tải"
+
+"SLOW_CONNECTION"="KẾT NỐI CHẬM"
+
+"LOADING_WAITING_OPPONENT"="Đang chờ đối thủ"
+
+"LOADING_SYNC_PLAYERS"="Đang đồng bộ người chơiRetry"
+
+"MATCH_MAKING_TIP_1"="Kẻ thù có giáp vật lý yếu trước ma thuật, và ngược lại."
+
+"MATCH_MAKING_TIP_10"="Khi tiêu diệt, kẻ thù có xuất hiện đồng tiền sẽ thả thêm vàng."
+
+"MATCH_MAKING_TIP_2"="Đặt một Pháo binh gần một Trại lính để gây sát thương tập trung."
+
+"MATCH_MAKING_TIP_3"="Kẻ địch bay không thể bị chặn; hãy thử dùng Tháp Cung Thủ."
+
+"MATCH_MAKING_TIP_4"="Tháp có kỹ năng độc đáo ở Cấp Nâng Cấp 3."
+
+"MATCH_MAKING_TIP_5"="Chọn các tăng cường có khả năng chống lại tháp của đối thủ."
+
+"MATCH_MAKING_TIP_6"="Bán tháp sẽ hoàn lại một phần trăm chi phí của chúng."
+
+"MATCH_MAKING_TIP_7"="Xem thông tin Arena để biết chỉ số và kỹ năng của kẻ thù."
+
+"MATCH_MAKING_TIP_8"="Một bộ bài cân bằng nên bao gồm 1 loại Tháp mỗi loại."
+
+"MATCH_MAKING_TIP_9"="Hoàn thành các làn sóng nhanh hơn đối thủ để nhận thêm vàng."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="Kiếm kinh nghiệm người chơi để nâng cấp bộ tăng cường của bạn"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="Kẻ địch này sẽ xuất hiện từ cổng ở các giai đoạn khác nhau."
+
+"SEARCHING_FOR_OPPONENT"="Đang tìm\nđối thủ..."
+
+"SURVEY_POPUP"="Phản hồi của bạn là vô giá đối với chúng tôi! Hãy chia sẻ suy nghĩ của bạn bằng cách tham gia một cuộc khảo sát nhanh (2 - 3 phút). Phản hồi của bạn sẽ giúp chúng tôi xác định các lĩnh vực cần cải thiện và thêm các tính năng để nâng cao trò chơi và tạo ra một trải nghiệm hấp dẫn hơn cho tất cả người chơi."
+
+"TAB_BATTLE"="Trận đấu"
+
+"TAB_COLLECTION"="Bộ Sưu Tập"
+
+"TAB_SHOP"="Cửa hàng"
+
+"TERRAIN_COLISEUM_NAME"="SÂN VẬN ĐỘNG"
+
+"TERRAIN_COLISEUM_DESC"="Thử thách bản thân chống lại những người chơi khác trong Sân vận động xếp hạng này, chiến đấu với kẻ thù và giai đoạn trước để kiếm Huy chương.\nBây giờ là lúc bạn trở thành người chơi Battle Towers giỏi nhất thế giới!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="Sào huyệt của Tên cướp"
+
+"TERRAIN_FOREST_1_NAME"="RỪNG SILVEROAK"
+
+"TERRAIN_FOREST_2_NAME"="Rừng Silveroak"
+
+"TERRAIN_FOREST_3_NAME"="Rừng Silveroak"
+
+"TERRAIN_MOUNTAIN_1_NAME"="DÃY NÚI MÂY BÃO"
+
+"TERRAIN_MOUNTAIN_2_NAME"="DÃY NÚI MÂY BÃO"
+
+"TERRAIN_MOUNTAIN_3_NAME"="Dãy Núi Mây Bão"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="SÀO HUYỆT CỦA TÊN CƯỚP"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="Sào huyệt của Tên cướp"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="Sào huyệt của Tên cướp"
+
+"TERRAIN_TRAINING_NAME"="Trại Huấn Luyện"
+
+"STAGE_TRAINING_1"="Sân Tập Luyện"
+
+"STAGE_FOREST_1"="Cảng Nam"
+
+"STAGE_FOREST_2"="Cánh đồng"
+
+"STAGE_FOREST_3"="Đất nông nghiệp"
+
+"STAGE_FOREST_4"="Ngoại ô"
+
+"STAGE_FOREST_5"="Bờ Sông"
+
+"STAGE_MOUNTAIN_1"="Đường Băng Giá"
+
+"STAGE_MOUNTAIN_2"="Đỉnh Sinh Đôi"
+
+"STAGE_MOUNTAIN_3"="Hang ổ Quỷ lùn"
+
+"STAGE_MOUNTAIN_4"="Đèo Gió Băng"
+
+"STAGE_MOUNTAIN_5"="Hẻm Núi Băng"
+
+"STAGE_BANDITS_1"="Vùng Đất Bùn"
+
+"STAGE_BANDITS_2"="Trại Cắt Cổ"
+
+"STAGE_BANDITS_3"="Đường Rắn Hổ Mang"
+
+"STAGE_BANDITS_4"="Ngã Tư Người Chết"
+
+"STAGE_BANDITS_5"="Rừng Yên Tĩnh"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="Chào mừng đến với <color=#0DA7FF>Kingdom Rush Battles</color>! <br>Hãy học những điều cơ bản..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="Đã đến lúc phòng thủ! Hãy <color=#0DA7FF>xây dựng một Tháp</color> để ngăn chặn những Goblin hoang dã này trước khi chúng trốn thoát!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="Làm tốt lắm! Bạn đã <color=#0DA7FF>kiếm được một ít Vàng</color> từ kẻ thù bị đánh bại. Hãy dùng nó để xây dựng một tháp khác."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="Cẩn thận! Kẻ địch đang đi qua! Nếu chúng thoát, bạn sẽ mất mạng. <color=#0DA7FF>Nâng cấp tháp của bạn</color> để gây thêm sát thương!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="Cẩn thận! Kẻ địch đang đi qua! Nếu chúng thoát, bạn sẽ <color=#0DA7FF>mất mạng</color>."
+
+"NEW_TUTORIAL_1_MSG_HERO"="<color=#0DA7FF>Người hùng</color> Gerald tham gia trận chiến! Kéo anh ấy lại gần kẻ thù để tham gia chiến đấu!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="Kẻ thù mạnh hơn đang đến! Hãy <color=#0DA7FF>niệm một Phép thuật!</color> Kéo để giải phóng Mưa Lửa lên chiến trường!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="Trận chiến mở rộng lên trên! Đối mặt với các tướng khác - <color=#0DA7FF>người cuối cùng đứng vững sẽ thắng</color>. Chúc may mắn!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="Bắt đầu nào!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="Đối thủ <color=#0DA7FF>sắp thua!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>Chọn một bộ tăng cường!</color> Chúng có thể tăng cường phòng thủ của bạn hoặc làm cho các đợt tấn công của đối thủ khó khăn hơn."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="Đừng để kẻ thù trốn thoát! Xây dựng một tháp để chống lại chúng!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="Kẻ địch <color=#837272>giáp trụ</color> đã xuất hiện từ cổng! Xây dựng <color=#0DA7FF>Pháp Sư</color> để ngăn chặn chúng."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="Nhìn kìa! Một số <color=#0DA7FF>kẻ thù của đối thủ đang trốn thoát!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="Xây dựng Tháp tốn Vàng. Kiếm thêm Vàng bằng cách đánh bại kẻ thù."
+
+"TUTORIAL_1_MSG_HERO"="Anh hùng Gerald đã xuất hiện! Bạn có thể di chuyển anh ấy để chiến đấu với kẻ thù đang đến."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="Đối thủ của bạn cũng sẽ xây Tháp để bảo vệ phía của họ!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Sử dụng 'Mưa Lửa' để tiêu diệt nhóm Goblin này."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="Bạn có một Phép thuật mới có sẵn trong kho vũ khí của mình"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="Bạn có thể sử dụng Vàng của mình để nâng cấp Tháp và làm cho chúng mạnh hơn."
+
+"TUTORIAL_1_MSG_WELCOME"="Chào mừng đến với Kingdom Rush Battles! Hãy bắt đầu nào..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="Chọn Tăng cường này. Điều này sẽ buộc họ phải đối phó với kẻ thù bay."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="Chọn 'Lời Kêu Gọi Của Rồng'. Điều này sẽ buộc họ đối phó với kẻ thù bay."
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="Đối thủ sắp thua!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="Bây giờ hãy chọn một Bộ Tăng Cường Phòng Thủ. Điều này sẽ giúp bạn đối phó với kẻ thù mạnh."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="Chọn 'Tháp Mạnh Mẽ'. Điều này sẽ giúp bạn đối phó với kẻ thù mạnh."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="Kẻ địch này có <color=#837272>Giáp Vật Lý</color>, khiến hắn kháng sát thương vật lý."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="Kẻ địch này có <color=#0DA7FF>Giáp Phép Thuật</color>. Giáp thay đổi màu thanh máu của kẻ địch."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="Xây dựng một Pháp sư để gây <color=#0DA7FF>sát thương phép thuật</color> và vượt qua giáp của kẻ thù."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="Kẻ thù mới có thể quá mạnh. Hãy nâng cấp để an toàn!"
+
+"TUTORIAL_2_MSG_SKILL_1"="Đã đến lúc sử dụng Kỹ năng Tháp. Chúng giúp chiến đấu với kẻ thù hoặc tấn công đối thủ của bạn!"
+
+"TUTORIAL_2_MSG_SKILL_2"="Nâng cấp cung thủ lên cấp tối đa trước tiên"
+
+"TUTORIAL_2_MSG_SKILL_3"="Mua kỹ năng 'Phát Bắn Nạp Năng Lượng' để tấn công đơn vị của đối thủ!"
+
+"TUTORIAL_2_MSG_WELCOME"="Hãy học cách tương tác với đối thủ của bạn."
+
+"TUTORIAL_METAGAME_DECK_01"="Bạn đã mở khóa một Tháp mới! Hãy thêm nó vào bộ bài của bạn."
+
+"TUTORIAL_METAGAME_DECK_02"="Kiểm tra phần Tháp!"
+
+"TUTORIAL_METAGAME_DECK_03"="Bạn đã mở khóa một Tháp mới! Hãy thêm nó vào bộ bài của bạn."
+
+"TUTORIAL_METAGAME_DECK_04"="Nâng cấp tháp sẽ tăng sức mạnh của nó bằng cách sử dụng tiền xu và mảnh vỡ."
+
+"TUTORIAL_METAGAME_DECK_05"="Bây giờ để trang bị cho những kẻ man rợ trên boong của bạn"
+
+"TUTORIAL_METAGAME_DECK_06"="Thay thế 'Tháp Paladin' bằng 'Tháp Barbarian'"
+
+"TUTORIAL_METAGAME_DECK_07"="Hoàn tất! Giờ hãy thử những gì bạn đã học."
+
+"TUTORIAL_METAGAME_CHEST_01"="Kiếm sao bằng cách chơi trận để mở khóa rương"
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="Bạn đã mở khóa một Phép thuật mới! Hãy thêm nó vào bộ bài của bạn."
+
+"FTUE_DIRECTIVE_01"="Thêm 1 chiến thắng để mở khóa Phép mới!"
+
+"FTUE_DIRECTIVE_02"="Thêm 1 chiến thắng để mở khóa Phép mới!"
+
+"FTUE_DIRECTIVE_03"="1 trò chơi nữa để mở khóa các bộ tăng cường!"
+
+"TITLE_USER_ACCESS"="TRUY CẬP NGƯỜI DÙNG"
+
+"TITLE_SOUND_SETTINGS"="ÂM NHẠC & SFX"
+
+"TITLE_EXTERNAL"="BÊN NGOÀI"
+
+"TITLE_SETTINGS"="CÀI ĐẶT"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="ĐỔI TÊN"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="CHỌN TÊN CỦA BẠN"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 ký tự giới hạn<br>Không cho phép ký tự đặc biệt"
+
+"ERROR_USERNAME_INVALID"="Tên không hợp lệ"
+
+"ERROR_USERNAME_INAPPROPIATE"="Tên không được phép"
+
+"ERROR_USERNAME_UNCHANGED"="Đó đã là tên của bạn"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="PHẦN THƯỞNG BỊ KHÓA"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="Mở chu kỳ để tiếp tục nhận thưởng"
+
+"CHEST_YOUR_GOLD"="Xu"
+
+"SHOP_GOLD"="Vàng"
+
+"CHEST_YOUR_STARS"="NGÔI SAO"
+
+"YOUR_GEM"="Đá quý"
+
+"CHEST_RESOURCE_CARD"="Tài nguyên"
+
+"CHEST_GOLD"="XU"
+
+"CHEST_STAR"="NGÔI SAO"
+
+"CHEST_YOUR_REWARD"="Phần Thưởng Của Bạn"
+
+"CHEST_COMMON_TOWER"="Tháp Thường"
+
+"CHEST_EPIC_TOWER"="Tháp Sử Thi"
+
+"CHEST_RARE_TOWER"="Tháp Hiếm"
+
+"CHEST_LEGENDARY_TOWER"="Tháp Huyền Thoại"
+
+"CHEST_COMMON_HERO"="Anh Hùng Thông Thường"
+
+"CHEST_EPIC_HERO"="Anh Hùng Sử Thi"
+
+"CHEST_RARE_HERO"="Anh Hùng Hiếm"
+
+"CHEST_LEGENDARY_HERO"="Anh Hùng Huyền Thoại"
+
+"CHEST_COMMON_SPELL"="Phép Thuật Thông Thường"
+
+"CHEST_EPIC_SPELL"="Phép Thuật Sử Thi"
+
+"CHEST_RARE_SPELL"="Phép Thuật Hiếm"
+
+"CHEST_LEGENDARY_SPELL"="Phép Thuật Huyền Thoại"
+
+"CHEST_NEW_CARD"="MỚI!"
+
+"CHEST_INFO_NAME_GOLD"="Rương Vàng"
+
+"CHEST_INFO_NAME_SILVER"="Rương Gỗ"
+
+"CHEST_INFO_NAME_MAGICAL"="Rương Phép Thuật"
+
+"CHEST_INFO_NAME_BRAVERY"="Rương Chiến Trận"
+
+"CHEST_INFO_NAME_LEVEL_UP"="Rương Tăng Cấp"
+
+"CHEST_INFO_CONTAINS_TITLE"="Chứa ít nhất:"
+
+"CHEST_INFO_CONTAINS_RARES"="Hiếm"
+
+"CHEST_INFO_CONTAINS_EPICS"="Sử thi"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="Huyền Thoại"
+
+"CHEST_INFO_CONTAINS_RARE"="Hiếm"
+
+"CHEST_INFO_CONTAINS_EPIC"="Sử thi"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="Huyền thoại"
+
+"CHEST_INFO_CLAIM_BUTTON"="Mở!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="KHÓA"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="Thẻ Thông Thường"
+
+"CHEST_INFO_CLAIM"="Nhận!"
+
+"CHEST_INFO_UNLOCK_NOW"="Mở khóa ngay"
+
+"CHEST_INFO_EXTRA_TITLE"="Cơ hội:"
+
+"CHEST_TOOLTIP_CLAIM"="LẤY!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="Chọn phần thưởng của bạn"
+
+"TROPHY_REWARD_SCREEN_TITLE"="Phần thưởng"
+
+"XP_LEVEL_UP_TITLE"="CẤP ĐỘ MỚI"
+
+"XP_LEVEL_UP_BOOSTER"="Tăng cường"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="Tăng cấp"
+
+"XP_LEVEL_UP_LVL"="Cấp"
+
+"DECK_MAX_LEVEL"="TỐI ĐA"
+
+"PROGRESS_BAR_MAX"="TỐI ĐA"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="Cấp"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="Tăng cường nâng cấp! Cải thiện bộ sửa đổi trò chơi"
+
+"WELCOME_SCREEN_LOG_TEXT"="• Biểu ngữ Triệu Hồi Khe Nứt Elora đã kết thúc\n• Thẻ Triệu Hồi Khe Nứt mới: Cung Dài Hoàng Hôn!\nSửa Lỗi\n• Đã sửa lỗi các đặc quyền tăng sát thương cho đơn vị không được áp dụng trong mọi trường hợp.\n• Đã sửa một số đặc quyền ảnh hưởng sai đến các đơn vị và tháp mà chúng không nhắm đến.\n• Pháo Binh: Đã sửa lỗi giá kỹ năng cấp 3 bị hoán đổi sai.\nLối Chơi\n• Đã thêm một trùm mới, Kẻ Hủy Diệt, vào giai đoạn Thung Lửa.\nCân Bằng\n• Mảnh Vỡ Magma / Nguyên Tố Magma: Thời gian của giai đoạn đá đã được tăng lên 12 giây.\n• Kỵ sĩ Tên Lửa:\n   • Máu giảm 25%.\n   • Kỹ năng lao tới của chúng giờ chỉ kích hoạt khi còn cách lối ra 5 ô (tăng từ 3).\n   • Giờ có thể biến hình chúng.\n• Cung Thủ Bóng Tối: Sát thương tầm xa giảm 30%.\nĐấu Trường Bị Bỏ Rơi: Độ mạnh của quái và thẻ bot đã được giảm bắt đầu từ Thung Lửa."
+
+"WELCOME_SCREEN_TITLE_TEXT"="Tin Mới"
+
+"SHOP_SCREEN_PLACEHOLDER"="SẮP RA MẮT"
+
+"SHOP_ROYAL_GOLD_CHEST"="Rương của Vua"
+
+"SHOP_ROYAL_SILVER_CHEST"="Rương của Thuyền trưởng"
+
+"SHOP_ROYAL_BRONZE_CHEST"="Rương Lính"
+
+"SHOP_GEMS_SLOT_1"="Một Nắm Đá Quý"
+
+"SHOP_GEMS_SLOT_2"="Đống Đá Quý"
+
+"SHOP_GEMS_SLOT_3"="Túi Đá Quý"
+
+"SHOP_GEMS_SLOT_4"="Thùng Đá Quý"
+
+"SHOP_GEMS_SLOT_5"="Két Đá Quý"
+
+"SHOP_GEMS_SLOT_6"="Núi Đá Quý"
+
+"SHOP_GOLD_SLOT_1"="Một Nắm Xu"
+
+"SHOP_GOLD_SLOT_2"="Túi Tiền"
+
+"SHOP_GOLD_SLOT_3"="Két Tiền"
+
+"SHOP_SPECIAL_OFFER"="Ưu Đãi Đặc Biệt"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Ưu Đãi Đặc Biệt"
+
+"SHOP_STARTER_PACK_TITLE"="Gói Khởi Đầu"
+
+"SHOP_GOLD_TITLE"="Xu"
+
+"SHOP_GEMS_TITLE"="Đá quý"
+
+"SHOP_CHESTS_TITLE"="Rương"
+
+"SHOP_FIRST_PURCHASE"="Mua lần đầu"
+
+"SHOP_PURCHASED"="Đã mua"
+
+"SHOP_CLAIMED"="Đã Nhận"
+
+"SHOP_VALUE"="Giá trị"
+
+"SHOP_DAILY_LOCKED"="Mở khóa trong Đấu trường"
+
+"SHOP_FOREST_ARENA_PACK"="Gói Silveroak"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="Gói Mây Bão"
+
+"SHOP_BANDITS_ARENA_PACK"="Gói Cướp"
+
+"SHOP_COLISEUM_ARENA_PACK"="Gói Sân Vận Động"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="Gói Bị Bỏ Rơi"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 sao"
+
+"RATE_US_BUTTON_5_STARS"="5 sao"
+
+"RATE_US_TITLE"="Đánh Giá Trò Chơi"
+
+"RATE_US_DESC"="Nếu bạn đang thích Kingdom Rush Battles, hãy dành chút thời gian để đánh giá trò chơi."
+
+"RATE_US_DESC_2"="Cảm ơn bạn đã ủng hộ"
+
+"RATE_US_OPINION_BUTTON_SEND"="Gửi"
+
+"RATE_US_OPINION_REVIEW"="Viết phản hồi..."
+
+"RATE_US_OPINION_TITLE"="Cho chúng tôi ý kiến của bạn"
+
+"RATE_US_OPINION_SENT"="Phản hồi của bạn đã được gửi"
+
+"TROPHY_INFO_BOOSTERS"="Tăng cường"
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="Tăng Cường Tấn Công"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="Tăng Cường Phòng Thủ"
+
+"FOREST_STAGE_1"="Rừng 1"
+
+"FOREST_STAGE_2"="Rừng 2"
+
+"FOREST_STAGE_3"="Rừng 3"
+
+"FOREST_STAGE_4"="Rừng 4"
+
+"FOREST_STAGE_5"="Rừng 5"
+
+"MOUNTAIN_STAGE_1"="Núi 1"
+
+"MOUNTAIN_STAGE_2"="Núi 2"
+
+"MOUNTAIN_STAGE_3"="Núi 3"
+
+"MOUNTAIN_STAGE_4"="Núi 4"
+
+"MOUNTAIN_STAGE_5"="Núi 5"
+
+"BANDITS_LAIR_1"="Sào huyệt Cướp 1"
+
+"BANDITS_LAIR_2"="Hang ổ Cướp 2"
+
+"BANDITS_LAIR_3"="Hang ổ Cướp 3"
+
+"BANDITS_LAIR_4"="Sào huyệt Cướp 4"
+
+"BANDITS_LAIR_5"="Sào huyệt Cướp 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="Không"
+
+"LEADERBOARD_TITLE"="BẢNG XẾP HẠNG"
+
+"LEADERBOARD_BUTTON"="Bảng Xếp Hạng"
+
+"LEADERBOARD_TAB_GLOBAL"="Toàn cầu"
+
+"LEADERBOARD_TAB_LOCAL"="Cục bộ"
+
+"LEADERBOARD_USER_NOT_RANKED"="Đến Sân vận động để xếp hạng"
+
+"SPECIAL_BUTTON_NAME"="Kho Vũ Khí Đã Mở Khóa"
+
+"SELL_TOWER_TITLE"="Bán Tháp"
+
+"SELL_TOWER_DESCRIPTION"="Bán tháp này và nhận lại {0} vàng."
+
+"BANDITS_LAIR_STAGE_1"="Hang ổ Cướp 1"
+
+"BANDITS_LAIR_STAGE_2"="Sào huyệt Cướp 2"
+
+"BANDITS_LAIR_STAGE_3"="Sào huyệt Cướp 3"
+
+"BANDITS_LAIR_STAGE_4"="Sào huyệt Cướp 4"
+
+"BANDITS_LAIR_STAGE_5"="Sào huyệt Cướp 5"
+
+"TAUNT_THANKS"="Cảm ơn!"
+
+"TAUNT_GOOD_LUCK"="Chúc May Mắn"
+
+"TAUNT_OOPS"="Ối..."
+
+"TAUNT_WELL_PLAYED"="Chơi Tốt"
+
+"UNMUTE_TO_SEND_EMOTES"="Bỏ tắt tiếng để gửi và nhận biểu tượng cảm xúc"
+
+"BANDITS_LAIR_STAGE_1"="Sào huyệt Cướp 1"
+
+"BANDITS_LAIR_STAGE_2"="Sào huyệt Cướp 2"
+
+"BANDITS_LAIR_STAGE_3"="Hang ổ Cướp 3"
+
+"BANDITS_LAIR_STAGE_4"="Sào huyệt Cướp 4"
+
+"BANDITS_LAIR_STAGE_5"="Sào huyệt Cướp 5"
+
+"TAUNT_THANKS"="Cảm ơn!"
+
+"TAUNT_GOOD_LUCK"="Chúc may mắn!"
+
+"TAUNT_OOPS"="Ối..."
+
+"TAUNT_WELL_PLAYED"="Chơi Tốt"
+
+"UNMUTE_TO_SEND_EMOTES"="Bỏ tắt tiếng để gửi và nhận biểu tượng cảm xúc"
+
+"FOREST_STAGE_1"="Rừng 1"
+
+"FOREST_STAGE_2"="Rừng 2"
+
+"FOREST_STAGE_3"="Rừng 3"
+
+"FOREST_STAGE_4"="Rừng 4"
+
+"FOREST_STAGE_5"="Rừng 5"
+
+"MOUNTAIN_STAGE_1"="Núi 1"
+
+"MOUNTAIN_STAGE_2"="Núi 2"
+
+"MOUNTAIN_STAGE_3"="Núi 3"
+
+"MOUNTAIN_STAGE_4"="Núi 4"
+
+"MOUNTAIN_STAGE_5"="Núi 5"
+
+"BANDITS_LAIR_1"="Sào huyệt Cướp 1"
+
+"BANDITS_LAIR_2"="Sào huyệt Cướp 2"
+
+"BANDITS_LAIR_3"="Sào huyệt Cướp 3"
+
+"BANDITS_LAIR_4"="Hang ổ Cướp 4"
+
+"BANDITS_LAIR_5"="Sào huyệt Cướp 5"
+
+"BANDITS_LAIR_STAGE_1"="Hang ổ Cướp 1"
+
+"BANDITS_LAIR_STAGE_2"="Hang ổ Cướp 2"
+
+"BANDITS_LAIR_STAGE_3"="Hang ổ Cướp 3"
+
+"BANDITS_LAIR_STAGE_4"="Sào huyệt Cướp 4"
+
+"BANDITS_LAIR_STAGE_5"="Sào huyệt Cướp 5"
+
+"HERO_GERALD_DESCRIPTION"="Anh hùng của Linirea và biểu tượng của công lý, anh đã đứng lên chống lại các mối đe dọa từ cả thế giới này và thế giới khác. Bị ràng buộc bởi một lời thề trang trọng, anh luôn là người đầu tiên xông vào trận chiến và là người cuối cùng rút lui, được thúc đẩy bởi nhiệm vụ bảo vệ người vô tội và bảo vệ kẻ yếu bằng mọi giá."
+
+"HERO_GERALD_SHORT_DESC"="-Phục hồi HP khi thấp.<br>-Tăng cường đồng minh.<br>-Cơ hội phản đòn sát thương."
+
+"HERO_GERALD_NAME"="Gerald Người Tìm Ánh Sáng"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="Khi sức khỏe của anh ấy giảm xuống mức nguy hiểm, anh ấy sử dụng sức mạnh thiêng liêng để phục hồi một phần sức khỏe của mình."
+
+"HERO_GERALD_SKILL_0_NAME"="Lời Cầu Nguyện Thần Thánh"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="Là một Anh hùng của Linirea, lòng dũng cảm kiên định của anh ấy lan tỏa đến các đồng minh gần đó, định kỳ tăng cường sức khỏe và sát thương của họ trong một thời gian ngắn."
+
+"HERO_GERALD_SKILL_1_NAME"="Dũng cảm"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="Trong khi chiến đấu, anh ta có thể giơ khiên lên trong vài giây, tạm thời phản lại tất cả sát thương nhận được về phía kẻ tấn công."
+
+"HERO_GERALD_SKILL_2_NAME"="Lá Chắn Báo Thù"
+
+"HERO_ALLERIA_DESCRIPTION"="Con gái của Nữ hoàng Tiên và người thừa kế di sản vĩnh cửu, Alleria cũng là một cung thủ nhanh nhẹn và quyến rũ. Với người bạn đồng hành Wildcat bên cạnh, họ hạ gục kẻ thù trước khi chúng kịp ngắm bắn. Sự duyên dáng trong trận chiến của cô chỉ bị thách thức bởi lòng tận tụy không lay chuyển đối với thiên nhiên."
+
+"HERO_ALLERIA_SHORT_DESC"="-Bắn nhiều mũi tên cùng lúc.<br>-Triệu hồi Mèo Hoang.<br>-Có khả năng dịch chuyển khi bị tấn công."
+
+"HERO_ALLERIA_NAME"="Alleria Gió Nhanh"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="Nạp phép thuật vào cung, cô ấy phóng ra một loạt mũi tên ma thuật. Những mũi tên này có thể phân tán để tấn công nhiều kẻ thù hoặc tập trung để gây ra một đòn mạnh vào một mục tiêu duy nhất."
+
+"HERO_ALLERIA_SKILL_0_NAME"="Bắn nhiều lần"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="Triệu hồi người bạn đồng hành Mèo Hoang trung thành của cô ấy để chiến đấu bên cạnh, lao vào trận chiến với tốc độ dữ dội và móng vuốt sẵn sàng bảo vệ chủ nhân và bạn bè của mình."
+
+"HERO_ALLERIA_SKILL_1_NAME"="Tiếng Gọi Hoang Dã"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="Trong cận chiến, cô ấy có thể rút lui chiến lược đến khoảng cách an toàn, tránh nguy hiểm và tái định vị để tấn công từ xa."
+
+"HERO_ALLERIA_SKILL_2_NAME"="Né Tránh Nhanh"
+
+"HERO_GRAWL_DESCRIPTION"="Người bảo vệ những bí mật dưới lòng đất, sử dụng nắm đấm và các tinh thể được rèn trong cơ thể mình, anh ta đứng như là rào cản cuối cùng chống lại đế chế tàn nhẫn nhất dưới lòng đất. Không ngừng nghỉ và không thể lay chuyển, anh ta chiến đấu để giữ cho bóng tối của họ bị phong ấn khỏi thế giới bên trên."
+
+"HERO_GRAWL_SHORT_DESC"="-Đập xuống đất để làm choáng kẻ địch.<br>-Ném một tảng đá vào kẻ địch ở xa.<br>-Đánh bằng cú đấm mảnh vỡ mạnh mẽ."
+
+"HERO_GRAWL_NAME"="Grawl"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="Đập xuống đất với sức mạnh kinh hoàng, làm choáng và gây sát thương cho tất cả kẻ địch gần đó."
+
+"HERO_GRAWL_SKILL_0_NAME"="Dậm"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="Xé toạc một tảng đá lớn từ mặt đất và ném nó vào mục tiêu xa, gây sát thương nặng và làm bị thương kẻ thù gần đó với sóng xung kích kết quả."
+
+"HERO_GRAWL_SKILL_1_NAME"="Ném Đá"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="Bao phủ nắm đấm của mình bằng các mảnh pha lê sắc như dao cạo, tung ra một cú đánh tàn khốc gây sát thương lớn có thể tiêu diệt kẻ thù ngay lập tức."
+
+"HERO_GRAWL_SKILL_2_NAME"="Cú Đấm Mảnh Vỡ"
+
+"HERO_INGVAR_DESCRIPTION"="Một trong những chiến binh đáng gờm nhất của Bộ tộc Gấu, anh ta được tôn kính không chỉ vì sức mạnh vượt trội mà còn vì mối liên kết tâm linh sâu sắc với tổ tiên. Khi tiếng gọi của chiến tranh vang vọng khắp vùng đất, Ingvar đáp lại với cơn thịnh nộ của phương bắc."
+
+"HERO_INGVAR_SHORT_DESC"="-Xoay rìu để gây sát thương trong một khu vực.<br>-Triệu hồi Tổ tiên Viking để chiến đấu.<br>-Biến thành dạng Gấu khi HP thấp."
+
+"HERO_INGVAR_NAME"="Ingvar Vuốt Gấu"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="Giải phóng một cú đánh xoay mạnh mẽ với rìu của mình, gây sát thương cho tất cả kẻ địch xung quanh."
+
+"HERO_INGVAR_SKILL_0_NAME"="Cơn Thịnh Nộ Viking"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="Thổi một chiếc tù và chiến tranh thiêng liêng, triệu hồi linh hồn tổ tiên Viking của mình tham gia trận chiến."
+
+"HERO_INGVAR_SKILL_1_NAME"="Lời Kêu Gọi Tổ Tiên"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="Khi máu của Ingvar thấp, anh ta khai thác sức mạnh nguyên thủy của dòng máu mình. Biến thành một con gấu khổng lồ, anh ta trở nên bất khả xâm phạm tạm thời, tăng cường sức mạnh và hồi phục máu nhanh chóng."
+
+"HERO_INGVAR_SKILL_2_NAME"="Hình dạng Gấu"
+
+"HERO_DIERDRE_DESCRIPTION"="Được Aegion cứu sau khi thị trấn của cô sụp đổ, cô đã được rèn luyện qua đức tin và kỷ luật thiêng liêng, trở thành nữ tu sĩ tiền tuyến thực thụ đầu tiên. Mạo hiểm mạng sống để bảo vệ đồng đội khi người khác gục ngã, cô trở thành ánh sáng rực rỡ trong giờ phút đen tối nhất."
+
+"HERO_DIERDRE_SHORT_DESC"="-Hồi máu cho đồng minh gần đó.<br>-Tăng sát thương cho tối đa 2 Tháp.<br>-Tăng giáp cho bản thân và đồng minh."
+
+"HERO_DIERDRE_NAME"="Diệp Anh"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="Sử dụng ma thuật thánh để niệm phép hồi phục, khôi phục sức khỏe cho đồng minh gần đó."
+
+"HERO_DIERDRE_SKILL_0_NAME"="Ánh Sáng Thánh"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="Phù phép các tháp gần đó với sức mạnh thần thánh, tăng sát thương của chúng."
+
+"HERO_DIERDRE_SKILL_1_NAME"="Thánh Hiến"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="Ban phước cho giáp của đồng minh gần đó - bao gồm cả bản thân - tăng giáp vật lý của họ trong vài giây."
+
+"HERO_DIERDRE_SKILL_2_NAME"="Giáp Phù Hộ"
+
+"HERO_ASHBITE_DESCRIPTION"="Một con Rồng lửa hùng mạnh và dữ dội, Tro thiêu rụi bất kỳ ai dám cản đường hắn. Không ai biết tại sao hắn bảo vệ Linirea - có người thì thầm rằng đó là do chán nản, người khác lại nói đó là do khát khao chiến đấu của hắn. Dù lý do là gì, khi hắn bay vào trận chiến, ngọn lửa sẽ theo sau."
+
+"HERO_ASHBITE_SHORT_DESC"="-Phun ra hơi thở gây sát thương trong một khu vực.<br>-Cắn kẻ thù với khả năng giết ngay lập tức.<br>-Ném một quả cầu lửa nổ."
+
+"HERO_ASHBITE_NAME"="Tro tàn"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="Phóng ra một dòng lửa rực cháy vào kẻ thù phía trước, gây sát thương liên tục cho tất cả kẻ thù bị mắc kẹt trong đường lửa của nó."
+
+"HERO_ASHBITE_SKILL_0_NAME"="Hơi Thở Rực Lửa"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="Lao vào một mục tiêu duy nhất với cú cắn tàn phá, gây sát thương và có cơ hội nuốt chửng kẻ thù ngay lập tức."
+
+"HERO_ASHBITE_SKILL_1_NAME"="Tiệc"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="Ném một quả cầu lửa khổng lồ vào mục tiêu ở xa. Khi va chạm, nó phát nổ và kích hoạt một loạt vụ nổ phụ, gây sát thương diện rộng nặng nề."
+
+"HERO_ASHBITE_SKILL_2_NAME"="Bão Lửa"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="Tạo ra một trận mưa thiên thạch rơi xuống đơn vị của đối thủ, đốt cháy mặt đất và thiêu đốt mọi đơn vị khác gần đó."
+
+"HERO_ASHBITE_SKILL_3_NAME"="Thiên Thạch Rực Cháy"
+
+"HERO_ASHBITE_PACK_NAME"="Gói Cựu Binh"
+
+"HERO_MAGNUS_DESCRIPTION"="Từng là người học việc đầy triển vọng của Vez’nan khét tiếng, anh đã gia nhập quân đội Vương quốc sau khi sư phụ sa vào bóng tối. Giờ đây, với tư cách là một vệ binh hùng mạnh của Linirea, Magnus sử dụng phép thuật huyền bí cao cấp và ảo thuật với độ chính xác vô song; kiến thức uyên thâm của anh chỉ bị vượt qua bởi bản lĩnh chiến đấu."
+
+"HERO_MAGNUS_SHORT_DESC"="-Tạo ra các bóng nhân bản của chính mình.<br>-Triệu hồi một cơn bão gây sát thương trong một khu vực.<br>-Có thể dịch chuyển tức thời trên khoảng cách xa."
+
+"HERO_MAGNUS_NAME"="Magnus Phá Bùa"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="Khai thác năng lượng huyền bí tiên tiến để di chuyển tức thì qua khoảng cách lớn."
+
+"HERO_MAGNUS_SKILL_0_NAME"="Dịch chuyển"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="Là bậc thầy của ma thuật huyền bí, anh ta tạo ra ảo ảnh tạm thời của chính mình để hỗ trợ trong trận chiến."
+
+"HERO_MAGNUS_SKILL_1_NAME"="Ảo ảnh"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="Giải phóng một vụ nổ năng lượng huyền bí tàn phá trong một khu vực rộng lớn, tấn công tất cả kẻ thù trong vùng nhiều lần."
+
+"HERO_MAGNUS_SKILL_2_NAME"="Bão Tố Ma Thuật"
+
+"HERO_HACKSAW_DESCRIPTION"="Một nhà phát minh gnome nổi tiếng, Cưa lang thang khắp thế giới trong một cỗ máy tự chế của riêng mình, được trang bị một loạt các thiết bị chết người. Mỗi trận chiến mới đều là một mối nguy hiểm và một cơ hội - chỉ là nhiên liệu cho phát minh tiếp theo của anh ta."
+
+"HERO_HACKSAW_SHORT_DESC"="-Ném một lưỡi dao gây sát thương cho kẻ địch.<br>-Khoan vào kẻ địch với cơ hội tiêu diệt ngay lập tức.<br>-Đặt một lưỡi cưa quay trên mặt đất."
+
+"HERO_HACKSAW_NAME"="Cưa"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="Đặt một lưỡi cưa trên mặt đất. Kẻ địch trong khu vực sẽ nhận sát thương miễn là lưỡi cưa còn hoạt động."
+
+"HERO_HACKSAW_SKILL_0_NAME"="Xưởng cưa"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="Giải phóng cánh tay khoan ẩn để tấn công kẻ thù với một cú đánh mạnh mẽ và có cơ hội tiêu diệt ngay lập tức."
+
+"HERO_HACKSAW_SKILL_1_NAME"="ĐỐN CÂY!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="Ném một lưỡi dao bật lại giữa nhiều kẻ thù, cắt qua từng kẻ và gây sát thương với mỗi cú đánh."
+
+"HERO_HACKSAW_SKILL_2_NAME"="Lưỡi Cưa Bay"
+
+"HERO_VESPER_DESCRIPTION"="Được chọn làm chỉ huy của lực lượng còn lại trong giờ phút đen tối nhất của Linirea, Vesper đã biến tuyệt vọng thành sự thách thức. Anh ta sử dụng chiến thuật du kích để dẫn dắt các cuộc tấn công chính xác chống lại kẻ xâm lược, biến anh ta thành nguồn cảm hứng cho các thế hệ anh hùng mới."
+
+"HERO_VESPER_SHORT_DESC"="-Bắn một mũi tên làm choáng kẻ địch.<br>-Bắn một mũi tên nảy.<br>-Tấn công kẻ địch ba lần liên tiếp."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-Bắn một mũi tên làm choáng kẻ địch.<br>-Bắn một mũi tên nảy.<br>-Tấn công kẻ địch ba lần liên tiếp."
+
+"HERO_VESPER_NAME"="Vị Thị"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="Bắn một mũi tên chính xác gây sát thương và làm choáng một kẻ địch."
+
+"HERO_VESPER_SKILL_0_NAME"="Mũi tên vào đầu gối"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="Bắn một mũi tên nảy giữa các kẻ địch, gây sát thương mỗi lần trúng. Cần ba mục tiêu để kích hoạt."
+
+"HERO_VESPER_SKILL_1_NAME"="Nảy"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="Tung ra ba đòn tấn công cận chiến nhanh vào một kẻ địch, mỗi đòn đánh tăng tổng sát thương gây ra."
+
+"HERO_VESPER_SKILL_2_NAME"="Chiến Thuật Võ Thuật"
+
+"HERO_AEGION_DESCRIPTION"="Người đội trưởng đơn độc đã đứng vững trước sự sụp đổ của thành phố Paladin, anh đã dẫn dắt đội của mình qua những đợt tấn công không ngừng của kẻ thù, mở đường an toàn và cứu các thị trấn lân cận khỏi Bóng Tối. Sau một trận chiến tàn khốc, anh đã nghỉ hưu, chỉ trở lại khi có mối đe dọa nổi lên trong Vương quốc."
+
+"HERO_AEGION_SHORT_DESC"="-Đẩy lùi kẻ địch bằng khiên của mình.<br>-Tạo ra một lá chắn chặn kẻ địch.<br>-Sử dụng khiên để bắn kẻ địch bay."
+
+"HERO_AEGION_NAME"="Aegion Thép Sáng"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="Hợp nhất khiên của mình với sức mạnh thần thánh để làm sáng khiên, tấn công kẻ thù và dịch chuyển chúng về phía sau."
+
+"HERO_AEGION_SKILL_0_NAME"="Lá Chắn Thánh"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="Tạo ra một hình chiếu khiên chặn các cuộc tấn công của kẻ thù trong vài giây, phản lại bất kỳ sát thương nào nhận được về kẻ tấn công."
+
+"HERO_AEGION_SKILL_1_NAME"="Lá Chắn Nặng"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="Cứ vài giây, bắn một tia tập trung từ khiên của nó về phía kẻ thù bay."
+
+"HERO_AEGION_SKILL_2_NAME"="Lá Chắn Không Kích"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="Nổi tiếng với thái độ lạnh lùng và phép thuật mạnh mẽ, Elora là phù thủy đáng sợ nhất ở vùng đất phía bắc. Trong nhiều năm, cô đã đứng một mình chống lại những kẻ xâm lược, để lại những bức tượng băng ám ảnh - những lời cảnh báo im lặng cho tất cả những ai dám thách thức cô."
+
+"HERO_ELORA_SHORT_DESC"="-Để lại dấu vết gây sát thương khi di chuyển.<br>-Thi triển phép đóng băng với sát thương diện rộng cao.<br>-Làm chậm kẻ địch trong một khu vực."
+
+"HERO_ELORA_NAME"="Elora Bài Hát Mùa Đông"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="Dùng phép thuật để di chuyển nhanh chóng, để lại vệt băng nhọn gây sát thương cho kẻ địch theo sau."
+
+"HERO_ELORA_SKILL_0_NAME"="Đường Mòn Băng Giá"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="Giải phóng một phép thuật mạnh mẽ bao phủ một khu vực trong băng, làm chậm đáng kể chuyển động của kẻ thù."
+
+"HERO_ELORA_SKILL_1_NAME"="Đất đóng băng vĩnh cửu"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="Tung một phép thuật xuyên thấu dữ dội, làm mưa mảnh băng chết người trên một khu vực rộng lớn."
+
+"HERO_ELORA_SKILL_2_NAME"="Bão Tuyết"
+
+"HERO_EISKALT_DESCRIPTION"="Một con wyvern băng nguy hiểm, bị thôi thúc bởi bản năng săn mồi mạnh mẽ hướng về con người. Sự hiện diện của nó tự thân đã là một sức mạnh thiên nhiên và một thảm họa tự nhiên. Bất cứ nơi nào nó hạ cánh, vùng đất ấy tất yếu sẽ biến thành một hoang mạc băng giá rộng lớn."
+
+"HERO_EISKALT_SHORT_DESC"="-Ném những quả cầu tuyết có gai.<br>-Tạo ra gai băng gây sát thương trên sàn.<br>-Làm chậm kẻ thù."
+
+"HERO_EISKALT_NAME"="Băng Hàn"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="Phóng một quả cầu tuyết có gai di chuyển dọc theo đường đi, gây sát thương cho kẻ địch."
+
+"HERO_EISKALT_SKILL_0_NAME"="Tuyết Lở"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="Niệm phép để triệu hồi những mũi băng nhọn từ mặt đất lan ra, xuyên thủng và gây sát thương cho kẻ địch bị mắc kẹt bên trong."
+
+"HERO_EISKALT_SKILL_1_NAME"="Đỉnh Băng"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="Đóng băng mặt đất dưới kẻ thù, làm chậm đáng kể tốc độ di chuyển của chúng trong vài giây."
+
+"HERO_EISKALT_SKILL_2_NAME"="Hơi Thở Băng Giá"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="Tạo ra một cơn bão băng giá đóng băng tất cả các đơn vị đối thủ tại chỗ, làm choáng chúng trong vài giây."
+
+"HERO_EISKALT_SKILL_3_NAME"="Bão Tuyết"
+
+"TOWER_ARCHER_DESCRIPTION"="Cung thủ tinh nhuệ đang huấn luyện, nổi tiếng với độ chính xác tuyệt đối và con mắt tinh tường về điểm yếu của kẻ thù. Ngay cả kẻ thù bọc giáp cũng không an toàn - mỗi phát bắn có thể xuyên sâu, khiến mục tiêu bị thương nghiêm trọng."
+
+"TOWER_ARCHER_NAME"="Tháp Cung Thủ"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="Mỗi đòn tấn công có cơ hội làm kẻ thù chảy máu, gây sát thương theo thời gian.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_ARCHER_SHORT_DESC"="Cung thủ tập sự có khả năng làm kẻ thù chảy máu"
+
+"TOWER_ARCHER_SKILL_0_NAME"="ChảyMáu"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="Khai hỏa một loạt mũi tên mưa xuống khu vực gần đó, gây sát thương vật lý cho tất cả kẻ địch bị mắc kẹt bên trong.\n(Mua kỹ năng khi nâng cấp tháp tối đa)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="Mưa tên trong một khu vực, gây sát thương cho tất cả kẻ địch trúng phải."
+
+"TOWER_ARCHER_SKILL_1_NAME"="Mưa Tên"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="Cả hai cung thủ đều giương cung để bắn một đòn tấn công mạnh mẽ vào hai đơn vị đối thủ.\n(Mua kỹ năng tại Nâng Cấp Tháp Tối Đa)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="Mũi tên mạnh mẽ tấn công hai đơn vị đối thủ."
+
+"TOWER_ARCHER_SKILL_2_NAME"="Phát Bắn Nạp Năng Lượng"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="Được các Tiên lão luyện công nhận vì kỹ năng bắn cung, những cung thủ bậc thầy này tấn công từ xa trong khi tung ra những loạt tên hủy diệt. Là bậc thầy của thiên nhiên hoang dã, họ sử dụng chính khu rừng để cản trở và gây hại cho kẻ thù của mình."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="Cựu binh kiểm lâm điều khiển thiên nhiên để bẫy kẻ thù."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="Nơi ẩn náu của Ranger"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="Trong khi tấn công, họ có thể sử dụng một mũi tên đặc biệt khiến dây leo trồi lên từ mặt đất, bẫy kẻ thù tại chỗ trong vài giây. \n(Kỹ năng luôn hoạt động)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="Dây Leo Rừng"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="Các kiểm lâm bắn những làn sóng mũi tên độc vào tất cả kẻ thù gần đó, đầu độc chúng và gây sát thương theo thời gian. \n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="Bắn tên độc làm trúng độc kẻ địch và gây sát thương theo thời gian."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="Mũi Tên Độc"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="Sử dụng sự thông thạo thiên nhiên của mình, người kiểm lâm bắn một mũi tên phù phép về phía đối thủ, triệu hồi một bầy Sói Ent. Nhanh nhẹn và khó nắm bắt, những sinh vật này né tránh các cuộc tấn công cận chiến trong khi cố gắng lẻn qua hàng ngũ kẻ thù. (Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="Triệu hồi một nhóm Ent Sói ở phía đối thủ."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="Người Bảo Vệ Xanh"
+
+"TOWER_MAGE_DESCRIPTION"="Tuyến đầu của vương quốc trong phòng thủ phép thuật, những pháp sư tập sự này sử dụng các phép thuật nguyên tố để tập trung mana của họ. Phép thuật của họ rất dễ biến động và bùng nổ, đặc biệt nguy hiểm đối với kẻ thù cố gắng lẻn qua mà không bị phát hiện."
+
+"TOWER_MAGE_SHORT_DESC"="Một Pháp sư có đạn ma thuật tách ra sau khi đánh trúng kẻ thù."
+
+"TOWER_MAGE_NAME"="Tháp Pháp Sư"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="Mỗi khi một tia sét quá tải đánh trúng kẻ địch, năng lượng dư thừa khiến nó phân tách thành các tia sét bổ sung, tấn công kẻ địch gần đó với sát thương giảm.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_MAGE_SKILL_0_NAME"="Sét Dây"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="Pháp sư chuyển hóa mana tích trữ thành một loạt đạn phép tập trung, gây sát thương nặng cho nhiều kẻ địch gần đó.\n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="Giải phóng một loạt phép thuật gây sát thương cho nhiều kẻ địch gần đó."
+
+"TOWER_MAGE_SKILL_1_NAME"="Phép Thuật Dồn Dập"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="Pháp sư sử dụng cây trượng của họ để tung ra một phép thuật bảo vệ lên một nhóm đơn vị kẻ địch ở phía đối thủ, giúp họ kháng lại sát thương phép thuật.\n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="Bảo vệ một số kẻ thù của đối thủ khỏi sát thương phép."
+
+"TOWER_MAGE_SKILL_2_NAME"="Phép Thuật"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="Đạt đến đỉnh cao của phép thuật Pháp, những pháp sư mạnh mẽ này có thể tái định hình thực tại. Sử dụng kiến thức ma thuật rộng lớn của mình, họ có thể làm suy yếu, di dời hoặc hoàn toàn tiêu diệt bất kỳ kẻ thù nào dám thách thức lãnh địa của họ."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="Bậc thầy ma thuật huyền bí với sức mạnh làm suy yếu kháng phép của kẻ thù."
+
+"TOWER_ARCANE_WIZARD_NAME"="Pháp Sư Huyền Bí"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="Mỗi đòn tấn công có cơ hội triệu hồi một hào quang chống ma thuật, giảm kháng phép của kẻ địch bị ảnh hưởng.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="Phá Vỡ Phép Thuật"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="Thông qua sự hiểu biết sâu sắc về ma thuật, pháp sư tạo ra một vòng tròn làm biến dạng thực tế, dịch chuyển một nhóm kẻ thù lùi lại dọc theo đường đi của chúng.\n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="Dịch chuyển nhiều kẻ địch về sau"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="Dịch chuyển"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="Pháp sư Pháp tập trung một lượng mana khổng lồ để giải phóng một tia sáng hủy diệt duy nhất, ngay lập tức phân rã kẻ thù.\n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="Tiêu diệt ngay lập tức bất kỳ kẻ địch nào mà nó nhắm đến."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="Tia Chết"
+
+"TOWER_ARTILLERY_DESCRIPTION"="Sản phẩm tối thượng của luyện kim người lùn, khẩu pháo hạng nặng này được rèn từ các hợp kim mạnh nhất và được cung cấp năng lượng bởi đạn dược hủy diệt. Với nhiều loại đạn chuyên dụng, nó có thể tiêu diệt lực lượng kẻ thù - thậm chí cả những kẻ nằm ngoài tầm bắn của nó."
+
+"TOWER_ARTILLERY_SHORT_DESC"="Pháo hạng nặng có khả năng bắn đạn chùm nổ."
+
+"TOWER_ARTILLERY_NAME"="Pháo Binh Người Lùn"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="Có cơ hội bắn một quả đạn chùm phát nổ giữa không trung, thả nhiều bom nhỏ hơn lan rộng và oanh tạc khu vực.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="Cụm"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="Phóng một tên lửa dẫn đường nhắm vào mục tiêu, phát nổ khi tiếp xúc và gây sát thương trong khu vực xung quanh. Cũng có thể nhắm vào kẻ thù bay.\n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="Bắn một tên lửa tự động tìm mục tiêu, phát nổ và gây sát thương cho kẻ địch trong khu vực."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="Bệ Phóng Tên Lửa"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="Nhắm và bắn một tên lửa có sức công phá lớn về phía các đơn vị đối thủ. Vụ nổ giải phóng một sóng xung kích làm choáng tạm thời các tháp đối thủ gần đó.\n(Mua kỹ năng tại Nâng Cấp Tháp Tối Đa)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="Phóng tên lửa sang phía đối thủ gây sát thương và làm choáng tháp."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="Tên lửa T.A.R"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="Ban đầu được chế tạo để xuyên qua những tảng đá sâu nhất, máy khoan khai thác mạnh mẽ của người lùn này đã được rèn lại thành một vũ khí phòng thủ đáng gờm. Nó làm rung chuyển mặt đất, gây sát thương và làm choáng các đơn vị và công trình của kẻ thù."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="Một mũi khoan của người lùn làm choáng kẻ địch với mỗi cú đánh."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="Mỗi đòn tấn công làm vỡ mặt đất xung quanh tháp, làm choáng tất cả kẻ địch gần đó trong thời gian ngắn.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="Sốc và Kinh Ngạc"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="Giải phóng toàn bộ sức mạnh của mũi khoan để làm nứt địa hình, kích hoạt dòng dung nham nóng chảy thiêu đốt tất cả kẻ thù gần đó và để lại mặt đất cháy xém tiếp tục gây sát thương theo thời gian.\n(Mua kỹ năng ở Nâng Cấp Tháp Tối Đa)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="Đốt cháy kẻ thù xung quanh và làm đầy mặt đất bằng dung nham."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="Vụ Nổ Lò Nung"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="Bằng cách xác định vị trí tháp địch, nó kích hoạt một cú sốc địa chấn có mục tiêu làm nứt vỡ mặt đất dưới tháp đối phương, làm choáng chúng trong thời gian ngắn.\n(Mua kỹ năng tại Nâng Cấp Tháp Tối Đa)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="Gây choáng một số tháp đối phương bằng cách gây ra chấn động cục bộ."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="Động đất"
+
+"TOWER_BARRACK_DESCRIPTION"="Thường được gọi là những người bảo vệ thánh thánh, họ là những chiếc khiên và bảo vệ của công dân. Những hiệp sĩ mạnh mẽ này nổi tiếng với niềm tin không lay chuyển và lòng dũng cảm trước kẻ thù mạnh mẽ."
+
+"TOWER_BARRACK_SHORT_DESC"="Hiệp sĩ tự bảo vệ bản thân bằng lòng tin thiêng liêng."
+
+"TOWER_BARRACK_NAME"="Trại Paladin"
+
+"BARRACK_UNIT_NAME"="Hiệp sĩ"
+
+"BARRACK_UNIT_SHORT_DESC"="Chiến binh giáp bảo được ban cho sức chống chịu thần thánh."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="Giữa trận chiến, Paladins có thể nâng khiên với mục đích thần thánh, chặn một phần sát thương nhận vào.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="Sắt Ý Chí"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="Được tăng cường bởi ánh sáng thánh, Paladin đập thanh kiếm vào mặt đất, tạo ra một cơn năng lượng chiếu sáng gây sát thương cho tất cả kẻ thù xung quanh.\n(Mua kỹ năng tại Cấp độ Nâng cấp Tối đa)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="Giải phóng một đợt năng lượng thánh, gây sát thương cho kẻ thù gần đó."
+
+"TOWER_BARRACK_SKILL_1_NAME"="Đòn Thánh"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="Khi đối mặt với khó khăn, Hiệp sĩ cầu khẩn ân sủng thần thánh để chữa lành một phần vết thương, hồi phục sức khỏe thông qua phép thuật thiêng liêng.\n(Mua kỹ năng ở Nâng cấp Tháp Tối đa)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="Khôi phục sức khỏe bằng năng lượng thánh."
+
+"TOWER_BARRACK_SKILL_2_NAME"="Ánh Sáng Chữa Lành"
+
+"TOWER_BARBARIAN_DESCRIPTION"="Những chiến binh bắc cứng rắn và tàn nhẫn này luôn sẵn sàng đứng vững trong những môi trường đầy thách thức nhất. Là bậc thầy trong chiến đấu bằng rìu, họ có thể xé nát kẻ thù trên mặt đất hoặc ném vũ khí của mình lên trời để hạ gục những kẻ thù bay với độ chính xác tàn bạo."
+
+"TOWER_BARBARIAN_SHORT_DESC"="Chiến binh hoang dã có thể ném rìu vào kẻ thù bay"
+
+"TOWER_BARBARIAN_NAME"="Phòng Tiệc Bia"
+
+"BARBARIANS_UNIT_NAME"="Man rợ"
+
+"BARBARIANS_UNIT_SHORT_DESC"="Chiến binh berserker bị kích động bởi cơn giận và bản năng."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="Barbarian có thể nhắm và tấn công kẻ thù bay trong tầm với bằng cách ném rìu với độ chính xác chết người.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="Ném Rìu"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="Giữa trận chiến, những người man rợ sử dụng cơn thịnh nộ thô sơ của họ để xoay tròn dữ dội với hai chiếc rìu, chém tất cả kẻ thù xung quanh.\n(Mua kỹ năng tại Nâng Cấp Tháp Tối Đa)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="Các chiến binh hoang dã xoay tròn trong cơn lốc chết chóc, gây sát thương cho tất cả kẻ thù xung quanh."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="Cuồng Phong Tấn Công"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="Một người man rợ thứ ba xuất hiện trên đỉnh tháp và tàn nhẫn ném rìu vào các đơn vị đối thủ, gây sát thương nặng nề.\n(Mua kỹ năng khi nâng cấp tháp tối đa)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="Gọi một chiến binh thứ ba để ném rìu vào các đơn vị của đối thủ."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="Mưa Rìu"
+
+"TOWER_MUSKETEER_DESCRIPTION"="Chết chóc và kiên nhẫn, những tay bắn tỉa này có thể đứng yên trong nhiều ngày, chờ đợi cú bắn hoàn hảo. Được trang bị vũ khí được rèn bởi những người lùn cổ đại, chỉ những xạ thủ kỷ luật nhất mới được tin tưởng với mức độ hỏa lực này."
+
+"TOWER_MUSKETEER_SHORT_DESC"="Xạ thủ ưu tú được đào tạo để xuyên giáp và tấn công từ xa."
+
+"TOWER_MUSKETEER_NAME"="머스킷병 주둔지"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="Sử dụng đạn đặc biệt, họ có thể xuyên qua và bỏ qua một phần giáp vật lý của kẻ địch. (Kỹ năng luôn hoạt động)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="Đòn Đâm Thấu"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="Bắn một viên đạn nổ khi chạm mục tiêu, gây sát thương diện rộng nặng cho kẻ địch xung quanh mục tiêu."
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="Đạn nổ gây sát thương diện rộng xung quanh mục tiêu."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="Đạn Vỡ"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="Những người lính Musketeer phối hợp thực hiện một loạt các cú bắn nhanh, chính xác cao vào các đơn vị ở phía đối thủ. Mỗi cú đánh gây sát thương với khả năng loại bỏ ngay lập tức mỗi mục tiêu.\n(Mua kỹ năng tại Cấp độ Tháp Tối đa)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="Bắn một loạt đạn mạnh vào các đơn vị đối phương, có cơ hội tiêu diệt ngay lập tức."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="Đạn Bắn Tỉa"
+
+"TOWER_SORCERER_DESCRIPTION"="Những bậc thầy nổi tiếng về sự sáng tạo và phép thuật nguyên tố, họ sử dụng phép thuật Đất và các ký tự cổ để tạo hoặc tái tạo mọi thứ theo ý muốn của họ."
+
+"TOWER_SORCERER_SHORT_DESC"="Một bậc thầy rune, những đòn tấn công của anh ta làm mòn giáp của kẻ thù với mỗi cú đánh."
+
+"TOWER_SORCERER_NAME"="Pháp Sư"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="Mỗi đòn tấn công mang theo một lời nguyền dai dẳng làm mòn một phần áo giáp vật lý của kẻ địch.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="Lời nguyền"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="Kẻ thù biến thành cừu khi họ kêu gọi phép thuật qua các ký hiệu trên tháp, làm giảm sức mạnh và khả năng chống chịu của chúng.\n(Mua kỹ năng khi nâng cấp tháp tối đa)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="Biến một kẻ thù thành một con cừu, giảm sức khỏe của nó và loại bỏ sự kháng cự."
+
+"TOWER_SORCERER_SKILL_1_NAME"="Biến hình"
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="Nhờ sự thành thạo với phép thuật Đất, họ triệu hồi những người cơ bản mạnh mẽ từ đá và đất để bảo vệ con đường."
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="Triệu hồi một Thổ Thần để chiến đấu với kẻ thù gần tháp."
+
+"TOWER_SORCERER_SKILL_2_NAME"="Triệu Hồi Nguyên Tố"
+
+"CREEP_SORCERER_GOLEM_NAME"="Yếu tố Đá"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="Một nguyên tố đá hùng mạnh sử dụng sức mạnh thuần túy và khả năng phục hồi kiên cường để nghiền nát kẻ thù và bảo vệ con đường."
+
+"TOWER_TESLA_DESCRIPTION"="Ban đầu được xây dựng để duy trì máy móc của người Lùn, Tesla x104 sớm được phát hiện có tiềm năng vô song như một vũ khí phòng thủ mạnh mẽ, có khả năng giải phóng cơn thịnh nộ điện năng thô trên chiến trường."
+
+"TOWER_TESLA_SHORT_DESC"="Các tia sét nhảy từ mục tiêu của chúng đến kẻ địch gần nhất, gây một phần sát thương mỗi lần."
+
+"TOWER_TESLA_NAME"="Tesla x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="Kênh lực của nghìn cơn bão, tạo ra tia sét nhảy giữa kẻ thù, bất kể chúng ở trên mặt đất hay trên không. Mỗi cú đánh tiếp theo gây một phần của sát thương ban đầu.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_TESLA_SKILL_0_NAME"="Mạch"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="Mỗi cuộc tấn công có cơ hội kích hoạt quá tải tĩnh, gây sát thương cho tất cả kẻ thù trong bán kính xung quanh tháp.\n(Mua kỹ năng tại Cải Tiến Tháp Tối Đa)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="Các cuộc tấn công có cơ hội kích hoạt một vụ nổ tĩnh điện diện tích xung quanh tháp."
+
+"TOWER_TESLA_SKILL_1_NAME"="Quá tải"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="Đánh vào các đơn vị của đối thủ với một cơn sóng sét không thể ngăn cản, gây sát thương và làm cho chúng bị choáng trong vài giây."
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="Tấn công một đơn vị đối phương, gây sát thương và khiến nó bị choáng."
+
+"TOWER_TESLA_SKILL_2_NAME"="Sét"
+
+"TOWER_GLACIAL_DRUID_NAME"="Băng Druid"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="Những nhà vô địch của cơn giận mùa đông, họ sử dụng phép thuật băng giá để triệu hồi bão tuyết và gió lạnh, để lại dấu vết của sương giá và kẻ thù bị làm chậm bước chân."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="Một pháp sư sử dụng băng và có thể làm chậm nhóm kẻ thù mỗi lần tấn công."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="Mỗi đòn tấn công phát ra một cú nổ lạnh, làm chậm tất cả kẻ thù trong một khu vực trong vài giây."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="Đường Băng"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="Triệu hồi sức mạnh băng cổ đại để triệu hồi một Gigante de Hielo khổng lồ trên con đường của đối thủ.\n(Mua kỹ năng tại cấp độ nâng cấp tối đa của tháp)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="Triệu hồi một Người khổng lồ Băng trên con đường của đối thủ."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="Băng Khổng Lồ"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="Gây ra một trận bão băng tàn phá làm đóng băng tạm thời một tháp địch, ngừng hoạt động của nó."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="Đóng băng tháp của đối thủ, vô hiệu hóa chúng trong một thời gian ngắn."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="Bão Băng"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="Những chuyên gia trong nghệ thuật chiến tranh ma thuật này thường đứng như hàng phòng thủ cuối cùng. Với những phép thuật tàn phá và ma thuật chính xác của họ, họ có thể đẩy lùi ngay cả những đội quân quyết tâm nhất hoặc chỉ đơn giản là gửi họ đi."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="Một pháp sư chiến tranh, người chuyển hóa năng lượng ma thuật thô thành đạn nổ."
+
+"TOWER_ARCHMAGE_NAME"="Pháp sư"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="Mỗi tia sét đều được nạp năng lượng không ổn định, cho nó cơ hội phát nổ khi va chạm và gây sát thương cho kẻ thù xung quanh.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="Khối lượng Quan trọng"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="Gây ra sức mạnh của một cơn lốc xoáy ma thuật xé toang trận địa, gây sát thương và kéo kẻ thù về phía sau dọc theo con đường."
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="Tạo một cơn lốc xoáy hút kẻ thù về phía sau và gây sát thương."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="Vòng xoáy"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="Kết hợp phép thuật Huyền bí và Chiều không gian để dịch chuyển một số kẻ thù qua chiến trường, ngay lập tức đưa chúng đến phía đối thủ.\n(Mua kỹ năng khi nâng cấp Tháp tối đa)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="Di chuyển một kẻ thù đến phía đối thủ."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="Tan biến"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="Thông qua niềm tin kiên định và nhiều năm đào tạo thiêng liêng, những nữ tu sĩ này đã thành thạo ma thuật thần thánh để bảo vệ đồng minh của họ khi gặp nguy hiểm. Họ là bảo hiểm nhân thọ tốt nhất mà một chiến binh có thể có."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="Một healer tận tâm, người ban phước cho các đồng minh gần đó, giảm thiểu sát thương mà họ phải chịu."
+
+"TOWER_HOLY_SANCTUARY_NAME"="Thánh Địa"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="Nữ tu sĩ ban phước cho tháp, mang lại sự bảo vệ thần thánh cho tất cả đồng minh trong phạm vi, giảm sát thương nhận vào miễn là họ ở gần đó.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="Người Bảo Vệ Đức Tin"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="Gọi sức mạnh thần thánh để tạm thời tăng cường sức mạnh của các tháp gần đó, tăng sát thương cho một khoảng thời gian. (Mua kỹ năng tại Cập Nhật Tháp Tối Đa)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="Nâng cấp tạm thời cho tháp gần"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="Phép Lành Ma Thuật"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="Chú ý khi phát hiện đồng đội bị thương, nhà sư của bạn sẽ phóng ra một loạt pháp luật hiện mạnh mẽ, ưu tiên các người bị thương và phục hồi sức khỏe cho tất cả các đơn vị xung quanh."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="Hồi phục đơn vị đồng minh gần đó."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="Cuộc sống Aura"
+
+"TOWER_NECROMANCER_DESCRIPTION"="Những bậc thầy của nghệ thuật bị cấm, Pháp sư Hắc ám uốn cong cái chết theo ý muốn của họ. Họ có khả năng hồi sinh xác của những kẻ thù đã ngã xuống thành một đội quân xác sống để chiến đấu cho họ, ngăn chặn đồng minh của họ gặp phải số phận tương tự."
+
+"TOWER_NECROMANCER_SHORT_DESC"="Một phù thủy tối tăm hồi sinh kẻ thù đã chết gần đó trong phạm vi của mình."
+
+"TOWER_NECROMANCER_NAME"="Phù thủy"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="Nhà Pháp Sư Tử Thần tự động hồi sinh kẻ thù đã ngã xuống trong phạm vi, gửi bộ xương tấn công phía đối thủ.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="Quân Đội Xương"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="Dịch một đám mây chết người độc hại, tồn tại trên chiến trường, gây sát thương theo thời gian cho tất cả kẻ thù bị mắc kẹt bên trong.\n(Mua kỹ năng ở Cấp độ Tháp Tối đa)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="Tạo một đám mây lưu lingers gây sát thương liên tục cho kẻ thù trong khu vực của nó."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="Dịch bệnh"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="Gọi một Kỵ Sĩ Xương trên phía đối thủ. Chiến binh không chết này không chỉ chiến đấu không ngừng nghỉ mà còn tăng sát thương cho các đồng minh tái sinh gần đó.\n(Mua kỹ năng tại Cải Tiến Tòa Tháp Tối Đa)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="Triệu hồi một Kỵ Sĩ Xương giúp cải thiện cho các Xương lân cận."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="Kẻ cưỡi cái chết"
+
+"TOWER_NECROMANCER_PACK_NAME"="Gói Người Mới"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="Ban đầu được thiết kế như những chiếc máy đi bộ để đơn giản hóa các cuộc tuần tra hàng ngày, những chiếc mecha này đã được cải tiến thành những người bảo vệ hàng đầu, có khả năng chịu đựng một loạt các nguy hiểm."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="Một mecha bảo vệ tháp, bảo vệ các tháp lân cận khỏi sự choáng và sự cố hệ thống."
+
+"TOWER_BATTLE_MECHA_NAME"="Mecha Chiến Đấu"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="Phát ra một trường cộng hưởng ổn định ngăn chặn các tháp đồng minh gần đó bị choáng hoặc bị vô hiệu hóa.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="Công Lực Cơ Khí"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="Phóng một đợt tên lửa tự định hướng tìm kiếm kẻ thù trên chiến trường, gây sát thương mỗi lần trúng.\n(Mua kỹ năng tại Cải Tiến Tòa Tháp Tối Đa)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="Bắn tên lửa dẫn đường theo dõi và gây sát thương cho nhiều kẻ địch."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="Tên lửa Ong"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="Đổ các chất thải cơ học nguy hiểm tích luỹ từ mecha xuống mặt đất, tạo ra một khu vực làm chậm kẻ thù bước lên nó."
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="Khu vực chất thải chậm được tạo ra xung quanh mecha."
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="Xử lý chất thải"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="Mìn Trận"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="Triển khai một lĩnh vực mìn trên phía đối thủ mỗi vài giây. Những mìn này sẽ nổ khi tiếp xúc, gây sát thương diện rộng cho các đơn vị địch.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="전투 메카"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="Phát ra một trường cộng hưởng ổn định ngăn chặn các tháp đồng minh gần đó bị choáng hoặc bị vô hiệu hóa.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="Hình thành từ những tàn tích của các quân đoàn đã thất bại của Linirea, những người sống sót cứng cáp này chuyên về chiến đấu du kích tầm xa - tấn công từ bóng tối với độ chính xác chết người và thiêu rụi lực lượng kẻ thù từ xa."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="Đội quân cung thủ tuyến đầu với khả năng gây sát thương chí mạng và thiêu đốt kẻ thù."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="Cung thủ thám sát"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="Cung Thủ Thám Tử"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="Chiến binh tài năng trong cả độ chính xác tầm xa và chiến đấu cận chiến."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="Đối với một cung thủ ở hàng đầu, mỗi cú đánh đều quan trọng. Các đòn tấn công từ xa có cơ hội gây ra một cú đánh chí mạng, gây thêm sát thương.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="Đòn Chí Mạng"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="Họ đốt cháy mũi tên của mình bằng dầu và lửa, thiêu đốt kẻ thù và gây sát thương theo thời gian.\n(Mua kỹ năng tại Nâng cấp Tháp Tối đa)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="Kích hoạt kẻ thù khi va chạm, gây sát thương cháy theo thời gian."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="Bắn"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="Mỗi vài giây, khi không trong trận đấu, họ có thể bắn một vài phát vào các đơn vị của đối phương. (Mua kỹ năng tại Cải Tiến Tòa Tháp Tối Đa)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="Bắn một loạt mũi tên vào các đơn vị địch khi không trong chiến đấu."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="Bắn Tập"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="Một thợ săn dày dạn, đi cùng với con đại bàng trung thành của mình. Họ sử dụng teamwork để dụ con mồi vào bẫy, cho phép họ hạ gục ngay cả những sinh vật mạnh mẽ nhất."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Một thợ săn chiến thuật được hỗ trợ bởi một con đại bàng được huấn luyện, sử dụng bẫy để tiêu diệt kẻ thù."
+
+"TOWER_HUNTER_OUTPOST_NAME"="Trạm Tiền Đồn Thợ Săn"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Một thợ săn chiến thuật được hỗ trợ bởi một con đại bàng được huấn luyện, sử dụng bẫy để tiêu diệt kẻ thù."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Một thợ săn chiến thuật được hỗ trợ bởi một con đại bàng được huấn luyện, sử dụng bẫy để tiêu diệt kẻ thù."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="Một con đại bàng đã được huấn luyện bay lượn, thám thính một khu vực rộng lớn xung quanh tháp và tấn công bất kỳ kẻ thù nào trong tầm với của nó.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="Săn bắn Đại bàng"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="Thợ săn đặt bẫy gấu dọc theo con đường. Bất kỳ kẻ thù nào giẫm lên chúng sẽ bị sát thương và choáng tạm thời.\n(Mua kỹ năng tại Nâng Cấp Tháp Tối Đa)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="Đặt bẫy gây sát thương và làm cho kẻ thù choáng trong thời gian ngắn."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="Gấu Bẫy"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="Tại các khoảng thời gian đều đặn, thợ săn ra hiệu cho một con đại bàng bay về phía đối thủ, làm rối loạn hàng ngũ của họ."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="Gửi đại bàng về phía con đường của đối thủ."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="Khám phá và Săn bắn"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="Hình thành từ những tàn tích của các quân đoàn đã thất bại của Linirea, những người sống sót cứng cỏi này chuyên về chiến đấu du kích tầm xa - tấn công từ bóng tối với độ chính xác chết người và thiêu rụi lực lượng kẻ thù từ xa."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="Cung thủ hàng đầu với khả năng gây sát thương chí mạng và đốt cháy kẻ thù."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="Cung thủ tuyến đầu với khả năng gây sát thương chí mạng và thiêu đốt kẻ thù của họ."
+
+"TOWER_ARCHERY_SCOUT_NAME"="Lính Bắn Cung"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="Mỗi cú đánh của một cung thủ hàng đầu đều quan trọng. Các đòn tấn công từ xa có cơ hội gây ra một cú đánh chí mạng, gây thêm sát thương."
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="Đòn chí mạng"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="Chúng thắp lửa cho mũi tên bằng dầu và lửa, làm bùng cháy kẻ thù và gây sát thương theo thời gian."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="Kích hoạt kẻ thù khi va chạm, gây sát thương cháy theo thời gian."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="Bắn"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="Mỗi vài giây, khi không trong trận đấu, họ có thể bắn một vài phát vào các đơn vị của đối phương. (Mua kỹ năng tại Cải Tiến Tòa Tháp Tối Đa)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="Bắn một loạt mũi tên vào các đơn vị đối phương khi không trong trận đấu."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="Bắn Tập"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="Những xạ thủ mạnh mẽ nhất của Linirea. Bảo vệ bầu trời, đôi mắt sắc bén của họ cho phép họ bắn trúng ngay cả những mục tiêu xa nhất. Đại bàng chiến đấu trung thành của họ đảm bảo rằng không có kẻ địch bay nào thoát khỏi mà không bị tổn thương."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="Xạ thủ sắc nhọn trang bị tầm bắn xa và chiến thuật chống không lực."
+
+"TOWER_ROYAL_ARCHERS_NAME"="Cung Thủ Hoàng Gia"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="Với đầu mũi sắc bén như lưỡi dao và khả năng nhắm bắn không ai sánh kịp, họ sẽ gây thêm sát thương cho kẻ địch bay."
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="Mũi Tên Sắc"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="Như những chuyên gia về săn chim, họ có thể gửi đại bàng đã được huấn luyện của mình để truy đuổi và tấn công kẻ thù bay mỗi vài giây.\n(Mua kỹ năng tại Cấp Tối Đa Tháp)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="Gửi một con đại bàng để tấn công kẻ địch bay mỗi vài giây."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="Kẻ Săn Mồi"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="Bắn một phát nạp đạn với mũi tên phá giáp, tạm thời giảm giáp vật lý của mục tiêu."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="Bắn mũi tên nạp năng lượng giảm tạm thời giáp của kẻ địch."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="Đâm xuyên giáp"
+
+"SPELL_ARCANE_CIRCLE_NAME"="Điểm đến"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="Tạo một vòng tròn ma thuật để di chuyển quay lại kẻ thù đang tiến vào vượt qua nó."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="Tạo một vòng tròn ma thuật để di chuyển kẻ thù trở lại."
+
+"SPELL_CURSED_VINES_NAME"="Cây Leo Bị Nguyền Rủa"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="Tạo một cụm cây dây độc hại trên mặt đất làm chậm kẻ thù và gây sát thương theo thời gian."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="Mọc cây leo làm chậm kẻ thù và độc hại cho chúng."
+
+"SPELL_CURSED_VINES_PACK_NAME"="Gói Thư Giãn"
+
+"SPELL_ICY_ZONE_NAME"="Khu Lạnh"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="Bao phủ một khu vực lớn với tảng băng dày, làm chậm bước mọi kẻ địch cố gắng vượt qua."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="Bao phủ một khu vực lớn bằng băng dày, làm chậm kẻ thù."
+
+"SPELL_POLYMORPH_NAME"="Biến hình"
+
+"SPELL_POLYMORPH_DESCRIPTION"="Hầu như biến bất kỳ kẻ thù nào thành một con cừu, giảm sức khỏe của chúng và loại bỏ bất kỳ áo giáp nào mà chúng có thể có."
+
+"SPELL_POLYMORPH_SHORT_DESC"="Biến địch thành cừu, giảm sức khỏe và loại bỏ sự kháng cự."
+
+"SPELL_RAIN_OF_FIRE_NAME"="Mưa Lửa"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="Kích hoạt một phép thuật mạnh mẽ triệu hồi nhiều quả cầu lửa từ trên trời, tấn công tất cả kẻ thù trong khu vực của nó nhiều lần."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="Gây sát thương cho tất cả kẻ thù trong khu vực phép thuật."
+
+"SPELL_REINFORCEMENTS_NAME"="Tăng cường"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="Triệu hồi tạm thời một cặp binh sĩ với trang bị cơ bản để hỗ trợ trong trận đấu."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="Triệu hồi tạm thời một cặp lính để giúp trong trận đánh."
+
+"REINFORCEMENTS_UNIT_NAME"="Tăng cường"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="Lính cơ bản hỗ trợ phòng thủ."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="Người Khổng Lồ Băng"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="Một người khổng lồ băng giá có thể chịu đựng những trận chiến đủ sức nghiền nát cả đội quân."
+
+"HUNTING_EAGLE_UNIT_NAME"="Đại Bàng Săn Mồi"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="Người bạn đồng hành trung thành của Thợ Săn, tấn công kẻ thù từ trên cao."
+
+"SCOUNT_EAGLE_UNIT_NAME"="Kẻ Thám Hiểm Đại Bàng"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="Một con đại bàng được thuần hóa bởi Người Săn, được hướng dẫn để tấn công đối thủ."
+
+"SPELL_STUN_NAME"="Sét độn sét"
+
+"SPELL_STUN_DESCRIPTION"="Giải phóng một tia sét mạnh mẽ để đánh xuống mặt đất, làm điện giật một khu vực lớn và làm choáng tất cả kẻ thù trong phạm vi của nó."
+
+"SPELL_STUN_SHORT_DESC"="Gây choáng kẻ thù trong một khu vực."
+
+"SPELL_THUNDERBOLT_NAME"="Sét"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="Potent bão tố sấm sét được triệu hồi để tấn công tất cả kẻ thù trong khu vực, gây sát thương và làm choáng họ với mỗi cú đánh."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="Tấn công kẻ thù bằng sấm sét, gây sát thương trong một khu vực và làm choáng kẻ thù trong thời gian ngắn."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Sấm sét"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Tấn công kẻ địch mạnh nhất trong khu vực, tiêu diệt nó ngay lập tức."
+
+"SPELL_SABOTAGE_NAME"="Phá hoại"
+
+"SPELL_SABOTAGE_DESCRIPTION"="Giảm giáp hoặc kháng phép của tất cả quái vật trong khu vực ảnh hưởng."
+
+"SPELL_SABOTAGE_SHORT_DESC"="Giảm kháng cự của tất cả quái vật trong một khu vực."
+
+"SPELL_LINIREAN_LANCERS_NAME"="Kỵ Binh Linirea"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="Tạm thời triệu hồi một cặp Chiến Binh Lão Luyện để hỗ trợ trong trận chiến."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="Tạm thời triệu hồi một cặp Kỵ Binh Lão Luyện để hỗ trợ trong trận chiến."
+
+"CREEP_GOBLIN_NAME"="Yêu tinh"
+
+"CREEP_GOBLIN_DESC_1"="Sinh vật yếu đuối và chưa được huấn luyện từ bộ tộc yêu tinh."
+
+"CREEP_GOBLIN_SHORT_DESC"="Một con yêu tinh nhỏ và yếu"
+
+"CREEP_GOBLIN_WARRIOR_NAME"="Chiến binh yêu tinh"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="Một yêu tinh được huấn luyện, mạnh mẽ hơn và được trang bị giáp để chịu được nhiều sát thương hơn."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="Một yêu tinh mạnh hơn, được trang bị áo giáp."
+
+"CREEP_GOBLIN_WIZARD_NAME"="Pháp Sư Yêu Tinh"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="Một yêu tinh nguy hiểm sử dụng ma thuật lửa để thiêu đốt kẻ thù của nó."
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="Một yêu tinh sử dụng phép thuật để gây sát thương theo thời gian bằng cầu lửa."
+
+"CREEP_GOBLIN_COPTER_NAME"="Máy Bay Yêu Tinh"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="Một cỗ máy phế liệu chắc chắn nhưng không ổn định, được tạo ra bởi goblin để khám phá lãnh thổ của chúng."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="Khi máy bay trực thăng bị phá hủy, yêu tinh rơi xuống đất và tiếp tục đi bộ."
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="Một phương tiện bay phế liệu mà khi bị phá hủy sẽ khiến phi công rơi xuống đất."
+
+"CREEP_ORC_NAME"="Orc"
+
+"CREEP_ORC_DESC_1"="Một sinh vật nguy hiểm và kiên cường, đồng hành cùng các bộ tộc yêu tinh."
+
+"CREEP_ORC_SHORT_DESC"="Một kẻ thù nguy hiểm, với làn da dày giúp nó chống lại các đòn tấn công vật lý."
+
+"CREEP_ORC_CHAMPION_NAME"="Nhà Vô Địch Orc"
+
+"CREEP_ORC_CHAMPION_DESC_1"="Một Orc kiên cường và được huấn luyện tốt, sẵn sàng chiến đấu với bất kỳ kẻ thù nguy hiểm nào."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="Một chiến binh orc đáng gờm, được trang bị và huấn luyện để tiêu diệt bất kỳ kẻ thù nào."
+
+"CREEP_ORC_SHAMAN_NAME"="Pháp Sư Orc"
+
+"CREEP_ORC_SHAMAN_DESC_1"="Một thầy chữa của bộ tộc yêu tinh, thường thấy ở phía sau, hỗ trợ các chiến binh."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="Một thầy thuốc yêu tinh phục hồi sức khỏe cho tất cả đồng minh gần đó."
+
+"CREEP_OGRE_NAME"="Ogre"
+
+"CREEP_OGRE_DESC_1"="Một sinh vật đáng sợ và kiên cường, có thể phá vỡ mọi phòng thủ bằng sức mạnh thô bạo."
+
+"CREEP_OGRE_SHORT_DESC"="Cực nguy hiểm và mạnh mẽ; mỗi đòn đánh gây sát thương diện rộng."
+
+"CREEP_HATCHLING_NAME"="Nhện Con"
+
+"CREEP_HATCHLING_DESC_1"="Nhện con, thường thấy trong các nhóm lớn theo sau một Mẫu Hậu."
+
+"CREEP_HATCHLING_SHORT_DESC"="Nhỏ và nhanh, những con nhện mới sinh này luôn di chuyển theo nhóm."
+
+"CREEP_MATRIARCH_NAME"="Mẫu Hậu Nhện"
+
+"CREEP_MATRIARCH_DESC_1"="Một con nhện từ sâu trong rừng sử dụng con của nó để săn mồi và khám phá."
+
+"CREEP_MATRIARCH_SHORT_DESC"="Một con nhện lớn có xu hướng đẻ trứng, sinh ra nhện con."
+
+"CREEP_GARGOYLE_NAME"="Yêu Tinh Đá"
+
+"CREEP_GARGOYLE_DESC_1"="Một sinh vật hoạt động về đêm bay lượn qua bầu trời đêm của khu rừng."
+
+"CREEP_GARGOYLE_SHORT_DESC"="Một sinh vật sống về đêm bay lượn qua bầu trời đêm của khu rừng."
+
+"CREEP_WULF_NAME"="Wulf"
+
+"CREEP_WOLF_NAME"="Wulf"
+
+"CREEP_WULF_DESC_1"="Một loài động vật rừng nhanh nhẹn và thông minh săn mồi theo bầy."
+
+"CREEP_WOLF_SHORT_DESC"="Một sinh vật săn mồi nhanh chóng; nếu bạn thấy một con, chắc chắn sẽ có nhiều con khác đang đến."
+
+"BOSS_KRUM_THAK_NAME"="Krum'Thak"
+
+"BOSS_KRUM_THAK_DESC_1"="Một pháp sư mạnh mẽ bảo vệ đồng minh và sử dụng sét chết người để tiêu diệt kẻ thù."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="Một pháp sư hùng mạnh bảo vệ đồng minh trong khi sử dụng sét để tiêu diệt kẻ thù."
+
+"BOSS_GUL_THAK_NAME"="Gul'Thak"
+
+"BOSS_GUL_THAK_DESC_1"="Một thủ lĩnh mạnh mẽ có khả năng hồi máu cho đồng minh trong khi lao vào bất kỳ kẻ thù nào được phát hiện."
+
+"BOSS_GUL_THAK_SHORT_DESC"="Một thủ lĩnh hùng mạnh có khả năng hồi phục đồng minh và lao vào kẻ thù khi ở gần."
+
+"CREEP_TROLL_NAME"="Troll"
+
+"CREEP_TROLL_DESC_1"="Một sinh vật yếu của chủng tộc Troll có khả năng tái sinh."
+
+"CREEP_TROLL_SHORT_DESC"="Một sinh vật yếu của chủng tộc Troll. Tái tạo HP theo thời gian."
+
+"CREEP_TROLL_BREAKER_NAME"="Troll Hủy Diệt"
+
+"CREEP_TROLL_BREAKER_DESC_1"="Được trang bị áo giáp và thân cây, gã khổng lồ này có thể phá vỡ ngay cả những phòng thủ kiên cố nhất."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="Một con Quỷ Khổng Lồ với sát thương diện rộng nhờ khúc gỗ mà nó sử dụng làm vũ khí. Tự hồi phục HP theo thời gian."
+
+"CREEP_TROLL_CHAMPION_NAME"="Nhà Vô Địch Quỷ Troll"
+
+"CREEP_TROLLCHAMPION_NAME"="Nhà Vô Địch Quỷ Troll"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="Chiến binh kiên cường với khả năng tái sinh từ chủng tộc Troll, chuyên về tấn công tầm xa."
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="Những con quỷ mạnh mẽ có thể tấn công từ xa. Tái tạo HP theo thời gian."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="Tù trưởng Quỷ lùn"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="Kẻ troll này sử dụng trống của mình để hồi phục và tăng sát thương cũng như tốc độ cho tất cả đồng minh gần đó. Có khả năng tái tạo cao."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="Một thủ lĩnh hỗ trợ đồng minh với nhiều loại buff. Tự hồi phục HP theo thời gian."
+
+"CREEP_TROLL_PATHFINDER_NAME"="Người Dò Đường Troll"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="Một con quỷ nhỏ lợi dụng địa hình bằng cách sử dụng giày trượt để lướt trên băng, hồi phục sức khỏe theo thời gian."
+
+"CREEP_PATHFINDER_NAME"="Người Dò Đường Troll"
+
+"CREEP_PATHFINDER_SHORT_DESC"="Troll nhanh sử dụng giày trượt để lướt và né tránh kẻ thù. Hồi phục HP theo thời gian."
+
+"CREEP_WINTER_WULF_NAME"="Sói Tuyết"
+
+"CREEP_WINTER_WULF_DESC_1"="Một sinh vật nhanh nhẹn với bộ lông đặc biệt cho phép nó chống lại ma thuật và thời tiết khắc nghiệt."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="Một sinh vật nhanh nhẹn dễ dàng tránh được một số đòn tấn công cận chiến."
+
+"CREEP_YETI_NAME"="Người Tuyết"
+
+"CREEP_YETI_DESC_1"="Một sinh vật lớn và nguy hiểm; rất ít người dám đứng chắn đường nó."
+
+"CREEP_YETI_SHORT_DESC"="Một sinh vật kiên cường có khả năng phá hủy mọi thứ trên đường đi của nó."
+
+"CREEP_SNOW_GOLEM_NAME"="Người Tuyết"
+
+"CREEP_SNOW_GOLEM_DESC_1"="Một golem núi có khả năng tấn công từ xa và tách ra khi bị phá vỡ."
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="Tấn công từ xa và, khi chết, tách thành hai golem nhỏ hơn."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="Người Tuyết Nhỏ"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="Người tuyết nhỏ, thường được tạo ra từ các mảnh vỡ của một người tuyết lớn hơn."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="Golem nhỏ và yếu với tấn công tầm xa."
+
+"CREEP_ICE_MEPHIT_NAME"="Tinh Linh Băng"
+
+"CREEP_ICE_MEPHIT_DESC_1"="Một sinh vật núi quấy rối cư dân. Khi bị tiêu diệt, nó phát nổ, đóng băng tất cả xung quanh."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="Khi bị tiêu diệt, nó tạo ra một vụ nổ gây sát thương và đóng băng tất cả đơn vị gần đó."
+
+"CREEP_WINTER_FAERIE_NAME"="Tiên Mùa Đông"
+
+"CREEP_WINTER_FAERIE_DESC_1"="Một linh hồn núi xuyên qua mọi thứ trên đường đi của nó; ngay cả áo giáp cũng không thể chịu nổi các cuộc tấn công của nó."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="Bắn nhiều mảnh băng bỏ qua một phần giáp"
+
+"BOSS_JT_NAME"="J.T."
+
+"BOSS_JT_DESC_1"="Vua của ngọn núi; mọi thứ băng qua con đường của nó đều bị đóng băng hoặc bị nuốt chửng."
+
+"BOSS_JT_SHORT_DESC"="Một gã khổng lồ ăn kẻ thù và đóng băng tháp."
+
+"BOSS_ULGUK_HAI_NAME"="Ulguk-Hai"
+
+"BOSS_ULGUK_HAI_DESC_1"="Yêu tinh Núi mạnh mẽ sử dụng khiên để chặn bất kỳ sát thương vật lý nào."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="Một nhà lãnh đạo mạnh mẽ tiến lên với chiếc khiên giơ cao, chặn sát thương vật lý, chỉ hạ xuống khi chiến đấu."
+
+"CREEP_BANDIT_NAME"="Kẻ cướp"
+
+"CREEP_BANDIT_DESC_1"="Nhỏ và nhanh nhẹn, có thể là cấp thấp nhất trong băng đảng, nhưng mỗi đòn đánh của họ vẫn rất mạnh."
+
+"CREEP_BANDIT_SHORT_DESC"="Mỏng manh nhưng nhanh nhẹn; có thể né một số đòn và tấn công mạnh."
+
+"CREEP_BANDIT_ARCHER_NAME"="Cung Thủ Cướp"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="Một cung thủ có thị lực phi thường, cho phép họ bắn ở khoảng cách xa hơn so với các cung thủ khác."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="Sử dụng thị lực sắc bén của mình, anh ta có thể bắn xa hơn những cung thủ khác."
+
+"CREEP_BRIGAND_NAME"="Băng Cướp"
+
+"CREEP_BRIGAND_DESC_1"="Tên cướp mang áo giáp mỏng, sẽ vỡ khi chịu quá nhiều sát thương, để lộ kẻ cướp không vũ khí."
+
+"CREEP_BRIGAND_SHORT_DESC"="Tên cướp mạnh hơn; khi bị đánh bại, áo giáp vỡ, trở thành cướp bình thường."
+
+"CREEP_TRICKSTER_NAME"="Kẻ Lừa Đảo"
+
+"CREEP_TRICKSTER_DESC_1"="Tên cướp xảo quyệt sử dụng mánh khóe để trốn tránh các cuộc chiến hoặc kẻ truy đuổi."
+
+"CREEP_TRICKSTER_SHORT_DESC"="Khi bị chặn, nó có thể trở nên vô hình, tránh bị phát hiện trong vài giây."
+
+"CREEP_FOREST_SEER_NAME"="Tiên Tri Rừng"
+
+"CREEP_FOREST_SEER_DESC_1"="Tên cướp hiểu biết về ma thuật, có khả năng tạo ra ảo ảnh để đánh lừa kẻ thù của mình."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="Tên cướp thông thạo phép thuật tự nhân bản khi bị chặn"
+
+"CREEP_FOREST_SEER_CLONE_NAME"="Ảo Ảnh Tiên Tri Rừng"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="Bản sao tạm thời được tạo bởi Tiên tri Rừng"
+
+"CREEP_MARAUDER_NAME"="Cướp Tàn Sát"
+
+"CREEP_MARAUDER_DESC_1"="Một kẻ côn đồ trang bị nặng, có thể chịu đựng mọi đòn tấn công, thường được dùng làm lá chắn bảo vệ các tên cướp khác."
+
+"CREEP_MARAUDER_SHORT_DESC"="Kẻ hung bạo, bọc giáp dày, có thể chịu nhiều đòn tấn công."
+
+"CREEP_RAIDER_NAME"="Kẻ cướp bóc"
+
+"CREEP_RAIDER_DESC_1"="Chiến binh tầm xa nguy hiểm, trang bị quả cầu gai có thể xuyên mọi loại giáp."
+
+"CREEP_RAIDER_SHORT_DESC"="Chiến binh tầm xa chết người gây sát thương thực tế"
+
+"CREEP_PILLAGER_NAME"="Kẻ cướp phá"
+
+"CREEP_PILLAGER_DESC_1"="Những tên cướp cực kỳ cứng cáp, mang trang bị ma thuật có thể chống phép và gây sát thương diện rộng."
+
+"CREEP_PILLAGER_SHORT_DESC"="Tên cướp cực kỳ cứng cáp gây sát thương diện rộng."
+
+"CREEP_WORG_NAME"="Ma sói"
+
+"CREEP_WORG_DESC_1"="Một họ hàng kiên cường hơn của Wulf, những con Worg này đã được huấn luyện để đối mặt với binh lính địch."
+
+"CREEP_WORG_SHORT_DESC"="Worg được băng nhóm huấn luyện để né tránh một số đòn tấn công cận chiến."
+
+"CREEP_WILD_EAGLE_NAME"="Đại Bàng Hoang Dã"
+
+"CREEP_WILD_EAGLE_DESC_1"="Một con đại bàng hoang dã được thuần hóa bởi một Thú sư tài ba trong băng."
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="Đại bàng này đôi khi lao xuống tấn công các đơn vị bên dưới trước khi bay đi."
+
+"BOSS_KINGPIN_NAME"="Trùm Cuối"
+
+"BOSS_KINGPIN_DESC_1"="Thủ lĩnh băng đảng không thể ngăn cản, người sử dụng vàng ăn cắp để thuê và hỗ trợ các thành viên của mình."
+
+"BOSS_KINGPIN_SHORT_DESC"="Một thủ lĩnh cướp bóc nghiền nát mọi thứ trên đường đi của mình, có thể hồi phục đồng minh và gọi tiếp viện từ các trại."
+
+"BOSS_EINAR_NAME"="Einar Người Thuần Thú"
+
+"BOSS_EINAR_DESC_1"="Một bậc thầy thú sử dụng worgs và đại bàng để phát hiện và tấn công mục tiêu của mình."
+
+"BOSS_EINAR_SHORT_DESC"="Một bậc thầy thú có khả năng triệu hồi đại bàng và một bầy worgs."
+
+"CREEP_DARK_ROOKIE_NAME"="Tân Binh Bóng Tối"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="Một kẻ địch bọc giáp nhỏ, những quân cờ có thể hy sinh của Chúa Tể Bóng Tối."
+
+"CREEP_DARK_ROOKIE_DESC_1"="Khi mất một phần HP, họ mất giáp và tăng tốc độ."
+
+"CREEP_DARK_KNIGHT_NAME"="Kỵ Sĩ Bóng Tối"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="Một kẻ địch có sức kháng cự và giáp. Chúng là lực lượng chính của Quân Đội Bóng Tối"
+
+"CREEP_DARK_KNIGHT_DESC_1"="Khi mất một phần HP, họ mất khiên, giảm giáp và tăng tốc độ."
+
+"CREEP_DARK_SLAYER_NAME"="Kẻ Sát Nhân Bóng Tối"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="Một kẻ địch bọc giáp chết chóc. Nếu một kẻ ngã xuống trong trận chiến, các hiệp sĩ khác có thể tiếp nối di sản của hắn."
+
+"CREEP_DARK_SLAYER_DESC_1"="Sau khi họ chết, họ để lại thanh kiếm của mình và một Hiệp sĩ Bóng Tối có thể lấy nó để trở thành một sát thủ."
+
+"CREEP_DARK_CAVALRY_NAME"="Kỵ Binh Bóng Tối"
+
+"CREEP_DARK_CAVALRY_DESC_1"="Lao vào kẻ địch với tốc độ cao, làm choáng nó trong vài giây."
+
+"CREEP_DARK_CAVALRY_DESC_2"="Để lại một Hiệp Sĩ Bóng Tối tại chỗ sau khi chết."
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="Hiệp sĩ bóng tối lao vào kẻ địch, phá hủy mọi chướng ngại cố gắng cản bước hắn."
+
+"CREEP_SHADOW_ARCHER_NAME"="Cung Thủ Bóng Tối"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="Một kẻ tấn công tầm xa yếu nhưng nhanh"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Pháp Sư Eldritch"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="Một pháp sư mạnh mẽ với tấn công phép thuật rộng"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Họ niệm một phép thuật tấn công vài lần và bỏ qua giáp"
+
+"CREEP_ROCKET_RIDER_NAME"="Kỵ sĩ Tên Lửa"
+
+"CREEP_ROCKET_RIDER_DESC_1"="Kẻ thù bay bọc giáp"
+
+"CREEP_ROCKET_RIDER_DESC_2"="Mất gói phản lực khi bị phá hủy và rơi xuống đất."
+
+"CREEP_DARK_CROW_NAME"="Quạ Đen"
+
+"CREEP_DARK_CROW_DESC_1"="Một con quạ bay được huấn luyện với khả năng kháng phép."
+
+"CREEP_DARK_CROW_SHORT_DESC"="Cứ vài giây tấn công một đơn vị bên dưới trong vài giây, sau đó tiếp tục trên đường đi."
+
+"CREEP_MAGMA_SHARD_NAME"="Mảnh Vỡ Magma"
+
+"CREEP_MAGMA_SHARD_DESC_1"="Một kẻ địch bọc giáp khó chịu được tạo từ dung nham, có thể hồi sinh sau vài giây trong trạng thái đá."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="Biến thành tượng đá khi bị giết. Nếu không bị giết trong trạng thái đó, có thể hồi sinh lại với đầy đủ máu"
+
+"CREEP_GOLEM_HEAD_NAME"="Đầu Golem"
+
+"CREEP_GOLEM_HEAD_DESC_1"="Kẻ địch nhỏ và giáp yếu"
+
+"BOSS_JUGGERNAUT_NAME"="Kẻ Hủy Diệt"
+
+"BOSS_JUGGERNAUT_DESC_1"="Có thể triệu hồi một nhóm Đầu Golem vài ô phía trước."
+
+"BOSS_JUGGERNAUT_DESC_2"="Phóng tên lửa tầm xa gây sát thương cao."
+
+"BOSS_WAR_ZEPPELIN_NAME"="Pháo Đài Bay"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="Ném một thùng hắc ín vào tháp khiến nó bị choáng trong vài giây."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="Pháo đài sẽ bay qua đường bay riêng của nó."
+
+"CREEP_FLYING_SHEEP_NAME"="Cừu Bay"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="Kẻ thù biến thành cừu bay"
+
+"CREEP_SHEEP_NAME"="Cừu"
+
+"CREEP_SHEEP_SHORT_DESC"="Kẻ thù biến thành cừu."
+
+"CREEP_SKELETON_SMALL_NAME"="Bộ xương"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="Bộ xương được hồi sinh tấn công sinh vật sống."
+
+"CREEP_SKELETON_BIG_NAME"="Hiệp Sĩ Bộ Xương"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="Bộ xương hồi sinh được trang bị khiên và mũ bảo hiểm."
+
+"CREEP_DEATH_RIDER_NAME"="Kỵ Sĩ Tử Thần"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="Hiệp sĩ bộ xương mạnh mẽ cưỡi ngựa tử thần. Tăng cường mọi bộ xương xung quanh nó."
+
+"CREEP_VERDANT_DEFENDER_NAME"="Wulf Ent"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="Sinh vật giống cây có hình dạng của một con Wulf. Đôi khi nó có thể né tránh các đòn tấn công cận chiến đang tới."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="tăng sát thương của tất cả phép thuật"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="tăng sát thương của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="tăng sát thương cận chiến của tất cả tháp"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="tăng sát thương tầm xa của tất cả tháp"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="tăng sát thương của tất cả các tháp"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="tăng sát thương kỹ năng của tất cả tháp"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="tăng tốc độ tấn công của tất cả các tháp"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="giảm thời gian hồi chiêu của tất cả kỹ năng tháp"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="tăng sát thương cận chiến của tháp phép thuật"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="tăng sát thương tầm xa của tháp ma thuật"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="tăng sát thương của tháp phép thuật"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="tăng sát thương kỹ năng của tháp ma thuật"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="tăng tốc độ tấn công của tháp phép thuật"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="giảm thời gian hồi chiêu của kỹ năng tháp ma thuật"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="tăng phạm vi của tháp phép thuật"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="tăng sát thương cận chiến của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="tăng sát thương tầm xa của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="tăng sát thương của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="tăng sát thương kỹ năng của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="tăng tốc độ tấn công của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="giảm thời gian hồi chiêu của kỹ năng tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="tăng tầm bắn của tháp pháo"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="tăng sát thương cận chiến của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="tăng sát thương tầm xa của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="tăng sát thương của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="tăng sát thương kỹ năng của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="tăng tốc độ tấn công của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="giảm thời gian hồi chiêu kỹ năng của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="tăng phạm vi của doanh trại"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="tăng sát thương kỹ năng của tháp cung thủ"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="tăng tốc độ tấn công của tháp cung thủ"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="tăng sức khỏe của đồng minh"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="tăng giáp của đồng minh"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="tăng sát thương của đồng minh"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="tăng sát thương cận chiến của đồng minh"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="tăng sát thương tầm xa của đồng minh"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="tăng tốc độ của đồng minh"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="tăng sát thương của tất cả phép thuật"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="giảm thời gian hồi chiêu của tất cả phép thuật"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="tăng diện tích của tất cả phép thuật"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="tăng sát thương của anh hùng"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="tăng sát thương cận chiến của anh hùng"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="tăng sát thương tầm xa của anh hùng"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="tăng sức khỏe của anh hùng"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="tăng tốc độ của anh hùng"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="giảm thời gian hồi sinh của anh hùng"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="giảm sức khỏe của kẻ thù"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="giảm tốc độ của kẻ thù"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="giảm giáp vật lý của kẻ thù"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="giảm giáp phép của kẻ địch"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="giảm sát thương của kẻ địch"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="giảm thời gian hồi chiêu của phép triệu hồi"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="tăng tầm bắn của tháp tầm xa"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Cơn Thịnh Nộ Mana"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Lực Lượng Pháo"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="Tấn Công Tháp"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="Tầm Nhìn Tháp"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="Lực Lượng Tháp"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="Vụ Nổ Tháp"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="Tháp Thời Gian"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="Xung Nhịp Tháp"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="Tấn Công Phép Thuật"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="Độ Chính Xác Phép Thuật"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="Sức Mạnh Ma Thuật"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="Bùng Nổ Ma Thuật"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="Nhịp Điệu Ma Thuật"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="Xung Kích Ma Thuật"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="Tầm Nhìn Ma Thuật"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="Tấn Công Pháo"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="Độ Chính Xác Của Đại Bác"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Lực Lượng Pháo"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="Pháo Nổ"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="Nhịp Pháo"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="Xung Lực Đại Bác"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="Tầm Nhìn Đại Bác"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="Tấn Công Đồn Chú"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="Độ Chính Xác Đồn Trú"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="Lực Lượng Đồn Trú"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="Vụ Nổ Đồn Chú"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="Nhịp Độ Đồn Trú"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="Xung Trận Đồn Chú"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="Tầm Nhìn Đồn Chú"
+
+"PERK_NAME_INCREASE_UNITS_HP"="Sức Bền Bộ Binh"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="Sự Kiên Cường của Bộ Binh"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="Sức Mạnh Bộ Binh"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="Tấn Công Bộ Binh"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="Độ Chính Xác Bộ Binh"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="Tăng Tốc Bộ Binh"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Cơn Thịnh Nộ Mana"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="Tập Trung Mana"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="Lan Tỏa Mana"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="Sức Mạnh Anh Hùng"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="Tấn Công Anh Hùng"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="Độ Chính Xác Anh Hùng"
+
+"PERK_NAME_INCREASE_HERO_HP"="Sức Bền Anh Hùng"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="Tốc Độ Anh Hùng"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="Hồi Sinh Anh Hùng"
+
+"PERK_NAME_DECREASE_CREEP_HP"="Sự Mong Manh của Kẻ Xâm Lược"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="Mệt Mỏi Kẻ Xâm Lược"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="Suy Tàn Kẻ Xâm Lược"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="Sự Cạn Kiệt Kẻ Xâm Lược"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="Điểm Yếu Kẻ Xâm Lược"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="Triệu Hồi"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="Tầm Ngắm Xạ Thủ"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="Bùng Nổ Xạ Thủ"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="Nhịp Điệu Xạ Thủ"
+
+"MODIFIER_TITLE_EAGLE_EYES"="Mắt Đại Bàng"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="Tầm bắn tháp <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="Tầm bắn tháp <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="Tầm bắn tháp <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="Tầm bắn tháp <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="Cơn Cuồng Nộ của Anh Hùng"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="Sát thương anh hùng <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="Sát thương anh hùng <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="Sát thương anh hùng <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="Sát thương anh hùng <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="Thương Nhân Tử Thần"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="Vàng kiếm được <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="Vàng kiếm được <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="Vàng kiếm được <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="Vàng kiếm được <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="Tháp Mạnh Mẽ"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="Sát thương tháp <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="Sát thương tháp <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="Sát thương tháp <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="Sát thương tháp <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="Bậc Thầy Phép Thuật"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="Thời gian hồi chiêu phép <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="Thời gian hồi chiêu phép <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="Thời gian hồi chiêu phép <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="Thời gian hồi chiêu phép <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="Tăng phạm vi tấn công của tất cả các tháp"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="Tăng sát thương của anh hùng"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="Tăng vàng kiếm được khi tiêu diệt kẻ thù"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="Tăng sát thương gây ra bởi tất cả các tháp"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="Giảm thời gian hồi chiêu của tất cả phép thuật"
+
+"MODIFIER_TITLE_BROODMOTHER"="Tiếng Gọi của Mẫu Hậu"
+
+"CREEP_BROODMOTHER_NAME"="Mẫu Hậu"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="Một con nhện khổng lồ đẻ trứng để sinh ra nhộng lớn hơn."
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="Triệu hồi một<color=#F36D4D> Mẫu Hậu <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="Sức Mạnh của Mẫu Hậu <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="Sức Mạnh của Mẫu Hậu <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="Sức Mạnh của Mẫu Hậu <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="Tháp Nông Trại"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="Biến đổi <color=#F36D4D>1 <color=#FFFFFF>tháp mỗi <color=#F36D4D>25<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="Biến đổi 1 tháp mỗi <color=#F36D4D>23<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="Biến đổi 1 tháp mỗi <color=#F36D4D>19<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="Biến đổi <color=#F36D4D>2<color=#FFFFFF> tháp mỗi <color=#F36D4D>18<color=#FFFFFF> giây"
+
+"MODIFIER_TITLE_DRAGON"="Tiếng Gọi Của Rồng"
+
+"CREEP_FLYING_DRAGON_NAME"="Rồng"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="Rồng bay lớn với khả năng kháng phép tấn công bất kỳ kẻ thù nào gần đó từ xa."
+
+"MODIFIER_DESC_DRAGON_LVL1"="Triệu hồi một <color=#F36D4D>Rồng <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_DRAGON_LVL2"="Sức Mạnh Rồng <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="Sức Mạnh Rồng <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="Sức Mạnh Rồng <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="Triệu Hồi Ma"
+
+"CREEP_GHOST_SMALL_NAME"="Ma"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="Linh hồn của kẻ thù nhỏ, yếu nhưng đông đảo"
+
+"CREEP_GHOST_FLYING_NAME"="Ma Quái Bay"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="Hiếm khi thấy, những linh hồn này trôi nổi, quan sát và hỗ trợ đồng minh từ trên cao."
+
+"CREEP_GHOST_BIG_NAME"="Ma Quỷ Lớn"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="Một linh hồn mạnh mẽ và kiên cường, quyết tâm hoàn thành nhiệm vụ cuối cùng của mình."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="Creeps đã chết có <color=#F36D4D>30% cơ hội xuất hiện dưới dạng ma"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="Cơ hội <color=#F36D4D>40%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="Cơ hội <color=#F36D4D>50%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="Cơ hội <color=#F36D4D>60%"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="Khinh Khí Cầu Yêu Tinh"
+
+"CREEP_GOBLIN_BALLOON_NAME"="Khinh Khí Cầu Yêu Tinh"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="Một khinh khí cầu chắc chắn do một goblin nhỏ điều khiển, thả bom xuống bất kỳ kẻ thù nào bên dưới."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>Triệu hồi <color=#F36D4D>Khinh Khí Cầu Yêu Tinh <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="Khinh Khí Cầu Yêu Tinh Sức Mạnh <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="Sức Mạnh Khinh Khí Cầu Yêu Tinh <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="Khinh Khí Cầu Yêu Tinh Sức Mạnh <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="Golem Bay Bọc Giáp"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="Người Đá Bay Giáp"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="Kẻ địch bay kháng mọi sát thương vật lý"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="Triệu hồi <color=#F36D4D>Golem Bay Bọc Giáp <color=#FFFFFF>trong các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="Sức Mạnh của Golem Bay Bọc Giáp <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="Sức Mạnh của Golem Bay Bọc Giáp <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="Sức Mạnh của Golem Bay Bọc Giáp <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="Golem Bay Phép Thuật"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="Kẻ địch bay kháng mọi sát thương phép thuật"
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="Golem Bay Phép Thuật"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="Triệu hồi <color=#F36D4D>Golem Bay Phép Thuật <color=#FFFFFF>trên làn sóng của đối thủ"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="Sức Mạnh của Golem Bay Phép Thuật <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="Sức Mạnh của Golem Bay Phép Thuật <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="Sức Mạnh của Golem Bay Phép Thuật <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="Golem Giáp Lớn"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="Người đá golem mạnh mẽ với khả năng chống chịu sát thương vật lý"
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="Golem Bọc Giáp Nhỏ"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="Golem đá yếu nhưng chống chịu sát thương vật lý"
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="Người Đá Bọc Thép"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="Triệu hồi Golem Bọc thép vào các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="Người Đá Bọc Thép Sức Mạnh <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="Người Đá Bọc Thép Sức Mạnh <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="Người Đá Bọc Thép Sức Mạnh <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="Golem Ma Thuật Lớn"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="Golem ma thuật mạnh mẽ với khả năng chống chịu sát thương phép thuật"
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="Golem Phép Thuật Nhỏ"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="Yếu golem đá nhưng kháng sát thương phép thuật"
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="Người Đá Ma Thuật"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="Triệu hồi <color=#F36D4D>Người Đá Ma Thuật <color=#FFFFFF>trên làn sóng của đối thủ"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="Sức Mạnh Golem Ma Thuật <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="Sức Mạnh Golem Ma Thuật <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="Sức Mạnh Golem Ma Thuật <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="Pháp Sư Orc Vĩ Đại"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="Pháp Sư Orc Vĩ Đại"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="Gọi hai Pháp sư Shaman mạnh mẽ có thể làm choáng và tiêu diệt bất kỳ kẻ thù nào trên đường đi của họ."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="Triệu hồi <color=#F36D4D>Pháp Sư Orc Vĩ Đại <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="Sức Mạnh Đại Pháp Sư Orc <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="Sức Mạnh Pháp Sư Orc Vĩ Đại<color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="Sức Mạnh Pháp Sư Orc Vĩ Đại <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="Thú Tê Tê"
+
+"CREEP_WAR_HOUND_NAME"="Thú Tê Tê Chiến"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="Một nhóm sinh vật nhỏ lăn rất nhanh khi không bị ngăn lại."
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="Triệu hồi một<color=#F36D4D> Cuộn Thú Tê Tê <color=#FFFFFF>vào các đợt của đối thủ"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="Sức Mạnh của Thú Tê Tê <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="Sức Mạnh của Thú Tê Tê <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="Sức Mạnh của Thú Tê Tê <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="Một con nhện khổng lồ đẻ trứng để sinh ra nhện con lớn hơn."
+
+"MODIFIER_DRAGON_DESC_1"="Rồng bay lớn với khả năng kháng phép tấn công bất kỳ kẻ thù nào gần đó từ xa."
+
+"MODIFIER_FARM_DESCRIPTION"="Tạm thời biến tháp của đối thủ thành trang trại vô dụng"
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="Kẻ thù bay có giáp đến theo bầy"
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="Một bầy golem bay có kháng phép"
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="Kẻ địch đã chết có cơ hội xuất hiện dưới dạng ma ở phía đối thủ"
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="Kẻ thù bay thả bom lên các đơn vị bên dưới nó"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="Nhóm golem nhỏ và lớn với giáp vật lý"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="Xuất hiện cùng nhóm golem bọc giáp nhỏ hơn"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="Bầy golem nhỏ và lớn có khả năng kháng phép"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="Triệu hồi với một nhóm golem nhỏ hơn có khả năng kháng phép"
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="Pháp sư mạnh mẽ tung ra tia sét làm choáng và gây sát thương cho các đơn vị xung quanh khu vực mục tiêu."
+
+"MODIFIER_WARMADILLO_DESC_1"="Kẻ địch có Giáp Vật lý lăn rất nhanh khi không bị chặn"
+
+"MODIFIER_TITLE_THUNDERBIRD"="Chim Sấm Sét"
+
+"CREEP_THUNDERBIRD_NAME"="Chim Sấm Sét"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="Sinh vật bay lớn phát tán điện từ đôi cánh, làm choáng một nhóm kẻ thù."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="Triệu hồi một <color=#F36D4D>Thunderbird <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="Sức Mạnh Chim Sấm <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="Sức Mạnh Chim Sấm <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="Sức Mạnh Chim Sấm <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="Người khổng lồ berserker"
+
+"CREEP_TROLLZERKER_NAME"="Người khổng lồ berserker"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="Troll khổng lồ trở nên giận dữ khi máu thấp, tăng cường tấn công và tốc độ. Hồi phục HP theo thời gian."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="Triệu hồi một <color=#F36D4D>Trollzerker<color=#FFFFFF> trong làn sóng của đối thủ"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="Sức mạnh Trollzerker <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="Sức mạnh Trollzerker <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="Sức mạnh Trollzerker <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="Xương Rồng"
+
+"CREEP_DRAGUBON_NAME"="Rồng Lửa"
+
+"CREEP_DRAGUBON_SHORT_DESC"="Rồng nhỏ, nếu cảm thấy nguy hiểm, sẽ bắt đầu bay trong vài giây."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="Triệu hồi một<color=#F36D4D> bầy Dragubon <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="Sức Mạnh Dragubons <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="Sức mạnh Dragubons <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="Sức mạnh Dragubons <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="Bão Tuyết"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="Đóng băng <color=#F18081>1 <color=#FFFFFF>tháp mỗi <color=#F18081>17<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="Đóng băng 1 tháp mỗi <color=#F18081>15<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="Đóng băng <color=#F18081>2 <color=#FFFFFF>tháp mỗi <color=#F18081>13<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="Đóng băng 2 tháp mỗi <color=#F18081>10<color=#FFFFFF> giây"
+
+"MODIFIER_TITLE_FROSTBITE"="Tê Cóng"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="Đóng băng <color=#F36D4D>2 <color=#FFFFFF>đơn vị mỗi <color=#F36D4D>18<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="Đóng băng <color=#F36D4D>3 <color=#FFFFFF>đơn vị mỗi <color=#F36D4D>16<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="Đóng băng <color=#F36D4D>4 <color=#FFFFFF>đơn vị mỗi <color=#F36D4D>14<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="Đóng băng <color=#F36D4D>5 <color=#FFFFFF>đơn vị mỗi <color=#F36D4D>11<color=#FFFFFF> giây"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="Sứ Giả Băng Giá"
+
+"CREEP_FROST_HARBINGER_NAME"="Sứ Giả Băng Giá"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="Yêu tinh sử dụng phép thuật dịch chuyển đồng minh về phía trước. Hồi phục HP theo thời gian."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="Triệu hồi một <color=#F36D4D>Sứ Giả Băng Giá <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="Sức Mạnh Sứ Giả Băng Giá <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="Sức Mạnh Báo Hiệu Băng Giá <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="Sức Mạnh Sứ Giả Băng Giá <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="Tạm thời đóng băng tháp địch, khiến chúng không thể tấn công"
+
+"MODIFIER_DRAGUBONS_DESC_1"="Một đàn rồng nhỏ bay qua bất kỳ kẻ thù nào cố gắng chặn chúng."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#REF!"
+
+"MODIFIER_FROSTBITE_DESC_1"="Tạm thời đóng băng các đơn vị kẻ thù, làm chúng di chuyển và tấn công chậm hơn"
+
+"MODIFIER_FROST_HARBINGER_1"="Pháp sư Troll mạnh mẽ sử dụng dịch chuyển để di chuyển một nhóm kẻ thù lên phía trước."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="Một kẻ bay không thể ngăn cản, giáng sấm sét xuống bất kỳ đơn vị nào đứng bên dưới"
+
+"MODIFIER_TROLLZEKER_DESC_1"="Chiến binh hung dữ của chủng tộc Troll. Khi máu thấp, nó trở nên cuồng nộ, tăng sức mạnh và tốc độ."
+
+"CREEP_BUSH_NAME"="Kẻ Phục Kích"
+
+"CREEP_BUSH_SHORT_DESC"="Những tên cướp này chỉ mất ngụy trang khi bị chặn bởi một đơn vị."
+
+"MODIFIER_TITLE_BUSH"="Kẻ Phục Kích"
+
+"MODIFIER_BUSH_DESC_1"="Chuyên gia xâm nhập, họ có thể vượt qua mọi phòng thủ mà không bị phát hiện."
+
+"MODIFIER_DESC_BUSH_LVL1"="Triệu hồi <color=#F36D4D>Kẻ Phục Kích <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_BUSH_LVL2"="Sức mạnh Phục kích <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="Sức mạnh Phục kích <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="Sức mạnh Phục kích <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="Thủ Lĩnh Cướp"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="Ra lệnh cho những tên cướp gần đó mặc áo giáp, biến chúng thành Lục Lâm."
+
+"MODIFIER_TITLE_BANDITLEADER"="Thủ Lĩnh Cướp"
+
+"MODIFIER_BANDITLEADER_DESC_1"="Lãnh đạo dữ dội tổ chức và trang bị cho bọn cướp để chiến đấu"
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="Triệu hồi một<color=#F36D4D> Thủ lĩnh Cướp <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="Sức mạnh Thủ lĩnh Cướp <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="Sức Mạnh Thủ Lĩnh Cướp <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="Sức Mạnh Thủ Lĩnh Cướp <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="Khiên Cướp Biển"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="Đội hình phòng thủ giải phóng kẻ cướp từ bên trong mỗi vài giây"
+
+"MODIFIER_TITLE_BANDITSHIELDS"="Khiên Cướp Biển"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="Một đội hình phòng thủ của bọn cướp, định kỳ thả ra các chiến binh từ hàng ngũ của chúng."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="Sinh ra <color=#F36D4D> Khiên Cướp <color=#FFFFFF> trên các đợt sóng của đối thủ"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="HP Khiên Cướp <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="HP Khiên Cướp <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="HP Khiên Cướp <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="Tàu Lượn Cướp Biển"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="Kẻ cướp bay biết lao xuống và phát nổ khi bị giết"
+
+"MODIFIER_TITLE_BANDITGLIDERS"="Lướt Sóng Cướp Biển"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="Bọn cướp sử dụng tàu lượn để bay qua phòng thủ; nếu bị thiệt hại nghiêm trọng, chúng sẽ lao vào kẻ thù."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="Sinh ra <color=#F36D4D> Bandit Gliders <color=#FFFFFF>trên các đợt sóng của đối thủ"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="Sức Mạnh Lượn Của Tên Cướp <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="Sức Mạnh Lượn Cướp <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="Sức Mạnh Lượn Cướp <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="Kẻ Đập Phá"
+
+"CREEP_SMASHER_SHORT_DESC"="Tên cướp hung bạo ném đá vào tháp, làm choáng chúng."
+
+"MODIFIER_TITLE_SMASHER"="Kẻ Đập Phá"
+
+"MODIFIER_SMASHER_DESC_1"="Kẻ côn đồ cấp cao tiến công bằng cách ném đá vào các đơn vị và tháp, vô hiệu hóa chúng trong vài giây."
+
+"MODIFIER_DESC_SMASHER_LVL1"="Triệu hồi một <color=#F36D4D>Smasher <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_SMASHER_LVL2"="Sức mạnh Smashers <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="Sức mạnh của Smashers <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="Sức mạnh của Smashers <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="Bom Khói"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="Màn khói ngăn cản việc nhắm mục tiêu vào bất kỳ đồng minh nào bên trong"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="Sinh ra <color=#F36D4D>Bom Khói <color=#FFFFFF>trên các đợt tấn công của đối thủ"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="Bom khói sức mạnh <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="Sức mạnh Bom Khói <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="Sức mạnh Bom Khói <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="Nguyên Tố Magma"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="Nguyên Tố Magma"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="Nguyên Tố Magma"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>Triệu hồi <color=#F36D4D>1 Nguyên tố Nham thạch<color=#FFFFFF> trong đợt sóng của đối thủ"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="Triệu hồi 1 Nguyên tố Nham thạch với sức mạnh thêm <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>Triệu hồi <color=#F36D4D> 2 <color=#FFFFFF>Nguyên tố Nham thạch với sức mạnh thêm <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="Triệu hồi 2 Nguyên tố Nham thạch với sức mạnh thêm <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="Dơi Hét"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="Triệu hồi <color=#F36D4D>Dơi Screecher <color=#FFFFFF>trên làn sóng của đối thủ"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="Sức mạnh Dơi Hét <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="Sức mạnh Dơi Hét <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="Sức mạnh Dơi Hét <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="Thợ Rèn Bóng Tối"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="Thợ Rèn Bóng Tối"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="Người Gọi Quạ Bóng Tối"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="Người Gọi Quạ Bóng Tối"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>Triệu hồi <color=#F36D4D>Người Gọi Quạ Bóng Tối<color=#FFFFFF> trên làn sóng đối thủ"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="Sức mạnh Triệu hồi Quạ Bóng tối <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="Sức mạnh Triệu hồi Quạ Bóng tối <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="Sức mạnh Triệu hồi Quạ Bóng tối <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="Vận Mệnh Lửa"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="Tạo ra <color=#F36D4D>3 <color=#FFFFFF>hòn thiên thạch gây sát thương cho các đơn vị địch mỗi <color=#F36D4D>17<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="Tạo ra 3 thiên thạch với sức mạnh bổ sung <color=#F36D4D>10%<color=#FFFFFF> mỗi <color=#F36D4D>15<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="Tạo ra <color=#F36D4D>4 <color=#FFFFFF>hòn thiên thạch với sức mạnh <color=#F36D4D>25%<color=#FFFFFF> bổ sung mỗi <color=#F36D4D>15<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="Tạo ra <color=#F36D4D>5<color=#FFFFFF> thiên thạch với sức mạnh <color=#F36D4D>40%<color=#FFFFFF> mỗi <color=#F36D4D>10<color=#FFFFFF> giây"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="Đá Nóng Chảy"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="Làm choáng <color=#F18081>2 <color=#FFFFFF>tháp mỗi <color=#F18081>17<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="Làm choáng 2 tháp mỗi <color=#F18081>15<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="Làm choáng <color=#F18081>3 <color=#FFFFFF>tháp mỗi <color=#F18081>13<color=#FFFFFF> giây"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="Làm choáng <color=#F18081>4 <color=#FFFFFF>tháp mỗi <color=#F18081>9<color=#FFFFFF> giây"
+
+"MISSIONS_LOGINS_DONE"="Đăng nhập"
+
+"MISSIONS_PLAY_GAMES"="Chơi Trận"
+
+"MISSIONS_DEFEAT_CREEPS"="Đánh Bại Kẻ Thù"
+
+"MISSIONS_TOWER_BUILD"="Xây Tháp"
+
+"MISSIONS_TOWER_SKILL_BUY"="Mua Kỹ Năng Tháp"
+
+"MISSIONS_TOWER_UPGRADE"="Nâng cấp Tháp của bạn trong trò chơi"
+
+"MISSIONS_SPELL_DAMAGE"="Gây sát thương bằng Phép của bạn"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="Dùng phép thuật triệu hồi"
+
+"MISSIONS_SPELL_USE"="Sử Dụng Phép"
+
+"MISSIONS_HERO_DAMAGE"="Gây sát thương với anh hùng của bạn"
+
+"MISSIONS_CARD_USE"="Sử dụng thẻ"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="Mua Ưu Đãi Hàng Ngày"
+
+"MISSIONS_SPEND_GEMS"="Sử Dụng Đá Quý"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="Mở rương bằng Đá quý"
+
+"MISSIONS_CHEST_OPEN"="Mở Rương"
+
+"MISSIONS_STARS_EARN"="Nhận Sao"
+
+"TITLE_MISSIONS"="Nhiệm vụ"
+
+"TITLE_DAILY_MISSIONS"="Nhiệm Vụ Hàng Ngày"
+
+"TAUNT_THANKS"="Cảm ơn!"
+
+"TAUNT_GOOD_LUCK"="Chúc May Mắn!"
+
+"TAUNT_OOPS"="Ối..."
+
+"TAUNT_WELL_PLAYED"="Chơi Hay Lắm!"
+
+"UNMUTE_TO_SEND_EMOTES"="Bật để gửi và nhận biểu tượng cảm xúc"
+
+"EVENT_COINFARM_BIG_CREEP"="Quái Vật Lớn"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="Triệu hồi quái lớn trên đường đi của địch"
+
+"EVENT_COINFARM_ALL_OUT"="Hết Sạch"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="Thả thùng gây sát thương trên đường đi của kẻ địch"
+
+"EVENT_COINFARM_ENCHANTMENT"="Phép thuật"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="Tăng giáp cho một số kẻ địch trên đường đi"
+
+"EVENT_COINFARM_FARM_ANIMALS"="Động Vật Trang Trại"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="Sinh sản động vật trang trại trên đường kẻ thù"
+
+"EVENT_COINFARM_SPEED"="Kẻ Thù Nhanh"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="Tăng tốc độ cho một số quái vật trên đường đi của kẻ thù"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="Nhấn để tiếp tục..."
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="Màn Hình Phần Thưởng"
+
+"SUMMON_SCROLLS"="Cuộn sách"
+
+"SUMMON_SCROLLS_1"="Cuộn Triệu Hồi"
+
+"SUMMON_SCROLLS_2"="Cuộn Triệu Hồi"
+
+"SUMMON_SCROLLS_3_SPECIAL"="Cuộn Triệu Hồi"
+
+"SUMMON_SCROLLS_GEMS"="Cuộn Triệu Hồi"
+
+"YOUR_SCROLLS"="Cuộn sách"
+
+"EVENT_TICKET"="Vé Sự Kiện"
+
+"YOUR_TICKETS"="Vé Sự Kiện"
+
+"REMAINING_PURCHASE"="Còn lại"
+
+"MEGA_GEMS_OFFER"="Ưu Đãi Mega Đá Quý"
+
+"MEGA_COINS_OFFER"="Ưu Đãi Mega Xu"
+
+"ACCOUNT_BANNED_TITLE"="Tài khoản bị cấm"
+
+"ACCOUNT_BANNED_DESC"="Tài khoản của bạn đã bị cấm do vi phạm Điều khoản Dịch vụ"
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>NHANH LÊN!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="Đã phát hiện trò chơi đã lưu!"
+
+"ACCOUNT_CONFLICT_DESC"="Đã phát hiện hai trò chơi lưu khác nhau."
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="Lưu Đám Mây"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="Lưu Cục Bộ"
+
+"GAME_MSG_WAVE_CLEAR"="ĐỢT TẤN CÔNG ĐÃ XONG!"
+
+"GAME_MSG_WAVE_LOST"="Làn sóng bị mất!"
+
+"GAME_MSG_WAVE_WON"="Làn Sóng Chiến Thắng!"
+
+"TITLE_LEADERBOARD_REWARDS"="Phần Thưởng Toàn Cầu"
+
+"STADIUM_RULE_1"="Nhận huy chương bằng cách thi đấu trong Sân vận động"
+
+"STADIUM_RULE_2"="Lên hạng"
+
+"STADIUM_RULE_3"="Nhận phần thưởng độc quyền!"
+
+"ONSLAUGHT_RULE_1"="Đánh bại mọi kẻ thù nhanh hơn đối thủ của bạn..."
+
+"ONSLAUGHT_RULE_2"="Bạn mất 1 mạng nếu mất quá nhiều thời gian..."
+
+"ONSLAUGHT_RULE_3"="Chiến thắng để nhận phần thưởng độc đáo!"
+
+"SUMMON_RIFT_RULE_1"="Thu thập Cuộn Triệu hồi từ các Sự kiện khác"
+
+"SUMMON_RIFT_RULE_2"="Sử dụng chúng để thử nhận thẻ độc quyền…"
+
+"SUMMON_RIFT_RULE_3"="Hoàn thành một số lần triệu hồi để nhận được thẻ độc quyền đảm bảo!"
+
+"HERO_BERESAD_DESCRIPTION"="Một bóng tối cổ xưa đã thực hiện một thỏa thuận với Vez'nan để lấy tất cả vàng của vương quốc, mang lại sự tàn phá và hủy diệt cho các vương quốc trên bề mặt. Ngay cả những phòng thủ mạnh nhất của Vương quốc Người Lùn cũng không thể ngăn chặn lòng tham của hắn."
+
+"HERO_BERESAD_SHORT_DESC"="- Triệu hồi golem.<br>- Làm kẻ thù sợ hãi, khiến chúng rút lui.<br>- Tiêu diệt ngay lập tức gây sát thương cho kẻ địch gần đó."
+
+"HERO_BERESAD_NAME"="Beresad"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="Với tiếng gầm đáng sợ, Beresad gieo rắc nỗi kinh hoàng vào kẻ thù, buộc chúng phải rút lui trong hoảng loạn."
+
+"HERO_BERESAD_SKILL_0_NAME"="Sợ Rồng"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="Nhổ một tảng đá lên đường và truyền phép thuật vào nó, tạo ra một golem chiến đấu với kẻ thù trong vài giây."
+
+"HERO_BERESAD_SKILL_1_NAME"="Con Rồng"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="Tập trung hơi thở để phóng ra tia lửa chết người làm tan rã mục tiêu và kích hoạt vụ nổ mạnh mẽ."
+
+"HERO_BERESAD_SKILL_2_NAME"="Hủy Diệt"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="Beresad phù phép một số kẻ thù đối thủ, khiến chúng rơi thêm Vàng khi chết."
+
+"HERO_BERESAD_SKILL_3_NAME"="Thuế Tử Vong"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="Kết hợp đá, phế liệu và ma thuật của Beresad, tạo vật này vừa là biểu tượng của lòng tham vừa là sức mạnh thô sơ."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="Được làm từ vật liệu thông thường và được củng cố bởi ma thuật mạnh mẽ, nó đại diện cho ý chí của người tạo ra nó."
+
+"HERO_BERESAD_MINION_NAME"="Golem Bóng Tối"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="Người chơi đầu tiên đánh bại tất cả kẻ thù sẽ lấy 1 Sinh Mệnh từ đối thủ. (Cấp độ thẻ tối đa 5)"
+
+"EVENTS_ONSLAUGHT_REWARD"="Phần Thưởng Tiếp Theo"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="Tháp tối được tiếp sức bởi các tín đồ của Vez'nan, vươn lên kiêu hãnh và gieo rắc nỗi kinh hoàng cho tất cả những ai cố gắng đi qua mà không có sự cho phép. Bằng cách tập trung tia sáng vào kẻ thù, nó làm suy yếu chúng theo thời gian cho đến khi đạt đến trạng thái nguy kịch kích hoạt một vụ nổ."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="Một tháp tối tăm từ từ ăn mòn kẻ thù từng người một cho đến khi không còn ai"
+
+"TOWER_BLAZING_GEM_NAME"="Ngọc Rực Cháy"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="Mỗi kẻ thù bị đánh bại sẽ phát nổ trong một vụ nổ siêu nhiên gây sát thương cho kẻ thù khác.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="Sức Mạnh Bất Ổn"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="Cho phép Ngọc Lửa tấn công 2 mục tiêu cùng lúc, chia nhỏ sát thương nhưng tăng tổng sát thương đầu ra.\n(Mua kỹ năng khi tháp nâng cấp tối đa)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="Có thể tấn công 2 mục tiêu cùng lúc"
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="Ngọc Nhân Bội"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="Một Pháp Sư Huyền Thuật hùng mạnh xuất hiện khi được tín đồ của chủ nhân triệu gọi. Khi HP cạn kiệt, hắn chuyển sang dạng thứ hai bất động, ban Kháng Phép cho đồng minh xung quanh trước khi biến mất.\n(Mua kỹ năng khi tháp nâng cấp tối đa)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="Triệu hồi một Pháp Sư Eldritch về phía đối thủ"
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="Lời Gọi Eldritch"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="Kênh phép thuật của tín đồ để tiêu diệt một đơn vị đối lập."
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="Cứ vài giây, tháp bắn ra một tia gây sát thương và có thể tiêu diệt ngay lập tức một đơn vị bên phía đối thủ.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="Tia Hủy Diệt"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Pháp Sư Eldritch"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Các học trò của Vez'nan sử dụng sức mạnh tha hóa của họ để tiêu diệt kẻ thù."
+
+"GAME_MSG_WAVE_DRAW"="HÒA"
+
+"TITLE_LANGUAGE"="Ngôn ngữ"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="TRIỆU HỒI<br>VẾT NỨT"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="Bạn có chắc chắn muốn thay đổi cài đặt ngôn ngữ không?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="NGÔN NGỮ"
+
+"BUTTON_YES"="Có"
+
+"BUTTON_NO"="Không"
+
+"FREE_TAG"="Miễn phí"
+
+"TOOLTIP_CLAIM"="LẤY!"
+
+"ERROR_LOADING_SHOP"="LỖI TẢI CỬA HÀNG"
+
+"SHOP_OFFER_EXPIRES_IN"="Ưu đãi hết hạn trong:"
+
+"SHOP_ARENA_PACK_TITLE"="Gói Đấu Trường"
+
+"SHOP_DAILY_DEALS_TITLE"="Ưu đãi hàng ngày"
+
+"SHOP_CHESTS_TITLE"="Rương"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Ưu Đãi Đặc Biệt"
+
+"EVENTS_LOCKED_EVENT_TITLE"="Sự Kiện Bị Khóa"
+
+"COMING_SOON"="SẮP RA MẮT"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="Thẻ để mở khóa:"
+
+"BUTTON_CLAIM"="LẤY"
+
+"BUTTON_REWARDS"="Phần thưởng"
+
+"MISSIONS_WEEKLY"="Hàng tuần"
+
+"MISSIONS_DAILY"="Hàng ngày"
+
+"MISSIONS_RESETS_IN"="Đặt lại sau:"
+
+"STADIUM_REWARD_POP_UP_NAME"="Chúc mừng {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="Bạn đứng thứ {0} trên bảng xếp hạng. Nhận phần thưởng của bạn!"
+
+"TOWER_TESLA_PACK_NAME"="Gói Thông Thường"
+
+"TAP_TO_CONTINUE"="Nhấn để tiếp tục"
+
+"TIPS_SCREEN_TITLE"="Mẹo"
+
+"REWARDS_TITLE"="Phần thưởng"
+
+"NEW_ARENA_UNLOCKED"="Đấu trường mớ"
+
+"SELECT_CARD_TO_REPLACE"="CHỌN MỘT THẺ ĐỂ THAY THẾ"
+
+"TIMER_DAY"="ng"
+
+"TIMER_HOUR"="gi"
+
+"TIMER_MINUTE"="ph"
+
+"TIMER_SECOND"="gi"
+
+"COLISSEUM_WAITING_TO_DELIVER"="Sân đóng. Phần thưởng đang đến..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="Thẻ {0}"
+
+"CARD_STAT_RESPAWN_TIME"="Thời gian hồi sinh"
+
+"PRIVATE_MATCH_TITLE"="Trận đấu bạn bè"
+
+"PRIVATE_MATCH_ENTER_CODE"="Nhập mã"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="Nhập mã để tham gia"
+
+"PRIVATE_MATCH_CREATE_MATCH"="TẠO TRẬN ĐẤU"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="Đang chờ đối thủ..."
+
+"PRIVATE_MATCH_CONNECTING"="Kết nối..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="Tạo phòng..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="Tham gia"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="Vui lòng nhập mã phòng"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="Mất kết nối. Vui lòng thử lại."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="Không thể bắt đầu trận đấu"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="Không thể tham gia phòng"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="Mất kết nối từ phòng"
+
+"ERROR"="LỖI"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="Tân Binh Tối"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="Hiệp Sĩ Bóng Đêm"
+
+"PRIVATE_PVP_RULE_1"="Tạo một trận đấu để tạo ra một mã duy nhất…"
+
+"PRIVATE_PVP_RULE_2"="Chia sẻ mã với bạn! Họ có thể tham gia bằng cách nhập nó."
+
+"PRIVATE_PVP_RULE_3"="Thưởng thức một trận đấu riêng tư trên một bản đồ ngẫu nhiên!"
+
+"PRIVATE_PVP_RULE_4"="Cấp độ thẻ tối đa {0} - Cấp độ tối đa của bộ kích hoạt {1}"
+
+"CHASER_PACK_TITLE"="Bộ Nâng Cấp"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="Kiếm Tối"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="Di sản của kẻ giết người sẽ biến hóa hiệp sĩ tiếp theo cầm thanh kiếm này."
+
+"PRIVATE_MATCH_INVITATION_CODE"="Mã Mời"
+
+"SHOP_EMOTES_OFFERS_TITLE"="Biểu cảm"
+
+"NEW_EMOTE"="Biểu cảm mới!"
+
+"SHOP_ACQUIRED"="Đã có"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="Hạng Đồng"
+
+"TERRAIN_STADIUM_SILVER_NAME"="Hạng Bạc"
+
+"TERRAIN_STADIUM_GOLD_NAME"="Hạng Vàng"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="Hạng Kim Cương"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="Liên Đoàn Vô Địch"
+
+"COLLECTION_EMOTES"="Biểu tượng cảm xúc"
+
+"TERRAIN_STADIUM_REWARD"="Phần thưởng:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="Bộ binh Elit của Quân Đội Tối Thượng được đào tạo cả trên bầu trời lẫn trên mặt đất, tuần tra trận địa với sự chính xác tàn nhẫn. Với một lệnh duy nhất, họ chuyển từ những người bảo vệ hàng đầu vững chãi sang những kẻ săn mồi trên không đánh địch với sức mạnh không ngừng."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="Những binh sĩ linh hoạt chiếm ưu thế trên cả mặt đất và bầu trời, săn đuổi kẻ thù với sự chính xác chết người."
+
+"TOWER_ROCKET_GUNNERS_NAME"="Xạ thủ tên lửa"
+
+"ROCKET_GUNNERS_UNIT_NAME"="Xạ Thủ Tên Lửa"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="Binh lính được đào tạo để chuyển đổi giữa các đợt tấn công hỗ trợ phản lực và chiến đấu trên mặt đất chắc chắn."
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="Các Xạ Thủ có thể kích hoạt jetpack của họ để bay qua đường đi hoặc vô hiệu hóa chúng để chiến đấu trên mặt đất.\n(Kỹ năng luôn khả dụng)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="Maneuver Không Lực"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="Phủ một lớp phủ ăn mòn lên mỗi phát đạn, giảm giáp địch và gây sát thương diện rộng khi va chạm."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="Mỗi phát bắn giảm giáp và gây sát thương diện rộng."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="Lớp phủ Photpho"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="Phóng tên lửa dẫn đường tiêu diệt ngay mục tiêu khi va chạm."
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="Bắn tên lửa giết ngay mục tiêu."
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="Tên Lửa Châm"
+
+"EMOTE_AEGION_PONDERING"="Suy ngẫm"
+
+"EMOTE_ALLERIA_ANGRY"="Alleria Giận dữ"
+
+"EMOTE_ALLERIA_SHINE"="Alleria Vui vẻ"
+
+"EMOTE_ASHBITE_HEART"="Ashbite Yêu thương"
+
+"EMOTE_BERESAD_MONEY"="Chấp nhận đi"
+
+"EMOTE_CHICKEN_SCREAM"="Gà Giận dữ"
+
+"EMOTE_DENAS_ANGRY"="Denas Tức giận"
+
+"EMOTE_DENAS_CRY"="Khóc Thêm Đi"
+
+"EMOTE_DENAS_GOLD"="Tiền Về"
+
+"EMOTE_DENAS_LAUGH"="Denas Vui vẻ"
+
+"EMOTE_DIERDRE_ANGRY"="Thực tế đi"
+
+"EMOTE_EISKALT_SURPRISE"="Không đồng ý"
+
+"EMOTE_ELORA_TIME_CLOCK"="Thở dài..."
+
+"EMOTE_GERALD_BEACH"="Thư giãn"
+
+"EMOTE_GERALD_DESPAIR"="Tuyệt vọng..."
+
+"EMOTE_GERALD_SHINE"="Nụ cười Rạng rỡ"
+
+"EMOTE_GOBLIN_ANGRY"="Thất vọng"
+
+"EMOTE_GOBLIN_FIRE"="Ổn Mà"
+
+"EMOTE_GOBLIN_GIFT"="Bất ngờ!"
+
+"EMOTE_GOBLIN_GOOFY"="Nghịch ngợm"
+
+"EMOTE_GOBLIN_KISS"="Nụ hôn Dành cho bạn"
+
+"EMOTE_GOBLIN_OOPS"="Ối"
+
+"EMOTE_GOBLIN_SLEEPING"="Ngủ ngon"
+
+"EMOTE_GOBLIN_SNOW"="Yêu tinh Tuyết"
+
+"EMOTE_GOBLIN_TAUNT"="Yêu tinh Trêu chọc"
+
+"EMOTE_GRAWL_BICEP"="Grawl Khoe"
+
+"EMOTE_GRAWL_CHRISTMAS"="Không khí Lễ hội"
+
+"EMOTE_HACKSAW_LAUGH"="Điên khùng"
+
+"EMOTE_INGVAR_TRANSFORM"="Tôi Hóa Gấu!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="Đấm Tay"
+
+"EMOTE_SKELETON_SHOCKED"="CÁI GÌ!?"
+
+"EMOTE_SKELETON_SWEAT"="Bộ xương Đổ mồ hôi"
+
+"EMOTE_SOLDIER_CELEBRATION"="Ăn mừng"
+
+"EMOTE_VESPER_OK"="Hoàn hảo"
+
+"CREEP_PIG_NAME"="Heo"
+
+"CREEP_GOAT_NAME"="Dê"
+
+"CREEP_GOOSE_NAME"="Ngỗng"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="THUNG LỬA"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="Thung lũng Bị Ruồi"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="Thung lũng Bị Bỏ Quên"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="Gói Mùa Đông Huyền Thoại"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="Gói Mùa Đông Sử Thi"
+
+"SHOP_SEASON_OFFERS_TITLE"="Ưu đãi mùa"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="Một binh sĩ mới của Đội quân Tối tăm yếu đuối, chỉ được bảo vệ bởi áo giáp vỡ vụn."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="Dù bộ giáp của mình bị vỡ, hiệp sĩ này vẫn là một mối đe dọa đáng sợ."
+
+"CREEP_GOOSE_SHORT_DESC"="Một con ngỗng mạnh mẽ gieo rắc rối trên nông trại."
+
+"CREEP_DONKEY_RIDER_NAME"="Người Lái Lừa"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="Người làm nông muốn trở thành hiệp sĩ"
+
+"CREEP_PIG_SHORT_DESC"="Một con lợn nổi loạn luôn trốn thoát khỏi lồng."
+
+"CREEP_GOAT_SHORT_DESC"="Chú DÊ"
+
+"MODIFIER_TITLE_DARK_PRIEST"="Mục Sư Tối"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="Một kẻ thù có kháng phép biến đổi các đơn vị thành Chiến binh Tối hoặc Hiệp sĩ Tối."
+
+"CREEP_DARK_PRIEST_NAME"="Mục Sư Tối"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="Một linh mục ác độc lan truyền lời của Chúa Tối, làm hủy hoại bất kỳ ai để tham gia vào Đội Quân Tối."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>Triệu hồi 2 <color=#F36D4D> Tế sĩ Bóng tối <color=#FFFFFF>trên các làn sóng của đối thủ"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="Sức mạnh Tế sĩ Bóng tối <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="Sức mạnh Tế sĩ Bóng tối <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="Sức mạnh Tế sĩ Bóng tối <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="Hòm Đồng Hạng Kim"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="Hòm Bạc Hạng Bạc"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="Hòm Vàng Liên Đoàn"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="Hòm Liên Đoàn Kim Cương"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="Hòm Champions League"
+
+"CARDS_TAB"="BÀI"
+
+"HERO_RAELYN_DESCRIPTION"="Tướng quân đáng sợ và tàn bạo của Đội quân Bóng tối, Raelyn đứng ở hàng đầu, sẵn sàng chém hạ mọi thứ trên đường đi của mình. Sự tận tụy không ngừng của cô trong trận đấu gieo sợ hãi vào kẻ thù và tình yêu mạnh mẽ từ các hiệp sĩ của mình."
+
+"HERO_RAELYN_SHORT_DESC"="- Tự bảo vệ bằng khiên.<br>- Làm choáng và làm suy yếu kẻ địch bằng nỗi sợ.<br>- Nổi cơn thịnh nộ, gây sát thương diện rộng nhanh hơn."
+
+"HERO_RAELYN_NAME"="Raelyn"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="Sự dũng cảm vô song của cô ấy mang lại cho cô ấy một khiên không gây sát thương trong một thời gian ngắn."
+
+"HERO_RAELYN_SKILL_0_NAME"="Bất khuất"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="Tiếng hò chiến tranh dữ dội của cô khiến kẻ thù hoảng sợ, làm cho chúng bị choáng và giảm sát thương của chúng."
+
+"HERO_RAELYN_SKILL_1_NAME"="Truyền cảm giác sợ hãi"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="Mỗi vài giây, sự khao khát phá hủy của cô ấy đẩy cô vào một cơn thịnh nộ, tăng tốc độ tấn công và khiến những đòn tấn công của cô gây ra sát thương diện rộng."
+
+"HERO_RAELYN_SKILL_2_NAME"="Tấn công"
+
+"STAGE_FORSAKEN_1"="NĂM ĐỎ"
+
+"STAGE_FORSAKEN_2"="Đất Tro"
+
+"STAGE_FORSAKEN_3"="Vùng Đất Hoang Mang"
+
+"STAGE_FORSAKEN_4"="Hẻm Âm U"
+
+"STAGE_FORSAKEN_5"="Đường Đá Đen"
+
+"STAGE_FORSAKEN_6"="Đường Rơi"
+
+"COMMAND_ORDER_UNIT_NAME"="Thợ Săn Bóng Tối Sa Ngã"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="Tinh thần của một kẻ giết người vẫn tiếp tục chiến đấu ngay cả khi chết đi."
+
+"COIN_FARM_RULE_1"="Sức Mạnh Đặc Biệt của Nông Trại thay thế Phép ở đây..."
+
+"COIN_FARM_RULE_2"="Sử dụng chúng để chiến thắng và thu thập Tiền trong ngân hàng của bạn..."
+
+"COIN_FARM_RULE_3"="Hoàn thành ngân hàng trước khi sự kiện kết thúc và kiếm tất cả Sò bạn đã tiết kiệm!"
+
+"COIN_FARM_RULE_4"="Cấp độ thẻ tối đa {0} - Cấp độ tối đa của bộ kích hoạt {1}"
+
+"SPELL_COMMAND_ORDER_NAME"="Thứ Tự Rơi"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="Một phép thuật cấm kỵ triệu hồi linh hồn của một kẻ giết người không thể ngăn chặn để gây hỗn loạn trên chiến trường."
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="Triệu hồi một Chiến binh rơi xuống để giúp bạn trên chiến trường."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Đòn Tối thượng"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Triệu hồi một phép thuật cấm để tiêu diệt kẻ thù mạnh nhất trong khu vực"
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="Tấn công kẻ địch mạnh nhất trong một khu vực, tiêu diệt ngay lập tức."
+
+"MENU_OFFER_ICON_SALE"="GIẢM GIÁ"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="NHẬN XU NGAY!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="Bạn có muốn nhận Xu ngay bây giờ không? Bạn sẽ chỉ nhận được khoản tiết kiệm hiện tại của mình."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="Một Elemental Magma mạnh mẽ xuất hiện tại một điểm ngẫu nhiên phía trước trên bản đồ. Sau khi bị đánh bại, nó chuyển sang hình thức đá để chữa lành và hồi sinh"
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="Một Elemental Magma nổi lên như một thảm họa tự nhiên sống, chỉ để lại tàn phá sau lưng."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="Một Elemental Magma bị phá hủy và bắt đầu giai đoạn tái tạo để tự chữa lành."
+
+"CREEP_SCREECHER_BAT_NAME"="Dơi Kêu Rít"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="Một con dơi khổng lồ bay, làm choáng bất kỳ ai đứng trước đường đi của nó."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="Một con dơi khổng lồ sử dụng tiếng kêu siêu âm của mình để làm choáng kẻ địch xung quanh."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="Nhân công của Quân Đội Tối Thượng, họ là những người chuẩn bị và sửa chữa lực lượng của Chúa Tể Tối Thượng."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="Một đơn vị kiên cường sửa chữa bất kỳ áo giáp hỏng nào của Người mới và Hiệp sĩ."
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="<color=#FFFFFF>Tạo ra <color=#F36D4D>Thợ rèn Bóng<color=#FFFFFF> trên các làn sóng của đối thủ"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="Sức mạnh Thợ rèn Bóng tối <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="Sức mạnh Thợ rèn Bóng tối <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="Sức mạnh Thợ rèn Bóng tối <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="Một Người Gọi Quạ Bóng tạo ra Quạ Đen mỗi vài giây."
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="Một huấn luyện viên quạ lan truyền khắp vương quốc để tạo ra một mạng lưới tình báo rộng lớn."
+
+"MODIFIER_DESC_FLAMING_FATE"="Gây ra các vụ phun trào dữ dội gửi đá lửa bay quanh kẻ thù."
+
+"MODIFIER_DESC_MOLTEN_STONE"="Tạo ra động đất trên toàn bộ chiến trường, chôn vùi các tháp địch dưới đá trong vài giây."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="Cung thủ chết chóc bắn mũi tên với tốc độ chói lọi, tấn công kẻ thù trước khi chúng kịp phản ứng."
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="Một kẻ thù bay có giáp kích hoạt đẩy tên lửa khi bị tấn công."
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="Một Mảnh Magma bị phá hủy và bắt đầu giai đoạn tái tạo để tự chữa lành."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="Golem giáp nhỏ được phóng bởi Juggernaut."
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="Một cỗ máy chiến đấu khổng lồ phá hủy mọi lâu đài đứng trên con đường của Vez’nan."
+
+"NEW_LEAGUE_UNLOCKED"="Giải đấu đã mở khóa!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="Máy chủ đang bảo trì. Thời gian kết thúc dự kiến: {0}"
+
+"HERO_ASRA_DESCRIPTION"="Được rèn giũa qua khóa huấn luyện tàn nhẫn, Asra là một trong những Sát Thủ Bóng Tối nguy hiểm nhất từng xuất hiện từ Quân Đội Tối. Ánh mắt im lặng của cô chết người không kém gì lưỡi kiếm, và những ai gặp phải nó hiếm khi sống đủ lâu để hối hận. Được chính Vez'nan chọn lựa, cô tấn công nhanh chóng, chính xác và không thương xót."
+
+"HERO_ASRA_SHORT_DESC"="- Dịch chuyển tức thời và tạo khiên.<br>- Bắn loạt mũi tên phá giáp.<br>- Đầu độc kẻ thù chết người bằng dao găm."
+
+"HERO_ASRA_NAME"="Asra"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="Bắn một loạt mũi tên mạnh gây sát thương và phá hủy một phần giáp của kẻ địch."
+
+"HERO_ASRA_SKILL_0_NAME"="Mũi Tên Mã Não"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="Tung ra đòn tấn công nhanh và chết người với lưỡi kiếm tẩm độc, đầu độc kẻ thù cho đến khi chết."
+
+"HERO_ASRA_SKILL_1_NAME"="Cắn Nhện"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="Sử dụng Vũ Điệu Bóng Tối, cô có thể dịch chuyển tức thời đến bất kỳ đâu, tạo ra một lá chắn bảo vệ bổ sung khi xuất hiện gần quân địch."
+
+"HERO_ASRA_SKILL_2_NAME"="Chớp Mắt Màn Đêm"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="Một cung thủ tàn nhẫn, bị độc ác và ám ảnh thúc đẩy, săn mồi không thương tiếc. Mỗi kẻ thù bị tiêu diệt dưới mũi tên của họ đều kích thích sức mạnh của họ, tăng cường những đòn tấn công và biến cái chết thành vũ khí mạnh nhất của họ."
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="Một tháp cung thủ tàn nhẫn mà tăng sức mạnh tấn công với mỗi kẻ thù bị giết, biến mỗi phát bắn thành một mối đe dọa ngày càng lớn。"
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="Cung Dài Hoàng Hôn"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="Tháp có thể thay đổi trọng tâm sát thương từ nhắm mục tiêu kẻ thù gần lối ra nhất sang nhắm mục tiêu kẻ thù có HP tối đa cao nhất.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="Tập trung kẻ thù"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="Triệu hồi hai Kẻ Quấy Rối để hỗ trợ trong trận chiến. Những chiến binh hung dữ và nhanh nhẹn này gây sát thương chết người trong khi có cơ hội né tránh các cuộc tấn công đến.\n(Mua kỹ năng khi Nâng cấp Tháp tối đa)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="Triệu hồi hai Kẻ Quấy Rối để tuần tra khu vực và tiêu diệt bất kỳ ai cố gần tới tháp."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="Hỗ trợ Lưỡi dao"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="Bắn một mũi tên được bọc trong phép thuật đen tối làm rối loạn đơn vị đối thủ mục tiêu, ngăn nó sử dụng khả năng trong vài giây.\n(Mua kỹ năng khi Nâng cấp Tháp tối đa)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="Mục tiêu trước là Anh hùng, ngăn chặn việc sử dụng kỹ năng trong một thời gian ngắn。"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="Săn Mồi Lặng Lẽ"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="Mỗi lần giết được thực hiện bởi tháp này làm tăng sát thương tấn công của nó trong vài giây, lên đến 3 lần。"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="Mỗi kẻ thù bị giết bởi mũi tên của tháp này có linh hồn bị hấp thụ, trao quyền cho chúng và tăng sát thương của chúng, lên đến tối đa 3 lần.\n(Kỹ năng luôn hoạt động)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="Niềm vui săn bắn"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="Kẻ Quấy Rối"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="Chiến binh Elf Hoàng hôn tinh thông trong chiến đấu gần. Họ đại diện cho giai đoạn cuối trước khi trở thành Hành Khách Ưu tú."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="Chiến binh Elf Hoàng hôn với cơ hội né tránh các cuộc tấn công cận chiến。"
+
+"INBOX_TAG_UPDATE"="Cập nhật"
+
+"INBOX_TAG_NEWS"="Tin tức"
+
+"INBOX_TAG_GIFT"="Quà tặng"
+
+"INBOX_TITLE"="HỘP THƯ"
+
+"INBOX_NO_MESSAGES"="Không có tin nhắn nào"
+
+"INBOX_SHOW_ALL_MESSAGES"="Hiển thị tất cả"
+
+"INBOX_READ"="Đọc"
+
+"HERO_ALLERIA_WILDCAT_NAME"="Alleria & Nanh Hoang"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="Ở dạng già hơn và khôn ngoan hơn nhiều, người bảo vệ khu rừng này đã sẵn sàng giải phóng toàn bộ sức mạnh của thiên nhiên. Cưỡi trên Nanh Hoang giờ đã trưởng thành, cô ấy có thể tung ra những nhát chém chết người trong khi vẫn bắn tên vào kẻ thù ở xa."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- Xuống khỏi Nanh Hoang khi bị giết.<br>- Bắn một mũi tên làm chậm và gây sát thương theo diện tích.<br>- Gầm lên và làm yếu các creep gần đó."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="Xuống ngựa"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="Khi gặp nguy hiểm lớn, cô ấy xuống khỏi Nanh Hoang và rút lui để tiếp tục chiến đấu cho đến khi con thú sẵn sàng chiến đấu trở lại."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="Bắn Gai"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="Bắn một mũi tên mạnh mẽ nạp đầy sức mạnh của thiên nhiên làm mọc dây leo trên đường đi, làm chậm và gây sát thương cho kẻ thù đi qua khu vực."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="Tiếng Gầm Nanh Hoang"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="Nanh Hoang phát ra tiếng gầm dữ dội đe dọa kẻ thù, giảm sức mạnh đòn đánh của chúng trong khi tăng sát thương mà chúng nhận."
+
+"MEGA_TICKET_OFFER_1"="Ưu Đãi Vé Siêu Cấp"
+
+"MEGA_TICKET_OFFER_2"="Ưu Đãi Vé Tuyệt Vời"
+
+"PLAYER_PROFILE_TITLE"="Hồ sơ"
+
+"PLAYER_PROFILE_STATS_TITLE"="Thống kê người chơi"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="Hình đại diện"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="Biểu ngữ"
+
+"PLAYER_PROFILE_TITLES_TITLE"="Danh hiệu"
+
+"PLAYER_PROFILE_USER_TAB"="Người dùng"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="Chỉnh sửa hồ sơ"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="Chuỗi hiện tại"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="Chuỗi tốt nhất"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="Chiến thắng"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="Thất bại"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="Tỷ lệ thắng"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="Tổng số thẻ"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="Anh hùng đã mở khóa"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="Tháp đã mở khóa"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="Phép thuật đã mở khóa"
+
+"PLAYER_PROFILE_STAT_MATCHES"="Trận đấu"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="Tấn công sắt"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="Thử thách Tấn công nâng cao cho người chơi mạnh!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="Người chơi đầu tiên đánh bại tất cả kẻ địch sẽ lấy 1 Mạng từ đối thủ. (Cấp thẻ tối đa 9)"
+
+"ONSLAUGHT_2_RULE_1"="Đánh bại mọi kẻ địch nhanh hơn đối thủ..."
+
+"ONSLAUGHT_2_RULE_2"="Bạn mất 1 mạng nếu mất quá nhiều thời gian..."
+
+"ONSLAUGHT_2_RULE_3"="Chiến thắng để nhận phần thưởng độc đáo!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="TÂN BINH LINIREA"
+
+"PROFILE_TITLE_DARK_ROOKIE"="TÂN BINH BÓNG TỐI"
+
+"PROFILE_TITLE_FOREST_RANGER"="KIỂM LÂM"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="CHIẾN BINH DŨng CẢM"
+
+"PROFILE_TITLE_0005"="QUỶ NHỎ DUNG NHAM"
+
+"PROFILE_TITLE_0006"="CAO THỦ BÍ MẬT"
+
+"PROFILE_TITLE_0007"="THIÊN TÀI CHIẾN THUẬT"
+
+"PROFILE_TITLE_0008"="LÃNH CHỦ CHIẾN TRANH HUYỀN THOẠI"
+
+"BUTTON_KINGDOM_PASS"="THẺ VƯƠNG QUỐC"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="NHẬN VÀNG"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="Nông trại đã đóng cửa, nhận xu của bạn!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="Đổi tên người dùng"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="Bạn có xác nhận muốn đổi tên người dùng không?"
+
+"EVENTS_REOPENS_IN"="Mở lại sau..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="Nông trại đã đóng cửa nhưng bạn vẫn có thể nhận xu chưa nhận!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="Cơ hội cuối cho xu!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="Nông trại tiền sắp đóng cửa! Chơi trận đấu và giành xu ngay!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="Gói Thức Tỉnh Sử Thi I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="Gói Thức Tỉnh Sử Thi II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="Gói Thức Tỉnh Huyền Thoại I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="Gói Thức Tỉnh Huyền Thoại II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="Đã Đạt Giới Hạn!"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="Không có"
+
+"ERROR_INVALID_RESPONSE_TITLE"="Đã xảy ra lỗi!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="Không thể xử lý phản hồi từ máy chủ. Vui lòng thử lại."
+
+"HERO_BONEHART_DESCRIPTION"="Tàn tích xương cốt hùng mạnh của Faustus một thời chính thống. Dracolich khổng lồ này thống trị cái chết, triệu hồi quân bất tử và gieo rắc bệnh dịch trong khi tàn sát lực lượng kẻ thù bằng sức mạnh đáng sợ. Từng là người được Nữ thần Elynie chọn, giờ đây hắn lang thang khắp vùng đất với linh hồn bị ô uế bởi những thế lực tối tăm, bị cấm đoán."
+
+"HERO_BONEHART_SHORT_DESC"="- Triệu hồi Wyvern.<br>- Lao xuống đường, gây sát thương.<br>- Lây lan Dịch hạch."
+
+"HERO_BONEHART_NAME"="Bonehart"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="Cứ mỗi nhóm kẻ thù bị hạ gục, Wyvern Xương xuất hiện ám ảnh đường đi của đối thủ. Khi bị tiêu diệt, chúng nổ tung thành đám mây mưng mủ, lây lan Dịch hạch cho tất cả các đơn vị lân cận."
+
+"HERO_BONEHART_SKILL_0_NAME"="Wyvern Xương"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="Hòa tan vào bóng tối trước khi lao xuống đường đi của kẻ thù, gây sát thương vùng lớn và nguyền rủa tất cả những kẻ sống sót bằng Dịch hạch."
+
+"HERO_BONEHART_SKILL_1_NAME"="Bùng Phát Dịch Bệnh"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="Thở ra luồng khí mục nát từ những khúc xương bị nguyền rủa, bao phủ đường đi của kẻ thù bằng đám mây ô nhiễm làm chậm tất cả những ai hít phải và truyền Dịch hạch cho họ."
+
+"HERO_BONEHART_SKILL_2_NAME"="Đám Mây Dịch Hạch"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="Phóng một loạt đạn đầy bệnh tật từ thân xác mục nát, rải Dịch hạch bừa bãi khắp chiến trường và tấn công kẻ thù dù chúng đứng ở đâu."
+
+"HERO_BONEHART_SKILL_3_NAME"="Vụ Nổ Lây Lan"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="Một sinh vật xương bị nguyền rủa ám ảnh bầu trời, lây nhiễm dịch hạch của chủ nhân tối tăm cho tất cả những kẻ ở phía dưới."
+
+"HERO_BONEHART_WYVERN_NAME"="Wyvern Xương"
+
+"BUY_GOLDEN_PASS"="Nhận Thẻ Vàng"
+
+"BUY_PLATINUM_PASS"="Nhận Thẻ Bạch Kim"
+
+"DECK_BUILDER_WILDCARDS"="BÀI THAY THẾ"
+
+"SEASON_PASS_COMMON_TITLE"="THƯỜNG"
+
+"SEASON_PASS_GOLDEN_TITLE"="VÀNG"
+
+"SEASON_PASS_PLATINUM_TITLE"="BẠCH KIM"
+
+"SEASON_PASS_REWARDS"="PHẦN THƯỞNG"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 10 CẤP ĐỘ THẺ THÊM"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="Xem tất cả phần thưởng"
+
+"SEASON_PASS_NAME"="XÍCH CỦA CƠN THỊNH NỘ"
+
+"SEASON_PASS_WIDGET_LOCKED"="THẺ VƯƠNG QUỐC<br> Mở khóa ở Đấu trường 1"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="NHẬN<br>PHẦN THƯỞNG!"
+
+"WILDCARD_RARITY_COMMON"="Bài Thay Thế Thường"
+
+"WILDCARD_RARITY_RARE"="Bài Thay Thế Hiếm"
+
+"WILDCARD_RARITY_EPIC"="Bài Thay Thế Sử Thi"
+
+"WILDCARD_RARITY_LEGENDARY"="Bài Thay Thế Huyền Thoại"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="CHỌN THẺ THƯỜNG"
+
+"WILDCARD_VIEW_TITLE_RARE"="CHỌN THẺ HIẾM"
+
+"WILDCARD_VIEW_TITLE_EPIC"="CHỌN THẺ SỬ THI"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="CHỌN THẺ HUYỀN THOẠI"
+
+"WILDCARD_VIEW_SUBTITLE"="Tổng cộng"
+
+"WILDCARD_VIEW_NAME"="Bài Thay Thế"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="Thêm {0} {1} vào thẻ này?"
+
+"WILDCARD_VIEW_WILD_CARD"="Bài Thay Thế"
+
+"WILDCARD_VIEW_WILD_CARDS"="Bài Thay Thế"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="Thêm Bài Thay Thế"
+
+"WILDCARD_POPUP_DESCRIPTION"="Dùng Bài Thay Thế để tăng tiến trình nâng cấp cho bất kỳ thẻ nào!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="Không có thẻ hợp lệ để dùng Bài Thay Thế."
+
+"WILDCARD_YOUR_CARDS"="Thẻ của bạn"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="Nhận Bài Thay Thế để nâng cấp thẻ của bạn!"
+
+"COLLECTION_TYPE_BANNER"="BIỂU NGỮ HỒ SƠ"
+
+"COLLECTION_TYPE_TITLE"="DANH HIỆU HỒ SƠ"
+
+"COLLECTION_TYPE_AVATAR"="ẢNH HỒ SƠ"
+
+"BANNER_BANDITS"="Sào Huyệt Cướp Bóc"
+
+"BANNER_BASICBLUE"="Xanh Ether"
+
+"BANNER_BASICGREEN"="Xanh Tươi Tốt"
+
+"BANNER_BASICPURPLE"="Tím Huyền Bí"
+
+"BANNER_BASICRED"="Đỏ Tàn Lửa"
+
+"BANNER_BASICYELLOW"="Vàng Mặt Trời"
+
+"BANNER_DESERT"="Ngoại Ô Hammerhold"
+
+"BANNER_DESERT2"="Đụn Cát Tàn Lửa"
+
+"BANNER_LINIREA"="Đồng Xanh Linirea"
+
+"BANNER_LINIREA"="Đồng Xanh Linirea"
+
+"BANNER_LINIREA2"="Vùng Đất Nông Nghiệp"
+
+"BANNER_MOUNTAIN"="Cao Nguyên Đỉnh Băng"
+
+"BANNER_TRAINING"="Sân Tập Doanh Trại"
+
+"BANNER_TRAINING2"="Trường Bắn Cung"
+
+"AVATAR_FOOTMAN"="LÍNH BỘ BINH LINIREA"
+
+"AVATAR_GOBLIN"="YÊU TINH NGHỊCH NGỢM"
+
+"HERO_MALIK_NAME"="Vua Malik"
+
+"HERO_MALIK_DESCRIPTION"="Dữ dội trong chiến đấu, anh vươn lên từ một tù nhân tan vỡ ở Mỏ Đá Máu thành huyền thoại được tôi luyện trong bão tố. Cầm lấy chiếc búa rơi, anh đập tan xiềng xích và mở đường qua vô số trận chiến với tư cách là nhà vô địch không thể ngăn cản của Linirea, cho đến khi chiếm lĩnh ngai vàng làm Vua Hammerhold, nay là người bảo vệ bất khuất của dân tộc mình."
+
+"HERO_MALIK_SHORT_DESC"="- Sát thương cao vào địch mạnh nhất.<br>- Câm tháp đối thủ.<br>- Nhảy xa được."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ THẺ HUYỀN THOẠI MỚI<br>VUA MALIK"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="Mỗi đòn tấn công của Malik phá hủy giáp và kháng phép của kẻ thù trong vài giây."
+
+"HERO_MALIK_SKILL_0_NAME"="Vô Hiệu Hóa"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="Triệu hồi một cú sét mạnh mẽ làm câm lặng một số tháp của đối thủ, vô hiệu hóa khả năng của chúng trong vài giây và giảm sát thương chúng gây ra."
+
+"HERO_MALIK_SKILL_1_NAME"="Sấm Sét"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="Nhắm vào kẻ thù kiên cường nhất trên bản đồ, tấn công bằng sét và gây sát thương tương đương một tỷ lệ phần trăm tổng máu của nó."
+
+"HERO_MALIK_SKILL_2_NAME"="Sét Phá Xiềng"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="Khi di chuyển khoảng cách dài, anh nhảy lên và đập xuống đất, gây sát thương vùng cho quái vật gần đó và làm choáng chúng trong vài giây."
+
+"HERO_MALIK_SKILL_3_NAME"="Địa Chấn"
+
+"PROFILE_TITLE_S1_FREE"="TIÊN PHONG"
+
+"PROFILE_TITLE_S1_GOLD"="CHIẾN BINH CÁT"
+
+"PROFILE_TITLE_S1_PLATINUM"="KẺ PHÁ XIỀNG"
+
+"EMOTE_ALRIC_FACEPALM"="Alric Úp Mặt"
+
+"EMOTE_MALIK_BOLT"="Tia Sét của Malik"
+
+"SEASON_PASS_COMMON_PASS"="Thẻ<br>Thường"
+
+"SEASON_PASS_GOLDEN_PASS"="Thẻ<br>Vàng"
+
+"SEASON_PASS_PLATINUM_PASS"="Thẻ<br>Bạch Kim"
+
+"AVATAR_MAGE"="HỌC VIỆC PHÁP SƯ"
+
+"AVATAR_SHEEP"="CON CỪU ĐIÊN"
+
+"AVATAR_YOUNGMALIK"="MALIK TRẺ"
+
+"BUTTON_REROLL"="TUNG LẠI"
+
+"BUTTON_KEEP"="GIỮ LẠI"
+
+"N_ROLLS_REMAINING"="Còn lại: {0}"
+
+"SEASON_PASS_TIME_LEFT"="Thời Gian Còn Lại"
+
+"CHEST_INFO_NAME_SEASON_FREE"="Hòm Thường"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="Hòm Huyền Bí"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="Hòm Thưởng"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="Hòm Thần Thoại"
+
+"SEASON_PASS_SEASON_NUMBER"="Kingdom Pass - Mùa 1"
+

@@ -1,0 +1,24 @@
+{
+	"CreepArmoredGoblin":{
+
+		"goldReward": [ 8 ],
+
+		"health": [ 40 ],
+		"armor": [ 70 ],
+		"magicResistance": [ 0 ],
+
+		"speed": [ 0.80 ],
+
+		"basic_attack":{
+			"disabled": [ false ],
+			"cooldown": [ 1.0 ],
+
+			"damage":{
+				"abilityType": ["BasicAttack"],
+				"minDamage":[ 8 ],
+				"maxDamage":[ 12 ],
+				"damageType":[ "Physical" ]
+			}
+		}
+	}
+}

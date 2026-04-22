@@ -1,0 +1,10 @@
+{
+    "GolemFlyingArmor": {
+        "ai": {
+            "tags": [
+                "flying",
+                "armor"
+            ]
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "CreepGoblinCopter": {
+        "goldReward": [
+            23
+        ],
+        "health": [
+            180
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.7
+        ],
+        "ai": {
+            "weightMultiplier": [
+                50.0
+            ],
+            "stoppingweightmultiplier": [
+                10.0
+            ],
+            "threatlevel": [
+                1.1
+            ]
+        }
+    }
+}

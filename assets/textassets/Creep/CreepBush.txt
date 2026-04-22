@@ -1,0 +1,18 @@
+{
+    "CreepBush": {
+        "speed": [
+            1.6
+        ],
+        "health": [
+            300
+        ],
+        "ai": {
+            "weightMultiplier": [
+                1.0
+            ],
+            "blockweightmultiplier": [
+                2.0
+            ]
+        }
+    }
+}

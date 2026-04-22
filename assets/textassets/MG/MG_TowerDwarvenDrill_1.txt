@@ -1,0 +1,84 @@
+{
+    "MG_TowerDwarvenDrill_1": {
+        "stats": {
+            "COST": [
+                90
+            ],
+            "CARD_RANK": [
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+",
+                "EX"
+            ],
+            "UNIT_ATTACK_SPEED": [
+                3.0
+            ],
+            "UNIT_MIN_AREA_DAMAGE": [
+                77,
+                89,
+                102,
+                117,
+                135,
+                155,
+                178,
+                205,
+                236,
+                271,
+                312,
+                358,
+                412,
+                474,
+                545
+            ],
+            "UNIT_MAX_AREA_DAMAGE": [
+                88,
+                101,
+                116,
+                134,
+                154,
+                177,
+                204,
+                234,
+                269,
+                310,
+                356,
+                409,
+                471,
+                541,
+                623
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_ARTILLERY"
+            ],
+            "RANGE": [
+                145
+            ]
+        },
+        "skill1": {
+            "DURATION": [
+                0.3
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Increase_Units_HP"
+                ],
+                "perkPercentage": [
+                    5
+                ]
+            }
+        }
+    }
+}

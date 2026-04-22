@@ -1,0 +1,9 @@
+{
+    "GoblinBalloon": {
+        "ai": {
+            "tags": [
+                "flying"
+            ]
+        }
+    }
+}

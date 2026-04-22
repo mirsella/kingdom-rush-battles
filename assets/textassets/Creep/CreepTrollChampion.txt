@@ -1,0 +1,88 @@
+{
+    "CreepTrollChampion": {
+        "goldReward": [
+            29
+        ],
+        "goldRewardShiny": [
+            125
+        ],
+        "health": [
+            190
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.8
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    10.0
+                ],
+                "maxDamage": [
+                    12.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.2
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    18.0
+                ],
+                "maxDamage": [
+                    22.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    4
+                ],
+                "maxHeal": [
+                    4
+                ],
+                "percentageHeal": [
+                    1
+                ]
+            }
+        }
+    }
+}

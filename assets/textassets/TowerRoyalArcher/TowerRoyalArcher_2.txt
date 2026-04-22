@@ -1,0 +1,58 @@
+{
+    "tower_royal_archer_2": {
+        "cost": [
+            150
+        ],
+        "basic_attack": {
+            "range": [
+                2.15
+            ],
+            "cooldown": [
+                0.6
+            ],
+            "damage": {
+                "minDamage": [
+                    8.4,
+                    9.7,
+                    11.1,
+                    12.8,
+                    14.7,
+                    16.9,
+                    19.4,
+                    22.3,
+                    25.7,
+                    29.6,
+                    34.0,
+                    39.1,
+                    44.9,
+                    51.7,
+                    59.4
+                ],
+                "maxDamage": [
+                    9.5,
+                    10.9,
+                    12.5,
+                    14.4,
+                    16.5,
+                    19.0,
+                    21.9,
+                    25.1,
+                    28.9,
+                    33.2,
+                    38.2,
+                    44.0,
+                    50.6,
+                    58.1,
+                    66.9
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "COMMENT": "Extra damage to flying units",
+                "damageMovementPercentage": [
+                    140
+                ]
+            }
+        }
+    }
+}

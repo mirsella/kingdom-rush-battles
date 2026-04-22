@@ -1,0 +1,11 @@
+{
+    "BanditLeader": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "armor",
+				"bulk"
+            ]
+        }
+    }
+}

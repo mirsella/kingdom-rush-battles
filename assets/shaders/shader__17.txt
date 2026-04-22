@@ -1,0 +1,15 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/InternalErrorShader" {
+Properties {
+
+}
+SubShader {
+ Pass {
+  GpuProgramID 18613
+}
+}
+}

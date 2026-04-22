@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "Custom_Range_Green",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0)), ('_EmissionColor', ColorRGBA(r=0.0, g=0.0, b=0.0, a=1.0)), ('_Tint', ColorRGBA(r=0.551948070526123, g=1.0, b=0.0, a=1.0)), ('_TintColor', ColorRGBA(r=0.5, g=0.5, b=0.5, a=0.5))], m_Floats=[('_Alpha', 1.0), ('_B', 0.11372549086809158), ('_Brightness', 0.5), ('_BumpScale', 1.0), ('_ColorMask', 15.0), ('_Contrast', 0.5), ('_Cutoff', 0.5), ('_DetailNormalMapScale', 1.0), ('_DstBlend', 0.0), ('_EffectAmount', 1.0), ('_G', 0.71484375), ('_GlossMapScale', 1.0), ('_Glossiness', 0.5), ('_GlossyReflections', 1.0), ('_Hue', 0.0), ('_InvFade', 1.0), ('_Metallic', 0.0), ('_Mode', 0.0), ('_OcclusionStrength', 1.0), ('_Parallax', 0.019999999552965164), ('_R', 0.4453125), ('_Saturation', 0.5), ('_SmoothnessTextureChannel', 0.0), ('_SpecularHighlights', 1.0), ('_SrcBlend', 1.0), ('_Stencil', 0.0), ('_StencilComp', 8.0), ('_StencilOp', 0.0), ('_StencilReadMask', 255.0), ('_StencilWriteMask', 255.0), ('_UVSec', 0.0), ('_ZWrite', 1.0)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=2, m_PathID=4923884430469358151, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

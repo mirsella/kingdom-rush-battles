@@ -1,0 +1,44 @@
+{
+	"Damage" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Last_life" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

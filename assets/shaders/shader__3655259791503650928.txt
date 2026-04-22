@@ -1,0 +1,26 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Custom/Hard Light" {
+Properties {
+
+_Opacity ("Opacity", Range(0, 1)) = 1.0
+
+_MainTex ("Texture", 2D) = "white" { }
+
+}
+SubShader {
+ Tags { "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ GrabPass {
+ "_sharedGrabTexture"
+}
+ Pass {
+  Tags { "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZWrite Off
+ Cull Off
+  GpuProgramID 62867
+}
+}
+}

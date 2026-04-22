@@ -1,0 +1,65 @@
+{
+    "CreepBanditGlider": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            104,
+            156,
+            208,
+            260
+        ],
+        "armor": [
+            0.0
+        ],
+        "magicResistance": [
+            0.0
+        ],
+        "speed": [
+            2.0
+        ],
+        "explosion": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                24,
+                36,
+                48,
+                60
+            ],
+            "COMMENT": "Below this health value if cooldown reached, it will make this ability",
+            "healthThreshold": [
+                10
+            ],
+            "damage": {
+                "areaRange": [
+                    0.4
+                ],
+                "minDamage": [
+                    24,
+                    36,
+                    48,
+                    60
+                ],
+                "maxDamage": [
+                    32,
+                    48,
+                    64,
+                    80
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

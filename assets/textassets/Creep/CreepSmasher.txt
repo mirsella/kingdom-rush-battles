@@ -1,0 +1,109 @@
+{
+    "CreepSmasher": {
+        "goldReward": [
+            0
+        ],
+        "goldRewardShiny": [
+            0
+        ],
+        "health": [
+            342,
+            798,
+            1140,
+            1425
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.6
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.3
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    11,
+                    25,
+                    36,
+                    45
+                ],
+                "maxDamage": [
+                    17,
+                    39,
+                    56,
+                    70
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "areaRange": [
+                    0.4
+                ]
+            }
+        },
+        "range_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                8.0
+            ],
+            "range": [
+                1.8
+            ],
+            "damage": {
+                "minDamage": [
+                    12,
+                    28,
+                    40,
+                    50
+                ],
+                "maxDamage": [
+                    15,
+                    35,
+                    50,
+                    63
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "areaRange": [
+                    1
+                ]
+            }
+        },
+        "siege": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                18.0,
+                16.0,
+                16.0,
+                16.0
+            ],
+            "range": [
+                1.8
+            ],
+            "siege": {
+                "duration": [
+                    6,
+                    8,
+                    10,
+                    10
+                ]
+            }
+        }
+    }
+}

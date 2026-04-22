@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="Dengan menekan -Terima-, saya mengonfirmasi bahwa saya telah membaca dan menerima Syarat & Ketentuan serta Kebijakan Privasi"
+
+"BUTTON_CONSENT"="Mengelola Persetujuan"
+
+"BUTTON_ACCEPT"="Terima"
+
+"BUTTON_BATTLE"="PERTEMPURAN!"
+
+"BUTTON_CANCEL"="BATAL"
+
+"BUTTON_CONNECT_APPLE"="Masuk dengan Apple"
+
+"BUTTON_CONNECT_GOOGLE"="Conectar dengan Google"
+
+"BUTTON_CONNECT_GUEST"="Main sebagai tamu"
+
+"BUTTON_LOGOUT"="Keluar"
+
+"BUTTON_LOGOUT_YES"="Ya, keluar"
+
+"BUTTON_LOGOUT_NO"="Tidak, tetap masuk"
+
+"BUTTON_EXIT"="Lanjutkan"
+
+"BUTTON_EXTERNAL"="Terjun ke pertempuran melawan penantang baru!"
+
+"BUTTON_FEEDBACK"="Umpan Balik"
+
+"BUTTON_HELP_US"="Bantu Kami!"
+
+"BUTTON_KEEP_CLOUD"="Gunakan penyimpanan awan"
+
+"BUTTON_KEEP_LOCAL"="Pertahankan simpanan lokal"
+
+"BUTTON_LOCKED"="Terkunci"
+
+"BUTTON_NEXT"="Selanjutnya"
+
+"BUTTON_OFF"="Off"
+
+"BUTTON_ON"="On"
+
+"BUTTON_PRIVACY_POLICY"="Kebijakan Privasi"
+
+"BUTTON_RECONNECT"="SAMBUNG KEMBALI"
+
+"BUTTON_RETRY"="COBA LAGI"
+
+"BUTTON_SETTINGS"="Pengaturan"
+
+"BUTTON_SUPPORT"="Suporte"
+
+"BUTTON_TERMS"="Syarat"
+
+"BUTTON_USER"="Pengguna akun"
+
+"BUTTON_DELETE_ACCOUNT"="Hapus akun"
+
+"BUTTON_UPGRADE"="Tingkatkan"
+
+"BUTTON_CLAIM_PRIZE"="Gratis peti!"
+
+"BUTTON_COLLECTION"="Koleksi"
+
+"BUTTON_SHOP"="Toko"
+
+"BUTTON_BATTLE_TAB"="Pertempuran"
+
+"BUTTON_EVENTS_TAB"="Acara"
+
+"EVENTS_COMING_SOON"="Segera hadir..."
+
+"BUTTON_CLANS_TAB"="Kerajaan"
+
+"BUTTON_INFO"="Info"
+
+"BUTTON_USE"="Gunakan"
+
+"BUTTON_EQUIP"="Pakai"
+
+"BUTTON_UNEQUIP"="Lepas"
+
+"BUTTON_SKILLS"="KETERAMPILAN"
+
+"BUTTON_STATS"="STATISTIK"
+
+"BUTTON_STAGES"="Tahap"
+
+"BUTTON_CREEPS"="Musuh"
+
+"BUTTON_BOOSTERS"="Booster"
+
+"BUTTON_OK"="OK"
+
+"BUTTON_OPEN_INSTANTLY"="Lewati"
+
+"BUTTON_CONFIRM"="Konfirmasi"
+
+"BUTTON_MUSIC_VOLUME"="Volume musik"
+
+"BUTTON_SFX_VOLUME"="Volume efek"
+
+"BUTTON_COPY_ID"="ID"
+
+"BUTTON_ALREADY_SIGNED"="Sudah masuk"
+
+"BUTTON_GUEST_CONTINUE"="Lanjutkan"
+
+"BUTTON_RESTART"="MULAI LAGI"
+
+"BUTTON_ACCOUNT_WARNING_YES"="Ya, masuk"
+
+"BUTTON_ACCOUNT_WARNING_NO"="Tidak, pertahankan akun saat ini"
+
+"BUTTON_MISSIONS"="Misi"
+
+"BUTTON_GIFT"="Klaim Hadiah"
+
+"BUTTON_QUIT"="KELUAR"
+
+"CARD_LOCKED_DESCRIPTION_1"="Main"
+
+"CARD_LOCKED_DESCRIPTION_2"="Temukan kartu ini di peti untuk membukanya"
+
+"CARD_RARITY_COMMON"="Umum"
+
+"CARD_RARITY_EPIC"="Epik"
+
+"CARD_RARITY_LEGENDARY"="Legendaris"
+
+"CARD_RARITY_RARE"="Langka"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="Kerusakan area maks"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="Kerusakan area min"
+
+"CARD_STAT_AREA_OF_EFFECT"="Area efek"
+
+"CARD_STAT_BUFF_PERCENTAGE"="Buff"
+
+"CARD_STAT_ARMOR_REDUCTION"="Pengurangan armor"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="Pengurangan Res. Sihir"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="Peluang"
+
+"CARD_STAT_COOLDOWN"="Cooldown"
+
+"CARD_STAT_COST"="Biaya"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="DOT"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT maks"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT min"
+
+"CARD_STAT_DAMAGE_TYPE"="Jenis kerusakan"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="Artileri"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="Artileri / Sihir"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="Sihir"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="Fisik"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="Sejati"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="Debuff"
+
+"CARD_STAT_DURATION"="Durasi"
+
+"CARD_STAT_HEAL_HP"="Disembuhkan HP"
+
+"CARD_STAT_HEAL_HP_MAX"="Sembuh Maks"
+
+"CARD_STAT_HEAL_HP_MIN"="Sembuh Min"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="Unit Terpengaruh"
+
+"CARD_STAT_MAX_DAMAGE"="Kerusakan Maks"
+
+"CARD_STAT_MIN_DAMAGE"="Kerusakan Min"
+
+"CARD_STAT_NUMBER_OF_UNITS"="Jumlah unit"
+
+"CARD_STAT_RANGE"="Jarak"
+
+"CARD_STAT_STRIKE_COUNT"="Pukulan"
+
+"CARD_STAT_ARMOR_PIERCING"="Penetrasi"
+
+"CARD_STAT_UNIT_ARMOR"="Baju zirah"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="Kec. Serangan"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="Kec. Serangan"
+
+"CARD_STAT_UNIT_HP"="Kesehatan"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="Ketahanan sihir"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="Kerusakan area maksimal"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="Kerusakan maksimal"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="Kerusakan maksimal"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="Kerusakan area"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="Kerusakan minimum"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="Kerusakan minimum"
+
+"CARD_STAT_UNIT_SPEED"="Kecepatan"
+
+"CARD_STAT_UNIT2_ARMOR"="Unit 2 Armor"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="Kecepatan Serangan Unit 2"
+
+"CARD_STAT_UNIT2_HP"="Unit 2 Kesehatan"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="Kerusakan maksimum unit 2"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="Kerusakan minimum unit 2"
+
+"CARD_STAT_LEVEL_TEXT"="LV"
+
+"CARD_STAT_DAMAGE"="Kerusakan"
+
+"CARD_STAT_RANGED_DAMAGE"="Kerusakan Jarak Jauh"
+
+"CARD_STAT_ARMOR_TYPE"="Jenis Armor"
+
+"CARD_STAT_VERY_LOW"="Sangat rendah"
+
+"CARD_STAT_LOW"="Rendah"
+
+"CARD_STAT_MEDIUM"="Sedang"
+
+"CARD_STAT_HIGH"="Tinggi"
+
+"CARD_STAT_VERY_HIGH"="Sangat Tinggi"
+
+"CARD_STAT_NONE"="Tidak ada"
+
+"CARD_STAT_CARD_RANK"="Tingkat"
+
+"CARD_STAT_CARD_CARD_TYPE"="Jenis"
+
+"CARD_STAT_HP_REDUCTION"="Pengurangan kesehatan"
+
+"CARD_STAT_SLOW"="Lambat"
+
+"CARD_STAT_HP_TO_ACTIVATE"="Persentase kesehatan"
+
+"CARD_STAT_TILES_PUSHED"="Ubah ubin"
+
+"CARD_TYPE_BARRACK"="BARAK"
+
+"CARD_TYPE_RANGED"="JARAK JAUH"
+
+"CARD_TYPE_MAGIC"="SIHIR"
+
+"CARD_TYPE_ARTILLERY"="ARTILERI"
+
+"CARD_TYPE_DAMAGE"="KERUSAKAN"
+
+"CARD_TYPE_SUMMON"="MEMANGGIL"
+
+"CARD_TYPE_UTILITY"="KEGUNAAN"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="DUKUNGAN"
+
+"CARD_TYPE_TANK"="TANK"
+
+"CARD_TYPE_FLYING"="TERBANG"
+
+"TOWER_STATS"="STATISTIK MENARA"
+
+"HERO_STATS"="STATISTIK HERO"
+
+"SPELL_STATS"="STATISTIK MANTRA"
+
+"CHECKING_UPDATES"="MEMERIKSA PEMBARUAN"
+
+"CLAIM_HERO_DESCRITPION"="Bagikan umpan balik Anda melalui survei singkat dan dapatkan peti luar biasa sambil membantu kami meningkatkan permainan kami."
+
+"FREE_CHEST_VIEW_TITLE"="DAPATKAN SEBUAH KOTAK!"
+
+"CONNECTING"="MENGHUBUNGKAN"
+
+"CONNECTION_LOST_CHECK_INTERNET"="Periksa koneksi internet Anda"
+
+"CONNECTION_LOST_BUTTON"="ULANGI"
+
+"CONNECTION_LOST_RECONNECTING"="Menyambungkan"
+
+"CONNECTION_LOST_TITLE"="Koneksi terputus"
+
+"USER_ACCESS_TEXT"="Masuk atau buat akun"
+
+"24_HR_NOTIFICATION_TITLE"="Kerajaanmu membutuhkanmu!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="Pertahankan menara Anda dari penantang baru!"
+
+"48_HR_NOTIFICATION_TITLE"="Saatnya bertempur!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="Kartu kuat baru menanti! Tingkatkan dek Anda dan hancurkan musuh Anda. Bertarunglah sekarang!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="Dapatkan lebih banyak hadiah!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="Hadiah kuat menanti di peti bintang. Masuk dan klaim sekarang!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="Waktunya mengumpulkan"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Petarung Anda siap! Menangkan pertandingan untuk membuka hadiah hebat!"
+
+"DAILY_CHEST_RESET"="Pertempuran peti akan direset dalam:"
+
+"OPEN_BATTLE_CHEST"="Selamat! Buka peti untuk mendapatkan hadiahmu!"
+
+"OPEN_BATTLE_WIN"="Menang"
+
+"BATTLE_CHEST_INSTRUCTIONS"="lebih banyak pertandingan untuk membuka peti ini!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="pertandingan untuk membuka peti ini!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="Psst... Waktunya dapatkan bintang!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Jangan tunggu, ambil bintangmu dan buka hadiah epik!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="Hadiah Anda Menanti!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="Klaim hadiah Trophy Road Anda sekarang—jangan sampai ketinggalan!"
+
+"ROOKIE_NOTIFICATION_TITLE"="Teruskan!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="Anda sedang dalam performa terbaik! Buka trofi, naik level, dan tingkatkan dek Anda!"
+
+"DECK_BUILDER_DECK"="DEK"
+
+"DECK_BUILDER_EMOJIS"="EMOTIKON"
+
+"DECK_BUILDER_FILTER_LEVEL"="LEVEL"
+
+"DECK_BUILDER_FILTER_RARITY"="LANGKA"
+
+"DECK_BUILDER_FILTER_RANK"="TINGKAT"
+
+"DECK_BUILDER_FILTER_TYPE"="TIPE"
+
+"DECK_BUILDER_FOUND"="Ditemukan"
+
+"DECK_BUILDER_HEROES"="PAHLAWAN"
+
+"DECK_BUILDER_SPELLS"="MANTRA"
+
+"DECK_BUILDER_TOWERS"="MENARA"
+
+"DOWNLOADING"="Memperbarui..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="Tidak, pertahankan akun saya"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="Ya, hapus akun saya"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="BACA LEBIH LANJUT"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="Anda akan meminta penghapusan permanen akun Anda dan semua informasi pribadi Anda. Jika Anda mengklik 'Ya', kami akan menghapus semua data akun Anda, termasuk: akses, semua item yang dibeli dan diperoleh, kemajuan permainan, dan level."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="Anda akan meminta penghapusan permanen akun Anda dan semua informasi pribadi Anda. Jika Anda mengklik 'Ya', kami akan menghapus semua data akun Anda, termasuk: akses, semua item yang dibeli dan diperoleh, kemajuan permainan, dan level.\n\nSelama {0} hari Anda dapat membatalkan permintaan Anda. Setelah periode ini, proses tidak dapat dibatalkan! Jika Anda kembali ke permainan, akun baru akan dibuat."
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="Apakah Anda yakin ingin menghapus akun Anda?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="Anda memiliki {0} hari untuk mengubah pikiran Anda.\nSetelah itu, akun Anda akan dihapus secara permanen."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="Kami telah mendaftarkan permintaan penghapusan Anda"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="Akun Anda dijadwalkan untuk dihapus"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="Jika Anda berubah pikiran dan ingin terus bermain, klik ""batalkan penghapusan"".\nJika tidak, Miniclip akan memulai penghapusan permanen akun Anda dalam {0} hari."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="Batalkan penghapusan"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="Lanjutkan penghapusan"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="Tidak ada perubahan yang dilakukan pada akun Anda.\nAnda dapat memulai ulang proses penghapusan permanen kapan saja dari pengaturan permainan."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="Proses penghapusan telah dibatalkan"
+
+"SAVE_WARNING_TITLE"="SIMPAN KEMAJUAN ANDA"
+
+"SAVE_WARNING_TEXT"="Hubungkan akun Anda untuk menyimpan kemajuan"
+
+"ERROR_DECK_INCOMPLETE"="PERANGKAT PERANG ANDA TIDAK LENGKAP!"
+
+"ERROR_ALREADY_BOUGHT"="SUDAH DIBELI!"
+
+"ERROR_PURCHASE_TITLE"="Pembelian gagal"
+
+"ERROR_PURCHASE_DESCRIPTION"="Terjadi kesalahan saat memproses pembelian ini. Silakan coba lagi."
+
+"ERROR_NOT_ENOUGH_GEMS"="Permata tidak cukup!"
+
+"ERROR_NOT_ENOUGH_GOLD"="Tidak cukup koin!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="Kesalahan mengubah nama pengguna"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="Terjadi kesalahan saat mengubah nama pengguna, silakan coba lagi"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="Terjadi kesalahan saat memperbarui konten game. Pastikan perangkat Anda memiliki ruang penyimpanan yang cukup dan terhubung ke internet, lalu coba lagi."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="Pembaruan gagal"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="Terjadi kesalahan saat menghubungkan ke server game. Verifikasi bahwa Anda terhubung ke internet."
+
+"ERROR_CONNECTING_SERVER_TITLE"="Koneksi error"
+
+"ERROR_WAITING_PLAYER_TITLE"="Lawan menyerah"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="Pihak lawan sepertinya telah keluar dari permainan."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="PENGHATURAN PENGGUNA SALAH"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="Terjadi kesalahan saat membuat pengguna baru untuk perangkat ini."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="Kesalahan masuk Apple"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="Terjadi kesalahan saat masuk dengan akun Apple Anda. Silakan coba lagi."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="Terjadi kesalahan saat mengambil token akses. Silakan coba masuk lagi."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Terjadi kesalahan saat menautkan akun. Silakan coba masuk lagi."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="Kesalahan masuk Google"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="Terjadi kesalahan saat masuk dengan akun Google Anda. Silakan coba lagi."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="Terjadi kesalahan saat mengambil token akses. Silakan coba masuk lagi."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="Terjadi kesalahan saat memvalidasi token akses. Silakan coba masuk lagi."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Terjadi kesalahan saat menautkan akun. Silakan coba masuk lagi."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="Terjadi kesalahan saat beralih antara pengguna lokal dengan pengguna jarak jauh. Silakan coba masuk lagi."
+
+"ERROR_FRAMEDIFF_TITLE"="Deteksi curang"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="Kami mendeteksi aktivitas mencurigakan dari salah satu pemain, dan tidak mungkin untuk melanjutkan pertandingan."
+
+"ERROR_FRAMEDIFF_BUTTON"="Lanjut"
+
+"ERROR_INVALID_SESSION_TITLE"="Sesuatu yang salah!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="Perangkat Anda telah kedaluwarsa. Aplikasi sekarang akan dimuat ulang."
+
+"ERROR_USER_CANCELED_OPERATION"="Pengguna membatalkan operasi."
+
+"BUTTON_SUMMON"="Memanggil"
+
+"EVENTS_SUMMON_RIFT_TITLE"="Panggilan Rift"
+
+"EVENTS_ONSLAUGHT_TITLE"="Serangan"
+
+"EVENTS_COIN_FARM_TITLE"="Koin Pertanian"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="Panggil kartu eksklusif yang kuat!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="Kalahkan setiap musuh secepat mungkin!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="Gunakan Farm untuk mengisi celengan Anda!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="{0} kali pemanggilan dan terima {1} !"
+
+"DATA_WARNING_WINDOW_TITLE"="Permainan tersimpan terdeteksi!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="Kami menemukan permainan yang disimpan yang berbeda di akun Anda. Apakah Anda ingin menggunakan penyimpanan cloud atau mempertahankan yang lokal?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="Akun terdeteksi!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="Anda mencoba masuk ke akun yang sudah terhubung dengan ID Kingdom Rush Battles lainnya. Apakah Anda ingin masuk ke akun ini meskipun begitu? (sesi saat ini akan ditutup)"
+
+"LOGOUT_WINDOW_TITLE"="PERINGATAN!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="Jika Anda keluar, kemajuan di perangkat ini akan direset; namun, data akun Anda akan tetap di cloud.\nApakah Anda ingin keluar juga? (sesi saat ini akan ditutup)"
+
+"GAME_MSG_DEFEAT"="KALAH!"
+
+"GAME_MSG_DRAW"="SERI!"
+
+"GAME_MSG_FINAL_WAVE"="Pertarungan Boss!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="NAIK LEVEL"
+
+"GAME_MSG_VERSUS"="melawan"
+
+"GAME_MSG_VICTORY"="KEMENANGAN!"
+
+"GAME_MSG_WAITING_OPPONENT"="Menunggu lawan"
+
+"GAME_MSG_WAVE_NUMBER"="Gelombang {0}"
+
+"GAME_MODIFIERS_TITLE"="PILIH BOOSTER"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="PENYINTAS"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="Bertahan hingga gelombang 4"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="PENAKLUK"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="Menangkan pertandingan"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="TAK TIDAK TERHANCUR"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="Jangan kehilangan satu hati pun"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="SERBUAN KILAT"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="Sebelum gelombang 4, menang"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="PENANTANG"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="Capai gelombang terakhir"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="PEMBUNUH"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="Bunuh bos terakhir"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="MAESTRIA"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="Kemenangan di Bootcamp!"
+
+"GAME_UPDATE_BUTTON"="PERBARUI"
+
+"GAME_UPDATE_DESCRIPTION"="Permainan baru versi tersedia di toko."
+
+"GAME_UPDATE_TITLE"="PEMBARUAN TERSEDIA!"
+
+"MAINTENANCE_MODE_BUTTON"="KELUAR"
+
+"MAINTENANCE_MODE_DESCRIPTION"="Permainan akan ditutup sampai pembaruan selesai"
+
+"MAINTENANCE_MODE_TITLE"="Pemeliharaan Mode"
+
+"INITIALIZING"="INISIALISASI"
+
+"LOADING"="MEMUAT"
+
+"SLOW_CONNECTION"="KONEKSI LAMBAT"
+
+"LOADING_WAITING_OPPONENT"="MENUNGGU LAWAN"
+
+"LOADING_SYNC_PLAYERS"="SINKRONISASI PEMAIN"
+
+"MATCH_MAKING_TIP_1"="Musuh dengan armor fisik lemah terhadap sihir, dan sebaliknya."
+
+"MATCH_MAKING_TIP_10"="Musuh dengan koin menjatuhkan emas ekstra saat dibunuh."
+
+"MATCH_MAKING_TIP_2"="Tempatkan Artileri dekat Barak untuk kerusakan terkonsentrasi."
+
+"MATCH_MAKING_TIP_3"="Musuh terbang tidak bisa diblokir; coba gunakan Menara Pemanah."
+
+"MATCH_MAKING_TIP_4"="Menara memiliki keterampilan unik di Tingkat Upgrade 3."
+
+"MATCH_MAKING_TIP_5"="Pilih Booster yang tahan terhadap menara lawanmu."
+
+"MATCH_MAKING_TIP_6"="Menjual menara mengembalikan persentase dari biaya mereka."
+
+"MATCH_MAKING_TIP_7"="Lihat informasi Arena untuk statistik dan keterampilan musuh."
+
+"MATCH_MAKING_TIP_8"="Seimbangnya dek harus mencakup 1 dari setiap jenis Menara."
+
+"MATCH_MAKING_TIP_9"="Selesaikan gelombang lebih cepat dari lawan Anda untuk mendapatkan emas ekstra."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="Dapatkan pengalaman pemain untuk meningkatkan level booster Anda"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="Musuh ini akan muncul dari portal di berbagai tahap."
+
+"SEARCHING_FOR_OPPONENT"="Mencari\nlawan..."
+
+"SURVEY_POPUP"="Masukan Anda sangat berharga bagi kami! Bagikan pemikiran Anda dengan mengikuti survei singkat (2 - 3 menit). Tanggapan Anda akan membantu kami mengidentifikasi area untuk perbaikan dan menambahkan fitur untuk meningkatkan permainan dan menciptakan pengalaman yang lebih menarik bagi semua pemain."
+
+"TAB_BATTLE"="Pertempuran"
+
+"TAB_COLLECTION"="Koleksi"
+
+"TAB_SHOP"="Toko"
+
+"TERRAIN_COLISEUM_NAME"="STADION"
+
+"TERRAIN_COLISEUM_DESC"="Tantang diri Anda melawan pemain lain di Stadion berperingkat ini, bertarung melawan musuh dan tahap sebelumnya untuk mendapatkan Medali.\nSekarang adalah waktu Anda untuk menjadi pemain Battle Towers terbaik di dunia!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="Sarang Bandit"
+
+"TERRAIN_FOREST_1_NAME"="HUTAN SILVEROAK"
+
+"TERRAIN_FOREST_2_NAME"="Hutan Silveroak"
+
+"TERRAIN_FOREST_3_NAME"="Hutan Silveroak"
+
+"TERRAIN_MOUNTAIN_1_NAME"="GUNUNG AWAN BADAI"
+
+"TERRAIN_MOUNTAIN_2_NAME"="GUNUNG AWAN BADAI"
+
+"TERRAIN_MOUNTAIN_3_NAME"="Pegunungan Awan Badai"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="SARANG BANDIT"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="Sarang Bandit"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="Sarang Bandit"
+
+"TERRAIN_TRAINING_NAME"="Kamp Pelatihan"
+
+"STAGE_TRAINING_1"="Tempat Latihan"
+
+"STAGE_FOREST_1"="Southport"
+
+"STAGE_FOREST_2"="Ladang"
+
+"STAGE_FOREST_3"="Ladang"
+
+"STAGE_FOREST_4"="Pinggiran"
+
+"STAGE_FOREST_5"="Tepi Sungai"
+
+"STAGE_MOUNTAIN_1"="Jalur Beku"
+
+"STAGE_MOUNTAIN_2"="Puncak Kembar"
+
+"STAGE_MOUNTAIN_3"="Sarang Troll"
+
+"STAGE_MOUNTAIN_4"="Jalur Angin Es"
+
+"STAGE_MOUNTAIN_5"="Jurang Es"
+
+"STAGE_BANDITS_1"="Tanah Lumpur"
+
+"STAGE_BANDITS_2"="Kamp Perampok"
+
+"STAGE_BANDITS_3"="Jalur Ular"
+
+"STAGE_BANDITS_4"="Persimpangan Orang Mati"
+
+"STAGE_BANDITS_5"="Hutan Sunyi"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="Selamat datang di <color=#0DA7FF>Kingdom Rush Battles</color>! <br>Mari kita pelajari dasar-dasarnya..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="Saatnya bertahan! Mari <color=#0DA7FF>bangun Menara</color> untuk menghentikan Goblin liar ini sebelum mereka melarikan diri!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="Kerja bagus! Kamu <color=#0DA7FF>mendapatkan Emas</color> dari musuh yang dikalahkan. Mari gunakan untuk membangun menara lain."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="Awas! Musuh sedang melewati! Jika mereka lolos, kamu akan kehilangan nyawa. <color=#0DA7FF>Tingkatkan menara kamu</color> untuk memberikan lebih banyak kerusakan!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="Hati-hati! Musuh sedang melewati! Jika mereka lolos, Anda akan <color=#0DA7FF>kehilangan nyawa</color>."
+
+"NEW_TUTORIAL_1_MSG_HERO"="<color=#0DA7FF>Pahlawan</color> Gerald bergabung dalam pertempuran! Seret dia lebih dekat ke musuh untuk terlibat dalam pertempuran!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="Musuh yang lebih kuat akan datang! Mari <color=#0DA7FF>gunakan Mantra!</color> Seret untuk melepaskan Hujan Api ke medan perang!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="Pertempuran meluas ke atas! Hadapi jenderal lain - <color=#0DA7FF>yang terakhir bertahan menang</color>. Semoga berhasil!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="Ayo mulai!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="Lawan <color=#0DA7FF>akan segera kalah!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>Pilih booster!</color> Mereka dapat memperkuat pertahanan Anda, atau membuat gelombang lawan Anda lebih sulit."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="Jangan biarkan musuh melarikan diri! Bangun Menara untuk melawan mereka!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="Musuh <color=#837272>berzirah</color> muncul dari portal! Bangun <color=#0DA7FF>Penyihir</color> untuk menghentikannya."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="Lihat! Beberapa <color=#0DA7FF>musuh lawan melarikan diri!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="Membangun Menara membutuhkan Emas. Dapatkan lebih banyak Emas dengan mengalahkan musuh."
+
+"TUTORIAL_1_MSG_HERO"="Pahlawan Gerald telah muncul! Anda dapat memindahkannya untuk melawan musuh yang datang."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="Lawan Anda juga akan membangun Menara untuk mempertahankan sisi mereka!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Lemparkan 'Hujan Api' untuk menghancurkan kelompok Goblin ini."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="Anda memiliki Mantra baru yang tersedia di gudang senjata Anda"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="Anda dapat menggunakan Emas Anda untuk meningkatkan Menara dan membuatnya lebih kuat."
+
+"TUTORIAL_1_MSG_WELCOME"="Selamat datang di Kingdom Rush Battles! Mari kita mulai..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="Pilih Booster ini. Ini akan memaksa mereka untuk menghadapi musuh terbang."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="Pilih 'Panggilan Naga'. Ini akan memaksa mereka menghadapi musuh terbang."
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="Lawan akan segera kalah!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="Sekarang pilih Peningkat Pertahanan. Ini akan membantu Anda menghadapi musuh yang kuat."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="Pilih 'Menara Perkasa'. Ini akan membantu Anda menghadapi musuh yang kuat."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="Musuh ini memiliki <color=#837272>Armor Fisik</color>, membuatnya tahan terhadap kerusakan fisik."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="Musuh ini memiliki <color=#0DA7FF>Perisai Ajaib</color>. Perisai mengubah warna bilah kesehatan musuh."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="Bangun Penyihir untuk memberikan <color=#0DA7FF>kerusakan sihir</color> dan mengatasi baju besi musuh."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="Musuh baru mungkin terlalu tangguh. Mari tingkatkan untuk berjaga-jaga!"
+
+"TUTORIAL_2_MSG_SKILL_1"="Saatnya menggunakan keterampilan menara. Mereka membantu melawan musuh atau menyerang lawan Anda!"
+
+"TUTORIAL_2_MSG_SKILL_2"="Tingkatkan Pemanah ke level maksimum terlebih dahulu"
+
+"TUTORIAL_2_MSG_SKILL_3"="Beli Skill 'Tembakan Bermuatan' untuk menyerang unit lawan Anda!"
+
+"TUTORIAL_2_MSG_WELCOME"="Mari kita belajar cara berinteraksi dengan lawan Anda."
+
+"TUTORIAL_METAGAME_DECK_01"="Anda membuka Menara baru! Mari tambahkan ke dek Anda."
+
+"TUTORIAL_METAGAME_DECK_02"="Periksa bagian Menara!"
+
+"TUTORIAL_METAGAME_DECK_03"="Anda membuka Menara baru! Mari tambahkan ke dek Anda."
+
+"TUTORIAL_METAGAME_DECK_04"="Meningkatkan level menara akan meningkatkan kekuatannya menggunakan koin dan pecahan."
+
+"TUTORIAL_METAGAME_DECK_05"="Sekarang untuk melengkapi barbar di dek Anda"
+
+"TUTORIAL_METAGAME_DECK_06"="Ganti 'Menara Paladin' dengan 'Menara Barbar'"
+
+"TUTORIAL_METAGAME_DECK_07"="Semua selesai! Sekarang uji apa yang telah Anda pelajari."
+
+"TUTORIAL_METAGAME_CHEST_01"="Dapatkan bintang dengan bermain pertandingan untuk membuka peti"
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="Anda membuka Mantra baru! Mari tambahkan ke dek Anda."
+
+"FTUE_DIRECTIVE_01"="1 kemenangan lagi untuk membuka Mantra baru!"
+
+"FTUE_DIRECTIVE_02"="1 kemenangan lagi untuk membuka Mantra baru!"
+
+"FTUE_DIRECTIVE_03"="1 permainan lagi untuk membuka penguat!"
+
+"TITLE_USER_ACCESS"="AKSES PENGGUNA"
+
+"TITLE_SOUND_SETTINGS"="MUSIK DAN SFX"
+
+"TITLE_EXTERNAL"="EKSTERNAL"
+
+"TITLE_SETTINGS"="PENGATURAN"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="UBAH NAMA"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="PILIH NAMA ANDA"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 karakter batas<br>Karakter khusus tidak diizinkan"
+
+"ERROR_USERNAME_INVALID"="Nama tidak valid"
+
+"ERROR_USERNAME_INAPPROPIATE"="Nama tidak diizinkan"
+
+"ERROR_USERNAME_UNCHANGED"="Itu sudah namamu"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="HADIAH TERKUNCI"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="Buka siklus untuk lanjut dapat hadiah"
+
+"CHEST_YOUR_GOLD"="Koin"
+
+"SHOP_GOLD"="Emas"
+
+"CHEST_YOUR_STARS"="BINTANG"
+
+"YOUR_GEM"="Permata"
+
+"CHEST_RESOURCE_CARD"="Sumber Daya"
+
+"CHEST_GOLD"="KOIN"
+
+"CHEST_STAR"="BINTANG"
+
+"CHEST_YOUR_REWARD"="Hadiah Anda"
+
+"CHEST_COMMON_TOWER"="Menara Umum"
+
+"CHEST_EPIC_TOWER"="Menara Epik"
+
+"CHEST_RARE_TOWER"="Menara Langka"
+
+"CHEST_LEGENDARY_TOWER"="Menara Legendaris"
+
+"CHEST_COMMON_HERO"="Pahlawan Umum"
+
+"CHEST_EPIC_HERO"="Pahlawan Epik"
+
+"CHEST_RARE_HERO"="Pahlawan Langka"
+
+"CHEST_LEGENDARY_HERO"="Pahlawan Legendaris"
+
+"CHEST_COMMON_SPELL"="Mantra Umum"
+
+"CHEST_EPIC_SPELL"="Mantra Epik"
+
+"CHEST_RARE_SPELL"="Mantra Langka"
+
+"CHEST_LEGENDARY_SPELL"="Mantra Legendaris"
+
+"CHEST_NEW_CARD"="BARU!"
+
+"CHEST_INFO_NAME_GOLD"="Petikemas Emas"
+
+"CHEST_INFO_NAME_SILVER"="Petik Kayu"
+
+"CHEST_INFO_NAME_MAGICAL"="Peti Ajaib"
+
+"CHEST_INFO_NAME_BRAVERY"="Petarung Peti"
+
+"CHEST_INFO_NAME_LEVEL_UP"="Petik Level Up"
+
+"CHEST_INFO_CONTAINS_TITLE"="Mengandung setidaknya:"
+
+"CHEST_INFO_CONTAINS_RARES"="Langka"
+
+"CHEST_INFO_CONTAINS_EPICS"="Epik"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="Legendaris"
+
+"CHEST_INFO_CONTAINS_RARE"="Langka"
+
+"CHEST_INFO_CONTAINS_EPIC"="Epik"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="Legendaris"
+
+"CHEST_INFO_CLAIM_BUTTON"="Buka!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="TERKUNCI"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="Kartu Umum"
+
+"CHEST_INFO_CLAIM"="Klaim!"
+
+"CHEST_INFO_UNLOCK_NOW"="Buka Sekarang"
+
+"CHEST_INFO_EXTRA_TITLE"="Peluang:"
+
+"CHEST_TOOLTIP_CLAIM"="AMBIL!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="Pilih Hadiah Anda"
+
+"TROPHY_REWARD_SCREEN_TITLE"="Hadiah"
+
+"XP_LEVEL_UP_TITLE"="LEVEL BARU"
+
+"XP_LEVEL_UP_BOOSTER"="Booster"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="Naik Level"
+
+"XP_LEVEL_UP_LVL"="Lvl"
+
+"DECK_MAX_LEVEL"="MAKS"
+
+"PROGRESS_BAR_MAX"="MAKS"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="Lvl"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="Booster Naik Level! Tingkatkan pengubah permainan"
+
+"WELCOME_SCREEN_LOG_TEXT"="• Banner Summon Rift Elora telah berakhir\n• Kartu Summon Rift Baru: Twilight Longbows!\nPerbaikan Bug\n• Memperbaiki bug di mana perk peningkatan damage untuk unit tidak diterapkan dalam semua kasus.\n• Memperbaiki beberapa perk yang salah memengaruhi unit dan menara yang tidak seharusnya.\n• Artileri: Memperbaiki masalah di mana harga skill Level 3 tertukar secara tidak benar.\nGameplay\n• Menambahkan bos baru, Raksasa, ke tahap Lembah Terbuang.\nKeseimbangan\n• Serpihan Magma / Elemen Magma: Durasi fase batu telah ditingkatkan menjadi 12 detik.\n• Penunggang Roket:\n   • HP dikurangi 25%.\n   • Skill rush mereka sekarang hanya akan aktif saat mereka berjarak 5 ubin dari pintu keluar (ditingkatkan dari 3).\n   • Mereka sekarang dapat dipolimorfosis.\n• Pemanah Bayangan: Damage jarak jauh dikurangi 30%.\nArena Terbuang: Skala kartu creep dan bot telah dikurangi mulai dari Lembah Terbuang."
+
+"WELCOME_SCREEN_TITLE_TEXT"="Yang Baru"
+
+"SHOP_SCREEN_PLACEHOLDER"="SEGERA HADIR"
+
+"SHOP_ROYAL_GOLD_CHEST"="Petik Raja"
+
+"SHOP_ROYAL_SILVER_CHEST"="Petik Kapten"
+
+"SHOP_ROYAL_BRONZE_CHEST"="Petarung Peti"
+
+"SHOP_GEMS_SLOT_1"="Segenggam Permata"
+
+"SHOP_GEMS_SLOT_2"="Tumpukan Permata"
+
+"SHOP_GEMS_SLOT_3"="Kantong Permata"
+
+"SHOP_GEMS_SLOT_4"="Tong Permata"
+
+"SHOP_GEMS_SLOT_5"="Brankas Permata"
+
+"SHOP_GEMS_SLOT_6"="Gunung Permata"
+
+"SHOP_GOLD_SLOT_1"="Segepok Koin"
+
+"SHOP_GOLD_SLOT_2"="Kantong Koin"
+
+"SHOP_GOLD_SLOT_3"="Brankas Koin"
+
+"SHOP_SPECIAL_OFFER"="Penawaran Khusus"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Penawaran Khusus"
+
+"SHOP_STARTER_PACK_TITLE"="Paket Pemula"
+
+"SHOP_GOLD_TITLE"="Koin"
+
+"SHOP_GEMS_TITLE"="Permata"
+
+"SHOP_CHESTS_TITLE"="Petis"
+
+"SHOP_FIRST_PURCHASE"="Pembelian 1"
+
+"SHOP_PURCHASED"="Dibeli"
+
+"SHOP_CLAIMED"="Diklaim"
+
+"SHOP_VALUE"="Nilai"
+
+"SHOP_DAILY_LOCKED"="Membuka di Arena"
+
+"SHOP_FOREST_ARENA_PACK"="Paket Silveroak"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="Paket Awan Badai"
+
+"SHOP_BANDITS_ARENA_PACK"="Paket Bandit"
+
+"SHOP_COLISEUM_ARENA_PACK"="Paket Stadion"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="Paket Terlantar"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 bintang"
+
+"RATE_US_BUTTON_5_STARS"="5 bintang"
+
+"RATE_US_TITLE"="Beri Nilai Game"
+
+"RATE_US_DESC"="Jika Anda menikmati Kingdom Rush Battles, luangkan waktu sejenak untuk menilai permainan."
+
+"RATE_US_DESC_2"="Terima kasih atas dukungan Anda"
+
+"RATE_US_OPINION_BUTTON_SEND"="Kirim"
+
+"RATE_US_OPINION_REVIEW"="Tulis umpan balik..."
+
+"RATE_US_OPINION_TITLE"="Berikan pendapat Anda"
+
+"RATE_US_OPINION_SENT"="Umpan balik Anda telah dikirim"
+
+"TROPHY_INFO_BOOSTERS"="Booster"
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="Peningkat Serangan"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="Peningkat Pertahanan"
+
+"FOREST_STAGE_1"="Hutan 1"
+
+"FOREST_STAGE_2"="Hutan 2"
+
+"FOREST_STAGE_3"="Hutan 3"
+
+"FOREST_STAGE_4"="Hutan 4"
+
+"FOREST_STAGE_5"="Hutan 5"
+
+"MOUNTAIN_STAGE_1"="Gunung 1"
+
+"MOUNTAIN_STAGE_2"="Gunung 2"
+
+"MOUNTAIN_STAGE_3"="Gunung 3"
+
+"MOUNTAIN_STAGE_4"="Gunung 4"
+
+"MOUNTAIN_STAGE_5"="Gunung 5"
+
+"BANDITS_LAIR_1"="Sarang Bandit 1"
+
+"BANDITS_LAIR_2"="Sarang Bandit 2"
+
+"BANDITS_LAIR_3"="Sarang Bandit 3"
+
+"BANDITS_LAIR_4"="Sarang Bandit 4"
+
+"BANDITS_LAIR_5"="Sarang Bandit 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="Tidak Ada"
+
+"LEADERBOARD_TITLE"="PAPAN PIMPINAN"
+
+"LEADERBOARD_BUTTON"="Papan Peringkat"
+
+"LEADERBOARD_TAB_GLOBAL"="Global"
+
+"LEADERBOARD_TAB_LOCAL"="Lokal"
+
+"LEADERBOARD_USER_NOT_RANKED"="Capai Stadion untuk peringkat"
+
+"SPECIAL_BUTTON_NAME"="Gudang Senjata Terbuka"
+
+"SELL_TOWER_TITLE"="Jual Menara"
+
+"SELL_TOWER_DESCRIPTION"="Jual menara ini dan dapatkan pengembalian {0} emas."
+
+"BANDITS_LAIR_STAGE_1"="Sarang Bandit 1"
+
+"BANDITS_LAIR_STAGE_2"="Sarang Bandit 2"
+
+"BANDITS_LAIR_STAGE_3"="Sarang Bandit 3"
+
+"BANDITS_LAIR_STAGE_4"="Sarang Bandit 4"
+
+"BANDITS_LAIR_STAGE_5"="Sarang Bandit 5"
+
+"TAUNT_THANKS"="Terima kasih!"
+
+"TAUNT_GOOD_LUCK"="Semoga Beruntung"
+
+"TAUNT_OOPS"="Ups..."
+
+"TAUNT_WELL_PLAYED"="Permainan Bagus"
+
+"UNMUTE_TO_SEND_EMOTES"="Buka bisu untuk mengirim dan menerima emotikon"
+
+"BANDITS_LAIR_STAGE_1"="Sarang Bandit 1"
+
+"BANDITS_LAIR_STAGE_2"="Sarang Bandit 2"
+
+"BANDITS_LAIR_STAGE_3"="Sarang Bandit 3"
+
+"BANDITS_LAIR_STAGE_4"="Sarang Bandit 4"
+
+"BANDITS_LAIR_STAGE_5"="Sarang Bandit 5"
+
+"TAUNT_THANKS"="Terima kasih!"
+
+"TAUNT_GOOD_LUCK"="Semoga berhasil!"
+
+"TAUNT_OOPS"="Ups..."
+
+"TAUNT_WELL_PLAYED"="Permainan Bagus"
+
+"UNMUTE_TO_SEND_EMOTES"="Buka bisu untuk mengirim dan menerima emotikon"
+
+"FOREST_STAGE_1"="Hutan 1"
+
+"FOREST_STAGE_2"="Hutan 2"
+
+"FOREST_STAGE_3"="Hutan 3"
+
+"FOREST_STAGE_4"="Hutan 4"
+
+"FOREST_STAGE_5"="Hutan 5"
+
+"MOUNTAIN_STAGE_1"="Gunung 1"
+
+"MOUNTAIN_STAGE_2"="Gunung 2"
+
+"MOUNTAIN_STAGE_3"="Gunung 3"
+
+"MOUNTAIN_STAGE_4"="Gunung 4"
+
+"MOUNTAIN_STAGE_5"="Gunung 5"
+
+"BANDITS_LAIR_1"="Sarang Bandit 1"
+
+"BANDITS_LAIR_2"="Sarang Bandit 2"
+
+"BANDITS_LAIR_3"="Sarang Bandit 3"
+
+"BANDITS_LAIR_4"="Sarang Bandit 4"
+
+"BANDITS_LAIR_5"="Sarang Bandit 5"
+
+"BANDITS_LAIR_STAGE_1"="Sarang Bandit 1"
+
+"BANDITS_LAIR_STAGE_2"="Sarang Bandit 2"
+
+"BANDITS_LAIR_STAGE_3"="Sarang Bandit 3"
+
+"BANDITS_LAIR_STAGE_4"="Sarang Bandit 4"
+
+"BANDITS_LAIR_STAGE_5"="Sarang Bandit 5"
+
+"HERO_GERALD_DESCRIPTION"="Pahlawan Linirea dan simbol keadilan, dia telah berdiri melawan ancaman dari dunia ini dan sekitarnya. Terikat oleh sumpah yang khidmat, dia selalu menjadi yang pertama menyerang dalam pertempuran dan yang terakhir mundur, didorong oleh tugasnya untuk melindungi yang tidak bersalah dan membela yang lemah dengan segala cara."
+
+"HERO_GERALD_SHORT_DESC"="-Memulihkan HP saat rendah.<br>-Meningkatkan sekutu.<br>-Peluang memantulkan kerusakan."
+
+"HERO_GERALD_NAME"="Gerald Pencari Cahaya"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="Ketika kesehatannya turun ke tingkat yang berbahaya, dia menggunakan kekuatan sucinya untuk memulihkan sebagian kesehatannya."
+
+"HERO_GERALD_SKILL_0_NAME"="Doa Ilahi"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="Sebagai Pahlawan Linirea, keberanian yang tak tergoyahkan memancar ke sekutu terdekat, secara berkala meningkatkan kesehatan dan kerusakan mereka untuk waktu yang singkat."
+
+"HERO_GERALD_SKILL_1_NAME"="Keberanian"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="Saat bertarung, dia dapat mengangkat perisainya selama beberapa detik, memantulkan kembali semua kerusakan yang masuk kepada penyerang."
+
+"HERO_GERALD_SKILL_2_NAME"="Perisai Pembalasan"
+
+"HERO_ALLERIA_DESCRIPTION"="Putri dari Ratu Elf dan pewaris warisan abadi, Alleria juga seorang pemanah yang gesit dan menawan. Dengan pendamping Wildcat di sisinya, mereka mengalahkan musuh sebelum mereka sempat membidik. Keanggunannya dalam pertempuran hanya disaingi oleh pengabdiannya yang tak tergoyahkan pada alam."
+
+"HERO_ALLERIA_SHORT_DESC"="-Menembakkan beberapa panah sekaligus.<br>-Memanggil Kucing Liar.<br>-Kemungkinan teleportasi saat terkena serangan."
+
+"HERO_ALLERIA_NAME"="Alleria Angin Cepat"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="Mengisi busurnya dengan sihir, dia melepaskan hujan panah ajaib. Panah ini dapat menyebar untuk menyerang banyak musuh atau fokus untuk memberikan pukulan kuat pada satu target."
+
+"HERO_ALLERIA_SKILL_0_NAME"="Tembakan ganda"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="Memanggil pendamping Kucing Liar setianya untuk bertarung di sisinya, melompat ke dalam pertempuran dengan kecepatan ganas dan cakar siap untuk membela tuannya dan teman."
+
+"HERO_ALLERIA_SKILL_1_NAME"="Panggilan Alam"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="Dalam pertempuran jarak dekat, dia dapat mundur secara strategis ke jarak aman, menghindari bahaya dan memposisikan ulang untuk menyerang dari jarak jauh."
+
+"HERO_ALLERIA_SKILL_2_NAME"="Menghindar Cepat"
+
+"HERO_GRAWL_DESCRIPTION"="Pelindung rahasia bawah tanah, mengayunkan tinju dan kristal yang ditempa dalam tubuhnya, dia berdiri sebagai penghalang terakhir melawan kerajaan bawah tanah yang paling kejam. Tanpa henti dan tak tergoyahkan, dia berjuang untuk menjaga kegelapan mereka tetap tersegel dari dunia di atas."
+
+"HERO_GRAWL_SHORT_DESC"="-Memukul tanah untuk mengejutkan musuh.<br>-Melempar batu ke musuh yang jauh.<br>-Memukul dengan pukulan pecahan yang kuat."
+
+"HERO_GRAWL_NAME"="Grawl"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="Menghantam tanah dengan kekuatan dahsyat, membuat semua musuh di dekatnya pingsan dan terluka."
+
+"HERO_GRAWL_SKILL_0_NAME"="Injak"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="Mencabut batu besar dari tanah dan melemparkannya ke target yang jauh, memberikan kerusakan berat dan melukai musuh di sekitarnya dengan gelombang kejut yang dihasilkan."
+
+"HERO_GRAWL_SKILL_1_NAME"="Lempar Batu"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="Menutupi tinjunya dengan pecahan kristal setajam silet, memberikan serangan dahsyat yang menghasilkan kerusakan besar yang dapat langsung memusnahkan musuh."
+
+"HERO_GRAWL_SKILL_2_NAME"="Pukulan Pecahan"
+
+"HERO_INGVAR_DESCRIPTION"="Salah satu prajurit paling tangguh dari Suku Beruang, dia dihormati tidak hanya karena kekuatan kasarnya tetapi juga karena ikatan spiritualnya yang mendalam dengan leluhurnya. Ketika panggilan perang bergema di seluruh negeri, Ingvar menjawab dengan amarah dari utara."
+
+"HERO_INGVAR_SHORT_DESC"="-Berputar dengan kapak untuk memberikan kerusakan di area.<br>-Memanggil Leluhur Viking untuk bertarung.<br>-Berubah menjadi bentuk Beruang saat HP rendah."
+
+"HERO_INGVAR_NAME"="Ingvar Cakar Beruang"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="Melepaskan serangan berputar yang kuat dengan kapaknya, memberikan kerusakan pada semua musuh di sekitarnya."
+
+"HERO_INGVAR_SKILL_0_NAME"="Kemarahan Viking"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="Meniup tanduk perang suci, memanggil roh leluhur Vikingnya untuk bergabung dalam pertempuran."
+
+"HERO_INGVAR_SKILL_1_NAME"="Panggilan Leluhur"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="Ketika kesehatannya rendah, Ingvar memanfaatkan kekuatan primal dari garis keturunannya. Berubah menjadi beruang besar, dia menjadi kebal sementara, mendapatkan kekuatan yang meningkat, dan meregenerasi kesehatan dengan cepat"
+
+"HERO_INGVAR_SKILL_2_NAME"="Bentuk Beruang"
+
+"HERO_DIERDRE_DESCRIPTION"="Diselamatkan oleh Aegion setelah kotanya jatuh, dia ditempa melalui iman dan disiplin suci, bangkit sebagai pendeta garis depan sejati pertama. Mengorbankan nyawanya untuk melindungi sekutunya di mana yang lain jatuh, dia menjadi cahaya bersinar di saat tergelap."
+
+"HERO_DIERDRE_SHORT_DESC"="-Menyembuhkan sekutu terdekat.<br>-Memberikan kerusakan tambahan hingga 2 Menara.<br>-Memberikan baju besi tambahan untuk dirinya dan sekutu."
+
+"HERO_DIERDRE_NAME"="Dierdre"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="Menggunakan sihir suci untuk melemparkan mantra penyembuhan, memulihkan kesehatan sekutu terdekat."
+
+"HERO_DIERDRE_SKILL_0_NAME"="Cahaya Suci"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="Memperkuat menara terdekat dengan kekuatan suci, meningkatkan kerusakannya."
+
+"HERO_DIERDRE_SKILL_1_NAME"="Menguduskan"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="Memberkati armor sekutu terdekat - termasuk dirinya sendiri - meningkatkan armor fisik mereka selama beberapa detik."
+
+"HERO_DIERDRE_SKILL_2_NAME"="Baju Zirah Diberkati"
+
+"HERO_ASHBITE_DESCRIPTION"="Seekor Naga api yang kuat dan ganas, Abu melelehkan siapa saja yang berani menghalangi jalannya. Tidak diketahui mengapa dia melindungi Linirea - beberapa berbisik itu karena bosan, yang lain mengatakan itu karena haus akan pertempuran. Apapun alasannya, ketika dia terbang ke pertempuran, api mengikutinya."
+
+"HERO_ASHBITE_SHORT_DESC"="-Menyemburkan napas yang merusak di area.<br>-Menggigit musuh dengan kemungkinan membunuh seketika.<br>-Melempar bola api eksplosif."
+
+"HERO_ASHBITE_NAME"="Abu"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="Melepaskan aliran api yang membara pada musuh di depan, memberikan kerusakan terus-menerus pada semua musuh yang terjebak di jalur apinya yang menyala."
+
+"HERO_ASHBITE_SKILL_0_NAME"="Napas Membara"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="Menerkam satu target dengan gigitan yang menghancurkan, memberikan kerusakan dan dengan peluang untuk langsung melahap musuh."
+
+"HERO_ASHBITE_SKILL_1_NAME"="Pesta"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="Melempar bola api besar ke target yang jauh. Saat terkena, meledak dan memicu serangkaian ledakan sekunder, memberikan kerusakan area yang berat."
+
+"HERO_ASHBITE_SKILL_2_NAME"="Hujan Api"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="Menciptakan hujan meteor yang turun di atas unit lawan, membakar tanah dan membakar setiap unit lain di sekitarnya."
+
+"HERO_ASHBITE_SKILL_3_NAME"="Meteor Membara"
+
+"HERO_ASHBITE_PACK_NAME"="Paket Veteran"
+
+"HERO_MAGNUS_DESCRIPTION"="Pernah menjadi murid paling berbakat dari Vez’nan yang terkenal kejam, ia bergabung dengan pasukan Kerajaan setelah gurunya jatuh ke sisi gelap. Kini sebagai pembela kuat Linirea, Magnus menguasai sihir arkana tingkat lanjut dan ilusi dengan ketepatan tak tertandingi, dengan pengetahuan luas yang hanya dikalahkan oleh kemampuan tempurnya."
+
+"HERO_MAGNUS_SHORT_DESC"="-Menciptakan bayangan klon dari dirinya sendiri.<br>-Memanggil badai yang merusak di area.<br>-Dapat berteleportasi jarak jauh."
+
+"HERO_MAGNUS_NAME"="Magnus Pemecah Mantra"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="Memanfaatkan energi arkan canggih untuk berpindah secara instan melintasi jarak yang jauh."
+
+"HERO_MAGNUS_SKILL_0_NAME"="Teleportasi"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="Sebagai ahli sihir gaib, dia memanggil ilusi sementara dari dirinya untuk membantunya dalam pertempuran."
+
+"HERO_MAGNUS_SKILL_1_NAME"="Fatamorgana"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="Melepaskan ledakan energi gaib yang dahsyat di area yang luas, menyerang semua musuh di dalam zona beberapa kali."
+
+"HERO_MAGNUS_SKILL_2_NAME"="Badai Arcane"
+
+"HERO_HACKSAW_DESCRIPTION"="Seorang penemu gnome terkenal, Gergaji menjelajahi dunia di dalam mecha yang dirancang khusus olehnya, dipersenjatai dengan berbagai gadget mematikan. Setiap pertempuran baru adalah bahaya sekaligus peluang - hanya bahan bakar untuk penemuan berikutnya."
+
+"HERO_HACKSAW_SHORT_DESC"="-Melempar bilah yang merusak musuh.<br>-Mengebor musuh dengan peluang membunuh instan.<br>-Menempatkan gergaji berputar di tanah."
+
+"HERO_HACKSAW_NAME"="Gergaji"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="Menempatkan mata gergaji di tanah. Musuh yang terjebak dalam area tersebut akan menerima kerusakan selama gergaji tetap aktif."
+
+"HERO_HACKSAW_SKILL_0_NAME"="Penggergajian"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="Melepaskan lengan bor tersembunyi untuk memberikan pukulan kuat pada musuh dengan kemungkinan membunuhnya seketika."
+
+"HERO_HACKSAW_SKILL_1_NAME"="POHON TUMBANG!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="Melempar bilah yang memantul di antara beberapa musuh, memotong setiap musuh dan memberikan kerusakan pada setiap pukulan."
+
+"HERO_HACKSAW_SKILL_2_NAME"="Gergaji Terbang"
+
+"HERO_VESPER_DESCRIPTION"="Dipilih sebagai komandan pasukan yang tersisa di saat-saat tergelap Linirea, Vesper mengubah keputusasaan menjadi perlawanan. Dia menggunakan taktik gerilya untuk memimpin serangan tepat terhadap penjajah, menjadikannya inspirasi bagi generasi pahlawan baru."
+
+"HERO_VESPER_SHORT_DESC"="-Menembakkan panah yang membuat musuh pingsan.<br>-Menembakkan panah yang memantul.<br>-Menyerang musuh tiga kali berturut-turut."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-Menembakkan panah yang membuat musuh pingsan.<br>-Menembakkan panah yang memantul.<br>-Menyerang musuh tiga kali berturut-turut."
+
+"HERO_VESPER_NAME"="Vesper"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="Menembakkan panah yang tepat sasaran yang merusak dan membuat musuh tunggal pingsan."
+
+"HERO_VESPER_SKILL_0_NAME"="Anak panah ke lutut"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="Menembakkan panah yang memantul di antara musuh, memberikan kerusakan pada setiap hit. Membutuhkan tiga target untuk diaktifkan."
+
+"HERO_VESPER_SKILL_1_NAME"="Memantul"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="Melepaskan serangan cepat tiga kali pada satu musuh, setiap pukulan meningkatkan total kerusakan yang diberikan."
+
+"HERO_VESPER_SKILL_2_NAME"="Keterampilan Bela Diri"
+
+"HERO_AEGION_DESCRIPTION"="Kapten tunggal yang berdiri teguh melawan jatuhnya kota Paladin, ia memimpin pasukannya melalui gelombang musuh yang tak henti-hentinya, membuka jalan aman dan menyelamatkan kota-kota terdekat dari Kegelapan. Setelah pertempuran brutal, ia pensiun, kembali hanya ketika ancaman muncul di dalam Kerajaan."
+
+"HERO_AEGION_SHORT_DESC"="-Mendorong musuh dengan perisainya.<br>-Memproyeksikan perisai yang memblokir musuh.<br>-Menggunakan perisainya untuk menembak musuh terbang."
+
+"HERO_AEGION_NAME"="Aegion Baja Terang"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="Menyatukan perisainya dengan kekuatan suci untuk menerangi perisainya, menyerang musuh dan memindahkan mereka ke belakang."
+
+"HERO_AEGION_SKILL_0_NAME"="Perisai Suci"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="Memunculkan proyeksi perisai yang memblokir serangan musuh selama beberapa detik, memantulkan kembali kerusakan yang diterima ke penyerang."
+
+"HERO_AEGION_SKILL_1_NAME"="Perisai Berat"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="Setiap beberapa detik, menembakkan sinar terfokus dari perisainya ke arah musuh terbang."
+
+"HERO_AEGION_SKILL_2_NAME"="Perisai Serangan Udara"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="Dikenal karena sikap dinginnya dan sihir yang kuat, Elora adalah penyihir paling ditakuti di tanah utara. Selama bertahun-tahun, dia berdiri sendiri melawan penjajah, meninggalkan patung es yang menghantui - peringatan diam-diam bagi semua yang berani menantangnya."
+
+"HERO_ELORA_SHORT_DESC"="-Meninggalkan jejak yang memberikan kerusakan saat bergerak.<br>-Melemparkan mantra pembekuan dengan kerusakan area tinggi.<br>-Memperlambat musuh di area."
+
+"HERO_ELORA_NAME"="Elora Lagu Musim Dingin"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="Menyalurkan sihirnya untuk bergerak cepat, meninggalkan jejak es tajam yang merusak musuh yang mengikuti."
+
+"HERO_ELORA_SKILL_0_NAME"="Jalur Beku"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="Melepaskan mantra kuat yang membungkus area dalam es, sangat memperlambat gerakan musuh."
+
+"HERO_ELORA_SKILL_1_NAME"="Permafrost"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="Melemparkan mantra tajam yang menghujani pecahan es mematikan di area yang luas."
+
+"HERO_ELORA_SKILL_2_NAME"="Badai Es"
+
+"HERO_EISKALT_DESCRIPTION"="Seekor wyvern es yang berbahaya, didorong oleh naluri berburu yang kuat terhadap manusia. Kehadirannya saja sudah menjadi kekuatan alam dan bencana alam tersendiri. Di mana pun ia mendarat, tanah itu pasti berubah menjadi padang es yang luas."
+
+"HERO_EISKALT_SHORT_DESC"="-Melempar bola salju berduri.<br>-Menciptakan paku es yang merusak di lantai.<br>-Memperlambat musuh."
+
+"HERO_EISKALT_NAME"="Eiskalt"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="Meluncurkan bola salju berduri yang bergerak di sepanjang jalur, memberikan kerusakan pada musuh."
+
+"HERO_EISKALT_SKILL_0_NAME"="Longsor"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="Melemparkan mantra untuk memanggil paku es bergerigi dari tanah yang menyebar, menusuk dan merusak musuh yang terjebak di dalamnya."
+
+"HERO_EISKALT_SKILL_1_NAME"="Puncak Es"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="Membekukan tanah di bawah musuh, secara drastis memperlambat kecepatan gerakan mereka selama beberapa detik."
+
+"HERO_EISKALT_SKILL_2_NAME"="Napas Beku"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="Menciptakan badai glasial yang membekukan semua unit lawan di tempat, membuat mereka pingsan selama beberapa detik."
+
+"HERO_EISKALT_SKILL_3_NAME"="Badai Gletser"
+
+"TOWER_ARCHER_DESCRIPTION"="Pemanah elit dalam pelatihan, terkenal karena ketepatan akurat dan mata tajam untuk kerentanan musuh. Bahkan musuh yang berlapis baja tidak aman - setiap tembakan dapat menembus dalam, membuat target terluka parah."
+
+"TOWER_ARCHER_NAME"="Menara Pemanah"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="Setiap serangan memiliki peluang untuk membuat musuh berdarah, memberikan kerusakan seiring waktu.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARCHER_SHORT_DESC"="Pemanah magang dengan kemampuan membuat musuh berdarah"
+
+"TOWER_ARCHER_SKILL_0_NAME"="Berdarah"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="Melepaskan hujan panah yang turun di area terdekat, memberikan kerusakan fisik kepada semua musuh yang terperangkap di dalamnya.\n(Beli keterampilan pada Peningkatan Menara Maksimum)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="Menyerang area dengan hujan panah, melukai semua musuh yang terkena."
+
+"TOWER_ARCHER_SKILL_1_NAME"="Hujan Panah"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="Kedua pemanah mengisi busur mereka untuk menembakkan serangan kuat ke dua unit lawan.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="Anak panah yang kuat menyerang dua unit lawan."
+
+"TOWER_ARCHER_SKILL_2_NAME"="Tembakan Bermuatan"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="Diakui bahkan oleh para Elf veteran karena keterampilan mereka dengan busur, para master ranger ini menyerang dari jauh sambil melepaskan tembakan yang menghancurkan. Sebagai penguasa alam liar, mereka memanfaatkan hutan itu sendiri untuk menghalangi dan melukai musuh mereka."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="Penjaga veteran yang mengendalikan alam untuk menjebak musuh."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="Persembunyian Ranger"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="Saat menyerang, mereka dapat menggunakan panah khusus yang menyebabkan tanaman merambat meletus dari tanah, menjebak musuh di tempat selama beberapa detik. \n(Keterampilan selalu aktif)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="Pohon Anggur Hutan"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="Para penjaga menembakkan gelombang panah beracun ke semua musuh di dekatnya, meracuni mereka dan memberikan kerusakan seiring waktu. \n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="Meluncurkan panah beracun yang meracuni musuh dan memberikan kerusakan seiring waktu."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="Panah Beracun"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="Menggunakan penguasaan mereka atas alam, ranger menembakkan panah terpesona ke sisi lawan, memanggil sekawanan Ent Serigala. Gesit dan sulit ditangkap, makhluk-makhluk ini menghindari serangan jarak dekat sambil mencoba menyelinap di antara garis musuh.\n(Beli keterampilan pada Peningkatan Menara Maksimum)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="Memanggil sekelompok Ent Serigala di sisi lawan."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="Pembela Hijau"
+
+"TOWER_MAGE_DESCRIPTION"="Garis depan kerajaan dalam pertahanan magis, para penyihir magang ini menggunakan mantra elemen untuk memusatkan mana mereka. Sihir mereka tidak stabil dan eksplosif, dan sangat berbahaya bagi musuh yang mencoba menyelinap tanpa terdeteksi."
+
+"TOWER_MAGE_SHORT_DESC"="Seorang Penyihir yang peluru sihirnya terbelah setelah mengenai musuh."
+
+"TOWER_MAGE_NAME"="Menara Penyihir"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="Setiap kali baut yang terlalu terisi mengenai musuh, energi berlebih menyebabkannya terpecah menjadi baut tambahan, menyerang musuh di dekatnya dengan kerusakan yang berkurang.\n(Keterampilan selalu aktif)"
+
+"TOWER_MAGE_SKILL_0_NAME"="Petir Berantai"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="Penyihir menyalurkan mana yang tersimpan menjadi rentetan ledakan baut sihir yang terfokus, memberikan kerusakan besar pada beberapa musuh di dekatnya.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="Melepaskan rentetan sihir yang merusak beberapa musuh di sekitar."
+
+"TOWER_MAGE_SKILL_1_NAME"="Serangan Mantra"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="Penyihir menggunakan tongkat mereka untuk melemparkan sihir pelindung pada sekelompok unit musuh di sisi lawan, memberikan mereka ketahanan terhadap kerusakan sihir.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="Melindungi beberapa musuh lawan dari kerusakan sihir."
+
+"TOWER_MAGE_SKILL_2_NAME"="Pesona"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="Setelah mencapai puncak penguasaan Penyihir, para penyihir kuat ini dapat membentuk kembali realitas itu sendiri. Menggunakan pengetahuan sihir mereka yang luas, mereka dapat melemahkan, memindahkan, atau sepenuhnya memusnahkan musuh mana pun yang berani menantang wilayah mereka."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="Ahli sihir arkan dengan kekuatan untuk melemahkan ketahanan sihir musuh."
+
+"TOWER_ARCANE_WIZARD_NAME"="Penyihir Arcane"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="Setiap serangan memiliki kesempatan untuk memanggil aura anti-sihir, mengurangi ketahanan sihir musuh yang terkena.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="Pecah Sihir"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="Melalui pemahaman mendalam tentang sihir, penyihir menciptakan lingkaran yang mengubah realitas yang memindahkan sekelompok musuh ke belakang sepanjang jalur mereka.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="Teleportasi beberapa musuh kembali"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="Teleportasi"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="Penyihir Penyihir memfokuskan mana yang sangat besar untuk melepaskan satu sinar yang menghancurkan, langsung menghancurkan musuh.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="Langsung membunuh musuh yang ditargetkan."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="Sinar Kematian"
+
+"TOWER_ARTILLERY_DESCRIPTION"="Produk akhir metalurgi Artileri, artileri berat ini ditempa dari paduan terkuat dan didukung oleh amunisi yang menghancurkan. Dengan berbagai peluru khusus, ia dapat memusnahkan pasukan musuh - bahkan yang berada di luar jangkauannya."
+
+"TOWER_ARTILLERY_SHORT_DESC"="Artileri berat yang mampu meluncurkan peluru klaster eksplosif."
+
+"TOWER_ARTILLERY_NAME"="Artileri Kurcaci"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="Memiliki kesempatan untuk menembakkan peluru klaster yang meledak di udara, menjatuhkan beberapa bom kecil yang menyebar dan membombardir area tersebut.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="Kelompok"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="Meluncurkan rudal berpemandu yang mengejar target, meledak saat kontak dan memberikan kerusakan di area sekitarnya. Juga dapat menargetkan musuh terbang.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="Menembakkan rudal berpemandu yang meledak, merusak musuh di area."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="Peluncur Rudal"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="Membidik dan menembakkan misil berdampak tinggi ke arah unit lawan. Ledakan melepaskan gelombang kejut yang sementara melumpuhkan menara lawan di dekatnya.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="Meluncurkan misil ke sisi lawan yang memberikan kerusakan dan membuat menara terdiam."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="Rudal T.A.R"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="Awalnya dibangun untuk menembus batuan terdalam, bor tambang Dwarven yang kuat ini telah ditempa ulang menjadi senjata pertahanan yang tangguh. Ini mengguncang tanah, merusak dan mengejutkan unit dan struktur musuh."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="Bor enak mengejutkan musuh dengan setiap serangan."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="Setiap serangan menghancurkan tanah di sekitar menara, membuat semua musuh di dekatnya pingsan sebentar.\n(Keterampilan selalu aktif)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="Kejutan dan Kekaguman"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="Melepaskan kekuatan penuh dari bor untuk merusak medan, memicu gelombang lava cair yang membakar semua musuh di dekatnya dan meninggalkan tanah yang hangus yang terus memberikan kerusakan seiring waktu.\n(Beli keterampilan pada Peningkatan Menara Maksimum)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="Membakar musuh di sekitar dan mengisi tanah dengan magma."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="Ledakan Tungku"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="Dengan menentukan lokasi menara musuh, itu memicu kejutan seismik yang ditargetkan yang memecah tanah di bawah menara lawan, membuat mereka pingsan untuk waktu singkat.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="Membuat beberapa menara lawan terhenti dengan menyebabkan getaran lokal."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="Gempa bumi"
+
+"TOWER_BARRACK_DESCRIPTION"="Sering disebut sebagai penjaga suci, mereka adalah perisai dan pelindung warga. Kesatria yang kuat ini dikenal karena iman dan keberanian mereka yang tak tergoyahkan di hadapan musuh yang kuat."
+
+"TOWER_BARRACK_SHORT_DESC"="Paladin yang melindungi diri mereka dengan keyakinan suci."
+
+"TOWER_BARRACK_NAME"="Pangkalan Paladin"
+
+"BARRACK_UNIT_NAME"="Paladin"
+
+"BARRACK_UNIT_SHORT_DESC"="Berkuda bersenjata yang diberkati dengan ketahanan ilahi."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="Di tengah pertempuran, Paladin dapat mengangkat perisai mereka dengan tujuan ilahi, menangkis sebagian kerusakan yang masuk.\n(Keterampilan selalu aktif)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="Besi Besi"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="Potensialkan cahaya suci, Paladin memukul pedangnya ke tanah, menciptakan ledakan energi bercahaya yang merusak semua musuh di sekitarnya.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="Mengeluarkan ledakan energi suci, merusak musuh di dekatnya."
+
+"TOWER_BARRACK_SKILL_1_NAME"="Serangan Suci"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="Menghadapi odds yang sulit, Paladin memanggil rahmat ilahi untuk menyembuhkan sebagian lukanya, memulihkan kesehatan melalui sihir suci.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="Mengembalikan kesehatan menggunakan energi suci."
+
+"TOWER_BARRACK_SKILL_2_NAME"="Cahaya Penyembuhan"
+
+"TOWER_BARBARIAN_DESCRIPTION"="Ini prajurit utara yang garang dan kejam selalu siap untuk berdiri di lingkungan yang paling menantang. Ahli dalam pertarungan kapak, mereka dapat merobek musuh darat atau melemparkan senjata mereka ke langit untuk menjatuhkan musuh terbang dengan presisi brutal."
+
+"TOWER_BARBARIAN_SHORT_DESC"="Prajurit liar yang dapat melempar kapak ke musuh terbang."
+
+"TOWER_BARBARIAN_NAME"="Barbarian Mead Hall"
+
+"BARBARIANS_UNIT_NAME"="Barbar"
+
+"BARBARIANS_UNIT_SHORT_DESC"="Prajurit brutes berserker yang didorong oleh kemarahan dan naluri."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="Barbarian dapat menargetkan dan menyerang musuh terbang dalam jangkauan dengan melempar kapak mereka dengan akurasi mematikan.\n(Skill selalu aktif)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="Melempar Kapak"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="Di tengah pertempuran, para barbar menggunakan amarah mentah mereka untuk berputar dengan ganas dengan kapak ganda mereka, menebas semua musuh di dekatnya.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="Barbar yang berputar dalam pusaran mematikan, merusak semua musuh di dekatnya."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="Serangan Puting Beliung"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="Seorang barbar ketiga muncul di atas menara dan dengan kejam melemparkan kapak ke unit lawan, memberikan kerusakan berat.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="Ketiga barbar dipanggil untuk melempar kapak ke unit lawan."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="Hujan Kapak"
+
+"TOWER_MUSKETEER_DESCRIPTION"="Mematikan dan sabar, penembak jitu ini dapat tetap diam selama berhari-hari, menunggu tembakan yang sempurna. Dipersenjatai dengan senjata api yang ditempa oleh para kurcaci tua, hanya penembak yang paling disiplin yang dipercaya dengan tingkat daya tembak ini."
+
+"TOWER_MUSKETEER_SHORT_DESC"="Penembak jitu elit yang dilatih untuk menembus armor dan menyerang dari jauh."
+
+"TOWER_MUSKETEER_NAME"="Musketir Garnisun"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="Menggunakan amunisi khusus, mereka dapat menembus dan sebagian mengabaikan armor fisik musuh. (Keterampilan selalu aktif)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="Serangan Menembus"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="Dispara sebuah peluru eksplosif yang meledak saat terkena, juga memberikan damage area yang besar kepada musuh di sekitar target.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="Tiro explosivo que causa daño en área ao redor do alvo."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="Tembakan Serpihan"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="Musketir mengoordinasikan serangkaian tembakan cepat dan presisi tinggi pada unit di sisi lawan. Setiap serangan memberikan kerusakan dengan peluang untuk segera mengeliminasi setiap target.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="Menembakkan serangkaian tembakan kuat pada unit lawan, dengan peluang untuk membunuh seketika."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="Penembakan Penembak Jitu"
+
+"TOWER_SORCERER_DESCRIPTION"="Terkenal sebagai master penciptaan dan sihir elemental, mereka menguasai sihir Bumi dan rune kuno untuk menempa atau membentuk kembali apa pun sesuai kehendak mereka."
+
+"TOWER_SORCERER_SHORT_DESC"="Sebuah master rune yang serangannya mengikis armor musuh dengan setiap serangan."
+
+"TOWER_SORCERER_NAME"="Penyihir"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="Setiap serangan membawa kutukan yang berkepanjangan yang mengikis sebagian dari armor fisik musuh.\n(Keterampilan selalu aktif)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="Kutukan"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="Mereka menyalurkan sihir mereka melalui rune yang terukir di menara untuk mengubah musuh menjadi domba, mencabut mereka dari ketahanan dan mengurangi kesehatan mereka.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="Musuh diubah menjadi domba, mengurangi kesehatan dan menghapus resistensi."
+
+"TOWER_SORCERER_SKILL_1_NAME"="Polimorf"
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="Berkat penguasaan mereka atas sihir Bumi, mereka memanggil elemen kuat dari batu dan tanah untuk melindungi jalan.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="Mengundang Elemental Batu untuk melawan musuh di dekat menara."
+
+"TOWER_SORCERER_SKILL_2_NAME"="Memanggil Elemen"
+
+"CREEP_SORCERER_GOLEM_NAME"="Batu Elemental"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="Sebuah elemen batu yang perkasa yang menggunakan kekuatan murni dan ketahanan yang tak tergoyahkan untuk menghancurkan musuh dan menjaga jalan."
+
+"TOWER_TESLA_DESCRIPTION"="Awalnya dibangun untuk memelihara mesin Dwarf, Tesla x104 segera ditemukan memiliki potensi yang tak tertandingi sebagai senjata pertahanan yang tangguh, mampu melepaskan kemarahan listrik mentah di medan perang."
+
+"TOWER_TESLA_SHORT_DESC"="Petir-petir meluncur dari target ke musuh terdekat, memberikan sebagian kerusakan setiap kali."
+
+"TOWER_TESLA_NAME"="Tesla x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="Mengalirkan kekuatan seribu badai, ia melepaskan petir yang melengkung antara musuh, baik di darat maupun di udara. Setiap serangan berikutnya memberikan sebagian dari kerusakan asli.\n(Keterampilan selalu aktif)"
+
+"TOWER_TESLA_SKILL_0_NAME"="Sirkuit"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="Setiap serangan memiliki peluang untuk memicu kelebihan statis, merusak semua musuh dalam radius di sekitar menara.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="Serangan memiliki kesempatan untuk melepaskan ledakan statis area di sekitar menara."
+
+"TOWER_TESLA_SKILL_1_NAME"="Overcharge"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="Удар на musuh dengan gelombang petir yang tak terhentikan, memberikan damage dan membuat mereka stun selama beberapa detik.\n(Beli skill di Upgrade Menara Maksimal)"
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="Musuh unit menyerang, memberikan damage dan membuatnya stun."
+
+"TOWER_TESLA_SKILL_2_NAME"="Petir"
+
+"TOWER_GLACIAL_DRUID_NAME"="Druid Esuk"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="Penguasa murka musim dingin, mereka menggunakan sihir glasial untuk menciptakan badai salju dan angin beku, meninggalkan jejak embun beku dan musuh yang melambat."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="Seorang penyihir pengendali es yang dapat memperlambat kelompok musuh dengan setiap serangan."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="Setiap serangan melepaskan ledakan dingin, memperlambat semua musuh di area selama beberapa detik.\n(Keterampilan selalu aktif)"
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="Es jalan Es"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="Mengundang kekuatan glasial kuno untuk memanggil Frost Giant yang menjulang tinggi di jalur lawan.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="Meny summon Raksasa Es di jalur lawan."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="Es krim raksasa"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="Melepaskan badai es yang menghancurkan yang sementara membekukan beberapa menara musuh, menghentikan fungsinya.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="Membekukan menara lawan, menonaktifkannya untuk waktu singkat."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="Esok Storm"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="Para para ahli seni perang sihir ini biasanya berdiri sebagai garis pertahanan terakhir. Dengan mantra yang menghancurkan dan sihir yang presisi, mereka dapat mendorong mundur bahkan tentara yang paling gigih atau hanya mengusir mereka."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="Sebuah penyihir perang yang mengalirkan energi sihir mentah menjadi peluru eksplosif."
+
+"TOWER_ARCHMAGE_NAME"="Penyihir Agung"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="Setiap petir terisi energi tidak stabil, memberinya kesempatan untuk meledak saat terkena dan merusak musuh di dekatnya.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="Massa Kritis"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="Lepaskan kekuatan tornado ajaib yang menerjang medan perang, merusak dan menyeret musuh ke belakang di sepanjang jalan.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="Mengeluarkan tornado yang menarik musuh ke belakang dan memberikan damage."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="Putaran"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="Menggabungkan sihir Arcane dan Dimensional untuk memindahkan beberapa musuh melintasi medan perang, langsung mengirim mereka ke sisi lawan.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="Teleport musuh ke sisi lawan."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="Menghilang"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="Melalui iman yang tak tergoyahkan dan bertahun-tahun pelatihan suci, para pendeta wanita ini telah menguasai sihir ilahi untuk melindungi sekutu mereka saat dalam bahaya. Mereka adalah asuransi jiwa terbaik yang bisa didapatkan seorang pejuang."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="Sebuah penyembuh yang setia yang memberkati sekutu terdekat, mengurangi kerusakan yang mereka terima."
+
+"TOWER_HOLY_SANCTUARY_NAME"="Suci Tempat"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="Pendeta memberkati menara, memberikan perlindungan ilahi kepada semua sekutu dalam jangkauan, mengurangi kerusakan yang masuk selama mereka tetap berada di dekatnya.\n(Keterampilan selalu aktif)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="Imam Kepercayaan"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="Memanggil kekuatan suci untuk sementara memperkuat menara terdekat, meningkatkan kerusakan mereka untuk beberapa waktu. (Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="Sementara menguatkan menara terdekat."
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="Magis Blessing"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="Saat mendeteksi sekutu yang terluka, pendeta melepaskan ledakan sihir penyembuhan, memprioritaskan yang terluka dan memulihkan kesehatan semua unit di dekatnya.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="Menyembuhkan unit sekutu terdekat."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="Aura Kehidupan"
+
+"TOWER_NECROMANCER_DESCRIPTION"="Para penguasa seni terlarang, Necromancer memutar kematian sesuai kehendak mereka. Mampu mengangkat tubuh musuh yang jatuh sebagai tentara undead untuk bertarung bagi mereka, mencegah sekutu mereka mengalami nasib yang sama."
+
+"TOWER_NECROMANCER_SHORT_DESC"="Gelap penyihir yang menghidupkan kembali musuh yang jatuh di dekatnya dalam jangkauannya."
+
+"TOWER_NECROMANCER_NAME"="Nekromans"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="Necromancer secara pasif menghidupkan kembali musuh yang jatuh dalam jangkauan, mengirimkan kerangka untuk menyerang sisi lawan.\n(Keterampilan selalu aktif)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="Skeletal Army"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="Gugurang sebuah awan kematian beracun yang bertahan di medan perang, memberikan kerusakan seiring waktu kepada semua musuh yang terjebak di dalamnya.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="Menciptakan awan yang bertahan dan terus-menerus merusak musuh di dalam area tersebut."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="Penyakit"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="Sebuah Kuda Kerangka dipanggil di sisi lawan. Pejuang undead elit ini tidak hanya bertarung tanpa henti tetapi juga meningkatkan kerusakan sekutu yang dihidupkan kembali di dekatnya.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="Memanggil Penunggang Kerangka yang memperkuat Kerangka di dekatnya."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="Kematian Penunggang"
+
+"TOWER_NECROMANCER_PACK_NAME"="Paket Pemula"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="Awalnya dirancang sebagai pejalan kaki untuk menyederhanakan patroli rutin, mecha ini sejak itu telah dimodifikasi menjadi pembela garis depan yang mampu menahan berbagai bahaya."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="Mecha yang melindungi menara, melindungi menara terdekat dari mati rasa dan gangguan sistem."
+
+"TOWER_BATTLE_MECHA_NAME"="Pertempuran Mecha"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="Mengeluarkan medan resonansi yang menstabilkan yang mencegah menara sekutu terdekat terstun atau dinonaktifkan.\n(Keterampilan selalu aktif)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="Kekuatan Mekanik"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="Luncurkan kawanan rudal berpemandu yang mencari musuh di medan perang, memberikan kerusakan dengan setiap serangan.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="Meluncurkan rudal berpemandu yang mengejar dan merusak beberapa musuh."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="Roket Lebah"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="Membuang limbah mekanik berbahaya yang terakumulasi dari mecha ke tanah, menciptakan area yang memperlambat musuh yang menginjaknya.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="Membuat area limbah lambat di sekitar mecha."
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="Pembuangan Sampah"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="Ladang Ranjau"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="Menyebarkan lapangan ranjau di sisi lawan setiap beberapa detik. Ranjau ini meledak saat kontak, memberikan kerusakan area pada unit musuh.\n(Skill selalu aktif)"
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="Pertarungan Mecha"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="Mengeluarkan medan resonansi yang menstabilkan yang mencegah menara sekutu terdekat terstun atau dinonaktifkan.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="Dibentuk dari sisa-sisa legiun Linirea yang jatuh, para penyintas yang tangguh ini mengkhususkan diri dalam pertempuran gerilya jarak jauh - menyerang dari bayangan dengan presisi mematikan dan membakar pasukan musuh dari jauh."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="Garis pemanah garis depan yang mampu memberikan kerusakan kritis dan membakar musuh mereka."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="Penjaga Panah"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="Penjaga Panah"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="Prajurit yang terampil dalam ketepatan jarak jauh dan pertarungan jarak dekat."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="Untuk seorang pemanah garis depan, setiap serangan berarti. Serangan jarak jauh memiliki peluang untuk melakukan serangan kritis, memberikan kerusakan bonus.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="Serangan Kritis"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="Mereka menyalakan panah mereka dengan minyak dan api, membakar musuh dan menyebabkan kerusakan seiring waktu.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="Membakar musuh saat terkena, memberikan kerusakan bakar dari waktu ke waktu."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="Menembak"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="Setiap beberapa detik, ketika tidak dalam pertempuran, mereka dapat menembakkan beberapa tembakan ke unit lawan. (Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="Mengeluarkan segerombolan panah ke unit lawan saat tidak bertempur."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="Latihan Menembak"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="Pengembara berpengalaman, ditemani oleh elang setianya. Mereka menggunakan kerja sama tim untuk menjebak mangsa ke dalam perangkap, memungkinkan mereka untuk mengalahkan bahkan makhluk yang paling tangguh."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Seorang pemburu taktis yang didukung oleh elang terlatih, menggunakan perangkap untuk mengeliminasi musuh."
+
+"TOWER_HUNTER_OUTPOST_NAME"="Pos Cazador"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Seorang pemburu taktis yang didukung oleh elang terlatih, menggunakan perangkap untuk mengeliminasi musuh."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Seorang pemburu taktis yang didukung oleh elang terlatih, menggunakan perangkap untuk mengeliminasi musuh."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="Seekor elang terlatih melayang, menjelajahi area luas di sekitar menara dan menyerang musuh apa pun dalam jangkauannya.\n(Skill selalu aktif)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="Memburu Elang"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="Pemburu memasang jebakan beruang di sepanjang jalan. Musuh yang menginjaknya akan terkena kerusakan dan sementara waktu terkejut.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="Menempatkan jebakan yang memberikan damage dan membuat musuh terstun sebentar."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="Beruang Perangkap"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="Secara berkala, pemburu memberi sinyal kepada elang untuk terbang ke sisi lawan, mengganggu barisan mereka.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="Mengirim elang ke jalur lawan."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="Menjelajahi dan Memburu"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="Dibentuk dari sisa-sisa legiun Linirea yang jatuh, para penyintas yang tangguh ini mengkhususkan diri dalam pertempuran gerilya jarak jauh - menyerang dari bayangan dengan presisi mematikan dan membakar pasukan musuh dari jauh."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="Garis pemanah garis depan dengan kemampuan untuk memberikan kerusakan kritis dan membakar musuh mereka."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="Garis pemanah garis depan yang mampu memberikan damage kritis dan membakar musuh mereka."
+
+"TOWER_ARCHERY_SCOUT_NAME"="Penjaga Panah"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="Untuk seorang pemanah garis depan, setiap serangan berarti. Serangan jarak jauh memiliki peluang untuk melakukan serangan kritis, memberikan kerusakan bonus.\n(Keterampilan selalu aktif)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="Serangan Kritis"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="Mereka menyalakan panah mereka dengan minyak dan api, membakar musuh dan menyebabkan kerusakan seiring waktu.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="Menghanguskan musuh saat terkena, menyebabkan kerusakan terbakar seiring waktu."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="Menembak"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="Setiap beberapa detik, ketika tidak dalam pertempuran, mereka dapat menembakkan beberapa tembakan ke unit lawan. (Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="Melontarkan segerombolan panah ke unit lawan saat tidak dalam pertempuran."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="Latihan Menembak"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="Penembak jitu terkuat di Linirea. Penjaga langit, mata tajam mereka memungkinkan mereka mengenai bahkan target terjauh. Elang perang setia mereka memastikan tidak ada musuh terbang yang lolos tanpa cedera."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="Penembak jitu bermata tajam yang dilengkapi dengan jangkauan jauh dan taktik anti-udara."
+
+"TOWER_ROYAL_ARCHERS_NAME"="Pemanah Kerajaan"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="Dilengkapi dengan ujung panah yang tajam dan ketepatan yang tiada tara, mereka akan memberikan kerusakan bonus kepada musuh terbang.\n(Keterampilan selalu aktif)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="Puncak Tajam"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="Sebagai ahli falconry, mereka dapat mengirim elang terlatih mereka untuk mengejar dan menyerang musuh terbang setiap beberapa detik.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="Setiap beberapa detik mengirimkan elang untuk menyerang musuh terbang."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="Elang Serakah"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="Mereka menembakkan tembakan terisi yang dilengkapi dengan panah penghancur armor, sementara mengurangi armor fisik target untuk sementara.\n(Beli keterampilan di Upgrade Menara Maksimal)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="Menembakkan panah yang terisi yang sementara mengurangi armor musuh."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="Penusuk Armor"
+
+"SPELL_ARCANE_CIRCLE_NAME"="Teleportasi"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="Melontarkan lingkaran sihir yang mengangkut kembali musuh yang melintasinya."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="Mengeluarkan lingkaran sihir yang mengangkut kembali musuh yang datang."
+
+"SPELL_CURSED_VINES_NAME"="Duri Terkutuk"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="Tanam sekelompok tanaman merambat beracun di tanah yang memperlambat musuh dan merusak mereka seiring waktu."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="Menumbuhkan tanaman merambat yang memperlambat musuh dan meracuni mereka."
+
+"SPELL_CURSED_VINES_PACK_NAME"="Paket Santai"
+
+"SPELL_ICY_ZONE_NAME"="Zona Dingin"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="Menutupi area besar dengan es tebal, memperlambat musuh yang mencoba melintasinya."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="Menutupi area besar dengan es tebal, memperlambat musuh."
+
+"SPELL_POLYMORPH_NAME"="Polimorf"
+
+"SPELL_POLYMORPH_DESCRIPTION"="Mengubah hampir semua musuh menjadi domba, mengurangi kesehatan mereka dan menghapus armor yang mungkin mereka miliki."
+
+"SPELL_POLYMORPH_SHORT_DESC"="Musuh diubah menjadi domba, mengurangi kesehatan mereka dan menghilangkan ketahanan."
+
+"SPELL_RAIN_OF_FIRE_NAME"="Hujan Api"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="Mengeluarkan mantra yang kuat yang memanggil beberapa bola api dari langit, menyerang semua musuh di dalam area tersebut beberapa kali."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="Semua musuh di area sihir menerima damage."
+
+"SPELL_REINFORCEMENTS_NAME"="Penguatan"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="Sementara memanggil sepasang prajurit dengan peralatan dasar untuk membantu dalam pertempuran."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="Sementara memanggil sepasang prajurit untuk membantu dalam pertempuran."
+
+"REINFORCEMENTS_UNIT_NAME"="Penguatan"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="Prajurit dasar yang membantu dalam pertahanan."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="Es krim raksasa"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="Titan beku yang bertahan dalam pertempuran yang mampu menghancurkan seluruh pasukan."
+
+"HUNTING_EAGLE_UNIT_NAME"="Elang Pemburu"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="Pendamping setia Hunter, menyerang musuh dari atas."
+
+"SCOUNT_EAGLE_UNIT_NAME"="Pengintai Elang"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="Seekor elang yang dijinakkan oleh Pemburu, diperintahkan untuk menyerang lawannya."
+
+"SPELL_STUN_NAME"="Sengatan Petir"
+
+"SPELL_STUN_DESCRIPTION"="Melepaskan petir yang kuat untuk menghantam tanah, menyetrum area besar dan membuat semua musuh di dalam jangkauannya pingsan."
+
+"SPELL_STUN_SHORT_DESC"="Mengguncang musuh di dalam area."
+
+"SPELL_THUNDERBOLT_NAME"="Petir"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="Memanggil badai petir yang kuat untuk menyerang semua musuh di area tersebut, memberikan damage dan membuat mereka terstun dengan setiap serangan."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="Menyerang musuh dengan petir, memberikan kerusakan di area dan membuat musuh terpukau sebentar."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Guntur"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Menyerang musuh terkuat di area, mengalahkannya seketika."
+
+"SPELL_SABOTAGE_NAME"="Sabotase"
+
+"SPELL_SABOTAGE_DESCRIPTION"="Mengurangi Armor atau ketahanan Sihir dari semua musuh di dalam area efek."
+
+"SPELL_SABOTAGE_SHORT_DESC"="Mengurangi ketahanan semua musuh di dalam area"
+
+"SPELL_LINIREAN_LANCERS_NAME"="Penunggang Lancer Linirean"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="Sementara memanggil sepasang Lancer Veteran untuk membantu dalam pertempuran."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="Sementara memanggil sepasang Lancer Veteran untuk membantu dalam pertempuran."
+
+"CREEP_GOBLIN_NAME"="Goblin"
+
+"CREEP_GOBLIN_DESC_1"="Makhluk lemah dan tidak terlatih dari suku goblin"
+
+"CREEP_GOBLIN_SHORT_DESC"="Goblin kecil dan lemah"
+
+"CREEP_GOBLIN_WARRIOR_NAME"="Prajurit Goblin"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="Goblin terlatih dan lebih kuat dilengkapi dengan baju besi untuk menahan lebih banyak kerusakan."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="Goblin yang lebih kuat dengan baju zirah"
+
+"CREEP_GOBLIN_WIZARD_NAME"="Penyihir Goblin"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="Goblin berbahaya yang menggunakan sihir api untuk membakar musuh-musuhnya."
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="Goblin penyihir yang menggunakan bola api untuk memberikan kerusakan seiring waktu."
+
+"CREEP_GOBLIN_COPTER_NAME"="Helikopter Goblin"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="Mesin rongsokan yang kokoh namun tidak stabil, dibuat oleh goblin untuk menjelajahi wilayah mereka."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="Ketika helikopter hancur, goblin jatuh ke tanah dan terus berjalan"
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="Sebuah kendaraan terbang rongsokan yang, ketika dihancurkan, menyebabkan pilot jatuh ke tanah."
+
+"CREEP_ORC_NAME"="Orc"
+
+"CREEP_ORC_DESC_1"="Makhluk berbahaya dan tangguh yang hidup di antara suku goblin"
+
+"CREEP_ORC_SHORT_DESC"="Musuh berbahaya dengan kulit tebal yang melindunginya dari serangan fisik."
+
+"CREEP_ORC_CHAMPION_NAME"="Juara Orc"
+
+"CREEP_ORC_CHAMPION_DESC_1"="Seorang Orc yang tahan lama dan terlatih dengan baik, siap untuk melawan musuh berbahaya apa pun."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="Seorang prajurit orc yang tangguh, dilengkapi dan dilatih untuk menghancurkan musuh mana pun."
+
+"CREEP_ORC_SHAMAN_NAME"="Dukun Orc"
+
+"CREEP_ORC_SHAMAN_DESC_1"="Seorang penyembuh dari suku goblin, biasanya terlihat di belakang, mendukung para pejuang."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="Seorang penyembuh goblin yang memulihkan kesehatan semua sekutu di sekitarnya."
+
+"CREEP_OGRE_NAME"="Ogre"
+
+"CREEP_OGRE_DESC_1"="Makhluk yang menakutkan dan tangguh yang menerobos pertahanan apa pun dengan kekuatan kasar."
+
+"CREEP_OGRE_SHORT_DESC"="Sangat berbahaya dan kuat; setiap serangan memberikan kerusakan area."
+
+"CREEP_HATCHLING_NAME"="Anak Laba-laba"
+
+"CREEP_HATCHLING_DESC_1"="Laba-laba yang baru lahir, biasanya terlihat dalam kelompok besar mengikuti Matriark."
+
+"CREEP_HATCHLING_SHORT_DESC"="Kecil dan cepat, laba-laba yang baru lahir ini selalu bergerak dalam kelompok."
+
+"CREEP_MATRIARCH_NAME"="Ratu Laba-laba"
+
+"CREEP_MATRIARCH_DESC_1"="Seekor laba-laba dari kedalaman hutan yang menggunakan keturunannya untuk berburu dan menjelajah."
+
+"CREEP_MATRIARCH_SHORT_DESC"="Laba-laba besar yang cenderung bertelur, menghasilkan laba-laba kecil"
+
+"CREEP_GARGOYLE_NAME"="Gargoyle"
+
+"CREEP_GARGOYLE_DESC_1"="Makhluk nokturnal yang melayang di langit malam hutan."
+
+"CREEP_GARGOYLE_SHORT_DESC"="Makhluk nokturnal yang melayang di langit malam hutan."
+
+"CREEP_WULF_NAME"="Serigala"
+
+"CREEP_WOLF_NAME"="Serigala"
+
+"CREEP_WULF_DESC_1"="Hewan hutan yang cepat dan cerdas yang mengintai mangsanya dalam kelompok."
+
+"CREEP_WOLF_SHORT_DESC"="Makhluk yang dengan cepat memburu mangsanya; jika Anda melihat satu, pasti ada lebih banyak yang akan datang."
+
+"BOSS_KRUM_THAK_NAME"="Krum'Thak"
+
+"BOSS_KRUM_THAK_DESC_1"="Seorang dukun kuat yang melindungi sekutunya dan menggunakan petir mematikan untuk menghilangkan musuh."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="Seorang dukun perkasa yang melindungi sekutu sambil melemparkan petir untuk mengalahkan musuh."
+
+"BOSS_GUL_THAK_NAME"="Gul'Thak"
+
+"BOSS_GUL_THAK_DESC_1"="Seorang kepala suku yang kuat yang menyembuhkan sekutunya sambil menyerang musuh yang terdeteksi."
+
+"BOSS_GUL_THAK_SHORT_DESC"="Seorang kepala suku perkasa yang menyembuhkan sekutunya dan menyerang musuh saat berada di dekatnya"
+
+"CREEP_TROLL_NAME"="Troll"
+
+"CREEP_TROLL_DESC_1"="Makhluk lemah dari ras Troll yang memiliki sifat regenerasi."
+
+"CREEP_TROLL_SHORT_DESC"="Makhluk lemah dari ras Troll. Memulihkan HP seiring waktu."
+
+"CREEP_TROLL_BREAKER_NAME"="Troll Penghancur"
+
+"CREEP_TROLL_BREAKER_DESC_1"="Dilengkapi dengan baju besi dan batang pohon, raksasa ini dapat menembus pertahanan yang paling kuat sekalipun."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="Troll raksasa dengan kerusakan area berkat batang kayu yang digunakan sebagai senjata. Memulihkan HP seiring waktu."
+
+"CREEP_TROLL_CHAMPION_NAME"="Juara Troll"
+
+"CREEP_TROLLCHAMPION_NAME"="Juara Troll"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="Prajurit tangguh dengan regenerasi dari ras Troll, yang mengkhususkan diri dalam serangan jarak jauh"
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="Troll kuat yang dapat menyerang dari jarak jauh. Memulihkan HP seiring waktu."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="Kepala Troll"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="Troll ini menggunakan drum untuk menyembuhkan dan meningkatkan damage dan kecepatan semua sekutu di sekitarnya. Memiliki kemampuan regenerasi yang tinggi."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="Seorang kepala suku yang mendukung sekutunya dengan berbagai buff. Memulihkan HP seiring waktu."
+
+"CREEP_TROLL_PATHFINDER_NAME"="Penjelajah Troll"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="Troll kecil yang memanfaatkan medan dengan menggunakan sepatu rodanya untuk meluncur di atas es, memulihkan kesehatannya seiring waktu."
+
+"CREEP_PATHFINDER_NAME"="Penjelajah Troll"
+
+"CREEP_PATHFINDER_SHORT_DESC"="Troll cepat yang menggunakan sepatu roda mereka untuk meluncur dan menghindari musuh. Memulihkan HP seiring waktu."
+
+"CREEP_WINTER_WULF_NAME"="Serigala Musim Dingin"
+
+"CREEP_WINTER_WULF_DESC_1"="Makhluk gesit dengan bulu khusus yang memungkinkannya menahan sihir dan cuaca ekstrem."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="Makhluk yang cepat dan gesit yang dengan mudah menghindari beberapa serangan jarak dekat"
+
+"CREEP_YETI_NAME"="Yeti"
+
+"CREEP_YETI_DESC_1"="Makhluk besar dan berbahaya; sangat sedikit yang berani menghalanginya."
+
+"CREEP_YETI_SHORT_DESC"="Makhluk tangguh yang mampu menghancurkan apa pun di jalurnya."
+
+"CREEP_SNOW_GOLEM_NAME"="Golem Salju"
+
+"CREEP_SNOW_GOLEM_DESC_1"="Golem gunung dengan kemampuan menyerang dari jarak jauh dan terpecah saat hancur."
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="Menyerang dari jarak jauh dan, setelah mati, terbelah menjadi dua golem yang lebih kecil."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="Golem Salju Kecil"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="Golem salju kecil, biasanya dibuat dari fragmen golem yang lebih besar."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="Golem kecil dan lemah dengan serangan jarak jauh"
+
+"CREEP_ICE_MEPHIT_NAME"="Mephit Es"
+
+"CREEP_ICE_MEPHIT_DESC_1"="Makhluk gunung yang mengganggu penduduk. Setelah mati, ia meledak, membekukan segala sesuatu di sekitarnya."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="Ketika mati, itu menghasilkan ledakan yang memberikan kerusakan dan membekukan unit di sekitarnya."
+
+"CREEP_WINTER_FAERIE_NAME"="Peri Musim Dingin"
+
+"CREEP_WINTER_FAERIE_DESC_1"="Roh gunung yang menembus apa pun di jalurnya; bahkan baju besi tidak dapat menahan serangannya."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="Menembakkan beberapa pecahan es yang sebagian mengabaikan armor"
+
+"BOSS_JT_NAME"="J.T."
+
+"BOSS_JT_DESC_1"="Raja gunung; segala sesuatu yang melintasi jalannya akan berakhir membeku atau dimakan."
+
+"BOSS_JT_SHORT_DESC"="Raksasa besar yang memakan musuh dan membekukan menara."
+
+"BOSS_ULGUK_HAI_NAME"="Ulguk-Hai"
+
+"BOSS_ULGUK_HAI_DESC_1"="Troll Gunung yang kuat yang menggunakan perisainya untuk memblokir kerusakan fisik apa pun."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="Seorang pemimpin yang kuat maju dengan perisai terangkat, memblokir kerusakan fisik, hanya menurunkannya dalam pertempuran."
+
+"CREEP_BANDIT_NAME"="Bandit"
+
+"CREEP_BANDIT_DESC_1"="Kecil dan gesit, mereka mungkin peringkat terendah di geng, tetapi pukulan mereka keras."
+
+"CREEP_BANDIT_SHORT_DESC"="Bandit yang rapuh tapi gesit, mereka bisa menghindari beberapa serangan dan memukul keras."
+
+"CREEP_BANDIT_ARCHER_NAME"="Pemanah Bandit"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="Seorang pemanah dengan penglihatan luar biasa, memungkinkan mereka menembak pada jarak yang lebih jauh daripada pemanah lainnya."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="Dengan penglihatan tajamnya, dia bisa menembak lebih jauh daripada pemanah lainnya."
+
+"CREEP_BRIGAND_NAME"="Perampok"
+
+"CREEP_BRIGAND_DESC_1"="Bandit dengan baju besi rongsokan, yang rusak jika dia menerima terlalu banyak kerusakan, meninggalkan bandit tanpa senjata."
+
+"CREEP_BRIGAND_SHORT_DESC"="Seorang bandit yang lebih kuat, setelah dikalahkan, armornya pecah, mengubahnya menjadi bandit biasa."
+
+"CREEP_TRICKSTER_NAME"="Penipu"
+
+"CREEP_TRICKSTER_DESC_1"="Bandit licik yang menggunakan trik untuk melarikan diri dari perkelahian atau pengejar."
+
+"CREEP_TRICKSTER_SHORT_DESC"="Ketika diblokir, dapat menjadi tak terlihat, menghindari deteksi selama beberapa detik."
+
+"CREEP_FOREST_SEER_NAME"="Peramal Hutan"
+
+"CREEP_FOREST_SEER_DESC_1"="Bandit dengan pemahaman sihir, mampu menciptakan ilusi untuk menipu musuhnya."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="Bandit yang mahir sihir yang menggandakan diri saat diblokir"
+
+"CREEP_FOREST_SEER_CLONE_NAME"="Ilusi Pelihat Hutan"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="Klon sementara yang dibuat oleh Peramal Hutan"
+
+"CREEP_MARAUDER_NAME"="Perampok"
+
+"CREEP_MARAUDER_DESC_1"="Seorang brute yang dilengkapi dengan kuat untuk menahan serangan apa pun, biasanya digunakan sebagai perisai untuk melindungi bandit lainnya."
+
+"CREEP_MARAUDER_SHORT_DESC"="Brute lapis baja yang mampu menahan banyak serangan"
+
+"CREEP_RAIDER_NAME"="Penjarah"
+
+"CREEP_RAIDER_DESC_1"="Prajurit jarak jauh mematikan dilengkapi dengan bola berduri yang mengabaikan semua jenis armor."
+
+"CREEP_RAIDER_SHORT_DESC"="Prajurit jarak jauh mematikan yang memberikan kerusakan sejati"
+
+"CREEP_PILLAGER_NAME"="Penjarah"
+
+"CREEP_PILLAGER_DESC_1"="Bandit yang sangat tangguh dengan peralatan ajaib yang mampu menahan sihir dan memberikan kerusakan area."
+
+"CREEP_PILLAGER_SHORT_DESC"="Bandit yang sangat tangguh yang memberikan kerusakan area。"
+
+"CREEP_WORG_NAME"="Worg"
+
+"CREEP_WORG_DESC_1"="Kerabat Wulf yang lebih tangguh, Worg ini dilatih untuk menghadapi tentara musuh."
+
+"CREEP_WORG_SHORT_DESC"="Worg yang dilatih oleh geng untuk menghindari beberapa serangan jarak dekat"
+
+"CREEP_WILD_EAGLE_NAME"="Elang Liar"
+
+"CREEP_WILD_EAGLE_DESC_1"="Seekor elang liar dijinakkan oleh Beastmaster yang terampil dalam geng"
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="Elang ini kadang-kadang turun untuk menyerang unit di bawahnya sebelum melanjutkan."
+
+"BOSS_KINGPIN_NAME"="Bos"
+
+"BOSS_KINGPIN_DESC_1"="Pemimpin geng yang tak terhentikan yang menggunakan emas curian untuk menyewa dan mendukung anggotanya."
+
+"BOSS_KINGPIN_SHORT_DESC"="Seorang pemimpin bandit yang menghancurkan segala sesuatu di jalannya, dapat menyembuhkan sekutunya, dan memanggil bala bantuan dari kamp."
+
+"BOSS_EINAR_NAME"="Einar Sang Penjaga Binatang"
+
+"BOSS_EINAR_DESC_1"="Seorang penguasa binatang yang menggunakan worg dan elang untuk mendeteksi dan menyerang targetnya."
+
+"BOSS_EINAR_SHORT_DESC"="Seorang penguasa binatang yang mampu memanggil elang dan sekawanan worg"
+
+"CREEP_DARK_ROOKIE_NAME"="Pemula Gelap"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="Musuh kecil berlapis baja, pion yang dapat dikorbankan milik Penguasa Kegelapan."
+
+"CREEP_DARK_ROOKIE_DESC_1"="Ketika kehilangan sebagian HP mereka, mereka kehilangan armor mereka meningkatkan kecepatan"
+
+"CREEP_DARK_KNIGHT_NAME"="Ksatria Gelap"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="Musuh yang tahan dan berlapis baja. Mereka adalah kekuatan utama dari Pasukan Kegelapan"
+
+"CREEP_DARK_KNIGHT_DESC_1"="Ketika kehilangan sebagian HP mereka, mereka kehilangan perisai, mengurangi armor mereka dan meningkatkan kecepatan mereka."
+
+"CREEP_DARK_SLAYER_NAME"="Pembantai Gelap"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="Musuh berlapis baja yang mematikan. Jika satu gugur dalam pertempuran, ksatria lain dapat meneruskan warisannya."
+
+"CREEP_DARK_SLAYER_DESC_1"="Setelah mereka mati, mereka meninggalkan pedang mereka dan seorang Ksatria Kegelapan dapat mengambilnya untuk menjadi pembunuh."
+
+"CREEP_DARK_CAVALRY_NAME"="Kavaleri Gelap"
+
+"CREEP_DARK_CAVALRY_DESC_1"="Menyerang dengan kecepatan tinggi terhadap musuh, membuatnya pingsan selama beberapa detik."
+
+"CREEP_DARK_CAVALRY_DESC_2"="Meninggalkan Ksatria Kegelapan di tempat setelah mati"
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="Ksatria gelap yang menerjang musuh, menghancurkan segala penghalang yang mencoba menghentikan lajunya."
+
+"CREEP_SHADOW_ARCHER_NAME"="Pemanah Bayangan"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="Penyerang jarak jauh yang lemah tapi cepat"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Penyihir Eldritch"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="Penyihir kuat dengan serangan sihir luas"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Mereka melemparkan mantra yang menyerang beberapa kali dan mengabaikan armor"
+
+"CREEP_ROCKET_RIDER_NAME"="Penunggang Roket"
+
+"CREEP_ROCKET_RIDER_DESC_1"="Musuh terbang berlapis baja"
+
+"CREEP_ROCKET_RIDER_DESC_2"="Kehilangan jetpack saat hancur dan jatuh ke tanah."
+
+"CREEP_DARK_CROW_NAME"="Gagak Hitam"
+
+"CREEP_DARK_CROW_DESC_1"="Gagak terlatih yang bisa terbang dengan ketahanan sihir"
+
+"CREEP_DARK_CROW_SHORT_DESC"="Setiap beberapa detik menyerang unit di bawah selama beberapa detik, lalu melanjutkan di jalur."
+
+"CREEP_MAGMA_SHARD_NAME"="Serpihan Magma"
+
+"CREEP_MAGMA_SHARD_DESC_1"="Musuh berlapis baja yang merepotkan, terbuat dari lava, dan dapat hidup kembali setelah beberapa detik dalam wujud batu."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="Berubah menjadi patung batu saat terbunuh. Jika tidak terbunuh dalam keadaan itu, dapat muncul kembali dengan kesehatan penuh"
+
+"CREEP_GOLEM_HEAD_NAME"="Kepala Golem"
+
+"CREEP_GOLEM_HEAD_DESC_1"="Musuh kecil dan lemah berlapis baja"
+
+"BOSS_JUGGERNAUT_NAME"="Raksasa"
+
+"BOSS_JUGGERNAUT_DESC_1"="Dapat memanggil sekelompok Kepala Golem beberapa ubin di depan"
+
+"BOSS_JUGGERNAUT_DESC_2"="Meluncurkan rudal jarak jauh yang memberikan kerusakan tinggi"
+
+"BOSS_WAR_ZEPPELIN_NAME"="Benteng Terbang"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="Melemparkan tong tar ke menara yang membuatnya tertegun selama beberapa detik."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="Benteng akan terbang melalui jalur terbangnya sendiri"
+
+"CREEP_FLYING_SHEEP_NAME"="Domba Terbang"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="Musuh berubah menjadi domba terbang"
+
+"CREEP_SHEEP_NAME"="Domba"
+
+"CREEP_SHEEP_SHORT_DESC"="Musuh berubah menjadi domba"
+
+"CREEP_SKELETON_SMALL_NAME"="Kerangka"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="Kerangka yang dihidupkan kembali yang menyerang makhluk hidup"
+
+"CREEP_SKELETON_BIG_NAME"="Kesatria Kerangka"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="Kerangka yang dihidupkan kembali dilengkapi dengan perisai dan helm"
+
+"CREEP_DEATH_RIDER_NAME"="Penunggang Kematian"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="Ksatria kerangka kuat menunggang kuda kematian. Memperkuat setiap kerangka di sekitarnya."
+
+"CREEP_VERDANT_DEFENDER_NAME"="Serigala Ent"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="Makhluk seperti pohon dalam bentuk Serigala. Kadang-kadang bisa menghindari serangan jarak dekat."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="peningkatan kerusakan semua mantra"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="peningkatan kerusakan menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="peningkatan kerusakan jarak dekat semua menara"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="peningkatan kerusakan jangkauan semua menara"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="peningkatan kerusakan semua menara"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="peningkatan kerusakan keterampilan semua menara"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="peningkatan kecepatan serangan semua menara"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="penurunan cooldown semua keterampilan menara"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="peningkatan kerusakan jarak dekat menara sihir"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="peningkatan kerusakan jangkauan menara sihir"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="peningkatan kerusakan menara sihir"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="peningkatan kerusakan keterampilan menara sihir"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="peningkatan kecepatan serangan menara sihir"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="penurunan cooldown keterampilan menara sihir"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="peningkatan jangkauan menara sihir"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="peningkatan kerusakan jarak dekat menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="peningkatan kerusakan jarak jauh menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="peningkatan kerusakan menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="peningkatan kerusakan keterampilan menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="peningkatan kecepatan serangan menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="penurunan cooldown keterampilan menara artileri"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="peningkatan jangkauan menara artileri"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="peningkatan kerusakan jarak dekat barak"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="peningkatan kerusakan jangkauan barak"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="peningkatan kerusakan barak"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="peningkatan kerusakan keterampilan barak"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="peningkatan kecepatan serangan barak"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="penurunan cooldown keterampilan barak"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="peningkatan jangkauan barak"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="peningkatan damage skill menara pemanah"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="peningkatan kecepatan serangan menara pemanah"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="peningkatan kesehatan sekutu"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="peningkatan armor sekutu"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="peningkatan kerusakan sekutu"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="peningkatan kerusakan jarak dekat sekutu"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="peningkatan kerusakan jarak jauh sekutu"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="peningkatan kecepatan sekutu"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="peningkatan kerusakan semua mantra"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="pengurangan cooldown semua mantra"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="peningkatan area semua mantra"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="peningkatan kerusakan pahlawan"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="peningkatan kerusakan jarak dekat pahlawan"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="peningkatan kerusakan jangkauan pahlawan"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="peningkatan kesehatan pahlawan"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="peningkatan kecepatan pahlawan"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="penurunan waktu respawn pahlawan"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="penurunan kesehatan musuh"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="penurunan kecepatan musuh"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="penurunan armor fisik musuh"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="penurunan armor sihir musuh"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="penurunan kerusakan musuh"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="penurunan waktu cooldown mantra pemanggilan"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="peningkatan jangkauan menara jarak jauh"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Kemarahan Mana"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Kekuatan Meriam"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="Serangan Menara"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="Penglihatan Menara"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="Kekuatan Menara"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="Ledakan Menara"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="Spire Tempo"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="Denyut Menara"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="Serangan Sihir"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="Presisi Sihir"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="Kekuatan Sihir"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="Ledakan Sihir"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="Tempo Sihir"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="Denyut Sihir"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="Penglihatan Ajaib"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="Serangan Meriam"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="Presisi Meriam"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Kekuatan Meriam"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="Ledakan Meriam"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="Tempo Meriam"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="Denyut Meriam"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="Bidikan Meriam"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="Serangan Garnisun"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="Presisi Garnisun"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="Pasukan Garnisun"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="Ledakan Garnisun"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="Garnisun Tempo"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="Denyut Garnisun"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="Penglihatan Garnisun"
+
+"PERK_NAME_INCREASE_UNITS_HP"="Ketahanan Infanteri"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="Ketahanan Infanteri"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="Kekuatan Infanteri"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="Serangan Infanteri"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="Presisi Infanteri"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="Infanteri Cepat"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Kemarahan Mana"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="Fokus Mana"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="Penyebaran Mana"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="Kekuatan Heroik"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="Serangan Heroik"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="Presisi Heroik"
+
+"PERK_NAME_INCREASE_HERO_HP"="Ketahanan Heroik"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="Kepahlawanan Cepat"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="Kebangkitan Heroik"
+
+"PERK_NAME_DECREASE_CREEP_HP"="Kerapuhan Penyerang"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="Kelelahan Penyerang"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="Pembusukan Penyerang"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="Pengurangan Penyerang"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="Kelemahan Penyerang"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="Fokus Pemanggilan"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="Penglihatan Penembak"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="Ledakan Penembak Jitu"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="Tempo Penembak Jitu"
+
+"MODIFIER_TITLE_EAGLE_EYES"="Mata Elang"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="Jangkauan menara <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="Jangkauan menara <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="Jangkauan menara <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="Jangkauan menara <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="Hero Frenzy"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="Kerusakan pahlawan <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="Kerusakan pahlawan <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="Kerusakan pahlawan <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="Kerusakan pahlawan <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="Pedagang Kematian"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="Emas diperoleh <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="Emas diperoleh <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="Emas diperoleh <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="Emas diperoleh <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="Menara Perkasa"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="Kerusakan menara <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="Kerusakan menara <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="Kerusakan menara <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="Kerusakan menara <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="Ahli Sihir"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="Cooldown mantra <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="Cooldown mantra <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="Cooldown mantra <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="Cooldown Mantra <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="Meningkatkan jangkauan serangan semua menara"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="Meningkatkan kerusakan pahlawan"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="Meningkatkan emas yang diperoleh dengan membunuh musuh"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="Meningkatkan kerusakan yang dihasilkan oleh semua menara"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="Mengurangi cooldown semua mantra"
+
+"MODIFIER_TITLE_BROODMOTHER"="Panggilan Ibu Induk"
+
+"CREEP_BROODMOTHER_NAME"="Ibu Induk"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="Laba-laba raksasa yang bertelur untuk menelurkan anak yang lebih besar"
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="<color=#FFFFFF>Memanggil<color=#F36D4D> Ibu Induk<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="Kekuatan Ibu Induk <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="Kekuatan Ibu Induk <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="Kekuatan Ibu Induk <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="Menara Pertanian"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="Ubah 1 menara setiap 25 detik"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="Ubah 1 menara setiap 23 detik"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="Ubah 1 menara setiap <color=#F36D4D>19<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="Ubah <color=#F36D4D>2<color=#FFFFFF> menara setiap <color=#F36D4D>18<color=#FFFFFF> detik"
+
+"MODIFIER_TITLE_DRAGON"="Panggilan Naga"
+
+"CREEP_FLYING_DRAGON_NAME"="Naga"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="Naga terbang besar dengan ketahanan sihir yang menyerang musuh terdekat dari jarak jauh."
+
+"MODIFIER_DESC_DRAGON_LVL1"="<color=#FFFFFF>Memanggil <color=#F36D4D>Naga <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_DRAGON_LVL2"="Kekuatan Naga <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="Kekuatan Naga <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="Kekuatan Naga <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="Pemanggilan Hantu"
+
+"CREEP_GHOST_SMALL_NAME"="Hantu"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="Jiwa musuh kecil, lemah tapi banyak"
+
+"CREEP_GHOST_FLYING_NAME"="Hantu Terbang"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="Jarang terlihat, jiwa-jiwa ini melayang, mengawasi dan membantu sekutu mereka dari atas."
+
+"CREEP_GHOST_BIG_NAME"="Hantu Besar"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="Jiwa yang kuat dan tangguh, bertekad untuk menyelesaikan tugas terakhirnya."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="Creep yang mati memiliki <color=#F36D4D>30% kemungkinan untuk muncul sebagai hantu"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="Peluang 40%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="Peluang 50%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="Peluang 60%"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="Balon Goblin"
+
+"CREEP_GOBLIN_BALLOON_NAME"="Balon Goblin"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="Balon kokoh yang dikemudikan oleh goblin kecil yang menjatuhkan bom pada musuh di bawahnya."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Balon Goblin <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="Kekuatan Balon Goblin <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="Kekuatan Balon Goblin <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="Kekuatan Balon Goblin <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="Golem Terbang Berzirah"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="Golem Berbaju Zirah Terbang"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="Musuh terbang yang tahan terhadap kerusakan fisik"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Golem Terbang Berzirah <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="Kekuatan Golem Terbang Berzirah <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="Kekuatan Golem Terbang Berzirah <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="Kekuatan Golem Terbang Berzirah <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="Golem Terbang Ajaib"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="Musuh terbang yang tahan terhadap kerusakan sihir"
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="Golem Terbang Ajaib"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Memanggil <color=#F36D4D>Golem Terbang Ajaib <color=#FFFFFF>pada gelombang lawan"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="Kekuatan Golem Terbang Ajaib <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="Kekuatan Golem Terbang Ajaib <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="Kekuatan Golem Terbang Ajaib <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="Golem Baju Besi Besar"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="Golem batu yang kuat dengan ketahanan terhadap kerusakan fisik"
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="Golem Berbaju Zirah Kecil"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="Golem batu lemah tetapi tahan terhadap kerusakan fisik"
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="Golem Berbaju Besi"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Golem Berzirah <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="Golem Berbaju Zirah Kekuatan <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="Golem Berbaju Zirah Kekuatan <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="Golem Berbaju Zirah Kekuatan <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="Golem Sihir Besar"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="Golem sihir yang kuat dengan ketahanan terhadap kerusakan sihir"
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="Golem Sihir Kecil"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="Golem batu lemah tetapi tahan terhadap kerusakan sihir"
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="Golem Sihir"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="<color=#FFFFFF>Panggil <color=#F36D4D>Golem Sihir <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="Kekuatan Golem Sihir <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="Kekuatan Golem Sihir <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="Kekuatan Golem Sihir <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="Orc Dukun Besar"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="Orc Dukun Besar"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="Panggil dua dukun yang kuat yang dapat mengejutkan dan menghancurkan musuh di jalan mereka."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Orc Shaman Hebat <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="Kekuatan Dukun Orc Besar <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="Kekuatan Dukun Orc Hebat<color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="Kekuatan Dukun Orc Besar <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="Armadillo"
+
+"CREEP_WAR_HOUND_NAME"="Warmadillo"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="Sekelompok makhluk kecil yang berguling sangat cepat ketika tidak dihentikan"
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="<color=#FFFFFF>Memanggil<color=#F36D4D> Gulungan Armadillo <color=#FFFFFF>ke gelombang lawan"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="Kekuatan Armadillo <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="Kekuatan Armadillo <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="Kekuatan Armadillo <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="Seekor laba-laba raksasa yang bertelur untuk menelurkan anak yang lebih besar"
+
+"MODIFIER_DRAGON_DESC_1"="Naga terbang besar dengan ketahanan sihir yang menyerang musuh terdekat dari jarak jauh."
+
+"MODIFIER_FARM_DESCRIPTION"="Sementara mengubah menara lawan menjadi pertanian yang tidak berguna"
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="Musuh terbang berlapis baja yang datang berkelompok"
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="Sekelompok golem terbang dengan ketahanan sihir"
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="Creep yang mati memiliki peluang untuk muncul sebagai hantu di sisi lawan"
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="Musuh terbang yang menjatuhkan bom pada unit di bawahnya"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="kelompok golem kecil dan besar dengan baju besi fisik"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="muncul dengan sekelompok golem lapis baja yang lebih kecil"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="Paket golem kecil dan besar dengan ketahanan sihir"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="muncul dengan sekelompok golem kecil yang tahan sihir"
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="Dukun kuat yang melemparkan petir yang membuat unit di sekitar area target terkejut dan rusak"
+
+"MODIFIER_WARMADILLO_DESC_1"="Musuh dengan Armor Fisik yang berguling sangat cepat saat tidak terhalang"
+
+"MODIFIER_TITLE_THUNDERBIRD"="Burung Petir"
+
+"CREEP_THUNDERBIRD_NAME"="Burung Petir"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="Makhluk terbang besar yang menyebarkan listrik dari sayapnya, mengejutkan sekelompok musuh."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="<color=#FFFFFF>Memanggil <color=#F36D4D>Thunderbird<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="Kekuatan Thunderbird <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="Kekuatan Thunderbird <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="Kekuatan Thunderbird <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="Trollberseker"
+
+"CREEP_TROLLZERKER_NAME"="Trollberseker"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="Troll brute yang menjadi marah ketika kesehatannya rendah, meningkatkan serangan dan kecepatannya. Meregenerasi HP seiring waktu."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="<color=#FFFFFF>Memanggil <color=#F36D4D>Trollzerker<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="Kekuatan Trollzerker <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="Kekuatan Trollzerker <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="Kekuatan Trollzerker <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="Dragubons"
+
+"CREEP_DRAGUBON_NAME"="Dragubon"
+
+"CREEP_DRAGUBON_SHORT_DESC"="Naga berukuran kecil yang, jika merasa dalam bahaya, mulai terbang selama beberapa detik."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="<color=#FFFFFF>Memunculkan<color=#F36D4D> sekawanan Dragubon <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="Kekuatan Dragubons <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="Kekuatan Dragubons <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="Kekuatan Dragubons <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="Badai Salju"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="Bekukan <color=#F18081>1 menara setiap <color=#F18081>17<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="Bekukan 1 menara setiap 15 detik"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="Bekukan 2 menara setiap 13 detik"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="Bekukan 2 menara setiap <color=#F18081>10<color=#FFFFFF> detik"
+
+"MODIFIER_TITLE_FROSTBITE"="Radang dingin"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="Bekukan 2 unit setiap 18 detik"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="Bekukan 3 unit setiap 16 detik"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="Bekukan 4 unit setiap 14 detik"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="Bekukan 5 unit setiap 11 detik"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="Pembawa Embun Beku"
+
+"CREEP_FROST_HARBINGER_NAME"="Pembawa Embun Beku"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="Troll penyihir yang memindahkan sekutu ke depan. Memulihkan HP seiring waktu."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="<color=#FFFFFF>Memanggil <color=#F36D4D>Frost Harbinger <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="Kekuatan Pembawa Salju <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="Kekuatan Pembawa Es <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="Kekuatan Pembawa Es <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="Sementara membekukan menara musuh, membuat mereka tidak dapat menyerang"
+
+"MODIFIER_DRAGUBONS_DESC_1"="Sekelompok naga kecil yang terbang melewati musuh mana pun yang mencoba menghalangi mereka."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#REF!"
+
+"MODIFIER_FROSTBITE_DESC_1"="Membekukan unit musuh sementara, membuat mereka bergerak dan menyerang lebih lambat"
+
+"MODIFIER_FROST_HARBINGER_1"="Troll arkanis yang kuat yang menggunakan teleportasi untuk memindahkan sekelompok musuh ke depan."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="Penerbang tak terhentikan yang menghujani petir pada unit mana pun yang berada di bawahnya"
+
+"MODIFIER_TROLLZEKER_DESC_1"="Prajurit ganas dari ras Troll. Ketika kesehatannya rendah, ia menjadi marah, meningkatkan kekuatan dan kecepatannya."
+
+"CREEP_BUSH_NAME"="Penyergap"
+
+"CREEP_BUSH_SHORT_DESC"="Para bandit ini hanya kehilangan kamuflase mereka ketika diblokir oleh unit"
+
+"MODIFIER_TITLE_BUSH"="Penyergap"
+
+"MODIFIER_BUSH_DESC_1"="Ahli dalam penyusupan, mereka dapat melewati semua pertahanan tanpa terdeteksi."
+
+"MODIFIER_DESC_BUSH_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Penyergap <color=#FFFFFF>pada gelombang lawan"
+
+"MODIFIER_DESC_BUSH_LVL2"="Kekuatan Penyergap <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="Kekuatan Penyergap <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="Kekuatan Penyergap <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="Pemimpin Bandit"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="Memerintahkan bandit terdekat untuk mengenakan baju besi, mengubah mereka menjadi Brigand"
+
+"MODIFIER_TITLE_BANDITLEADER"="Pemimpin Bandit"
+
+"MODIFIER_BANDITLEADER_DESC_1"="Pemimpin garang yang mengatur dan melengkapi bandit untuk bertempur"
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="<color=#FFFFFF>Memanggil<color=#F36D4D> Pemimpin Bandit<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="Pemimpin Bandit Kekuatan <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="Pemimpin Bandit Kekuatan <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="Pemimpin Bandit Kekuatan <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="Perisai Bandit"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="Formasi pertahanan yang melepaskan bandit dari dalam setiap beberapa detik"
+
+"MODIFIER_TITLE_BANDITSHIELDS"="Perisai Bandit"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="Formasi pertahanan bandit yang secara berkala melepaskan pejuang dari barisannya."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Perisai Bandit <color=#FFFFFF>pada gelombang lawan"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="HP Perisai Bandit <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="Perisai Bandit HP <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="Perisai Bandit HP <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="Glider Bandit"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="Bandit terbang yang menyelam dan meledak saat dibunuh"
+
+"MODIFIER_TITLE_BANDITGLIDERS"="Glider Bandit"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="Bandit yang menggunakan glider untuk terbang melewati pertahanan; jika mengalami kerusakan serius, mereka menabrak musuh."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Bandit Gliders<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="Kekuatan Glider Bandit <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="Kekuatan Glider Bandit <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="Kekuatan Penerbang Bandit <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="Penghancur"
+
+"CREEP_SMASHER_SHORT_DESC"="Bandit kasar yang melempar batu ke menara, membuatnya pingsan"
+
+"MODIFIER_TITLE_SMASHER"="Penghancur"
+
+"MODIFIER_SMASHER_DESC_1"="Preman tingkat tinggi yang maju dengan melemparkan batu ke unit dan menara, melumpuhkan mereka selama beberapa detik."
+
+"MODIFIER_DESC_SMASHER_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Penghancur <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_SMASHER_LVL2"="Kekuatan Penghancur <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="Kekuatan Penghancur <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="Kekuatan Penghancur <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="Bom Asap"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="Layar asap yang mencegah penargetan sekutu di dalam"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Bom Asap <color=#FFFFFF>pada gelombang lawan"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="Kekuatan Bom Asap <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="Kekuatan Bom Asap <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="Kekuatan Bom Asap <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="Elemen Magma"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="Elemen Magma"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="Elemen Magma"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>Memunculkan <color=#F36D4D>Elemental Magma<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="Memunculkan Elemental Magma dengan kekuatan ekstra <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>Memunculkan <color=#F36D4D> 2 <color=#FFFFFF>Elemental Magma dengan kekuatan ekstra <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="Memunculkan 2 Elemental Magma dengan kekuatan ekstra <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="Kelelawar Berteriak"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Kelelawar Screecher <color=#FFFFFF>di gelombang lawan"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="Kekuatan Kelelawar Penjerit <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="Kekuatan Kelelawar Penjerit <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="Kekuatan Kelelawar Penjerit <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="Pandai Besi Bayangan"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="Pandai Besi Bayangan"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="Pemanggil Gagak Bayangan"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="Pemanggil Gagak Bayangan"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>Memanggil <color=#F36D4D>Pemanggil Gagak Bayangan<color=#FFFFFF> pada gelombang lawan"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="Kekuatan Pemanggil Gagak Bayangan <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="Kekuatan Pemanggil Gagak Bayangan <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="Kekuatan Pemanggil Gagak Bayangan <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="Takdir Berkobar"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="Memanggil <color=#F36D4D>3 <color=#FFFFFF>meteorit yang merusak unit lawan setiap <color=#F36D4D>17<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="Menghasilkan 3 meteorit dengan kekuatan tambahan <color=#F36D4D>10%<color=#FFFFFF> setiap <color=#F36D4D>15<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="Menghasilkan <color=#F36D4D>4<color=#FFFFFF> meteorit dengan kekuatan tambahan <color=#F36D4D>25%<color=#FFFFFF> setiap <color=#F36D4D>15<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="Menghasilkan <color=#F36D4D>5<color=#FFFFFF> meteorit dengan kekuatan tambahan <color=#F36D4D>40%<color=#FFFFFF> setiap <color=#F36D4D>10<color=#FFFFFF> detik"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="Batu Meleleh"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="Membuat <color=#F18081>2 <color=#FFFFFF>menara pingsan setiap <color=#F18081>17<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="Membuat 2 menara pingsan setiap <color=#F18081>15<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="Membuat <color=#F18081>3 <color=#FFFFFF>menara pingsan setiap <color=#F18081>13<color=#FFFFFF> detik"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="Membuat <color=#F18081>4 <color=#FFFFFF>menara pingsan setiap <color=#F18081>9<color=#FFFFFF> detik"
+
+"MISSIONS_LOGINS_DONE"="Masuk"
+
+"MISSIONS_PLAY_GAMES"="Mainkan Pertandingan"
+
+"MISSIONS_DEFEAT_CREEPS"="Kalahkan Musuh"
+
+"MISSIONS_TOWER_BUILD"="Bangun Menara"
+
+"MISSIONS_TOWER_SKILL_BUY"="Beli Keterampilan Menara"
+
+"MISSIONS_TOWER_UPGRADE"="Tingkatkan Menara Anda dalam game"
+
+"MISSIONS_SPELL_DAMAGE"="Berikan kerusakan menggunakan Mantra Anda"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="Panggil sekutu dengan Mantra tipe Panggilan"
+
+"MISSIONS_SPELL_USE"="Gunakan Mantra"
+
+"MISSIONS_HERO_DAMAGE"="Berikan kerusakan dengan pahlawan Anda"
+
+"MISSIONS_CARD_USE"="Gunakan kartu"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="Beli Penawaran Harian"
+
+"MISSIONS_SPEND_GEMS"="Gunakan Permata"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="Buka peti menggunakan Permata"
+
+"MISSIONS_CHEST_OPEN"="Buka Peti"
+
+"MISSIONS_STARS_EARN"="Dapatkan Bintang"
+
+"TITLE_MISSIONS"="Misi"
+
+"TITLE_DAILY_MISSIONS"="Misi Harian"
+
+"TAUNT_THANKS"="Terima kasih!"
+
+"TAUNT_GOOD_LUCK"="Semoga berhasil!"
+
+"TAUNT_OOPS"="Ups"
+
+"TAUNT_WELL_PLAYED"="Kerja bagus!"
+
+"UNMUTE_TO_SEND_EMOTES"="Aktifkan untuk mengirim dan menerima emotikon"
+
+"EVENT_COINFARM_BIG_CREEP"="Creep Besar"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="Munculkan creep besar di jalur musuh"
+
+"EVENT_COINFARM_ALL_OUT"="Serangan Total"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="Jatuhkan barel di jalur musuh untuk memberikan kerusakan"
+
+"EVENT_COINFARM_ENCHANTMENT"="Pesona"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="Beri buff armor pada beberapa creep di jalur musuh"
+
+"EVENT_COINFARM_FARM_ANIMALS"="Hewan Ternak"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="Munculkan hewan ternak di jalur musuh"
+
+"EVENT_COINFARM_SPEED"="Creeps Cepat"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="Memberikan buff kecepatan pada beberapa creep di jalur musuh"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="Tekan untuk melanjutkan"
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="LAYAR HADIAH"
+
+"SUMMON_SCROLLS"="Gulungan"
+
+"SUMMON_SCROLLS_1"="Gulungan Pemanggilan"
+
+"SUMMON_SCROLLS_2"="Gulungan Pemanggilan"
+
+"SUMMON_SCROLLS_3_SPECIAL"="Gulungan Pemanggilan"
+
+"SUMMON_SCROLLS_GEMS"="Gulungan Pemanggilan"
+
+"YOUR_SCROLLS"="Gulungan"
+
+"EVENT_TICKET"="Tiket Acara"
+
+"YOUR_TICKETS"="Tiket Acara"
+
+"REMAINING_PURCHASE"="Tersisa"
+
+"MEGA_GEMS_OFFER"="Penawaran Mega Permata"
+
+"MEGA_COINS_OFFER"="Penawaran Mega Koin"
+
+"ACCOUNT_BANNED_TITLE"="Akun Diblokir"
+
+"ACCOUNT_BANNED_DESC"="Akun Anda telah diblokir karena melanggar Ketentuan Layanan"
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>Cepat!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="Game tersimpan terdeteksi"
+
+"ACCOUNT_CONFLICT_DESC"="Dua permainan simpanan berbeda terdeteksi"
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="Simpan Awan"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="Simpan Lokal"
+
+"GAME_MSG_WAVE_CLEAR"="<color=#87FF62>GELOMBANG BERSIH!"
+
+"GAME_MSG_WAVE_LOST"="<color=#FF7B7B>GELOMBANG GAGAL!"
+
+"GAME_MSG_WAVE_WON"="GELOMBANG MENANG"
+
+"TITLE_LEADERBOARD_REWARDS"="Hadiah Global"
+
+"STADIUM_RULE_1"="Dapatkan Medali dengan bersaing di Stadion"
+
+"STADIUM_RULE_2"="Naik Peringkat"
+
+"STADIUM_RULE_3"="Dapatkan hadiah eksklusif!"
+
+"ONSLAUGHT_RULE_1"="Kalahkan setiap musuh lebih cepat dari lawan Anda..."
+
+"ONSLAUGHT_RULE_2"="Anda kehilangan 1 nyawa jika terlalu lama"
+
+"ONSLAUGHT_RULE_3"="Menang untuk mendapatkan hadiah unik!"
+
+"SUMMON_RIFT_RULE_1"="Kumpulkan Gulungan Pemanggilan dari Acara Lain"
+
+"SUMMON_RIFT_RULE_2"="Cobalah menggunakannya untuk mendapatkan kartu eksklusif…"
+
+"SUMMON_RIFT_RULE_3"="Selesaikan beberapa pemanggilan untuk mendapatkan kartu eksklusif yang dijamin!"
+
+"HERO_BERESAD_DESCRIPTION"="Kegelapan kuno yang membuat kesepakatan dengan Vez'nan untuk semua emas kerajaan, membawa kehancuran dan kerusakan ke kerajaan permukaan. Bahkan pertahanan terkuat dari Kerajaan Kurcaci tidak bisa menghentikan keserakahannya."
+
+"HERO_BERESAD_SHORT_DESC"="- Memanggil golem.<br>- Menakuti musuh, membuat mereka mundur.<br>- Membunuh seketika yang merusak musuh di sekitar."
+
+"HERO_BERESAD_NAME"="Beresad"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="Dengan raungan yang menakutkan, Beresad menebar ketakutan ke musuh-musuhnya, memaksa mereka mundur dalam kepanikan."
+
+"HERO_BERESAD_SKILL_0_NAME"="Takutlah Naga"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="Meludahkan batu ke jalan dan memberinya sihir, menciptakan golem yang melawan musuh selama beberapa detik."
+
+"HERO_BERESAD_SKILL_1_NAME"="Anak Naga"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="Memusatkan napasnya untuk melepaskan sinar api mematikan yang menghancurkan target dan memicu ledakan yang kuat."
+
+"HERO_BERESAD_SKILL_2_NAME"="menghancurkan"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="Beresad mempesona beberapa musuh, menyebabkan mereka memberikan Emas ekstra saat dikalahkan."
+
+"HERO_BERESAD_SKILL_3_NAME"="Pajak Kematian"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="Menggabungkan batu, besi tua, dan sihir Beresad, ciptaan ini adalah simbol keserakahan dan kekuatan mentah."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="Dibuat dari bahan umum dan diperkuat oleh sihir yang kuat, itu mewakili kehendak penciptanya."
+
+"HERO_BERESAD_MINION_NAME"="Golem Gelap"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="Pemain pertama yang mengalahkan semua musuh mengambil 1 Nyawa dari lawan mereka. (Level Kartu maks 5)"
+
+"EVENTS_ONSLAUGHT_REWARD"="Hadiah Berikutnya"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="Menara gelap yang didukung oleh pengikut Vez'nan, berdiri dengan bangga dan menebar teror pada semua yang mencoba lewat tanpa izin. Dengan memfokuskan sinarnya pada musuh, menara ini melemahkan mereka seiring waktu hingga mencapai keadaan kritis yang memicu ledakan."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="Sebuah menara gelap yang perlahan-lahan mengikis musuh satu per satu hingga tidak ada yang tersisa."
+
+"TOWER_BLAZING_GEM_NAME"="Permata Menyala"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="Setiap musuh yang dikalahkan akan meledak dalam ledakan supranatural yang merusak musuh lainnya.\n(Keterampilan selalu aktif)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="Kekuatan Tidak Stabil"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="Memungkinkan Permata Menyala untuk menyerang 2 target sekaligus, membagi kerusakan tetapi meningkatkan output kerusakan secara keseluruhan.\n(Beli keterampilan saat menara upgrade maksimal)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="Dapat menyerang 2 target sekaligus"
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="Permata Perkalian"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="Seorang Penyihir Eldritch yang kuat yang muncul ketika dipanggil oleh akolit tuannya. Saat HP-nya habis, ia memasuki bentuk kedua yang tidak bergerak, memberikan Resistensi Sihir kepada sekutu di sekitarnya sebelum menghilang.\n(Beli keterampilan saat menara upgrade maksimal)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="Memanggil Eldritch Magus di sisi lawan"
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="Panggilan Eldritch"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="Menyalurkan sihir akolit untuk menghancurkan unit lawan"
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="Setiap beberapa detik, menara menembakkan sinar yang memberikan kerusakan dan dapat langsung membunuh unit di sisi lawan.\n(Keterampilan selalu aktif)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="Sinar Penghancur"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Magus Eldritch"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Murid-murid Vez'nan menggunakan kekuatan korup mereka untuk menghancurkan musuh mereka"
+
+"GAME_MSG_WAVE_DRAW"="SERIP"
+
+"TITLE_LANGUAGE"="BAHASA"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="PEMANGGILAN<br>CELAH"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="Apakah Anda yakin ingin mengubah pengaturan bahasa?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="BAHASA"
+
+"BUTTON_YES"="Ya"
+
+"BUTTON_NO"="Tidak"
+
+"FREE_TAG"="GRATIS"
+
+"TOOLTIP_CLAIM"="AMBIL!"
+
+"ERROR_LOADING_SHOP"="KESALAHAN MEMUAT TOKO"
+
+"SHOP_OFFER_EXPIRES_IN"="Penawaran berakhir dalam:"
+
+"SHOP_ARENA_PACK_TITLE"="Paket Arena"
+
+"SHOP_DAILY_DEALS_TITLE"="Penawaran Harian"
+
+"SHOP_CHESTS_TITLE"="Petikemas"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Penawaran Khusus"
+
+"EVENTS_LOCKED_EVENT_TITLE"="Acara Terkunci"
+
+"COMING_SOON"="SEGERA HADIR"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="Kartu untuk dibuka:"
+
+"BUTTON_CLAIM"="AMBIL"
+
+"BUTTON_REWARDS"="Hadiah"
+
+"MISSIONS_WEEKLY"="Mingguan"
+
+"MISSIONS_DAILY"="Harian"
+
+"MISSIONS_RESETS_IN"="Mengatur Ulang:"
+
+"STADIUM_REWARD_POP_UP_NAME"="Selamat {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="Anda adalah nomor {0} di papan peringkat. Klaim hadiah Anda!"
+
+"TOWER_TESLA_PACK_NAME"="Paket Kasual"
+
+"TAP_TO_CONTINUE"="Ketuk untuk melanjutkan"
+
+"TIPS_SCREEN_TITLE"="Tips"
+
+"REWARDS_TITLE"="Hadiah"
+
+"NEW_ARENA_UNLOCKED"="Arena baru<br>terbuka !"
+
+"SELECT_CARD_TO_REPLACE"="PILIH KARTU UNTUK DIGANTI"
+
+"TIMER_DAY"="h"
+
+"TIMER_HOUR"="j"
+
+"TIMER_MINUTE"="m"
+
+"TIMER_SECOND"="d"
+
+"COLISSEUM_WAITING_TO_DELIVER"="Stadion tutup. Hadiah dikirim..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="Kartu {0}"
+
+"CARD_STAT_RESPAWN_TIME"="Waktu Respawn"
+
+"PRIVATE_MATCH_TITLE"="Pertandingan Ramah"
+
+"PRIVATE_MATCH_ENTER_CODE"="Masukkan Kode"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="Masukkan Kode untuk Bergabung"
+
+"PRIVATE_MATCH_CREATE_MATCH"="BUAT PERTANDINGAN"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="Menunggu lawan..."
+
+"PRIVATE_MATCH_CONNECTING"="Menghubungkan..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="Membuat ruangan..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="BERGABUNG"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="Silakan masukkan kode ruangan"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="Koneksi time out. Silakan coba lagi."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="Gagal memulai pertandingan"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="Gagal bergabung"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="Terputus dari ruangan"
+
+"ERROR"="KESALAHAN"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="Pemula Gelap"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="Ksatria Gelap"
+
+"PRIVATE_PVP_RULE_1"="Buat pertandingan untuk menghasilkan kode unik…"
+
+"PRIVATE_PVP_RULE_2"="Bagikan kode dengan teman Anda! Mereka dapat bergabung dengan memasukkannya."
+
+"PRIVATE_PVP_RULE_3"="Nikmati pertandingan pribadi di peta acak!"
+
+"PRIVATE_PVP_RULE_4"="Level kartu maksimum {0} - Level booster maksimum {1}"
+
+"CHASER_PACK_TITLE"="Paket {0}"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="Pedang Gelap"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="Warisan pembunuh akan mengubah ksatria berikutnya yang memegang pedang ini."
+
+"PRIVATE_MATCH_INVITATION_CODE"="Kode Undangan"
+
+"SHOP_EMOTES_OFFERS_TITLE"="Emote"
+
+"NEW_EMOTE"="Emote Baru!"
+
+"SHOP_ACQUIRED"="Diperoleh"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="Liga Perunggu"
+
+"TERRAIN_STADIUM_SILVER_NAME"="Liga Perak"
+
+"TERRAIN_STADIUM_GOLD_NAME"="Liga Emas"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="Liga Berlian"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="Liga Champions"
+
+"COLLECTION_EMOTES"="Emotikon"
+
+"TERRAIN_STADIUM_REWARD"="Hadiah:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="Pasukan elit Tentara Gelap terlatih di langit dan darat, patroli medan perang dengan presisi tanpa ampun. Dengan satu perintah, mereka beralih dari penjaga garis depan yang tangguh menjadi pemburu yang menyerang musuh dengan kekuatan yang tak kenal lelah."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="Pasukan serbaguna yang menguasai daratan dan langit, memburu musuh dengan presisi mematikan."
+
+"TOWER_ROCKET_GUNNERS_NAME"="Pengguna Roket"
+
+"ROCKET_GUNNERS_UNIT_NAME"="Pemburu Roket"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="Pasukan terlatih untuk beralih antara serangan bertenaga jet dan pertempuran di darat"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="Para Penembak dapat mengaktifkan jetpack mereka untuk terbang di atas jalur atau menonaktifkannya untuk bertarung di darat.\n(Keterampilan selalu tersedia)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="Manuver Udara"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="Melumuri setiap tembakan dengan lapisan korosif, mengurangi pertahanan musuh dan memberikan kerusakan area saat terkena.\n(Beli keterampilan di Peningkatan Menara Maksimum)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="Setiap tembakan mengurangi armor dan memberikan kerusakan area."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="Pelapis Fosfor"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="Meluncurkan peluru kendali yang langsung menghilangkan target saat mengenai.\n(Beli keterampilan di Peningkatan Menara Maks)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="Menembakkan misil yang langsung membunuh target"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="Peluru Sengat"
+
+"EMOTE_AEGION_PONDERING"="Merenung"
+
+"EMOTE_ALLERIA_ANGRY"="Alleria Marah"
+
+"EMOTE_ALLERIA_SHINE"="Alleria Bahagia"
+
+"EMOTE_ASHBITE_HEART"="Ashbite Penuh Kasih"
+
+"EMOTE_BERESAD_MONEY"="Terima Saja"
+
+"EMOTE_CHICKEN_SCREAM"="Ayam Marah"
+
+"EMOTE_DENAS_ANGRY"="Denas Kesal"
+
+"EMOTE_DENAS_CRY"="Nangis Lagi"
+
+"EMOTE_DENAS_GOLD"="Kring-kring"
+
+"EMOTE_DENAS_LAUGH"="Denas Bahagia"
+
+"EMOTE_DIERDRE_ANGRY"="Sadarlah"
+
+"EMOTE_EISKALT_SURPRISE"="Ketidaksetujuan"
+
+"EMOTE_ELORA_TIME_CLOCK"="Mendesah..."
+
+"EMOTE_GERALD_BEACH"="Santai"
+
+"EMOTE_GERALD_DESPAIR"="Putus Asa..."
+
+"EMOTE_GERALD_SHINE"="Senyum Berkilau"
+
+"EMOTE_GOBLIN_ANGRY"="Frustrasi"
+
+"EMOTE_GOBLIN_FIRE"="Gak Apa-apa"
+
+"EMOTE_GOBLIN_GIFT"="Kejutan!"
+
+"EMOTE_GOBLIN_GOOFY"="Main-main"
+
+"EMOTE_GOBLIN_KISS"="Ciuman Untukmu"
+
+"EMOTE_GOBLIN_OOPS"="Waduh"
+
+"EMOTE_GOBLIN_SLEEPING"="Mimpi Indah"
+
+"EMOTE_GOBLIN_SNOW"="Goblin Salju"
+
+"EMOTE_GOBLIN_TAUNT"="Goblin Mengejek"
+
+"EMOTE_GRAWL_BICEP"="Grawl Pamer"
+
+"EMOTE_GRAWL_CHRISTMAS"="Suasana Meriah"
+
+"EMOTE_HACKSAW_LAUGH"="Maniak"
+
+"EMOTE_INGVAR_TRANSFORM"="Jadi Beruang!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="Tos Bro"
+
+"EMOTE_SKELETON_SHOCKED"="APA!?"
+
+"EMOTE_SKELETON_SWEAT"="Kerangka Berkeringat"
+
+"EMOTE_SOLDIER_CELEBRATION"="Perayaan"
+
+"EMOTE_VESPER_OK"="Sempurna"
+
+"CREEP_PIG_NAME"="Babi"
+
+"CREEP_GOAT_NAME"="Kambing"
+
+"CREEP_GOOSE_NAME"="Angsa"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="LEMBAH TERBUANG"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="Lembah Terlupakan"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="Lembah Terlupakan"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="Paket Musim Dingin Legendaris"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="Paket Musim Dingin Epik"
+
+"SHOP_SEASON_OFFERS_TITLE"="Spesial musim"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="Rookie Tentara Gelap yang melemah, hampir tidak terlindungi oleh baju besi yang hancur."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="Meskipun sebagian dari baju besinya hancur, ksatria ini tetap menjadi ancaman yang menakutkan."
+
+"CREEP_GOOSE_SHORT_DESC"="Seekor angsa perkasa menyebar kekacauan di peternakan"
+
+"CREEP_DONKEY_RIDER_NAME"="Pengendara Keledai"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="Petani"
+
+"CREEP_PIG_SHORT_DESC"="Babi nakal yang selalu lolos dari kandang"
+
+"CREEP_GOAT_SHORT_DESC"="Kambing"
+
+"MODIFIER_TITLE_DARK_PRIEST"="Pendeta Gelap"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="Musuh dengan resistensi sihir yang mengubah unit menjadi Dark Rookies atau Dark Knights"
+
+"CREEP_DARK_PRIEST_NAME"="Pendeta Gelap"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="Seorang pendeta jahat yang menyebarkan firman Tuan Gelap, merusak siapa pun untuk bergabung dengan Pasukan Gelap."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>Memunculkan 2 <color=#F36D4D> Pendeta Gelap <color=#FFFFFF>pada gelombang lawan"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="Kekuatan Pendeta Gelap <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="Kekuatan Pendeta Gelap <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="Kekuatan Pendeta Gelap <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="Peti Liga Perunggu"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="Peti Liga Perak"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="Peti Liga Emas"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="Peti Ligan Berlian"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="Peti Liga Champions"
+
+"CARDS_TAB"="Kartu"
+
+"HERO_RAELYN_DESCRIPTION"="Seorang komandan yang mengesankan dan kejam dari Dark Army, Raelyn berdiri di garis depan, siap untuk menebas apa pun di jalannya. Dedikasinya yang teguh pada pertempuran menimbulkan ketakutan di antara musuhnya dan kepatuhan sengit di antara ksatrianya."
+
+"HERO_RAELYN_SHORT_DESC"="- Melindungi diri dengan perisai.<br>- Membuat musuh terkena stun dan melemah dengan rasa takut.<br>- Menjadi mengamuk, memberikan kerusakan area lebih cepat."
+
+"HERO_RAELYN_NAME"="Raelyn"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="Keberaniannya yang tak tertandingi memberinya perisai yang membatalkan semua kerusakan untuk sementara waktu."
+
+"HERO_RAELYN_SKILL_0_NAME"="Tak terkalahkan"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="Teriakannya yang marah membuat musuh panik, mematikan mereka dan mengurangi kerusakan."
+
+"HERO_RAELYN_SKILL_1_NAME"="Menginspirasi Ketakutan"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="Setiap beberapa detik, dahaganya akan kehancuran mendorongnya ke dalam kemarahan, meningkatkan kecepatan serangannya dan menyebabkan serangannya memberikan kerusakan area."
+
+"HERO_RAELYN_SKILL_2_NAME"="Serang"
+
+"STAGE_FORSAKEN_1"="Garpu Merah"
+
+"STAGE_FORSAKEN_2"="Tanah Abu"
+
+"STAGE_FORSAKEN_3"="Padang tandus"
+
+"STAGE_FORSAKEN_4"="Alley Kelam"
+
+"STAGE_FORSAKEN_5"="Jejak Batu Hitam"
+
+"STAGE_FORSAKEN_6"="Jalan Jatuh"
+
+"COMMAND_ORDER_UNIT_NAME"="Pembunuh Gelap Jatuh"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="Jiwa pembunuh yang terus berjuang bahkan setelah mati"
+
+"COIN_FARM_RULE_1"="Kekuatan Peternakan Khusus menggantikan Mantra Anda di sini..."
+
+"COIN_FARM_RULE_2"="Gunakan mereka untuk menang dan mengumpulkan Koin di bank Anda..."
+
+"COIN_FARM_RULE_3"="Selesaikan bank sebelum acara berakhir dan dapatkan semua Koin yang Anda simpan!"
+
+"COIN_FARM_RULE_4"="Tingkat kartu maksimum {0} - Tingkat penguat maksimum {1}"
+
+"SPELL_COMMAND_ORDER_NAME"="Tatanan Jatuh"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="mantra terlarang"
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="Panggil Slayer yang jatuh untuk membantu Anda di medan perang"
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Serangan Pamungkas"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Memanggil mantra terlarang untuk menghancurkan musuh terkuat di area"
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="Menyerang musuh terkuat di area, mengalahkannya secara instan."
+
+"MENU_OFFER_ICON_SALE"="PENJUALAN"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="AMBIL KOIN SEKARANG!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="Apakah Anda ingin mengambil koin Anda sekarang? Anda hanya akan menerima tabungan Anda saat ini."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="Sebuah Magma Elemental kuat muncul di titik acak di depan peta. Setelah dikalahkan, ia masuk ke dalam bentuk batu untuk menyembuhkan diri dan bangkit kembali."
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="Elemental Magma yang muncul sebagai bencana alam hidup, meninggalkan hanya kehancuran di belakang."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="Elemental Magma yang hancur dan memasuki fase rekonstruksi untuk menyembuhkan diri sendiri."
+
+"CREEP_SCREECHER_BAT_NAME"="Kelelawar Teriak"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="Kelelawar raksasa yang terbang, mematikan siapa pun yang berdiri di jalannya."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="Kelelawar raksasa yang menggunakan teriakannya supersonik untuk mematikan musuh di sekitarnya."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="Para pekerja Pasukan Gelap, merekalah yang menyiapkan dan memperbaiki pasukan Tuan Gelap."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="Pemulih"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="Mengeluarkan Pandai Besi Bayangan pada gelombang lawan"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="Kekuatan Pandai Besi Bayangan <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="Kekuatan Pandai Besi Bayangan <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="Kekuatan Pandai Besi Bayangan <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="Pemanggil Gagak Gelap yang memanggil Gagak Gelap setiap beberapa detik"
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="Pelatih gagak yang menyebar gagak di seluruh kerajaan untuk menciptakan jaringan intelijen yang luas."
+
+"MODIFIER_DESC_FLAMING_FATE"="Menyebabkan letusan yang keras yang mengirimkan batu-batu terbakar mengelilingi musuh."
+
+"MODIFIER_DESC_MOLTEN_STONE"="Menghasilkan gempa bumi di seluruh medan perang, mengubur menara musuh dalam batu untuk beberapa detik."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="Pemanah mematikan yang melepaskan panah dengan kecepatan yang membutakan, menyerang musuh sebelum mereka bisa bereaksi"
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="Musuh berlapis baja yang terbang dan memicu dorongan roket saat diserang"
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="Pecahan Magma yang hancur dan memasuki fase rekonstruksi untuk menyembuhkan diri sendiri."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="Golem"
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="Mesin pengepungan raksasa yang menghancurkan setiap kastil yang berdiri di depan Vez'nan."
+
+"NEW_LEAGUE_UNLOCKED"="Liga Dibuka!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="Server dalam pemeliharaan. Perkiraan selesai: {0}"
+
+"HERO_ASRA_DESCRIPTION"="Ditempa melalui pelatihan tanpa ampun, Asra adalah salah satu Pembunuh Bayangan paling mematikan yang pernah muncul dari Pasukan Gelap. Tatapannya yang sunyi sama mematikannya dengan pedangnya, dan mereka yang bertemu dengannya jarang hidup cukup lama untuk menyesalinya. Dipilih langsung oleh Vez'nan, dia menyerang dengan cepat, tepat, dan tanpa belas kasihan."
+
+"HERO_ASRA_SHORT_DESC"="- Berteleportasi dan membuat perisai.<br>- Menembakkan hujan anak panah yang menghancurkan armor.<br>- Meracuni musuh secara fatal dengan belatinya."
+
+"HERO_ASRA_NAME"="Asra"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="Melepaskan hujan anak panah kuat yang memberikan damage dan menghancurkan sebagian armor musuh."
+
+"HERO_ASRA_SKILL_0_NAME"="Anak Panah Onyx"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="Melancarkan serangan cepat dan mematikan dengan pedang beracunnya, meracuni musuh hingga tewas."
+
+"HERO_ASRA_SKILL_1_NAME"="Gigitan Laba-laba"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="Menggunakan Tarian Bayangan, dia dapat berteleportasi seketika ke mana saja, memberikan perisai pelindung tambahan saat muncul di dekat pasukan musuh."
+
+"HERO_ASRA_SKILL_2_NAME"="Kedipan Kerudung Malam"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="Pemanah tanpa belas kasihan yang didorong oleh kekejaman dan obsesi, berburu tanpa penyesalan. Setiap musuh yang tewas di bawah panah mereka memperkuat kekuatan mereka, memperkuat serangan mereka, dan menjadikan kematian sebagai senjata terbesar mereka."
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="Menara pemanah kejam yang mendapatkan kekuatan serangan dengan setiap musuh yang terbunuh, membuat setiap tembakan menjadi ancaman yang tumbuh."
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="Panah Senja"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="Menara dapat mengubah fokus kerusakannya dari menargetkan musuh terdekat ke pintu keluar menjadi menargetkan musuh dengan HP maksimum tertinggi.\n(Keterampilan selalu aktif)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="Fokus Musuh"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="Memanggil dua Pengganggu untuk membantu dalam pertempuran. Prajurit ganas dan lincah ini memberikan kerusakan mematikan sambil memiliki kesempatan untuk menghindari serangan yang masuk.\n(Beli keterampilan pada Peningkatan Menara Maksimal)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="Mengeluarkan dua Penyusup untuk patroli daerah dan menghancurkan siapa pun yang mencoba mendekati menara."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="Dukungan Pisau"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="Menembakkan anak panah yang dibungkus sihir gelap yang membingungkan unit lawan target, mencegahnya menggunakan kemampuan selama beberapa detik.\n(Beli keterampilan pada Peningkatan Menara Maksimal)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="Menargetkan Pahlawan terlebih dahulu, mencegah penggunaan kemampuan untuk sementara waktu."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="Pengejaran Senyap"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="Setiap pembunuhan yang dilakukan oleh menara ini meningkatkan kerusakan serangannya selama beberapa detik, hingga 3 kali."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="Setiap musuh yang dibunuh oleh anak panah menara ini menyerap jiwanya, memperkuat mereka dan meningkatkan kerusakan mereka, hingga maksimum 3 kali.\n(Keterampilan selalu aktif)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="Sensasi berburu"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="Pengganggu"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="Prajurit Twilight Elf terampil yang ahli dalam pertempuran jarak dekat. Mereka mewakili tahap terakhir sebelum naik sebagai Penyusup Elite."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="Prajurit Twilight Elf dengan peluang menghindari serangan jarak dekat."
+
+"INBOX_TAG_UPDATE"="Pembaruan"
+
+"INBOX_TAG_NEWS"="Berita"
+
+"INBOX_TAG_GIFT"="Hadiah"
+
+"INBOX_TITLE"="KOTAK MASUK"
+
+"INBOX_NO_MESSAGES"="Tidak ada pesan tersedia"
+
+"INBOX_SHOW_ALL_MESSAGES"="Tampilkan semua"
+
+"INBOX_READ"="Baca"
+
+"HERO_ALLERIA_WILDCAT_NAME"="Alleria & Taring Liar"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="Dalam bentuk yang jauh lebih tua dan bijaksana, penjaga hutan ini siap melepaskan kekuatan penuh alam. Mengendarai Taring Liarnya yang kini sudah dewasa, dia mampu memberikan tebasan mematikan sambil tetap menembak musuh di kejauhan."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- Turun dari Taring Liar saat terbunuh.<br>- Menembakkan panah yang memperlambat dan merusak dalam area.<br>- Mengaum dan melemahkan creep terdekat."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="Turun"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="Dalam bahaya besar, dia turun dari Taring Liarnya dan mundur untuk terus bertarung sampai binatang itu siap untuk bertarung lagi."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="Tembakan Duri"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="Menembakkan panah kuat yang diisi dengan kekuatan alam yang menumbuhkan tanaman merambat di jalur, memperlambat dan merusak musuh yang melintasi area tersebut."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="Auman Taring Liar"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="Taring Liar mengeluarkan auman ganas yang mengintimidasi musuh, mengurangi kekuatan pukulan mereka sambil meningkatkan kerusakan yang mereka terima."
+
+"MEGA_TICKET_OFFER_1"="Penawaran Tiket Super"
+
+"MEGA_TICKET_OFFER_2"="Penawaran Tiket Luar Biasa"
+
+"PLAYER_PROFILE_TITLE"="Profil"
+
+"PLAYER_PROFILE_STATS_TITLE"="Statistik Pemain"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="Avatar"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="Banner"
+
+"PLAYER_PROFILE_TITLES_TITLE"="Gelar"
+
+"PLAYER_PROFILE_USER_TAB"="Pengguna"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="Edit profil"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="Rentetan Saat Ini"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="Rentetan Terbaik"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="Kemenangan"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="Kekalahan"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="Rasio Kemenangan"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="Total Kartu"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="Hero yang Terbuka"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="Menara yang Terbuka"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="Mantra yang Terbuka"
+
+"PLAYER_PROFILE_STAT_MATCHES"="Pertandingan"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="Serangan Besi"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="Tantangan Serangan lanjutan untuk pemain kuat!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="Pemain pertama yang mengalahkan semua musuh mengambil 1 Nyawa dari lawan. (Level Kartu maks. 9)"
+
+"ONSLAUGHT_2_RULE_1"="Kalahkan setiap musuh lebih cepat dari lawanmu..."
+
+"ONSLAUGHT_2_RULE_2"="Kamu kehilangan 1 Nyawa jika terlalu lama..."
+
+"ONSLAUGHT_2_RULE_3"="Menang untuk mendapatkan hadiah unik!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="REKRUT LINIREA"
+
+"PROFILE_TITLE_DARK_ROOKIE"="PEMULA GELAP"
+
+"PROFILE_TITLE_FOREST_RANGER"="PENJAGA HUTAN"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="PRAJURIT BERANI"
+
+"PROFILE_TITLE_0005"="IBLIS LAVA"
+
+"PROFILE_TITLE_0006"="MASTER SILUMAN"
+
+"PROFILE_TITLE_0007"="GENIUS TAKTIS"
+
+"PROFILE_TITLE_0008"="PANGLIMA PERANG LEGENDARIS"
+
+"BUTTON_KINGDOM_PASS"="KINGDOM PASS"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="KLAIM EMAS"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="Pertanian ditutup, klaim koinmu!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="Ubah Nama Pengguna"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="Apakah kamu yakin ingin mengubah Nama Pengguna?"
+
+"EVENTS_REOPENS_IN"="Dibuka lagi dalam..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="Pertanian ditutup tapi kamu masih bisa klaim koin yang belum diklaim!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="Kesempatan Terakhir Koin!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="Koin Pertanian akan segera ditutup! Main sekarang dan raih koin!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="Paket Kebangkitan Epik I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="Paket Kebangkitan Epik II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="Paket Kebangkitan Legendaris I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="Paket Kebangkitan Legendaris II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="Batas Tercapai!"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="Tidak ada"
+
+"ERROR_INVALID_RESPONSE_TITLE"="Terjadi kesalahan!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="Kami tidak dapat memproses respons server. Silakan coba lagi."
+
+"HERO_BONEHART_DESCRIPTION"="Sisa-sisa kerangka dahsyat dari Bonehart yang pernah berkuasa. Dracolich raksasa ini menguasai kematian, memanggil makhluk tak mati dan menyebarkan wabah sambil menghancurkan pasukan musuh dengan kekuatan mengerikan. Pernah menjadi pilihan Dewi Elynie, kini ia berkelana di daratan dengan jiwa yang ternoda oleh kekuatan gelap dan terlarang."
+
+"HERO_BONEHART_SHORT_DESC"="- Memanggil Wyvern.<br>- Menerjang ke jalur, memberikan kerusakan.<br>- Menyebarkan Wabah."
+
+"HERO_BONEHART_NAME"="Bonehart"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="Setiap beberapa musuh yang jatuh, Wyvern Kerangka bangkit untuk menghantui jalur lawan. Saat dihancurkan, mereka meledak menjadi awan berbusuk, menyebarkan Wabah ke semua unit terdekat."
+
+"HERO_BONEHART_SKILL_0_NAME"="Wyvern Kerangka"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="Larut dalam kegelapan sebelum menghantam jalur musuh, memberikan kerusakan area yang besar dan mengutuk semua yang selamat dengan Wabah."
+
+"HERO_BONEHART_SKILL_1_NAME"="Nova Penyakit"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="Menghembuskan miasma busuk dari tulang-tulangnya yang terkutuk, menyelimuti jalur musuh dengan awan wabah yang memperlambat semua yang menghirupnya dan menulari mereka dengan Wabah."
+
+"HERO_BONEHART_SKILL_2_NAME"="Awan Wabah"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="Melepaskan tembakan proyektil sarat penyakit dari tubuhnya yang membusuk, menyebarkan Wabah secara sembarangan ke seluruh medan perang dan menghantam musuh di mana pun mereka berada."
+
+"HERO_BONEHART_SKILL_3_NAME"="Ledakan Menyebar"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="Makhluk tulang terkutuk yang menghantui langit, menginfeksi semua yang ada di bawah dengan wabah tuannya yang gelap."
+
+"HERO_BONEHART_WYVERN_NAME"="Wyvern Kerangka"
+
+"BUY_GOLDEN_PASS"="Dapatkan Pass Emas"
+
+"BUY_PLATINUM_PASS"="Dapatkan Pass Platinum"
+
+"DECK_BUILDER_WILDCARDS"="WILDCARD"
+
+"SEASON_PASS_COMMON_TITLE"="BIASA"
+
+"SEASON_PASS_GOLDEN_TITLE"="EMAS"
+
+"SEASON_PASS_PLATINUM_TITLE"="PLATINUM"
+
+"SEASON_PASS_REWARDS"="HADIAH"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 10 LEVEL PASS EKSTRA"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="Tampilkan semua hadiah"
+
+"SEASON_PASS_NAME"="RANTAI KEMARAHAN"
+
+"SEASON_PASS_WIDGET_LOCKED"="KINGDOM PASS<br> Terbuka di Arena 1"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="KLAIM<br>HADIAH!"
+
+"WILDCARD_RARITY_COMMON"="Wildcard Biasa"
+
+"WILDCARD_RARITY_RARE"="Wildcard Langka"
+
+"WILDCARD_RARITY_EPIC"="Wildcard Epik"
+
+"WILDCARD_RARITY_LEGENDARY"="Wildcard Legendaris"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="PILIH KARTU BIASA"
+
+"WILDCARD_VIEW_TITLE_RARE"="PILIH KARTU LANGKA"
+
+"WILDCARD_VIEW_TITLE_EPIC"="PILIH KARTU EPIK"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="PILIH KARTU LEGENDARIS"
+
+"WILDCARD_VIEW_SUBTITLE"="Total hingga"
+
+"WILDCARD_VIEW_NAME"="Wildcard"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="Tambahkan {0} {1} ke kartu ini?"
+
+"WILDCARD_VIEW_WILD_CARD"="Wildcard"
+
+"WILDCARD_VIEW_WILD_CARDS"="Wildcard"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="Tambahkan Wildcard"
+
+"WILDCARD_POPUP_DESCRIPTION"="Gunakan Wildcard untuk menambah progres upgrade kartu apa pun!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="Tidak ada kartu yang valid untuk Wild Card."
+
+"WILDCARD_YOUR_CARDS"="Kartu kamu"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="Dapatkan Wild Card untuk upgrade kartumu!"
+
+"COLLECTION_TYPE_BANNER"="BANNER PROFIL"
+
+"COLLECTION_TYPE_TITLE"="JUDUL PROFIL"
+
+"COLLECTION_TYPE_AVATAR"="AVATAR PROFIL"
+
+"BANNER_BANDITS"="Sarang Perampok"
+
+"BANNER_BASICBLUE"="Biru Eter"
+
+"BANNER_BASICGREEN"="Hijau Segar"
+
+"BANNER_BASICPURPLE"="Ungu Misterius"
+
+"BANNER_BASICRED"="Merah Bara"
+
+"BANNER_BASICYELLOW"="Kuning Surya"
+
+"BANNER_DESERT"="Pinggiran Hammerhold"
+
+"BANNER_DESERT2"="Bukit Pasir Bara"
+
+"BANNER_LINIREA"="Ladang Hijau Linirea"
+
+"BANNER_LINIREA"="Ladang Hijau Linirea"
+
+"BANNER_LINIREA2"="Lahan Pertanian"
+
+"BANNER_MOUNTAIN"="Dataran Tinggi Puncak Beku"
+
+"BANNER_TRAINING"="Lapangan Barak"
+
+"BANNER_TRAINING2"="Lapangan Memanah"
+
+"AVATAR_FOOTMAN"="PRAJURIT LINIREA"
+
+"AVATAR_GOBLIN"="GOBLIN NAKAL"
+
+"HERO_MALIK_NAME"="Raja Malik"
+
+"HERO_MALIK_DESCRIPTION"="Ganas dalam pertempuran, ia bangkit dari tahanan yang hancur di Quarry Darah menjadi legenda yang ditempa badai. Merebut palu yang jatuh, ia menghancurkan rantainya dan menempa jalannya melalui pertempuran tak terhitung sebagai juara tak terhentikan Linirea, hingga merebut tahtanya sebagai Raja Hammerhold, kini penjaga rakyatnya yang tak tergoyahkan."
+
+"HERO_MALIK_SHORT_DESC"="- Kerusakan tinggi ke musuh terkuat.<br>- Membungkam menara lawan.<br>- Bisa melompat jauh."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ KARTU LEGENDARIS BARU<br>RAJA MALIK"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="Setiap serangan Malik menghancurkan armor dan ketahanan magis musuh selama beberapa detik."
+
+"HERO_MALIK_SKILL_0_NAME"="Nonaktif"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="Memanggil sambaran petir dahsyat yang membungkam beberapa menara lawan, menonaktifkan kemampuan mereka selama beberapa detik dan mengurangi kerusakan yang mereka berikan."
+
+"HERO_MALIK_SKILL_1_NAME"="Halilintar"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="Menargetkan musuh paling tangguh di peta, menyerangnya dengan petir dan memberikan kerusakan setara persentase dari total kesehatannya."
+
+"HERO_MALIK_SKILL_2_NAME"="Petir Bebas"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="Saat bergerak jarak jauh, ia melompat dan menghantam tanah, memberikan kerusakan area pada musuh terdekat dan membuatnya pingsan beberapa detik."
+
+"HERO_MALIK_SKILL_3_NAME"="Gempa"
+
+"PROFILE_TITLE_S1_FREE"="PELOPOR"
+
+"PROFILE_TITLE_S1_GOLD"="PEJUANG PASIR"
+
+"PROFILE_TITLE_S1_PLATINUM"="PEMECAH RANTAI"
+
+"EMOTE_ALRIC_FACEPALM"="Facepalm Alric"
+
+"EMOTE_MALIK_BOLT"="Petir Malik"
+
+"SEASON_PASS_COMMON_PASS"="Pass<br>Biasa"
+
+"SEASON_PASS_GOLDEN_PASS"="Pass<br>Emas"
+
+"SEASON_PASS_PLATINUM_PASS"="Pass<br>Platinum"
+
+"AVATAR_MAGE"="MURID PENYIHIR"
+
+"AVATAR_SHEEP"="DOMBA GILA"
+
+"AVATAR_YOUNGMALIK"="MALIK MUDA"
+
+"BUTTON_REROLL"="ACAK ULANG"
+
+"BUTTON_KEEP"="SIMPAN"
+
+"N_ROLLS_REMAINING"="Tersisa: {0}"
+
+"SEASON_PASS_TIME_LEFT"="Waktu Tersisa"
+
+"CHEST_INFO_NAME_SEASON_FREE"="Peti Biasa"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="Peti Misterius"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="Peti Bonus"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="Peti Mitos"
+
+"SEASON_PASS_SEASON_NUMBER"="Kingdom Pass - Musim 1"
+

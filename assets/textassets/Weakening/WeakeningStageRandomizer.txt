@@ -1,0 +1,8 @@
+{
+    "weakening units stage randomizer": {
+        "weakening": {
+                "damagePercentage" : [-50.0],
+                "maxHealthPercentage" : [-85.0]
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "CreepBanditArcher": {
+        "goldReward": [
+            5
+        ],
+        "health": [
+            80
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.9
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "range": [
+                0.3
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    4.0
+                ],
+                "maxDamage": [
+                    8.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                0.9
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    4.0
+                ],
+                "maxDamage": [
+                    6.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

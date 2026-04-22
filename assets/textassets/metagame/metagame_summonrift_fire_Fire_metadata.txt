@@ -1,0 +1,44 @@
+{
+	"Start1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			" Attack1" : 2
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"End1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

@@ -1,0 +1,25 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "FlashTools/SwfIncrMask" {
+Properties {
+
+_MainTex ("Main Texture", 2D) = "white" { }
+
+_AlphaTex ("Alpha Texture", 2D) = "white" { }
+
+_ExternalAlpha ("External Alpha", Float) = 0.0
+
+}
+SubShader {
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ Pass {
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZWrite Off
+ Cull Off
+  GpuProgramID 44027
+}
+}
+}

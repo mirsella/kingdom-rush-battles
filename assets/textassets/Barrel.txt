@@ -1,0 +1,46 @@
+{
+    "barrel": {
+        "probability": [
+            0.22
+        ],
+        "maxStreak": [
+            1
+        ],
+        "cost": [
+            0
+        ],
+        "cardCooldown": [
+            30.0
+        ],
+        "bomb": {
+            "damage": {
+                "minDamage": [
+                    44.4
+                ],
+                "maxDamage": [
+                    59.2
+                ],
+                "areaRange": [
+                    1
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            },
+            "trueDamage": {
+                "areaRange": [
+                    1
+                ],
+                "minDamage": [
+                    44.4
+                ],
+                "maxDamage": [
+                    59.2
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        }
+    }
+}

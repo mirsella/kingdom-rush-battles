@@ -1,0 +1,10 @@
+{
+    "Trollzerker": {
+        "ai": {
+            "tags": [
+                "bulk",
+                "armor"
+            ]
+        }
+    }
+}

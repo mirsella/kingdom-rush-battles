@@ -1,0 +1,30 @@
+{
+	"Idle1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle2_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

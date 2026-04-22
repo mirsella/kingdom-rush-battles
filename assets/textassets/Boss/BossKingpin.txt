@@ -1,0 +1,81 @@
+{
+    "BossKingpin": {
+        "livesPenalty": [
+            999
+        ],
+        "health": [
+            3300,
+            3630,
+            3960
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.5
+        ],
+        "Bribery": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                28
+            ],
+            "range": [
+                1
+            ],
+            "bribery_heal": {
+                "duration": [
+                    2
+                ],
+                "minHealth": [
+                    0
+                ],
+                "maxHealth": [
+                    0
+                ],
+                "percentageHeal": [
+                    30
+                ]
+            }
+        },
+        "all_out": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                35
+            ]
+        },
+        "COMMENT": "beh stands for Behaviour",
+        "all_out_beh": {
+            "COMMENT": "Creep 01 now is Bandit. Brigand chance is 100-Creep01Chance",
+            "count": [
+                4
+            ],
+            "delayBetweenSpawns": [
+                100
+            ],
+            "Creep01Chance": [
+                60
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                0.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

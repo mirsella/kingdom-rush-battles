@@ -1,0 +1,17 @@
+{
+    "BossBroodmotherEgg": {
+        "egg_explode": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2
+            ],
+            "unit": {
+                "count": [
+                    3
+                ]
+            }
+        }
+    }
+}

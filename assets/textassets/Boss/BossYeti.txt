@@ -1,0 +1,66 @@
+{
+    "BossYeti": {
+        "livesPenalty": [
+            999
+        ],
+        "goldReward": [
+            0
+        ],
+        "health": [
+            4300,
+            4730,
+            5160
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.6
+        ],
+        "predator": {
+            "cooldown": [
+                2
+            ],
+            "instakill": {
+                "areaRange": [
+                    0.35
+                ]
+            }
+        },
+        "blizzard": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                17.0
+            ],
+            "maxTargets": [
+                3
+            ],
+            "stun": {
+                "duration": [
+                    5.0
+                ]
+            }
+        },
+        "rest": {
+            "loops": [
+                6
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                0.1
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tower_barrack_3": {
+        "cost": [
+            270
+        ],
+        "costUnlockable1": [
+            150
+        ],
+        "costUnlockable2": [
+            180
+        ],
+        "COMMENT": "Count is not being taken in account in game is here for UI purposes only",
+        "count": [
+            2
+        ]
+    }
+}

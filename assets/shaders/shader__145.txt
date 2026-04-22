@@ -1,0 +1,30 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/PostProcessing/Lut2DBaker" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 57050
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 112774
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 175109
+}
+}
+}

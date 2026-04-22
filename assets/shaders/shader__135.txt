@@ -1,0 +1,18 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/PostProcessing/DiscardAlpha" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 59282
+}
+}
+}

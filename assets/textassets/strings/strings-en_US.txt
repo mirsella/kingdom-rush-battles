@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="By pressing -Accept- I confirm that I have read and accepted the Terms & Conditions and Privacy Policy"
+
+"BUTTON_CONSENT"="Manage Consent"
+
+"BUTTON_ACCEPT"="Accept"
+
+"BUTTON_BATTLE"="BATTLE !"
+
+"BUTTON_CANCEL"="CANCEL"
+
+"BUTTON_CONNECT_APPLE"="Sign in with apple"
+
+"BUTTON_CONNECT_GOOGLE"="Connect with google"
+
+"BUTTON_CONNECT_GUEST"="Play as Guest"
+
+"BUTTON_LOGOUT"="Log out"
+
+"BUTTON_LOGOUT_YES"="Yes, log\nout"
+
+"BUTTON_LOGOUT_NO"="No, stay logged"
+
+"BUTTON_EXIT"="CONTINUE"
+
+"BUTTON_EXTERNAL"="Jump in and battle against new challengers!"
+
+"BUTTON_FEEDBACK"="Feedback"
+
+"BUTTON_HELP_US"="Help Us !"
+
+"BUTTON_KEEP_CLOUD"="Use cloud save"
+
+"BUTTON_KEEP_LOCAL"="Keep local save"
+
+"BUTTON_LOCKED"="Locked"
+
+"BUTTON_NEXT"="NEXT"
+
+"BUTTON_OFF"="Off"
+
+"BUTTON_ON"="On"
+
+"BUTTON_PRIVACY_POLICY"="Privacy policy"
+
+"BUTTON_RECONNECT"="RECONNECT"
+
+"BUTTON_RETRY"="RETRY"
+
+"BUTTON_SETTINGS"="Settings"
+
+"BUTTON_SUPPORT"="Support"
+
+"BUTTON_TERMS"="Terms & conditions"
+
+"BUTTON_USER"="User Account"
+
+"BUTTON_DELETE_ACCOUNT"="Delete Account"
+
+"BUTTON_UPGRADE"="Level Up"
+
+"BUTTON_CLAIM_PRIZE"="Free Chest!"
+
+"BUTTON_COLLECTION"="Collection"
+
+"BUTTON_SHOP"="Shop"
+
+"BUTTON_BATTLE_TAB"="Battle"
+
+"BUTTON_EVENTS_TAB"="Events"
+
+"EVENTS_COMING_SOON"="Coming Soon..."
+
+"BUTTON_CLANS_TAB"="Kingdoms"
+
+"BUTTON_INFO"="Info"
+
+"BUTTON_USE"="Use"
+
+"BUTTON_EQUIP"="Equip"
+
+"BUTTON_UNEQUIP"="Unequip"
+
+"BUTTON_SKILLS"="SKILLS"
+
+"BUTTON_STATS"="STATS"
+
+"BUTTON_STAGES"="Stages"
+
+"BUTTON_CREEPS"="Creeps"
+
+"BUTTON_BOOSTERS"="Boosters"
+
+"BUTTON_OK"="OK"
+
+"BUTTON_OPEN_INSTANTLY"="Skip"
+
+"BUTTON_CONFIRM"="Confirm"
+
+"BUTTON_MUSIC_VOLUME"="Music volume"
+
+"BUTTON_SFX_VOLUME"="SFX volume"
+
+"BUTTON_COPY_ID"="ID:"
+
+"BUTTON_ALREADY_SIGNED"="Already signed"
+
+"BUTTON_GUEST_CONTINUE"="Continue"
+
+"BUTTON_RESTART"="RESTART"
+
+"BUTTON_ACCOUNT_WARNING_YES"="Yes, sign in"
+
+"BUTTON_ACCOUNT_WARNING_NO"="No, keep current account"
+
+"BUTTON_MISSIONS"="Missions!"
+
+"BUTTON_GIFT"="Claim Gift !"
+
+"BUTTON_QUIT"="QUIT"
+
+"CARD_LOCKED_DESCRIPTION_1"="Play"
+
+"CARD_LOCKED_DESCRIPTION_2"="Find this card in a chest to unlock it"
+
+"CARD_RARITY_COMMON"="Common"
+
+"CARD_RARITY_EPIC"="Epic"
+
+"CARD_RARITY_LEGENDARY"="Legendary"
+
+"CARD_RARITY_RARE"="Rare"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="Area damage Max"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="Area damage Min"
+
+"CARD_STAT_AREA_OF_EFFECT"="Area of effect"
+
+"CARD_STAT_BUFF_PERCENTAGE"="Buff"
+
+"CARD_STAT_ARMOR_REDUCTION"="Armor Reduction"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="Magic Res. Reduction"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="Chance"
+
+"CARD_STAT_COOLDOWN"="Cooldown"
+
+"CARD_STAT_COST"="Cost"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="Damage over time"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT max"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT min"
+
+"CARD_STAT_DAMAGE_TYPE"="Damage type"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="Artillery"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="Artillery / Magic"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="Magic"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="Physical"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="True"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="Debuff"
+
+"CARD_STAT_DURATION"="Duration"
+
+"CARD_STAT_HEAL_HP"="Healed HP"
+
+"CARD_STAT_HEAL_HP_MAX"="Heal Max"
+
+"CARD_STAT_HEAL_HP_MIN"="Heal Min"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="Affected units"
+
+"CARD_STAT_MAX_DAMAGE"="Damage Max"
+
+"CARD_STAT_MIN_DAMAGE"="Damage Min"
+
+"CARD_STAT_NUMBER_OF_UNITS"="Units amount"
+
+"CARD_STAT_RANGE"="Range"
+
+"CARD_STAT_STRIKE_COUNT"="Strikes"
+
+"CARD_STAT_ARMOR_PIERCING"="Armor Piercing"
+
+"CARD_STAT_UNIT_ARMOR"="Armor"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="Attack Speed"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="Attack speed"
+
+"CARD_STAT_UNIT_HP"="Health"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="Magic Resistance"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="Max area damage"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="Max damage"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="Max damage"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="Min area damage"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="Min damage"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="Min damage"
+
+"CARD_STAT_UNIT_SPEED"="Speed"
+
+"CARD_STAT_UNIT2_ARMOR"="Unit 2 Armor"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="Unit 2 Attack Speed"
+
+"CARD_STAT_UNIT2_HP"="Unit 2 Health"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="Unit 2 max damage"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="Unit 2 min damage"
+
+"CARD_STAT_LEVEL_TEXT"="LVL"
+
+"CARD_STAT_DAMAGE"="Damage"
+
+"CARD_STAT_RANGED_DAMAGE"="Ranged Damage"
+
+"CARD_STAT_ARMOR_TYPE"="Armor Type"
+
+"CARD_STAT_VERY_LOW"="Very Low"
+
+"CARD_STAT_LOW"="Low"
+
+"CARD_STAT_MEDIUM"="Medium"
+
+"CARD_STAT_HIGH"="High"
+
+"CARD_STAT_VERY_HIGH"="Very High"
+
+"CARD_STAT_NONE"="None"
+
+"CARD_STAT_CARD_RANK"="Rank"
+
+"CARD_STAT_CARD_CARD_TYPE"="Type"
+
+"CARD_STAT_HP_REDUCTION"="Health Reduction"
+
+"CARD_STAT_SLOW"="Slow"
+
+"CARD_STAT_HP_TO_ACTIVATE"="Health percentage"
+
+"CARD_STAT_TILES_PUSHED"="Tiles pushed"
+
+"CARD_TYPE_BARRACK"="BARRACK"
+
+"CARD_TYPE_RANGED"="RANGED"
+
+"CARD_TYPE_MAGIC"="MAGIC"
+
+"CARD_TYPE_ARTILLERY"="ARTILLERY"
+
+"CARD_TYPE_DAMAGE"="DAMAGE"
+
+"CARD_TYPE_SUMMON"="SUMMON"
+
+"CARD_TYPE_UTILITY"="UTILITY"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="SUPPORT"
+
+"CARD_TYPE_TANK"="TANK"
+
+"CARD_TYPE_FLYING"="FLYING"
+
+"TOWER_STATS"="TOWER STATS"
+
+"HERO_STATS"="HERO STATS"
+
+"SPELL_STATS"="SPELL STATS"
+
+"CHECKING_UPDATES"="CHECKING FOR UPDATES"
+
+"CLAIM_HERO_DESCRITPION"="Share your feedback through a short survey and get an awesome chest while helping us to improve our game."
+
+"FREE_CHEST_VIEW_TITLE"="GET A CHEST !"
+
+"CONNECTING"="CONNECTING"
+
+"CONNECTION_LOST_CHECK_INTERNET"="Check your internet connection"
+
+"CONNECTION_LOST_BUTTON"="RETRY"
+
+"CONNECTION_LOST_RECONNECTING"="RECONNECTING"
+
+"CONNECTION_LOST_TITLE"="CONNECTION LOST"
+
+"USER_ACCESS_TEXT"="Sign in or create account"
+
+"24_HR_NOTIFICATION_TITLE"="Your kingdom needs you!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="Defend your towers from new challengers!"
+
+"48_HR_NOTIFICATION_TITLE"="It's Battle Time!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="New powerful cards await! Upgrade your deck and crush your foes. Battle now!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="Grab more rewards!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="Powerful rewards await in star chests. Dive in and claim them!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="Time to collect!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Your Battle Chest is ready! Win matches to unlock great rewards!"
+
+"DAILY_CHEST_RESET"="Battle Chest will reset in:"
+
+"OPEN_BATTLE_CHEST"="Congratulations! Open the chest to get your prizes! "
+
+"OPEN_BATTLE_WIN"="Win"
+
+"BATTLE_CHEST_INSTRUCTIONS"="more matches to open this chest!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="match to open this chest!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="Psst… Time to Snag Some Stars!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Don’t wait, grab your stars and unlock epic rewards!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="Your Rewards Await!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="Claim your Trophy Road rewards now—don’t miss out!"
+
+"ROOKIE_NOTIFICATION_TITLE"="Keep Going!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="You were on a roll! Unlock trophies, level up, and boost your deck!"
+
+"DECK_BUILDER_DECK"="DECK"
+
+"DECK_BUILDER_EMOJIS"="EMOTES"
+
+"DECK_BUILDER_FILTER_LEVEL"="LEVEL"
+
+"DECK_BUILDER_FILTER_RARITY"="RARITY"
+
+"DECK_BUILDER_FILTER_RANK"="RANK"
+
+"DECK_BUILDER_FILTER_TYPE"="TYPE"
+
+"DECK_BUILDER_FOUND"="Found"
+
+"DECK_BUILDER_HEROES"="HEROES"
+
+"DECK_BUILDER_SPELLS"="SPELLS"
+
+"DECK_BUILDER_TOWERS"="TOWERS"
+
+"DOWNLOADING"="Updating..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="No, keep my account"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="Yes, delete my account"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="READ MORE"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="You are about to request permanent deletion of your account and all your personal information. If you click 'Yes', we will erase all your account's data, including: access, all purchased and gained items, game progress, and levels."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="You are about to request permanent deletion of your account and all your personal information. If you click ‘Yes’, we will erase all your account’s data, including: access, all purchased and gained items, game progress, and levels.\n\nFor {0} days you can cancel your request. After this period the process cannot be undone! If you return to the game a new account will be created. "
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="Are you sure you wish to delete your account?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="You have {0} days to change your mind.\nAfter that your account will be permanently deleted."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="We have registered your deletion request!"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="Your account is Scheduled for deletion"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="If you have changed your mind and wish to continue playing, click “cancel deletion”.\nOtherwise Miniclip will initiate the permanent deletion of your account in {0} days."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="Cancel deletion"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="Continue deletion"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="No changes have been made to your account.\nYou can restart the permanent deletion process at any time from the game settings."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="Deletion process has been cancelled"
+
+"SAVE_WARNING_TITLE"="SAVE YOUR PROGRESS:"
+
+"SAVE_WARNING_TEXT"="Connect your account to save your progress"
+
+"ERROR_DECK_INCOMPLETE"="YOUR BATTLE DECK IS INCOMPLETE!"
+
+"ERROR_ALREADY_BOUGHT"="ALREADY BOUGHT!"
+
+"ERROR_PURCHASE_TITLE"="PURCHASE ERROR"
+
+"ERROR_PURCHASE_DESCRIPTION"="An error occurred while processing this purchase. Please try again."
+
+"ERROR_NOT_ENOUGH_GEMS"="Not enough gems!"
+
+"ERROR_NOT_ENOUGH_GOLD"="NOT ENOUGH COINS!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="USERNAME CHANGE ERROR"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="An error ocurred when modifying the username please try again"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="An error occurred updating the game content. Please ensure your device has enough free storage space and that you are connected to the internet, then try again."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="UPDATE ERROR"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="An error occurred connecting to the game server. Verify that you are connected to the internet."
+
+"ERROR_CONNECTING_SERVER_TITLE"="CONNECTION ERROR"
+
+"ERROR_WAITING_PLAYER_TITLE"="OPPONENT QUIT"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="It seems that the opponent has quit the game."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="USER CREATION ERROR"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="An error occurred creating a new user for this device."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="APPLE SIGN IN ERROR"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="An error occured while signing in with your apple account. Please try again."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="An error occurred retrieving the access token. Please try to sign in again."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="An error occurred linking the account. Please try to sign in again."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="GOOGLE SIGN IN ERROR"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="An error occured while signing in with your google account. Please try again."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="An error occurred retrieving the access token. Please try to sign in again."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="An error occurred validating the access token. Please try to sign in again."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="An error occurred linking the account. Please try to sign in again."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="An error ocurred switching the local user with the remote user. Please try to sign in again."
+
+"ERROR_FRAMEDIFF_TITLE"="CHEATER DETECTED"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="We detected suspicious activity from one of the players, and it is not possible to continue the match."
+
+"ERROR_FRAMEDIFF_BUTTON"="CONTINUE"
+
+"ERROR_INVALID_SESSION_TITLE"="Something went wrong!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="Your device session has expired. The application will now reload."
+
+"ERROR_USER_CANCELED_OPERATION"="User canceled the operation."
+
+"BUTTON_SUMMON"="Summon"
+
+"EVENTS_SUMMON_RIFT_TITLE"="Summon Rift"
+
+"EVENTS_ONSLAUGHT_TITLE"="Onslaught"
+
+"EVENTS_COIN_FARM_TITLE"="Coin Farm"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="Summon powerful exclusive cards!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="Defeat every enemy as fast as possible!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="Use the Farm to fill up your piggybank!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="Complete {0} Summonings and receive {1}!"
+
+"DATA_WARNING_WINDOW_TITLE"="Save game detected!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="We've found a different save game on your account. Would you like to use the cloud save game or keep your local one?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="Account detected!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="The account you are trying to sign into is already linked to another Kingdom Rush Battles ID. Would you like to sign in to this account anyways? (current session will close)"
+
+"LOGOUT_WINDOW_TITLE"="WARNING!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="If you sign out, progress on this device will be reset; however, the data of your account will remain in the cloud.\nWould you like to sign out anyways? (current session will close)"
+
+"GAME_MSG_DEFEAT"="  DEFEAT !"
+
+"GAME_MSG_DRAW"="  DRAW !"
+
+"GAME_MSG_FINAL_WAVE"="Boss Battle!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="LEVEL UP!"
+
+"GAME_MSG_VERSUS"="vs"
+
+"GAME_MSG_VICTORY"="  VICTORY !"
+
+"GAME_MSG_WAITING_OPPONENT"="Waiting Opponent"
+
+"GAME_MSG_WAVE_NUMBER"="Wave {0}"
+
+"GAME_MODIFIERS_TITLE"="PICK A BOOSTER"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="SURVIVOR"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="Survive until wave 4"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="CONQUEROR"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="Win the match"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="UNBREAKABLE"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="Don't lose a single heart"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="BLITZ"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="Win before wave 4"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="CHALLENGER"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="Reach the final wave"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="SLAYER"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="Kill the final boss"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="MASTERY"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="Victory in Bootcamp!"
+
+"GAME_UPDATE_BUTTON"="UPDATE"
+
+"GAME_UPDATE_DESCRIPTION"="A new version of the game is available in the store."
+
+"GAME_UPDATE_TITLE"="UPDATE IS AVAILABLE!"
+
+"MAINTENANCE_MODE_BUTTON"="QUIT"
+
+"MAINTENANCE_MODE_DESCRIPTION"="The game will be down until the updates are completed"
+
+"MAINTENANCE_MODE_TITLE"="MAINTENANCE MODE"
+
+"INITIALIZING"="INITIALIZING"
+
+"LOADING"="LOADING"
+
+"SLOW_CONNECTION"="SLOW CONNECTION"
+
+"LOADING_WAITING_OPPONENT"="WAITING OPPONENT"
+
+"LOADING_SYNC_PLAYERS"="SYNCHRONIZING PLAYERS"
+
+"MATCH_MAKING_TIP_1"="Physical Armor enemies are weak to Magic, and vice-versa."
+
+"MATCH_MAKING_TIP_10"="Enemies with a coin drop extra gold when killed."
+
+"MATCH_MAKING_TIP_2"="Place an Artillery near a Barrack for concentrated damage."
+
+"MATCH_MAKING_TIP_3"="Flying enemies can't be blocked; try using Archer Towers."
+
+"MATCH_MAKING_TIP_4"="Towers have unique skills at Upgrade Level 3."
+
+"MATCH_MAKING_TIP_5"="Pick Boosters that resist your opponent's towers."
+
+"MATCH_MAKING_TIP_6"="Selling towers gives back a percentage of their cost."
+
+"MATCH_MAKING_TIP_7"="Check Arena info for enemy stats and skills."
+
+"MATCH_MAKING_TIP_8"="A balanced deck should include 1 of each type of Tower."
+
+"MATCH_MAKING_TIP_9"="Finish waves faster than your opponent for extra gold."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="Earn player experience to level up your boosters!"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="This enemy will spawn from the portal on different stages."
+
+"SEARCHING_FOR_OPPONENT"="Searching\nfor opponent..."
+
+"SURVEY_POPUP"="Your feedback is invaluable to us! Share your thoughts by taking a quick survey (2 - 3 min). Your responses will help us identify areas for improvement and add features to enhance the game and create a more engaging experience for all players."
+
+"TAB_BATTLE"="Battle"
+
+"TAB_COLLECTION"="Collection"
+
+"TAB_SHOP"="Shop"
+
+"TERRAIN_COLISEUM_NAME"="STADIUM"
+
+"TERRAIN_COLISEUM_DESC"="Challenge yourself against other players in this ranked Stadium, fighting against previous enemies and stages to earn Medals.\nIt is now your time to become the best Battle Towers player in the world!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="Bandit's Lair"
+
+"TERRAIN_FOREST_1_NAME"="SILVEROAK FOREST"
+
+"TERRAIN_FOREST_2_NAME"="Silveroak Forest"
+
+"TERRAIN_FOREST_3_NAME"="Silveroak Forest"
+
+"TERRAIN_MOUNTAIN_1_NAME"="STORMCLOUD MOUNTAINS"
+
+"TERRAIN_MOUNTAIN_2_NAME"="Stormcloud Mountains"
+
+"TERRAIN_MOUNTAIN_3_NAME"="Stormcloud Mountains"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="BANDIT'S LAIR"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="Bandit's Lair"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="Bandit's Lair"
+
+"TERRAIN_TRAINING_NAME"="BOOTCAMP"
+
+"STAGE_TRAINING_1"="Training Grounds"
+
+"STAGE_FOREST_1"="Southport"
+
+"STAGE_FOREST_2"="Fields"
+
+"STAGE_FOREST_3"="Farmlands"
+
+"STAGE_FOREST_4"="Outskirts"
+
+"STAGE_FOREST_5"="Riverside"
+
+"STAGE_MOUNTAIN_1"="Frozen Tracks"
+
+"STAGE_MOUNTAIN_2"="Twin Peaks"
+
+"STAGE_MOUNTAIN_3"="Troll Nest"
+
+"STAGE_MOUNTAIN_4"="Icewind Pass"
+
+"STAGE_MOUNTAIN_5"="Icy Ravine"
+
+"STAGE_BANDITS_1"="Mudlands"
+
+"STAGE_BANDITS_2"="Cutthroat Camp"
+
+"STAGE_BANDITS_3"="Viper Trail"
+
+"STAGE_BANDITS_4"="Dead Man's Crossing"
+
+"STAGE_BANDITS_5"="Hushwood"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="Welcome to <color=#0DA7FF>Kingdom Rush Battles</color>! <br>Let's learn the basics..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="Time to defend! Let's <color=#0DA7FF>build a Tower</color> to stop these wild Goblins before they escape!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="Well done! You’ve <color=#0DA7FF>earned some Gold</color> from defeated enemies. Let’s use it to build another tower."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="Watch out! Enemies are passing through! If they escape, you will lose lives. <color=#0DA7FF>Upgrade your tower</color> to deal more damage!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="Watch out! Enemies are passing through! If they escape, you will <color=#0DA7FF>lose lives</color>. "
+
+"NEW_TUTORIAL_1_MSG_HERO"="The <color=#0DA7FF>Hero</color> Gerald joins the battle! Drag him closer to the enemies to engage in combat!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="Stronger enemies are coming! Let's <color=#0DA7FF>cast a Spell!</color> Drag to unleash a Rain of Fire onto the battlefield!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="The battle extends above! Face off against other generals - <color=#0DA7FF>last one standing wins</color>. Good luck!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="Bring it on!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="The opponent is <color=#0DA7FF>about to lose!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>Select a booster!</color> They can power up your defenses, or make your opponent's waves harder."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="Don't let enemies escape! Build a Tower to fight them off!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="An <color=#837272>armored</color> enemy spawned from a portal! Build a <color=#0DA7FF>Mage</color> to stop them."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="Look! Some of the <color=#0DA7FF>opponent's enemies are escaping!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="Building Towers costs Gold. Earn more Gold by defeating enemies."
+
+"TUTORIAL_1_MSG_HERO"="The Hero Gerald has appeared! You can move him to battle incoming enemies."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="Your opponent will also build Towers to defend their side!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Cast 'Rain of Fire' to destroy this group of Goblins."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="You have a new Spell available in your arsenal!"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="You can use your Gold to upgrade your Towers and make them stronger."
+
+"TUTORIAL_1_MSG_WELCOME"="Welcome to Kingdom Rush Battles! Lets get started..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="Select this Booster. This will force them to deal with a Flying enemy. "
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="Select 'Call of the Dragon'. This will force them to deal with a Flying enemy. "
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="The opponent is about to lose!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="Now select a Defense Booster. This will help you deal with strong enemies."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="Select 'Mighty Tower'. This will help you deal with strong enemies."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="This enemy has <color=#837272>Physical Armor</color>, making him resistant to physical damage."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="This enemy has <color=#0DA7FF>Magical Armor</color>. Armors change the enemy’s healthbar color."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="Build a Mage to deal <color=#0DA7FF>magic damage</color> and overcome the enemy's armor."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="New enemies might be too tough. Let's upgrade it just to be safe!"
+
+"TUTORIAL_2_MSG_SKILL_1"="Time to use Tower Skills. They help fight enemies or attack your opponent! "
+
+"TUTORIAL_2_MSG_SKILL_2"="Upgrade the Archers to max level first."
+
+"TUTORIAL_2_MSG_SKILL_3"="Buy the 'Charged Shots' Skill to attack your opponent's units!"
+
+"TUTORIAL_2_MSG_WELCOME"="Let's learn how to interact with your opponent."
+
+"TUTORIAL_METAGAME_DECK_01"="You unlocked a new Tower! Let's add it into your deck."
+
+"TUTORIAL_METAGAME_DECK_02"="Go check the Towers section!"
+
+"TUTORIAL_METAGAME_DECK_03"="You unlocked a new Tower! Let's add it into your deck."
+
+"TUTORIAL_METAGAME_DECK_04"="Leveling Up a Tower will increase its power using coins and shards."
+
+"TUTORIAL_METAGAME_DECK_05"="Now to equip the barbarians on your deck."
+
+"TUTORIAL_METAGAME_DECK_06"="Replace the 'Paladins' with the 'Barbarians' Tower."
+
+"TUTORIAL_METAGAME_DECK_07"="All done! Now to put what you learned to test."
+
+"TUTORIAL_METAGAME_CHEST_01"="Earn stars by playing matches to unlock chests."
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="You unlocked a new Spell! Let's add it into your deck."
+
+"FTUE_DIRECTIVE_01"="1 more win to unlock a new Spell!"
+
+"FTUE_DIRECTIVE_02"="1 more win to unlock a new Spell!"
+
+"FTUE_DIRECTIVE_03"="1 more game to unlock the Boosters!"
+
+"TITLE_USER_ACCESS"="USER ACCESS"
+
+"TITLE_SOUND_SETTINGS"="MUSIC & SFX"
+
+"TITLE_EXTERNAL"="EXTERNAL"
+
+"TITLE_SETTINGS"="SETTINGS"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="CHANGE NAME"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="CHOOSE YOUR NAME"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 character limit<br>Special characters are not allowed"
+
+"ERROR_USERNAME_INVALID"="Invalid name"
+
+"ERROR_USERNAME_INAPPROPIATE"="Name not allowed"
+
+"ERROR_USERNAME_UNCHANGED"="That’s already your name"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="REWARDS LOCKED!"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="Unlock your chest cycle to continue earning rewards!"
+
+"CHEST_YOUR_GOLD"="Coins"
+
+"SHOP_GOLD"="Coins"
+
+"CHEST_YOUR_STARS"="STARS"
+
+"YOUR_GEM"="Gems"
+
+"CHEST_RESOURCE_CARD"="Resource"
+
+"CHEST_GOLD"="COINS"
+
+"CHEST_STAR"="STARS"
+
+"CHEST_YOUR_REWARD"="Your Rewards"
+
+"CHEST_COMMON_TOWER"="Common Tower"
+
+"CHEST_EPIC_TOWER"="Epic Tower"
+
+"CHEST_RARE_TOWER"="Rare Tower"
+
+"CHEST_LEGENDARY_TOWER"="Legendary Tower"
+
+"CHEST_COMMON_HERO"="Common Hero"
+
+"CHEST_EPIC_HERO"="Epic Hero"
+
+"CHEST_RARE_HERO"="Rare Hero"
+
+"CHEST_LEGENDARY_HERO"="Legendary Hero"
+
+"CHEST_COMMON_SPELL"="Common Spell"
+
+"CHEST_EPIC_SPELL"="Epic Spell"
+
+"CHEST_RARE_SPELL"="Rare Spell"
+
+"CHEST_LEGENDARY_SPELL"="Legendary Spell"
+
+"CHEST_NEW_CARD"="NEW!"
+
+"CHEST_INFO_NAME_GOLD"="Gold Chest"
+
+"CHEST_INFO_NAME_SILVER"="Wood Chest"
+
+"CHEST_INFO_NAME_MAGICAL"="Magical Chest"
+
+"CHEST_INFO_NAME_BRAVERY"="Battle Chest"
+
+"CHEST_INFO_NAME_LEVEL_UP"="Level Up Chest"
+
+"CHEST_INFO_CONTAINS_TITLE"="Guaranteed:"
+
+"CHEST_INFO_CONTAINS_RARES"="Rares"
+
+"CHEST_INFO_CONTAINS_EPICS"="Epics"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="Legendaries"
+
+"CHEST_INFO_CONTAINS_RARE"="Rare"
+
+"CHEST_INFO_CONTAINS_EPIC"="Epic"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="Legendary"
+
+"CHEST_INFO_CLAIM_BUTTON"="Open!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="LOCKED"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="Common Cards"
+
+"CHEST_INFO_CLAIM"="Claim!"
+
+"CHEST_INFO_UNLOCK_NOW"="Unlock Now"
+
+"CHEST_INFO_EXTRA_TITLE"="Chance of Extra:"
+
+"CHEST_TOOLTIP_CLAIM"="CLAIM!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="Choose Your Reward !"
+
+"TROPHY_REWARD_SCREEN_TITLE"="Reward !"
+
+"XP_LEVEL_UP_TITLE"="NEW LEVEL !"
+
+"XP_LEVEL_UP_BOOSTER"="BOOSTERS"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="LEVEL UP!"
+
+"XP_LEVEL_UP_LVL"="Lvl."
+
+"DECK_MAX_LEVEL"="MAX"
+
+"PROGRESS_BAR_MAX"="MAX"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="LvL"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="Booster Level Up ! Improve your game modifiers"
+
+"WELCOME_SCREEN_LOG_TEXT"="• Elora Summon Rift banner ended\n• New Summon Rift Card: Twilight Longbows!\nBug Fixes\n• Fixed a bug where damage-increasing perks for units were not being applied in all cases.\n• Fixed several perks that were incorrectly affecting units and towers they were not meant to.\n• Artillery: Fixed an issue where the Level 3 skill prices were incorrectly swapped.\nGameplay\n• Added a new boss, the Juggernaut, to the Forsaken Valley stage.\nBalance\n• Magma Shard / Magma Elemental: The duration of the rock phase has been increased to 12 seconds.\n• Rocket Riders:\n   • Health reduced by 25%.\n   • Their rush skill will now only trigger when they are 5 tiles away from the exit (increased from 3).\n   • They are now polymorphable.\n• Shadow Archer: Ranged damage reduced by 30%.\nForsaken Arenas: Creep and bot card scaling has been toned down starting from Forsaken Valley."
+
+"WELCOME_SCREEN_TITLE_TEXT"="What's New"
+
+"SHOP_SCREEN_PLACEHOLDER"="COMING SOON"
+
+"SHOP_ROYAL_GOLD_CHEST"="King's Chest"
+
+"SHOP_ROYAL_SILVER_CHEST"="Captain's Chest"
+
+"SHOP_ROYAL_BRONZE_CHEST"="Soldier's Chest"
+
+"SHOP_GEMS_SLOT_1"="Handful of Gems"
+
+"SHOP_GEMS_SLOT_2"="Pile of Gems"
+
+"SHOP_GEMS_SLOT_3"="Bag of Gems"
+
+"SHOP_GEMS_SLOT_4"="Barrel of Gems"
+
+"SHOP_GEMS_SLOT_5"="Vault of Gems"
+
+"SHOP_GEMS_SLOT_6"="Mountain of Gems"
+
+"SHOP_GOLD_SLOT_1"="Bunch of Coins"
+
+"SHOP_GOLD_SLOT_2"="Bag of Coins"
+
+"SHOP_GOLD_SLOT_3"="Vault of Coins"
+
+"SHOP_SPECIAL_OFFER"="Special Offer !"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Special Offers"
+
+"SHOP_STARTER_PACK_TITLE"="Starter Pack"
+
+"SHOP_GOLD_TITLE"="Coins"
+
+"SHOP_GEMS_TITLE"="Gems"
+
+"SHOP_CHESTS_TITLE"="Chests"
+
+"SHOP_FIRST_PURCHASE"="1st Purchase"
+
+"SHOP_PURCHASED"="Purchased"
+
+"SHOP_CLAIMED"="Claimed"
+
+"SHOP_VALUE"="Value"
+
+"SHOP_DAILY_LOCKED"="Unlocks in Arena"
+
+"SHOP_FOREST_ARENA_PACK"="Silveroak Pack"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="Stormcloud Pack"
+
+"SHOP_BANDITS_ARENA_PACK"="Bandits Pack"
+
+"SHOP_COLISEUM_ARENA_PACK"="Stadium Pack"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="Forsaken Pack"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 stars"
+
+"RATE_US_BUTTON_5_STARS"="5 stars"
+
+"RATE_US_TITLE"="Rate Game"
+
+"RATE_US_DESC"="If you are enjoying Kingdom Rush Battles, take a moment to rate the game."
+
+"RATE_US_DESC_2"="Thanks for your support!"
+
+"RATE_US_OPINION_BUTTON_SEND"="Send"
+
+"RATE_US_OPINION_REVIEW"="Write feedback..."
+
+"RATE_US_OPINION_TITLE"="Give us your opinion"
+
+"RATE_US_OPINION_SENT"="Your feedback has been sent"
+
+"TROPHY_INFO_BOOSTERS"="BOOSTERS"
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="Attack Boosters"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="Defense Boosters"
+
+"FOREST_STAGE_1"="Forest 1"
+
+"FOREST_STAGE_2"="Forest 2"
+
+"FOREST_STAGE_3"="Forest 3"
+
+"FOREST_STAGE_4"="Forest 4"
+
+"FOREST_STAGE_5"="Forest 5"
+
+"MOUNTAIN_STAGE_1"="Mountain 1"
+
+"MOUNTAIN_STAGE_2"="Mountain 2"
+
+"MOUNTAIN_STAGE_3"="Mountain 3"
+
+"MOUNTAIN_STAGE_4"="Mountain 4"
+
+"MOUNTAIN_STAGE_5"="Mountain 5"
+
+"BANDITS_LAIR_1"="Bandits Lair 1"
+
+"BANDITS_LAIR_2"="Bandits Lair 2"
+
+"BANDITS_LAIR_3"="Bandits Lair 3"
+
+"BANDITS_LAIR_4"="Bandits Lair 4"
+
+"BANDITS_LAIR_5"="Bandits Lair 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="None"
+
+"LEADERBOARD_TITLE"="LEADERBOARD"
+
+"LEADERBOARD_BUTTON"="Leaderboard"
+
+"LEADERBOARD_TAB_GLOBAL"="Global"
+
+"LEADERBOARD_TAB_LOCAL"="Local"
+
+"LEADERBOARD_USER_NOT_RANKED"="Reach the Stadium to rank!"
+
+"SPECIAL_BUTTON_NAME"="Arsenal Unlocked!"
+
+"SELL_TOWER_TITLE"="Sell Tower"
+
+"SELL_TOWER_DESCRIPTION"="Sell this tower and get a {0} gold refund."
+
+"BANDITS_LAIR_STAGE_1"="Bandits Lair 1"
+
+"BANDITS_LAIR_STAGE_2"="Bandits Lair 2"
+
+"BANDITS_LAIR_STAGE_3"="Bandits Lair 3"
+
+"BANDITS_LAIR_STAGE_4"="Bandits Lair 4"
+
+"BANDITS_LAIR_STAGE_5"="Bandits Lair 5"
+
+"TAUNT_THANKS"="Thanks !"
+
+"TAUNT_GOOD_LUCK"="Good Luck !"
+
+"TAUNT_OOPS"="Oops..."
+
+"TAUNT_WELL_PLAYED"="Well Played !"
+
+"UNMUTE_TO_SEND_EMOTES"="Unmute to send and receive emotes "
+
+"BANDITS_LAIR_STAGE_1"="Bandits Lair 1"
+
+"BANDITS_LAIR_STAGE_2"="Bandits Lair 2"
+
+"BANDITS_LAIR_STAGE_3"="Bandits Lair 3"
+
+"BANDITS_LAIR_STAGE_4"="Bandits Lair 4"
+
+"BANDITS_LAIR_STAGE_5"="Bandits Lair 5"
+
+"TAUNT_THANKS"="Thanks !"
+
+"TAUNT_GOOD_LUCK"="Good Luck !"
+
+"TAUNT_OOPS"="Oops..."
+
+"TAUNT_WELL_PLAYED"="Well Played !"
+
+"UNMUTE_TO_SEND_EMOTES"="Unmute to send and receive emotes "
+
+"FOREST_STAGE_1"="Forest 1"
+
+"FOREST_STAGE_2"="Forest 2"
+
+"FOREST_STAGE_3"="Forest 3"
+
+"FOREST_STAGE_4"="Forest 4"
+
+"FOREST_STAGE_5"="Forest 5"
+
+"MOUNTAIN_STAGE_1"="Mountain 1"
+
+"MOUNTAIN_STAGE_2"="Mountain 2"
+
+"MOUNTAIN_STAGE_3"="Mountain 3"
+
+"MOUNTAIN_STAGE_4"="Mountain 4"
+
+"MOUNTAIN_STAGE_5"="Mountain 5"
+
+"BANDITS_LAIR_1"="Bandits Lair 1"
+
+"BANDITS_LAIR_2"="Bandits Lair 2"
+
+"BANDITS_LAIR_3"="Bandits Lair 3"
+
+"BANDITS_LAIR_4"="Bandits Lair 4"
+
+"BANDITS_LAIR_5"="Bandits Lair 5"
+
+"BANDITS_LAIR_STAGE_1"="Bandits Lair 1"
+
+"BANDITS_LAIR_STAGE_2"="Bandits Lair 2"
+
+"BANDITS_LAIR_STAGE_3"="Bandits Lair 3"
+
+"BANDITS_LAIR_STAGE_4"="Bandits Lair 4"
+
+"BANDITS_LAIR_STAGE_5"="Bandits Lair 5"
+
+"HERO_GERALD_DESCRIPTION"="Hero of Linirea and symbol of justice, he has stood against threats from both this world and beyond. Bound by a solemn oath, he is always the first to charge into battle and the last to fall back, driven by his duty to shield the innocent and defend the weak at any cost."
+
+"HERO_GERALD_SHORT_DESC"="-Restores HP when low.<br>-Buffs allies.<br>-Chance of reflecting damage."
+
+"HERO_GERALD_NAME"="Gerald Lightseeker"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="When his health falls dangerously low, he uses his holy power to restore a portion his health."
+
+"HERO_GERALD_SKILL_0_NAME"="Divine Prayer"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="As a Hero of Linirea, his unwavering courage radiates to nearby allies, periodically boosting their health and damage for a short time."
+
+"HERO_GERALD_SKILL_1_NAME"="Courage"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="While fighting, he may raise his shield for a few seconds, briefly deflecting all incoming damage back at attackers."
+
+"HERO_GERALD_SKILL_2_NAME"="Shield of Retribution"
+
+"HERO_ALLERIA_DESCRIPTION"="Daughter of the Elven Queen and heir to a timeless legacy, Alleria is also a swift and charming archer. With her Wildcat companion at her side, they strike down enemies before they even take aim. Her grace in battle is rivaled only by her unwavering devotion to nature."
+
+"HERO_ALLERIA_SHORT_DESC"="-Fires multiple arrows at the same time.<br>-Summons Wildcat.<br>-Chance of teleporting when hit."
+
+"HERO_ALLERIA_NAME"="Alleria Swiftwind"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="Charging her magic into the bow, she unleashes a flurry of magical arrows. These can scatter to strike multiple enemies or focus to deliver a powerful blow to a single target."
+
+"HERO_ALLERIA_SKILL_0_NAME"="Multishot"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="Summons her loyal Wildcat companion to fight at her side, leaping into battle with fierce speed and claws ready to defend its master and friend."
+
+"HERO_ALLERIA_SKILL_1_NAME"="Call of the Wild"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="In close combat, she can strategically fall back to a safe distance, evading danger and repositioning to strike from range."
+
+"HERO_ALLERIA_SKILL_2_NAME"="Swift Dodge"
+
+"HERO_GRAWL_DESCRIPTION"="Protector of underground secrets, wielding his fists and crystals forged within his body, he stands as the last barrier against the most ruthless underground empire. Relentless and immovable, he fights to keep their darkness sealed away from the world above."
+
+"HERO_GRAWL_SHORT_DESC"="-Hits the ground to stun enemies.<br>-Throws a boulder to distant enemies.<br>-Hits with a strong shard punch."
+
+"HERO_GRAWL_NAME"="Grawl"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="Slams the ground with earth-shattering force, stunning and damaging all nearby enemies."
+
+"HERO_GRAWL_SKILL_0_NAME"="Stomp"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="Rips a massive boulder from the earth and hurls it at a distant target, dealing heavy damage and injuring nearby foes with the resulting shockwave."
+
+"HERO_GRAWL_SKILL_1_NAME"="Boulder Throw"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="Covers his fists with razor-sharp crystal shards, delivering a devastating strike that deals massive damage that may instantly obliterate enemies."
+
+"HERO_GRAWL_SKILL_2_NAME"="Shard Punch"
+
+"HERO_INGVAR_DESCRIPTION"="One of the most formidable warriors of the Bear Tribe, he's revered not only for his brute strength but also for his deep spiritual bond with his ancestors. When the call of war echoes across the land, Ingvar answers with the fury of the north."
+
+"HERO_INGVAR_SHORT_DESC"="-Spins with axe to damage in an area.<br>-Summons Viking Ancestors to fight.<br>-Turns into Bear form when HP is low."
+
+"HERO_INGVAR_NAME"="Ingvar Bearclaw"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="Unleashes a mighty spinning strike with his axe, dealing damage to all enemies around him."
+
+"HERO_INGVAR_SKILL_0_NAME"="Viking Rage"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="Blows a sacred war horn, summoning the spectral spirits of his Viking ancestors to join him in battle."
+
+"HERO_INGVAR_SKILL_1_NAME"="Ancestor Call"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="When his health is low, Ingvar taps into the primal force of his bloodline. Transforming into a massive bear, he becomes temporarily invulnerable, gains increased strength, and rapidly regenerates health."
+
+"HERO_INGVAR_SKILL_2_NAME"="Bear Form"
+
+"HERO_DIERDRE_DESCRIPTION"="Rescued by Aegion after her town's fall, she was forged through faith and sacred discipline, rising as the first true frontline priestess. Risking her life to protect her allies where others fall, she became a radiant light in the darkest hour."
+
+"HERO_DIERDRE_SHORT_DESC"="-Heals nearby allies.<br>-Grants extra damage to up to 2 Towers.<br>-Grants extra armor to herself and allies."
+
+"HERO_DIERDRE_NAME"="Dierdre"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="Uses holy magic to cast a healing spell, restoring the health of nearby allies."
+
+"HERO_DIERDRE_SKILL_0_NAME"="Holy Light"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="Enchants nearby towers with holy power, increasing their damage output."
+
+"HERO_DIERDRE_SKILL_1_NAME"="Consecrate"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="Blesses the armor of nearby allies - including herself - boosting their physical armor for a few seconds."
+
+"HERO_DIERDRE_SKILL_2_NAME"="Blessed Armor"
+
+"HERO_ASHBITE_DESCRIPTION"="A mighty and fiercesome red Dragon, Ashbite melts away any who dare stand in his way. It is unknown why he protects Linirea; some whisper it’s boredom, others say it’s his thirst for combat. Whatever the reason, when he soars into battle, flames follow."
+
+"HERO_ASHBITE_SHORT_DESC"="-Spews breath that damages in an area.<br>-Bites an enemy with a chance of instakill.<br>-Throws an explosive fireball. "
+
+"HERO_ASHBITE_NAME"="Ashbite"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="Unleashes a stream of searing fire upon an enemy ahead, dealing continuous damage to all enemies caught in its blazing path."
+
+"HERO_ASHBITE_SKILL_0_NAME"="Blazing Breath"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="Dives upon a single target with a devastating bite, dealing damage and with a chance to instantly devour the enemy."
+
+"HERO_ASHBITE_SKILL_1_NAME"="Feast"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="Hurls a massive fireball at a distant target. Upon impact, it explodes and triggers a series of secondary blasts, dealing heavy area damage."
+
+"HERO_ASHBITE_SKILL_2_NAME"="Wildfire Barrage"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="Creates a meteor shower that rains above an opponent's unit, setting ground on fire and burning every other unit nearby."
+
+"HERO_ASHBITE_SKILL_3_NAME"="Scorching Meteors"
+
+"HERO_ASHBITE_PACK_NAME"="Veteran Pack"
+
+"HERO_MAGNUS_DESCRIPTION"="Once the promising apprentice of the infamous Vez'nan, he joined the Kingdom's army after his master fell to the dark side. Now a powerful defender of Linirea, Magnus wields advanced arcane magic and illusions with unmatched precision, his vast knowledge only surpassed by his battle prowess."
+
+"HERO_MAGNUS_SHORT_DESC"="-Creates clone shadows of himself.<br>-Summons a storm that damages in an area.<br>-Can teleport on long distances."
+
+"HERO_MAGNUS_NAME"="Magnus Spellbane"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="Harnesses advanced arcane energy to instantly relocate across great distances."
+
+"HERO_MAGNUS_SKILL_0_NAME"="Teleport"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="As a master of arcane magic, he conjures temporary illusions of himself to aid him in battle."
+
+"HERO_MAGNUS_SKILL_1_NAME"="Mirage"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="Unleashes a devastating burst of arcane energy in a wide area, striking all enemies within the zone multiple times."
+
+"HERO_MAGNUS_SKILL_2_NAME"="Arcane Storm"
+
+"HERO_HACKSAW_DESCRIPTION"="A renowned gnome inventor, Hacksaw roams the world inside a custom-built mech of his own design, armed with an array of deadly gadgets. Every new battle is both a danger and an opportunity just fuel for his next invention."
+
+"HERO_HACKSAW_SHORT_DESC"="-Throws a blade that damages enemies.<br>-Drills an enemy with a chance of instakill.<br>-Puts a spinning saw on the ground."
+
+"HERO_HACKSAW_NAME"="Hacksaw"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="Places a sawblade on the ground. Enemies caught within the area take damage as long as the saw remains active."
+
+"HERO_HACKSAW_SKILL_0_NAME"="Sawmill"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="Unleashes a hidden drill arm to strike a powerful blow on an enemy with a chance of instant killing it."
+
+"HERO_HACKSAW_SKILL_1_NAME"="TIIIIMBER!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="Throws a blade that ricochets between multiple enemies, slicing through each one and dealing damage with every hit."
+
+"HERO_HACKSAW_SKILL_2_NAME"="Flying Sawblade"
+
+"HERO_VESPER_DESCRIPTION"="Chosen as the commander of the remaining forces in Linirea’s darkest hour, Vesper turned despair into defiance. He uses guerrilla tactics to lead precise strikes against invaders, turning him into inspiration for new generations of heroes."
+
+"HERO_VESPER_SHORT_DESC"="-Shoots an arrow that stuns an enemy.<br>-Shoots a bouncing arrow.<br>-Strikes an enemy three consecutive times."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-Shoots an arrow that stuns an enemy.<br>-Shoots a bouncing arrow.<br>-Strikes an enemy three consecutive times."
+
+"HERO_VESPER_NAME"="Vesper"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="Fires a well-placed arrow that damages and stuns a single enemy."
+
+"HERO_VESPER_SKILL_0_NAME"="Arrow to the Knee"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="Shoots an arrow that bounces between enemies, dealing damage with each hit. Requires three targets to activate."
+
+"HERO_VESPER_SKILL_1_NAME"="Ricochet"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="Unleashes a flurry of three rapid melee strikes on a single enemy, each hit increasing the total damage dealt."
+
+"HERO_VESPER_SKILL_2_NAME"="Martial Flourish"
+
+"HERO_AEGION_DESCRIPTION"="The lone captain who stood unyielding against the fall of the Paladin city, he led his squad through relentless waves of enemies, carving a safe and saving nearby towns from the Darkness. After a brutal battle, he retired, returning only when a threat rises within the Kingdom."
+
+"HERO_AEGION_SHORT_DESC"="-Pushes back enemies with his shield.<br>-Projects a shield that blocks enemies.<br>-Uses his shield to shoot flying enemies."
+
+"HERO_AEGION_NAME"="Aegion Brightsteel"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="Fuses his shield with holy power to light up his shield, striking enemies and teleporting them backward."
+
+"HERO_AEGION_SKILL_0_NAME"="Sacred Shield"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="Spawns a shield projection that blocks enemy attacks for a few seconds, reflecting any damage taken back to the attacker."
+
+"HERO_AEGION_SKILL_1_NAME"="Heavy Shield"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="Every few seconds, fires a focused beam from its shield towards a flying enemy."
+
+"HERO_AEGION_SKILL_2_NAME"="Airstrike Shield"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="Known for her cold demeanor and powerful magic, Elora is the most feared sorceress in the northern lands. For years, she stood alone against invaders, leaving behind haunting ice sculptures as silent warnings to all who dare challenge her."
+
+"HERO_ELORA_SHORT_DESC"="-Leaves a trail that deals damage when moves.<br>-Cast a freezing spell with high area damage.<br>-Slows enemies in an area."
+
+"HERO_ELORA_NAME"="Elora Wintersong"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="Channels her magic to move swiftly, leaving a trail of sharp icicles that damage enemies who follow."
+
+"HERO_ELORA_SKILL_0_NAME"="Frozen Trail"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="Unleashes a powerful spell that encases an area in ice, drastically slowing enemy movement."
+
+"HERO_ELORA_SKILL_1_NAME"="Permafrost"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="Casts a fierce, piercing spell that rains down deadly ice shards across a wide area."
+
+"HERO_ELORA_SKILL_2_NAME"="Ice Storm"
+
+"HERO_EISKALT_DESCRIPTION"="A dangerous ice wyvern, driven by a strong hunting instinct toward humans. His mere presence is a force of nature and a natural disaster in its own right. Wherever he descends, the land is inevitably transformed into a vast glacial wasteland."
+
+"HERO_EISKALT_SHORT_DESC"="-Throws spiky snowballs.<br>-Creates damaging ice spikes on the floor.<br>-Slows down enemies."
+
+"HERO_EISKALT_NAME"="Eiskalt"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="Launches a spiky snowball that travels along the path, dealing damage to enemies."
+
+"HERO_EISKALT_SKILL_0_NAME"="Avalanche"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="Casts a spell to summon jagged ice spikes from the ground that spread out, piercing and damaging enemies caught within."
+
+"HERO_EISKALT_SKILL_1_NAME"="Ice Peak"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="Freezes the ground below enemies, drastically slowing their movement speed for a few seconds."
+
+"HERO_EISKALT_SKILL_2_NAME"="Frost Breath"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="Creates a glacial storm that freezes in place all opponent's units, stunning them for a few seconds."
+
+"HERO_EISKALT_SKILL_3_NAME"="Glacial Storm"
+
+"TOWER_ARCHER_DESCRIPTION"="Elite archers in training, renowned for their pinpoint accuracy and keen eye for enemy vulnerabilities. Even armored foes aren't safe - each shot can pierce deep, leaving targets dangerously wounded."
+
+"TOWER_ARCHER_NAME"="Archer Tower"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="Every attack has a chance to make the enemy bleed, dealing damage over time.\n(Skill always active)"
+
+"TOWER_ARCHER_SHORT_DESC"="Trainee archers with the ability to make enemies bleed."
+
+"TOWER_ARCHER_SKILL_0_NAME"="Bleed"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="Unleashes a volley of arrows that rains down on a nearby area, dealing physical damage to all enemies caught within.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="Rains arrows in an area, damaging all enemies hit."
+
+"TOWER_ARCHER_SKILL_1_NAME"="Arrow Barrage"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="Both archers charge their bows to shoot a powerful attack at two opponent units.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="Powerful arrows strike two opponent units."
+
+"TOWER_ARCHER_SKILL_2_NAME"="Charged Shots"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="Recognized even by veteran Elves for their skills with the bow, these master rangers strike from afar while unleashing devastating volleys. Being masters of the wild, they harness the forest itself to hinder and harm their enemies."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="Veteran rangers who command nature to trap enemies."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="Rangers Hideout"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="While attacking, they may use a special arrow that that causes vines to erupt from the ground, trapping the enemy in place for a few seconds. \n(Skill always active)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="Forest Vines"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="The rangers fire waves of toxic arrows at all nearby enemies, poisoning them and dealing damage over time. \n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="Launches poison arrows that poison enemies and deal damage over time."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="Poison Arrow"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="Using their mastery of nature, the ranger shoots an enchanted arrow to the opponent's side, summoning a pack of Wolf Ents. Agile and elusive, these creatures dodge melee attacks while trying to sneak between enemy lines.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="Summons a group of Wolf Ents on the opponent's side."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="Verdant Defenders"
+
+"TOWER_MAGE_DESCRIPTION"="The kingdom’s frontline in magical defense, these apprentice wizards use elemental spells to concentrate their mana. Their magic is volatile and explosive, and especially dangerous to enemies who try to slip through unnoticed."
+
+"TOWER_MAGE_SHORT_DESC"="A Mage whose magic bolts split after striking an enemy."
+
+"TOWER_MAGE_NAME"="Mage Tower"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="Whenever an overcharged bolt hits an enemy, the excess energy causes it to split into additional bolts, striking nearby enemies with reduced damage.\n(Skill always active)"
+
+"TOWER_MAGE_SKILL_0_NAME"="Chain Bolt"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="The mage channels stored mana into a focused barrage of magic bolt blasts, dealing heavy damage to multiple nearby enemies.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="Unleashes a magic barrage that damages multiple nearby enemies."
+
+"TOWER_MAGE_SKILL_1_NAME"="Spell Barrage"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="The mage uses their staff to cast a protective enchantment on a group of enemy units on the opponent’s side, granting them resistance to magical damage.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="Shields some opponent's enemies from magic damage."
+
+"TOWER_MAGE_SKILL_2_NAME"="Enchantment"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="Having reached the peak of Arcane mastery, these powerful mages can reshape reality itself. Using their vast magic knowledge, they can weaken, displace, or utterly annihilate any foe who dares challenge their domain."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="Master of arcane magic with the power to weaken enemy magic resistance."
+
+"TOWER_ARCANE_WIZARD_NAME"="Arcane Wizard"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="Each attack has chance to conjure an anti-magic aura, reducing the magical resistance of affected enemies.\n(Skill always active)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="Magic Break"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="Through his deep understanding of magic, the wizard creates a reality-distorting circle that teleports a group of enemies backward along their path.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="Teleports multiple enemies back."
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="Teleport"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="The Arcane Wizard focuses immense mana to unleash a single, devastating beam, instantly disintegrating an enemy.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="Instantly kills any enemy it targets."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="Death Ray"
+
+"TOWER_ARTILLERY_DESCRIPTION"="The ultimate product of Dwarven metallurgy, this heavy artillery is forged from the strongest alloys and powered by devastating munitions. With a variety of specialized shells, it can annihilate enemy forces- even those beyond its range."
+
+"TOWER_ARTILLERY_SHORT_DESC"="Heavy artillery capable of launching explosive cluster shells."
+
+"TOWER_ARTILLERY_NAME"="Dwarven Artillery"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="Has a chance to fire a cluster shell that detonates mid-air, dropping multiple smaller bombs that spread out and bombard the area.\n(Skill always active)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="Cluster"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="Launches a guided missile that homes in on a target, detonating on contact and dealing damage in an area around it. Can also target flying enemies.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="Fires a homing missile that explodes, damaging enemies in an area."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="Missile Launcher"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="Aims and fires a high-impact missile towards opponent units. The explosion unleashes a shockwave that temporarily stuns nearby opponent towers.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="Launches a missile to the opponent's side that deals damage and stuns towers."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="T.A.R Missile"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="Originally built to pierce the deepest rocks, this powerful Dwarven mining drill has been reforged into a formidable defensive weapon. It shakes the ground, damaging and stunning enemy units and structures."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="A Dwarven drill stuns enemies with each strike."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="Every attack shatters the ground around the tower, briefly stunning all enemies nearby.\n(Skill always active)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="Shock and Awe"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="Unleashes the full might of the drill to rupture the terrain, triggering a surge of molten lava that burns all nearby enemies and leaves scorched ground that continues to deal damage over time.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="Burns surrounding enemies and fills the ground with magma."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="Furnace Blast"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="By pinpointing enemy tower locations, it triggers a targeted seismic shock that fractures the ground beneath opponent towers, stunning them for a short time.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="Stuns some opponent towers by causing localized tremors."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="Earthquake"
+
+"TOWER_BARRACK_DESCRIPTION"="Often called holy guardians, they are the shields and protectors of citizens. These powerful knights are known for their unwavering faith and bravery in the face of strong foes."
+
+"TOWER_BARRACK_SHORT_DESC"="Paladins that shield themselves with holy conviction."
+
+"TOWER_BARRACK_NAME"="Paladin Barracks"
+
+"BARRACK_UNIT_NAME"="Paladin"
+
+"BARRACK_UNIT_SHORT_DESC"="Armored warrior blessed with divine resilience."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="In the midst of battle, Paladins may raise their shields with divine purpose, deflecting a portion of incoming damage.\n(Skill always active)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="Iron Will"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="Empowered by sacred light, the Paladin slams his sword into the ground, creating a burst of radiant energy that damages all enemies around them.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="Unleashes a burst of holy energy, damaging nearby foes."
+
+"TOWER_BARRACK_SKILL_1_NAME"="Holy Strike"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="When facing dire odds, the Paladin calls upon divine grace to heal a portion of his wounds, restoring health through holy magic.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="Restores health using holy energy."
+
+"TOWER_BARRACK_SKILL_2_NAME"="Healing Light"
+
+"TOWER_BARBARIAN_DESCRIPTION"="These fierce and ruthless northern warriors are always ready to stand in the most challenging environments. Masters of axe combat, they can tear through ground enemies or hurl their weapons skyward to bring down flying foes with brutal precision."
+
+"TOWER_BARBARIAN_SHORT_DESC"="Savage fighters who can hurl axes at flying enemies."
+
+"TOWER_BARBARIAN_NAME"="Barbarian Mead Hall"
+
+"BARBARIANS_UNIT_NAME"="Barbarian"
+
+"BARBARIANS_UNIT_SHORT_DESC"="Brute berserker warriors fueled by rage and instincts."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="Barbarians can target and strike flying enemies within range by hurling their axes with deadly accuracy.\n(Skill always active)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="Throwing Axes"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="In the midst of battle, the barbarians use their raw fury to spin violently with their dual axes, slashing all enemies nearby.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="The barbarians spin in a deadly whirlwind, damaging all nearby enemies."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="Whirlwind Attack"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="A third barbarian appears atop the tower and ruthlessly throws axes at opponent units, dealing heavy damage.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="Summons a third barbarian to hurl axes at the opponent’s units."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="Axe Rain"
+
+"TOWER_MUSKETEER_DESCRIPTION"="Deadly and patient, these sharpshooters can remain motionless for days, waiting for the perfect shot. Armed with firearms forged by elder dwarves, only the most disciplined marksmen are trusted with this level of firepower."
+
+"TOWER_MUSKETEER_SHORT_DESC"="Elite marksmen trained to pierce armor and strike from afar."
+
+"TOWER_MUSKETEER_NAME"="Musketeer Garrison"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="Using special ammunition, they can pierce through and partially ignore an enemy's physical armor.\n(Skill always active)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="Pierce Strike"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="Fires an explosive shell that detonates on impact, also dealing heavy area damage to enemies around the target.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="Explosive shot that deals area damage around the target."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="Shrapnel Shot"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="The Musketeers coordinate a series of rapid, high-precision shots at units on the opponent’s side. Each strike deals damage with a chance to instantly eliminate each target.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="Fires a series of powerful shots on opposing units, with a chance to instantly kill."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="Sniper Shots"
+
+"TOWER_SORCERER_DESCRIPTION"="Renowned masters of creation and elemental wizardry, they wield Earth magic and ancient runes to forge or reshape anything according to their will."
+
+"TOWER_SORCERER_SHORT_DESC"="A rune master whose attacks erode enemy armor with every strike."
+
+"TOWER_SORCERER_NAME"="Sorcerer Mage"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="Each attack carries a lingering curse that erodes part of the enemy's physical armor.\n(Skill always active)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="Curse"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="They channel their magic through the runes etched in the tower to transform enemies into sheep, stripping them of resistances and reducing their health.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="Transforms an enemy into a sheep, reducing its health and removing resistances."
+
+"TOWER_SORCERER_SKILL_1_NAME"="Polymorph "
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="Thanks to their mastery over Earth magic, they conjure powerful elementals from stone and soil to protect the path.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="Summons a Stone Elemental to battle enemies near the tower."
+
+"TOWER_SORCERER_SKILL_2_NAME"="Summon Elemental"
+
+"CREEP_SORCERER_GOLEM_NAME"="Stone Elemental"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="A mighty stone elemental that uses sheer strength and unyielding resilience to crush enemies and guard the path."
+
+"TOWER_TESLA_DESCRIPTION"="Originally built to maintain Dwarven machinery, the Tesla x104 was soon discovered to possess unparalleled potential as a formidable defensive weapon, capable of unleashing raw electrical fury on the battlefield."
+
+"TOWER_TESLA_SHORT_DESC"="Lightning bolts arc from their target to the closest enemy, dealing a portion of the damage each time."
+
+"TOWER_TESLA_NAME"="Tesla x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="Channeling the power of a thousand storms, it unleashes lightning that arcs between enemies, grounded or airborne. Each consequent strike deals a portion of the original damage.\n(Skill always active)"
+
+"TOWER_TESLA_SKILL_0_NAME"="Circuit"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="Each attack has a chance to trigger a static overload, damaging all enemies in a radius around the tower.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="Attacks have a chance to unleash an area-of-effect static burst around the tower."
+
+"TOWER_TESLA_SKILL_1_NAME"="Overcharge"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="Strikes the opponent's units with an unstoppable surge of thunderous lightning, dealing damage and stunning them for a few seconds.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="Strikes an opponent's unit, dealing damage and stunning it."
+
+"TOWER_TESLA_SKILL_2_NAME"="Thunderbolt"
+
+"TOWER_GLACIAL_DRUID_NAME"="Glacial Druid"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="Masters of winter's fury, they wield glacial magic to conjure blizzards and freezing winds, leaving a path of frost and slowed foes in their wake."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="A frost-wielding mage that can slow down groups of enemies with each attack."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="Each attack releases a chilling burst, slowing all enemies in an area for a few seconds.\n(Skill always active)"
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="Frost Path"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="Calls upon ancient glacial power to summon a towering Frost Giant onto the opponent's path.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="Summons a Frost Giant onto an opponent's path."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="Frost Giant"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="Unleashes a devastating ice storm that temporarily freezes an enemy tower, halting its function.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="Freezes an opponent’s tower, disabling it for a short time."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="Ice Storm"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="These experts in the art of magical warfare usually stand as the final line of defense. With their devastating spells and precision magic, they can push back even the most determined army or just send them away."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="A warfare magician who channels raw magical energy into explosive bolts."
+
+"TOWER_ARCHMAGE_NAME"="Archmage"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="Each bolt is overcharged with unstable energy, giving it a chance to explode on impact and damage nearby enemies.\n(Skill always active)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="Critical Mass"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="Unleashes the power of a magical tornado that tears through the battlefield, damaging and dragging enemies backward along the path.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="Casts a tornado that pulls enemies backward and inflicts damage."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="Twister"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="Combines Arcane and Dimensional magic to transport some enemies across the battlefield, instantly sending them to the opponent’s side.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="Teleports enemies to the opponent's side."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="Dissipate"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="Through unwavering faith and years of sacred training, these priestesses have mastered divine magic to shield their allies when in danger. They are the best life insurance a warrior can get."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="A devoted healer who blesses nearby allies, reducing the damage they take."
+
+"TOWER_HOLY_SANCTUARY_NAME"="Holy Sanctuary"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="The priestess blesses the tower, granting divine protection to all allies within range, reducing incoming damage as long as they stay nearby.\n(Skill always active)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="Guardian of Faith"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="Calls upon sacred power to temporarily empower nearby towers, boosting their damage for some time.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="Temporarily buffs nearby towers."
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="Magical Blessing"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="Upon sensing wounded allies, the priestess releases a burst of healing magic, prioritizing the injured and restoring health to all nearby units.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="Heals nearby ally units."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="Aura of Life"
+
+"TOWER_NECROMANCER_DESCRIPTION"="Masters of forbidden arts, Necromancers twist death to their will. Capable of raising the bodies of fallen enemies as an undead army, they turn death into an advantage by sending these skeletons to assault the opponent."
+
+"TOWER_NECROMANCER_SHORT_DESC"="A dark magician who reanimates nearby fallen enemies within his range."
+
+"TOWER_NECROMANCER_NAME"="Necromancer"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="The Necromancer passively reanimates fallen enemies within range, sending skeletons to assault the opponent’s side.\n(Skill always active)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="Skeleton Army"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="Conjures a poisonous death cloud that lingers on the battlefield, dealing damage over time to all enemies caught within.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="Creates a lingering cloud that continuously damages enemies within its area."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="Pestilence"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="Summons a Skeleton Horseman on the opponent's side. This elite undead warrior not only fights relentlessly but also boosts the damage of nearby reanimated allies.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="Summons a Skeleton Horseman that buffs nearby Skeletons."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="Death Rider"
+
+"TOWER_NECROMANCER_PACK_NAME"="Beginner Pack"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="Originally engineered as walkers to simplify routine patrols, these mechas have since been retrofitted into frontline defenders, capable of withstanding a wide array of hazards."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="A mecha that protects towers, shielding nearby towers from stuns and system disruptions."
+
+"TOWER_BATTLE_MECHA_NAME"="Battle Mecha"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="Emits a stabilizing resonance field that prevents nearby allied towers from being stunned or disabled.\n(Skill always active)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="Mechanic Might"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="Launches a swarm of homing missiles that seek out enemies across the battlefield, dealing damage with each hit.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="Launches homing missiles that chase and damage multiple enemiess."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="Wasp Missile"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="Dumps the accumulated hazardous mechanical waste from the mecha onto the ground, creating an area that slows enemies that step on it.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="Creates a slow waste area around the mecha."
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="Waste Disposal"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="Mine Field"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="Deploys a field of landmines on the opponent's side every few seconds. These mines detonate on contact, dealing area damage to enemy units.\n(Skill always active)"
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="Battle Mecha"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="Emits a stabilizing resonance field that prevents nearby allied towers from being stunned or disabled.\n(Skill always active)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="Formed from the remnants of Linirea’s fallen legions, these hardened survivors specialize in ranged guerrila combat - striking from the shadows with deadly precision and setting fire to enemy forces from afar."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="Frontline archers with the ability to deal critical damage and set their enemies ablaze."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="Archery Scouts"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="Archery Scout"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="Warrior skilled in both ranged precision and close-quarter combat."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="For a frontline archer, every hit counts. Ranged attacks have a chance to land a critical hit, dealing bonus damage.\n(Skill always active)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="Critical Hit"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="They ignite their arrows with oil and flame, setting enemies ablaze and causing damage over time.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="Ignites enemies on impact, dealing burn damage over time."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="Fire Shots"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="Every few seconds, when not in combat, they can fire a few shots at the opponent's units.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="Fires a burst of arrows at opponent units when out of combat."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="Target Practice"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="An experienced hunter, accompanied by his loyal eagle. They use teamwork to lure prey into traps, allowing them to take down even the most formidable creatures."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="A tactical hunter supported by a trained eagle, using traps to eliminate enemies."
+
+"TOWER_HUNTER_OUTPOST_NAME"="Hunter Outpost"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="A tactical hunter supported by a trained eagle, using traps to eliminate enemies."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="A tactical hunter supported by a trained eagle, using traps to eliminate enemies."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="A trained eagle soars, scouting a large area around the tower and attacking any enemy within its range.\n(Skill always active)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="Hunting Eagles"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="The hunter sets bear traps along the path. Any foe who steps on them is damaged and temporarily stunned.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="Places traps that deal damage and briefly stun enemies."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="Bear Traps"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="At regular intervals, the hunter signals an eagle to fly toward the opponent’s side, disrupting their ranks.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="Sends eagles toward the opponent's paths."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="Scout and Hunt"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="Formed from the remnants of Linirea’s fallen legions, these hardened survivors specialize in ranged guerrila combat - striking from the shadows with deadly precision and setting fire to enemy forces from afar."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="Frontline archers with the ability to deal critical damage and set their enemies ablaze."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="Frontline archers with the ability to deal critical damage and set their enemies ablaze."
+
+"TOWER_ARCHERY_SCOUT_NAME"="Archery Scouts"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="For a frontline archer, every hit counts. Ranged attacks have a chance to land a critical hit, dealing bonus damage.\n(Skill always active)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="Critical Hit"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="They ignite their arrows with oil and flame, setting enemies ablaze and causing damage over time.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="Ignites enemies on impact, dealing burn damage over time."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="Fire Shots"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="Every few seconds, when not in combat, they can fire a few shots at the opponent's units.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="Fires a burst of arrows at opponent units when out of combat."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="Target Practice"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="The mightiest marksmen of Linirea. Guardians of the sky, their sharp eyes allow them to hit even the furthest targets. Their loyal war eagle ensures that no flying enemy escapes unscathed."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="Sharp-eyed marksmen equipped with a long range and anti-aerial tactics."
+
+"TOWER_ROYAL_ARCHERS_NAME"="Royal Archers"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="Armed with razor-sharp arrowheads and unmatched aim, they will deal bonus damage to flying enemies.\n(Skill always active)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="Sharp Arrowheads"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="As falconry experts, they can send their trained eagle to chase and attack flying enemies every few seconds.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="Sends an eagle to attack flying enemies every few seconds."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="Rapacious Eagle"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="They fire a charged shot tipped with armor-shattering arrows, temporarily reducing the target’s physical armor.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="Fires charged arrows that temporarily reduce enemy armor."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="Armor Piercer"
+
+"SPELL_ARCANE_CIRCLE_NAME"="Teleport"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="Casts a magic circle that teleports back incoming enemies that cross it."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="Casts a magic circle that teleports back incoming enemies."
+
+"SPELL_CURSED_VINES_NAME"="Cursed Vines"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="Grows a clump of poisonous vines on the ground that slow enemies down and damage them over time."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="Grows vines that slow enemies down and poison them."
+
+"SPELL_CURSED_VINES_PACK_NAME"="Casual Pack"
+
+"SPELL_ICY_ZONE_NAME"="Icy Zone"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="Covers a big area with thick ice, slowing down any enemy that tries to cross it."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="Covers a big area with thick ice, slowing down enemies."
+
+"SPELL_POLYMORPH_NAME"="Polymorph"
+
+"SPELL_POLYMORPH_DESCRIPTION"="Transforms almost any enemy into a sheep, reducing their health and removing any armor they might have."
+
+"SPELL_POLYMORPH_SHORT_DESC"="Transforms enemies into sheep, reducing their health and eliminating resistances."
+
+"SPELL_RAIN_OF_FIRE_NAME"="Rain of Fire"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="Unleashes a powerful spell that summons multiple fireballs from the sky, striking all enemies inside its area multiple times."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="Deals damage to all enemies in the spell's area."
+
+"SPELL_REINFORCEMENTS_NAME"="Reinforcements"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="Temporarily summons a pair of soldiers with basic equipment to help in battle."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="Temporarily summons a pair of soldiers to help in battle."
+
+"REINFORCEMENTS_UNIT_NAME"="Reinforcement"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="Basic soldier that aids in defense."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="Frost Giant"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="A frozen titan that endures battles capable of shattering entire armies."
+
+"HUNTING_EAGLE_UNIT_NAME"="Hunting Eagle"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="The Hunter's loyal companion, attacking enemies from above."
+
+"SCOUNT_EAGLE_UNIT_NAME"="Scout Eagle"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="An eagle tamed by the Hunter, instructed to attack his enemies."
+
+"SPELL_STUN_NAME"="Lightning Stun"
+
+"SPELL_STUN_DESCRIPTION"="Releases a powerful thunder to strike the ground, electrocuting a big area and stunning all enemies inside its range."
+
+"SPELL_STUN_SHORT_DESC"="Stuns enemies inside an area."
+
+"SPELL_THUNDERBOLT_NAME"="Thunderbolt"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="Summons a powerful thunderstorm to strike all enemies inside the area, dealing damage and stunning them with each hit."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="Strikes enemies with thunder, dealing damage in an area and briefly stunning enemies."
+
+"SPELL_ULTIMATE_SLAYER_NAME" = "Ultimate Strike"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Summons a powerful strike that destroys the most powerful enemy in the spell area. When used against bosses, it will just deal high damage."
+
+"SPELL_SABOTAGE_NAME"="Sabotage"
+
+"SPELL_SABOTAGE_DESCRIPTION"="Reduces the Armor or Magic resistance of all creeps inside the area of effect."
+
+"SPELL_SABOTAGE_SHORT_DESC"="Reduces resistance of all creeps inside an area."
+
+"SPELL_LINIREAN_LANCERS_NAME"="Linirean Lancers"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="Temporarily summons a pair of Veteran Lancers to help in batle."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="Temporarily summons a pair of Veteran Lancers to help in batle."
+
+"CREEP_GOBLIN_NAME"="Goblin"
+
+"CREEP_GOBLIN_DESC_1"="Weak and untrained creature from the goblin tribe."
+
+"CREEP_GOBLIN_SHORT_DESC"="A small and weak goblin."
+
+"CREEP_GOBLIN_WARRIOR_NAME"="Goblin Warrior"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="A trained and stronger goblin equipped with armor to withstand more damage."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="A stronger goblin with armor."
+
+"CREEP_GOBLIN_WIZARD_NAME"="Goblin Wizard"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="A dangerous goblin that uses fire magic to burn its enemies."
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="A spellcasting goblin that uses fireballs to deal damage over time."
+
+"CREEP_GOBLIN_COPTER_NAME"="Goblin Copter"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="A sturdy but unstable scrap machine, created by goblins to explore their territories."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="When the copter is destroyed, the goblin falls to the ground and keeps walking."
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="A scrap flying vehicle that, when destroyed, causes the pilot to fall to the ground."
+
+"CREEP_ORC_NAME"="Orc"
+
+"CREEP_ORC_DESC_1"="Dangerous and resilient creatures that live among goblin tribes."
+
+"CREEP_ORC_SHORT_DESC"="A dangerous enemy with thick skin that protects it from physical attacks."
+
+"CREEP_ORC_CHAMPION_NAME"="Orc Champion"
+
+"CREEP_ORC_CHAMPION_DESC_1"="A resistant and well trained Orc, prepared to fight any dangerous enemies."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="A formidable orc warrior, equipped and trained to destroy any enemy."
+
+"CREEP_ORC_SHAMAN_NAME"="Orc Shaman"
+
+"CREEP_ORC_SHAMAN_DESC_1"="A healer of the goblin tribe, usually seen in the rear, supporting warriors."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="An orc healer who restores the health of all nearby allies."
+
+"CREEP_OGRE_NAME"="Ogre"
+
+"CREEP_OGRE_DESC_1"="A fearsome and resilient creature that breaks through any defense with brute force."
+
+"CREEP_OGRE_SHORT_DESC"="Very dangerous and powerful; each strike deals area damage."
+
+"CREEP_HATCHLING_NAME"="Spider Hatchling"
+
+"CREEP_HATCHLING_DESC_1"="Newborn spiders, usually seen in large groups following a Matriarch."
+
+"CREEP_HATCHLING_SHORT_DESC"="Small and fast, these newborn spiders always move in groups."
+
+"CREEP_MATRIARCH_NAME"="Spider Matriarch"
+
+"CREEP_MATRIARCH_DESC_1"="A spider from the depths of the forest that uses its offspring to hunt and explore."
+
+"CREEP_MATRIARCH_SHORT_DESC"="A large spider that tends to lay eggs, spawning spider hatchlings."
+
+"CREEP_GARGOYLE_NAME"="Gargoyle"
+
+"CREEP_GARGOYLE_DESC_1"="A dark creature that soars through the skies of the forest."
+
+"CREEP_GARGOYLE_SHORT_DESC"="A dark creature that soars through the skies of the forest."
+
+"CREEP_WULF_NAME"="Wulf"
+
+"CREEP_WOLF_NAME"="Wulf"
+
+"CREEP_WULF_DESC_1"="A fast and intelligent forest animal that stalks its prey in packs."
+
+"CREEP_WOLF_SHORT_DESC"="A creature that swiftly hunts its prey; if you see one, more are surely on their way."
+
+"BOSS_KRUM_THAK_NAME"="Krum'Thak"
+
+"BOSS_KRUM_THAK_DESC_1"="A powerful shaman who protects his allies and wields deadly lightning to eliminate enemies."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="A mighty shaman who protects allies while casting lightning to strike down foes."
+
+"BOSS_GUL_THAK_NAME"="Gul'Thak"
+
+"BOSS_GUL_THAK_DESC_1"="A powerful chieftain who heals his allies while charging at any detected enemy."
+
+"BOSS_GUL_THAK_SHORT_DESC"="A mighty chieftain who heals his allies and charges at enemies when nearby."
+
+"CREEP_TROLL_NAME"="Troll"
+
+"CREEP_TROLL_DESC_1"="A weak creature of the Troll race that shares the trait of regeneration."
+
+"CREEP_TROLL_SHORT_DESC"="A weak creature of the Troll race. Regenerates HP over time."
+
+"CREEP_TROLL_BREAKER_NAME"="Troll Breaker"
+
+"CREEP_TROLL_BREAKER_DESC_1"="Equipped with armor and a tree trunk, this giant can break through even the most fortified defenses."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="A giant Troll with area damage thanks to the log it uses as a weapon. Regenerates HP over time."
+
+"CREEP_TROLL_CHAMPION_NAME"="Troll Champion"
+
+"CREEP_TROLLCHAMPION_NAME"="Troll Champion"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="Resilient warriors with regeneration from the Troll race, specialized in ranged attacks."
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="Strong trolls that can attack from a distance. Regenerates HP over time."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="Troll Chieftain"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="This troll uses its drums to heal and increase the damage and speed of all nearby allies. Has high regeneration capabilities."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="A chieftain that supports its allies with various buffs. Regenerates HP over time."
+
+"CREEP_TROLL_PATHFINDER_NAME"="Troll Pathfinder"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="A small troll that takes advantage of the terrain by using its skates to glide over ice, regenerating his health over time."
+
+"CREEP_PATHFINDER_NAME"="Troll Pathfinder"
+
+"CREEP_PATHFINDER_SHORT_DESC"="Fast troll that uses his skates to slide and evade enemies. Regenerates HP over time."
+
+"CREEP_WINTER_WULF_NAME"="Winter Wolf"
+
+"CREEP_WINTER_WULF_DESC_1"="An agile creature with special fur that allows it to resist magic and extreme weather."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="A fast and agile creature that easily avoids some melee attacks."
+
+"CREEP_YETI_NAME"="Yeti"
+
+"CREEP_YETI_DESC_1"="A large and dangerous creature; very few dare to stand in its way."
+
+"CREEP_YETI_SHORT_DESC"="A resilient creature capable of destroying anything in its path."
+
+"CREEP_SNOW_GOLEM_NAME"="Snow Golem"
+
+"CREEP_SNOW_GOLEM_DESC_1"="A mountain golem with the ability to attack from a distance and split apart when broken."
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="Attacks from a distance and, upon death, splits into two smaller golems."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="Small Snow Golem"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="Small snow golem, usually created from fragments of a larger golem."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="Small and weak small golem with a range attack."
+
+"CREEP_ICE_MEPHIT_NAME"="Ice Mephit"
+
+"CREEP_ICE_MEPHIT_DESC_1"="A mountain creature that annoys the inhabitants. Upon death, it explodes, freezing everything around it."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="When it dies, it generates an explosion that deals damage and freezes any nearby units."
+
+"CREEP_WINTER_FAERIE_NAME"="Winter Faerie"
+
+"CREEP_WINTER_FAERIE_DESC_1"="A mountain spirit that pierces through anything in its path; even armor cannot withstand its attacks."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="Fires multiple ice shards that partially ignore armor."
+
+"BOSS_JT_NAME"="J.T."
+
+"BOSS_JT_DESC_1"="The king of the mountain; everything that crosses its path ends up frozen or devoured."
+
+"BOSS_JT_SHORT_DESC"="A giant brute that eats enemies and freezes towers."
+
+"BOSS_ULGUK_HAI_NAME"="Ulguk-Hai"
+
+"BOSS_ULGUK_HAI_DESC_1"="Powerful Mountain Troll that uses its shield to block any incoming physical damage."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="A powerful leader who advances with his shield raised, blocking physical damage, only lowering it in combat."
+
+"CREEP_BANDIT_NAME"="Bandit"
+
+"CREEP_BANDIT_DESC_1"="Small and agile, they may be the lowest rank in the gang, but their hits are hard."
+
+"CREEP_BANDIT_SHORT_DESC"="Fragile but agile bandit, they can dodge some attacks and hit hard."
+
+"CREEP_BANDIT_ARCHER_NAME"="Bandit Archer"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="An archer with extraordinary eyesight, allowing them to shoot at a longer range than other archers."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="Using his keen eyesight, he can shoot farther than others archers."
+
+"CREEP_BRIGAND_NAME"="Brigand"
+
+"CREEP_BRIGAND_DESC_1"="Bandit with scrap armor, which breaks if he takes too much damage, leaving the bandit unarmed."
+
+"CREEP_BRIGAND_SHORT_DESC"="A stronger bandit, once defeated, his armor breaks, turning him into a regular bandit."
+
+"CREEP_TRICKSTER_NAME"="Trickster"
+
+"CREEP_TRICKSTER_DESC_1"="Deceptive bandit who uses tricks to escape potential fights or pursuers."
+
+"CREEP_TRICKSTER_SHORT_DESC"="When blocked, it can turn invisible, avoiding detection for a few seconds."
+
+"CREEP_FOREST_SEER_NAME"="Forest Seer"
+
+"CREEP_FOREST_SEER_DESC_1"="Bandit with an understanding of magic, capable of creating illusions to deceive her enemies."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="Magic-savvy bandit who clones itself when blocked."
+
+"CREEP_FOREST_SEER_CLONE_NAME"="Forest Seer Illusion"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="Temporary clone created by the Forest Seer."
+
+"CREEP_MARAUDER_NAME"="Marauder"
+
+"CREEP_MARAUDER_DESC_1"="A brute heavily equipped to withstand any attack, usually used as a shield to protect other bandits."
+
+"CREEP_MARAUDER_SHORT_DESC"="Armored brute capable of withstanding many attacks."
+
+"CREEP_RAIDER_NAME"="Raider"
+
+"CREEP_RAIDER_DESC_1"="Lethal ranged warrior equipped with a spiked ball that ignores any type of armor."
+
+"CREEP_RAIDER_SHORT_DESC"="Deadly ranged warrior that deals true damage."
+
+"CREEP_PILLAGER_NAME"="Pillager"
+
+"CREEP_PILLAGER_DESC_1"="Incredibly tough bandits with magical equipment capable of resisting magic and dealing area damage."
+
+"CREEP_PILLAGER_SHORT_DESC"="Incredibly tough bandit that deals area damage."
+
+"CREEP_WORG_NAME"="Worg"
+
+"CREEP_WORG_DESC_1"="A more resilient relative of the Wulf, these Worgs were trained to face enemy soldiers."
+
+"CREEP_WORG_SHORT_DESC"="Worg trained by the gang to evade some melee attacks."
+
+"CREEP_WILD_EAGLE_NAME"="Wild Eagle"
+
+"CREEP_WILD_EAGLE_DESC_1"="A wild eagle tamed by a skillful Beastmaster in the gang."
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="This eagle sometimes drops down to attack units underneath it before moving on."
+
+"BOSS_KINGPIN_NAME"="Kingpin"
+
+"BOSS_KINGPIN_DESC_1"="Unstoppable gang leader who uses stolen gold to hire and support his members."
+
+"BOSS_KINGPIN_SHORT_DESC"="A bandit leader who crushes everything in his way, can heal his allies, and call for reinforcements from the camps."
+
+"BOSS_EINAR_NAME"="Einar the Beastkeeper"
+
+"BOSS_EINAR_DESC_1"="A beast master who uses worgs and eagles to detect and attack his targets."
+
+"BOSS_EINAR_SHORT_DESC"="A beast master capable of summoning eagles and a pack of worgs."
+
+"CREEP_DARK_ROOKIE_NAME"="Dark Rookie"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="A small armored foe, expendable pawns of the Dark Lord."
+
+"CREEP_DARK_ROOKIE_DESC_1"="When losing part of their HP, they lose their armor increasing the speed. "
+
+"CREEP_DARK_KNIGHT_NAME"="Dark Knight"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="A resistant and armored enemy. They are the main force of the Dark Army."
+
+"CREEP_DARK_KNIGHT_DESC_1"="When losing part of their HP, they lose the shield, reducing their armor and increasing their speed. "
+
+"CREEP_DARK_SLAYER_NAME"="Dark Slayer"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="A deadly armored enemy. If one falls in battle, other knights can carry on their legacy."
+
+"CREEP_DARK_SLAYER_DESC_1"="After they die, they leave their sword and a Dark Knight can take it to become a slayer."
+
+"CREEP_DARK_CAVALRY_NAME"="Dark Cavalry"
+
+"CREEP_DARK_CAVALRY_DESC_1"="Charges at high speed against an enemy stunning it for a few seconds."
+
+"CREEP_DARK_CAVALRY_DESC_2"="Leaves a Dark Knight on the spot after death."
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="Dark knight who charges at enemies, destroying any blockade that tries to stop his advance."
+
+"CREEP_SHADOW_ARCHER_NAME"="Shadow Archer"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="A weak but fast long-distance attacker."
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Eldritch Magus"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="A powerful mage with a wide magic attack."
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC" = "Vez'nan's apprentices use their corrupt power to destroy their enemies."
+
+"CREEP_ROCKET_RIDER_NAME"="Rocket Rider"
+
+"CREEP_ROCKET_RIDER_DESC_1"="An armored flying enemy that boosts its speed for a few seconds when attacked."
+
+"CREEP_ROCKET_RIDER_DESC_2"="Loses its jetpack when destroyed and falls to the ground."
+
+"CREEP_DARK_CROW_NAME"="Dark Crow"
+
+"CREEP_DARK_CROW_DESC_1"="A trained flying crow with magic resistance."
+
+"CREEP_DARK_CROW_SHORT_DESC"="Every few seconds attacks a unit below for few seconds, then continues on the path."
+
+"CREEP_MAGMA_SHARD_NAME"="Magma Shard"
+
+"CREEP_MAGMA_SHARD_DESC_1"="A troublesome armored enemy made from lava, can revive after a few seconds in the rock state."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="Turns into a rocky statue when killed. If it's not killed in that state can respawn again with full health."
+
+"CREEP_GOLEM_HEAD_NAME"="Golem Head"
+
+"CREEP_GOLEM_HEAD_DESC_1"="Small and weak armored enemy."
+
+"BOSS_JUGGERNAUT_NAME"="Juggernaut"
+
+"BOSS_JUGGERNAUT_DESC_1"="Can summon a group of Golem Heads a few tiles ahead."
+
+"BOSS_JUGGERNAUT_DESC_2"="Launches a long range missile that deals high damage."
+
+"BOSS_WAR_ZEPPELIN_NAME"="Flying Fortress"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="Throws a tar barrel at a tower that leaves it stunned for few seconds."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="An aerial fortress that flies along its own path, stunning towers as it passes."
+
+"CREEP_FLYING_SHEEP_NAME"="Flying Sheep"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="Enemy morphed into a flying sheep."
+
+"CREEP_SHEEP_NAME"="Sheep"
+
+"CREEP_SHEEP_SHORT_DESC"="Enemy morphed into a sheep."
+
+"CREEP_SKELETON_SMALL_NAME"="Skeleton"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="Reanimated skeletons that attack living beings."
+
+"CREEP_SKELETON_BIG_NAME"="Skeleton Knight"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="Reanimated skeleton equipped with a shield and helmet."
+
+"CREEP_DEATH_RIDER_NAME"="Death Rider"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="Strong Skeleton knight riding a deathly horse. Buffs every other skeleton around it."
+
+"CREEP_VERDANT_DEFENDER_NAME"="Wulf Ent"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="Tree-like creature in the form of a Wulf. It can sometimes dodge incoming melee attacks."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE" = "increase in all spells' damage"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="increase in artillery towers' damage"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="increase in all towers' melee damage"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="increase in all towers' range damage"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="increase in all towers' damage"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="increase in all towers' skills damage"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="increase in all towers' attack speed"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="decrease in all tower's skill cooldowns"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="increase in magic towers' melee damage"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="increase in magic towers' range damage"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="increase in magic towers' damage"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="increase in magic towers' skills damage"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="increase in magic towers' attack speed"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="decrease in magic towers' skill cooldowns"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="increase in magic towers' range"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="increase in artillery towers' melee damage"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="increase in artillery towers' ranged damage"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="increase in artillery towers' damage"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="increase in artillery towers' skills damage"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="increase in artillery towers' attack speed"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="decrease in artillery towers' skill cooldowns"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="increase in artillery towers' range"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="increase in barracks' melee damage"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="increase in barracks' range damage"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="increase in barracks' damage"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="increase in barracks' skills damage"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="increase in barracks' attack speed"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="decrease in barracks' skills cooldowns"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="increase in barracks' range"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="increase in archer towers' skills damage"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="increase in archer towers' attack speed"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="increase in allies' health"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="increase in allies' armor"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="increase in allies' damage"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="increase in allies' melee damage"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="increase in allies' ranged damage"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="increase in allies' speed"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="increase in all spells' damage"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="decrease in all spells' cooldown"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="increase in all spells' area"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="increase in hero's damage"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="increase in hero's melee damage"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="increase in hero's range damage"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="increase in hero's health"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="increase in hero's speed"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="decrease in hero's respawn time"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="decrease in enemies' health"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="decrease in enemies' speed"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="decrease in enemies' physical armor"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="decrease in enemies' magic armor"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="decrease in enemies' damage"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="decrease in summon spells' cooldown"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="increase in ranged towers' range"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Mana Wrath"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Cannon Force"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="Spire Assault"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="Spire Sight"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="Spire Force"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="Spire Burst"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="Spire Tempo"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="Spire Pulse"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="Magic Assault"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="Magic Precision"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="Magic Force"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="Magic Burst"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="Magic Tempo"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="Magic Pulse"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="Magic Sight"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="Cannon Assault"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="Cannon Precision"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Cannon Force"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="Cannon Burst"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="Cannon Tempo"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="Cannon Pulse"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="Cannon Sight"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="Garrison Assault"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="Garrison Precision"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="Garrison Force"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="Garrison Burst"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="Garrison Tempo"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="Garrison Pulse"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="Garrison Sight"
+
+"PERK_NAME_INCREASE_UNITS_HP"="Infantry Endurance"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="Infantry Fortitude"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="Infantry Might"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="Infantry Assault"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="Infantry Precision"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="Infantry Haste"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Mana Wrath"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="Mana Focus"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="Mana Spread"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="Heroic Might"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="Heroic Assault"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="Heroic Precision"
+
+"PERK_NAME_INCREASE_HERO_HP"="Heroic Endurance"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="Heroic Haste"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="Heroic Revival"
+
+"PERK_NAME_DECREASE_CREEP_HP"="Invader Fragility"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="Invader Fatigue"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="Invader Decay"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="Invader Depletion"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="Invader Weakness"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="Summon Focus"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="Marksman Sight"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="Marksman Burst"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="Marksman Tempo"
+
+"MODIFIER_TITLE_EAGLE_EYES"="Eagle Eyes"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="Tower range <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="Tower range <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="Tower range <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="Tower range <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="Hero Frenzy"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="Hero damage <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="Hero damage <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="Hero damage <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="Hero damage <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="Merchant of Death"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="Gold earned <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="Gold earned <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="Gold earned <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="Gold earned <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="Mighty Tower"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="Tower damage <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="Tower damage <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="Tower damage <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="Tower damage <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="Spell Master"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="Spell cooldown <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="Spell cooldown <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="Spell cooldown <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="Spell cooldown <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="Increases the attack range of all towers"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="Increases the hero's damage"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="Increases gold earned by killing enemies"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="Increases damage dealt by all towers"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="Reduces the cooldown of all spells"
+
+"MODIFIER_TITLE_BROODMOTHER"="Call of the Broodmother"
+
+"CREEP_BROODMOTHER_NAME"="Broodmother"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="A giant spider that lays eggs to spawn bigger hatchlings."
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="<color=#FFFFFF>Spawns a<color=#F36D4D> Broodmother <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="Broodmother Power <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="Broodmother Power <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="Broodmother Power <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="Farm Tower"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="Morph <color=#F36D4D>1 <color=#FFFFFF>tower every <color=#F36D4D>25<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="Morph 1 tower every <color=#F36D4D>23<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="Morph 1 towers every <color=#F36D4D>19<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="Morph <color=#F36D4D>2<color=#FFFFFF> towers every <color=#F36D4D>18<color=#FFFFFF> seconds"
+
+"MODIFIER_TITLE_DRAGON"="Call of the Dragon"
+
+"CREEP_FLYING_DRAGON_NAME"="Dragon"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="Big flying dragon with magical resistance that attacks any nearby enemy at range."
+
+"MODIFIER_DESC_DRAGON_LVL1"="<color=#FFFFFF>Spawns a <color=#F36D4D>Dragon <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_DRAGON_LVL2"="Dragon Power <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="Dragon Power <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="Dragon Power <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="Ghost Chance"
+
+"CREEP_GHOST_SMALL_NAME"="Ghost"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="Soul of a small enemy, weak but numerous."
+
+"CREEP_GHOST_FLYING_NAME"="Flying Ghost"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="Rarely seen, these souls float, watching and aiding their allies from above."
+
+"CREEP_GHOST_BIG_NAME"="Big Ghost"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="A strong and resilient soul, determined to complete its final task."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="Dead creeps have a <color=#F36D4D>30% chance to spawn as a ghost"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="Chance to <color=#F36D4D>40%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="Chance to <color=#F36D4D>50%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="Chance to <color=#F36D4D>60%"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="Goblin Balloons"
+
+"CREEP_GOBLIN_BALLOON_NAME"="Goblin Balloon"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="A sturdy balloon piloted by a small goblin that drops bombs on any enemy below it."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Goblin Balloons <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="Goblin Balloons Power <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="Goblin Balloons Power <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="Goblin Balloons Power <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="Armored Flying Golems"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="Armored Flying Golem"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="A flying enemy resistant to any physical damage."
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Armored Flying Golems <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="Armored Flying Golems Power <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="Armored Flying Golems Power <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="Armored Flying Golems Power <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="Magic Flying Golem"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="A flying enemy resistant to any magical damage."
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="Magic Flying Golems"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Magic Flying Golems <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="Magic Flying Golems Power <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="Magic Flying Golems Power <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="Magic Flying Golems Power <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="Big Armor Golem"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="Powerful Golem with resistance to physical damage."
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="Small Armored Golem"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="Weak Golem but resistant to physical damage."
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="Armored Golems"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Armored Golems <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="Armored Golems Power <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="Armored Golems Power <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="Armored Golems Power <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="Big Magic Golem"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="Powerful Golem with resistance to magical damage."
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="Small Magic Golem"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="Weak Golem resistant to magical damage."
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="Magic Golems"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Magic Golems <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="Magic Golems Power <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="Magic Golems Power <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="Magic Golems Power <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="Great Orc Shaman"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="Great Orc Shaman"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="Call two powerful spellcasting Shamans that stun and destroy any enemy in their way."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Great Orc Shamans <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="Great Orc Shaman Power <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="Great Orc Shaman Power <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="Great Orc Shaman Power <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="Warmadillos"
+
+"CREEP_WAR_HOUND_NAME"="Warmadillo"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="A group of small creatures that roll very fast when not stopped."
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="<color=#FFFFFF>Spawns a<color=#F36D4D> Roll of Armadillos <color=#FFFFFF>to the opponent's waves"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="Warmadillos Power <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="Warmadillos Power <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="Warmadillos Power <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="A giant spider that lays eggs to spawn bigger hatchlings."
+
+"MODIFIER_DRAGON_DESC_1"="Big flying dragon with magical resistance that attacks any nearby enemy at range."
+
+"MODIFIER_FARM_DESCRIPTION"="Temporarily turns opponent's towers into useless farms."
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="Armored flying enemy that comes in packs."
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="A pack of flying golems with magic resistance."
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="Dead creeps have a chance to spawn as ghosts on the opponent's side."
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="Flying enemy that drops bombs on units undearneath it."
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="Group of small and big golems with physical armor."
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="Spawns with a group of smaller armored golems."
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="Pack of small and big golems with magical resistance."
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="Spawns with a group of smaller magically resistant golems."
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="Powerful Shaman that casts a thunderbolt that stuns and damages units around the target area."
+
+"MODIFIER_WARMADILLO_DESC_1"="Enemy with Physical Armor that rolls very fast when not blocked."
+
+"MODIFIER_TITLE_THUNDERBIRD"="Thunderbird"
+
+"CREEP_THUNDERBIRD_NAME"="Thunderbird"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="Big flying creature that spreads electricity from its wings, shocking a group of enemies."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="<color=#FFFFFF>Spawns a <color=#F36D4D>Thunderbird <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="Thunderbird Power <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="Thunderbird Power <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="Thunderbird Power <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="Trollzerker"
+
+"CREEP_TROLLZERKER_NAME"="Trollzerker"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="Troll brute that becomes enraged when its health is low, boosting its attack and speed. Regenerates HP over time."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="<color=#FFFFFF>Spawns a <color=#F36D4D>Trollzerker<color=#FFFFFF> on the opponent's waves"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="Trollzerker Power <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="Trollzerker Power <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="Trollzerker Power <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="Dragubons"
+
+"CREEP_DRAGUBON_NAME"="Dragubon"
+
+"CREEP_DRAGUBON_SHORT_DESC"="Small sized dragon that, if it feels in danger, starts to fly for a few seconds."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="<color=#FFFFFF>Spawns a<color=#F36D4D> pack of Dragubons <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="Dragubons Power <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="Dragubons Power <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="Dragubons Power <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="Blizzard"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="Freeze <color=#F18081>1 <color=#FFFFFF>tower every <color=#F18081>17<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="Freeze 1 tower every <color=#F18081>15<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="Freeze <color=#F18081>2 <color=#FFFFFF>towers every <color=#F18081>13<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="Freeze 3 towers every <color=#F18081>10<color=#FFFFFF> seconds"
+
+"MODIFIER_TITLE_FROSTBITE"="Frostbite"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="Freeze <color=#F36D4D>2 <color=#FFFFFF>units every <color=#F36D4D>18<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="Freeze <color=#F36D4D>3 <color=#FFFFFF>units every <color=#F36D4D>16<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="Freeze <color=#F36D4D>4 <color=#FFFFFF>units every <color=#F36D4D>14<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="Freeze <color=#F36D4D>5 <color=#FFFFFF>units every <color=#F36D4D>11<color=#FFFFFF> seconds"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="Frost Harbinger"
+
+"CREEP_FROST_HARBINGER_NAME"="Frost Harbinger"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="Spellcasting troll that teleports allies forward. Regenerates HP over time."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="<color=#FFFFFF>Spawns a <color=#F36D4D>Frost Harbinger <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="Frost Harbinger Power <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="Frost Harbinger Power <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="Frost Harbinger Power <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="Temporarily freezes enemy towers, making them unable to attack."
+
+"MODIFIER_DRAGUBONS_DESC_1"="A stampede of small dragons that fly over any enemy that tries to block them."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#REF!"
+
+"MODIFIER_FROSTBITE_DESC_1"="Temporarily freezes enemy units, making them move and attack slower."
+
+"MODIFIER_FROST_HARBINGER_1"="Powerful arcanist Troll that uses teleport to move a group of enemies ahead."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="An unstoppable flier that rains down thunder on any unit that stands underneath."
+
+"MODIFIER_TROLLZEKER_DESC_1"="Fierce warrior of the Troll race. When its health is low, it becomes enraged, increasing its strength and speed."
+
+"CREEP_BUSH_NAME"="Ambusher"
+
+"CREEP_BUSH_SHORT_DESC"="These bandits only lose their camouflage when blocked by a unit."
+
+"MODIFIER_TITLE_BUSH"="Ambushers"
+
+"MODIFIER_BUSH_DESC_1"="Experts in infiltration, they can pass through all defenses without being detected."
+
+"MODIFIER_DESC_BUSH_LVL1"="<color=#FFFFFF>Spawns <color=#F36D4D>Ambushers <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_BUSH_LVL2"="Ambusher Power <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="Ambusher Power <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="Ambusher Power <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="Bandit Leader"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="Commands nearby bandits to wear armor, transforming them into Brigands."
+
+"MODIFIER_TITLE_BANDITLEADER"="Bandit Leader"
+
+"MODIFIER_BANDITLEADER_DESC_1"="Fierce leader who organizes and equips bandits for battle."
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="<color=#FFFFFF>Spawns a<color=#F36D4D> Bandit Leader <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="Bandit Leader Power <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="Bandit Leader Power <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="Bandit Leader Power <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="Bandit Shields"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="Defensive formation that releases bandits from within every few seconds."
+
+"MODIFIER_TITLE_BANDITSHIELDS"="Bandit Shields"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="A defensive formation of bandits that periodically releases fighters from its ranks."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="<color=#FFFFFF>Spawns <color=#F36D4D> Bandit Shields <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="Bandit Shields HP <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="Bandit Shields HP <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="Bandit Shields HP <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="Bandit Glider"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="Flying bandit that dives down and explodes when killed."
+
+"MODIFIER_TITLE_BANDITGLIDERS"="Bandit Gliders"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="Bandits who use a glider to fly over defenses; in case of serious damage, they crash into their enemies."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="<color=#FFFFFF>Spawns <color=#F36D4D> Bandit Gliders <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="Bandit Gliders Power <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="Bandit Gliders Power <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="Bandit Gliders Power <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="Smasher"
+
+"CREEP_SMASHER_SHORT_DESC"="Bandit brute that throws boulders at towers, stunning them."
+
+"MODIFIER_TITLE_SMASHER"="Smasher"
+
+"MODIFIER_SMASHER_DESC_1"="High-ranking brute who advances by throwing rocks at units and towers, disabling them for a few seconds."
+
+"MODIFIER_DESC_SMASHER_LVL1"="<color=#FFFFFF>Spawns a <color=#F36D4D>Smasher <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_SMASHER_LVL2"="Smashers Power <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="Smashers Power <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="Smashers Power <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="Smoke Bombs"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="Smoke screen that prevents targeting any ally inside."
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="<color=#FFFFFF>Spawns <color=#F36D4D>Smoke Bombs <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="Smoke Bombs power <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="Smoke Bombs power <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="Smoke Bombs power <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="Magma Elemental"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="Magma Elemental"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="Magma Elemental"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>Spawns <color=#F36D4D>a Magma Elemental<color=#FFFFFF> on the opponent's waves"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="Spawns a Magma Elemental with extra power <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>Spawns <color=#F36D4D>2 <color=#FFFFFF>Magma Elementals with extra power <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="Spawns 2 Magma Elementals with extra power <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="Screecher Bat"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="<color=#FFFFFF>Spawn <color=#F36D4D>Screecher Bat <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="Screecher Bat Power <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="Screecher Bat Power <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="Screecher Bat Power <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="Shadow Blacksmith"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="Shadow Blacksmith"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="Shadow Crowcaller"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="Shadow Crowcaller"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>Spawn a <color=#F36D4D>Shadow Crowcaller<color=#FFFFFF> on the opponent’s waves"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="Shadow Crowcaller Power <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="Shadow Crowcaller Power <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="Shadow Crowcaller Power <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="Flaming Fate"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="Spawns <color=#F36D4D>3 <color=#FFFFFF>meteorites that damage the opponent's units every <color=#F36D4D>17<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="Spawns 3 meteorites with <color=#F36D4D>10%<color=#FFFFFF>  extra power every <color=#F36D4D>15<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="Spawns <color=#F36D4D>4 <color=#FFFFFF>meteorites with <color=#F36D4D>25%<color=#FFFFFF>  extra power every <color=#F36D4D>15<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="Spawns <color=#F36D4D>5 <color=#FFFFFF>meteorites with <color=#F36D4D>40%<color=#FFFFFF>  extra power every <color=#F36D4D>10<color=#FFFFFF> seconds"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="Molten Stone"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="Stuns <color=#F18081>2 <color=#FFFFFF>towers every <color=#F18081>17<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="Stuns 2 tower every <color=#F18081>15<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="Stuns <color=#F18081>3 <color=#FFFFFF>towers every <color=#F18081>13<color=#FFFFFF> seconds"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="Stuns <color=#F18081>4 <color=#FFFFFF>towers every <color=#F18081>9<color=#FFFFFF> seconds"
+
+"MISSIONS_LOGINS_DONE"="Log in"
+
+"MISSIONS_PLAY_GAMES"="Play Matches "
+
+"MISSIONS_DEFEAT_CREEPS"="Defeat Enemies"
+
+"MISSIONS_TOWER_BUILD"="Build Towers"
+
+"MISSIONS_TOWER_SKILL_BUY"="Buy Tower Skills"
+
+"MISSIONS_TOWER_UPGRADE"="Upgrade your Towers ingame"
+
+"MISSIONS_SPELL_DAMAGE"="Inflict damage using your Spells"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="Summon allies with Summon type Spells"
+
+"MISSIONS_SPELL_USE"="Use Spells"
+
+"MISSIONS_HERO_DAMAGE"="Inflict damage with your hero"
+
+"MISSIONS_CARD_USE"="Use card"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="Purchase Daily Deals"
+
+"MISSIONS_SPEND_GEMS"="Use Gems"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="Unlock chest using Gems"
+
+"MISSIONS_CHEST_OPEN"="Open Chests"
+
+"MISSIONS_STARS_EARN"="Get Stars"
+
+"TITLE_MISSIONS"="Missions"
+
+"TITLE_DAILY_MISSIONS"="Daily Missions"
+
+"TAUNT_THANKS"="Thanks !"
+
+"TAUNT_GOOD_LUCK"="Good Luck !"
+
+"TAUNT_OOPS"="Oops..."
+
+"TAUNT_WELL_PLAYED"="Well Played !"
+
+"UNMUTE_TO_SEND_EMOTES"="Unmute to send and receive emotes "
+
+"EVENT_COINFARM_BIG_CREEP"="Big Creep"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="Spawn a big creep in enemy path"
+
+"EVENT_COINFARM_ALL_OUT"="All Out"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="Drop Barrels in that deals damage in enemy path"
+
+"EVENT_COINFARM_ENCHANTMENT"="Enchantment"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="Give a armor buff on some creeps in enemy path"
+
+"EVENT_COINFARM_FARM_ANIMALS"="Farm Animals"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="Spawn farms animals creeps in enemy path"
+
+"EVENT_COINFARM_SPEED"="Speed Creeps"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="Give a speed buff on some creeps in enemy path"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="Press to continue..."
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="REWARDS SCREEN"
+
+"SUMMON_SCROLLS"="Scrolls"
+
+"SUMMON_SCROLLS_1"="Summon Scrolls"
+
+"SUMMON_SCROLLS_2"="Summon Scrolls"
+
+"SUMMON_SCROLLS_3_SPECIAL"="Summon Scrolls"
+
+"SUMMON_SCROLLS_GEMS"="Summon Scrolls"
+
+"YOUR_SCROLLS"="Scrolls"
+
+"EVENT_TICKET"="Event Tickets"
+
+"YOUR_TICKETS"="Event Tickets"
+
+"REMAINING_PURCHASE"="Remaining"
+
+"MEGA_GEMS_OFFER"="Mega Gems Offer"
+
+"MEGA_COINS_OFFER"="Mega Coins Offer"
+
+"ACCOUNT_BANNED_TITLE"="Account Banned"
+
+"ACCOUNT_BANNED_DESC"="Your account has been banned for violating the Terms of Service."
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>HURRY UP!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="Save game detected!"
+
+"ACCOUNT_CONFLICT_DESC"="Two different save games were detected."
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="Cloud Save"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="Local Save"
+
+"GAME_MSG_WAVE_CLEAR"="<color=#87FF62>WAVE CLEARED!"
+
+"GAME_MSG_WAVE_LOST"="<color=#FF7B7B>WAVE LOST!"
+
+"GAME_MSG_WAVE_WON"="<color=#87FF62>WAVE WON!"
+
+"TITLE_LEADERBOARD_REWARDS"="Global Rewards"
+
+"STADIUM_RULE_1"="Get Medals by competing in the Stadium..."
+
+"STADIUM_RULE_2"="Go up in the Rankings..."
+
+"STADIUM_RULE_3"="Get exclusive rewards!"
+
+"ONSLAUGHT_RULE_1"="Defeat every enemy faster than your opponent..."
+
+"ONSLAUGHT_RULE_2"="You lose 1 life if you take too long..."
+
+"ONSLAUGHT_RULE_3"="Win to get unique rewards!"
+
+"SUMMON_RIFT_RULE_1"="Collect Summon Scrolls from other Events..."
+
+"SUMMON_RIFT_RULE_2"="Use them to roll for an exclusive card..."
+
+"SUMMON_RIFT_RULE_3"="Complete a number of summons to get the guaranteed exclusive card!"
+
+"HERO_BERESAD_DESCRIPTION"="An ancient darkness that made a deal with Vez'nan for all the gold of the realm, bringing ruin and destruction to the surface kingdoms. Even the strongest defenses of the Dwarven Kingdom could not stop his greed."
+
+"HERO_BERESAD_SHORT_DESC"="- Summons golem.<br>- Frightens enemies, making them retreat.<br>- Instakills that damages nearby foes."
+
+"HERO_BERESAD_NAME"="Beresad"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="With a fearsome roar, Beresad strikes terror into his foes, forcing them to retreat in panic."
+
+"HERO_BERESAD_SKILL_0_NAME"="Fear The Dragon"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="Spits a rock onto the path and imbues it with magic, creating a golem that fights enemies for a few seconds."
+
+"HERO_BERESAD_SKILL_1_NAME"="Dragon Spawn"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="Concentrates its breath to unleash a deadly fire ray that disintegrates the target and triggers a powerful explosion."
+
+"HERO_BERESAD_SKILL_2_NAME"="Obliterate"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="Beresad enchants some opponent's foes, causing them to yield extra Gold for you upon death."
+
+"HERO_BERESAD_SKILL_3_NAME"="Death Tax"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="Combining rocks, scraps, and Beresad's magic, this creation is both a symbol of greed and raw strength."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="Made from common materials and reinforced by powerful magic, it represents its creator's will."
+
+"HERO_BERESAD_MINION_NAME"="Dark Golem"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="First Player to defeat all enemies takes 1 Life from their opponent. (Max Card level 5) "
+
+"EVENTS_ONSLAUGHT_REWARD"="Next Reward:"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="Dark tower fueled by Vez'nan's acolytes, rising proudly and imposing terror on all who try to pass without permission. By focusing its ray on enemies, it wears them down over time until reaching a critical state that triggers an explosion."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="A dark tower that slowly corrodes enemies one by one until none remain."
+
+"TOWER_BLAZING_GEM_NAME"="Blazing Gem"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="Each enemy defeated will combust in a supernatural explosion that damages other enemies.\n(Skill always active)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="UNSTABLE POWER"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="Allows the Blazing Gem to strike 2 targets at the same time increasing the damage output overall.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="Can strike 2 targets at the same time."
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="Gem of Multiplication"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="A powerful Eldritch Magus who steps forth when his master's acolyte calls. When his HP is depleted, he'll enter a second unmoving form where he gives Magic Resistance to his allies nearby before dissapearing.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="Summons an Eldritch Magus on the opponent's side."
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="Eldritch call"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="Channels the acolytes' magic to destroy an opposing unit."
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="Every few seconds, the tower fires a ray that damages and may instantly kill a unit on the opponent's side.\n(Skill always active)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="Destructo-Ray"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Eldritch Magus"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Vez'nan's apprentices use their corrupt power to destroy their enemies."
+
+"GAME_MSG_WAVE_DRAW"="DRAW!"
+
+"TITLE_LANGUAGE"="LANGUAGE"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="SUMMON<br>RIFT"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="Are you sure you want to change the language settings?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="LANGUAGE"
+
+"BUTTON_YES"="Yes"
+
+"BUTTON_NO"="No"
+
+"FREE_TAG"="FREE"
+
+"TOOLTIP_CLAIM"="CLAIM!"
+
+"ERROR_LOADING_SHOP"="ERROR LOADING SHOP"
+
+"SHOP_OFFER_EXPIRES_IN"="Offer expires in: "
+
+"SHOP_ARENA_PACK_TITLE"="Arena Pack"
+
+"SHOP_DAILY_DEALS_TITLE"="Daily Deals"
+
+"SHOP_CHESTS_TITLE"="Chests"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Special Offers"
+
+"EVENTS_LOCKED_EVENT_TITLE"="Locked Event !"
+
+"COMING_SOON"="COMING SOON"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="Cards To Unlock:"
+
+"BUTTON_CLAIM"="CLAIM"
+
+"BUTTON_REWARDS"="Rewards"
+
+"MISSIONS_WEEKLY"="Weekly"
+
+"MISSIONS_DAILY"="Daily"
+
+"MISSIONS_RESETS_IN"="Resets in:"
+
+"STADIUM_REWARD_POP_UP_NAME"="Congratulations {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="You were the number {0} in the leaderboard. Claim your rewards !"
+
+"TOWER_TESLA_PACK_NAME"="Casual Pack"
+
+"TAP_TO_CONTINUE"="Tap to Continue"
+
+"TIPS_SCREEN_TITLE"="Tips"
+
+"REWARDS_TITLE"="Rewards"
+
+"NEW_ARENA_UNLOCKED"="New arena<br>unlocked !"
+
+"SELECT_CARD_TO_REPLACE"="SELECT A CARD TO REPLACE"
+
+"TIMER_DAY"="d"
+
+"TIMER_HOUR"="h"
+
+"TIMER_MINUTE"="m"
+
+"TIMER_SECOND"="s"
+
+"COLISSEUM_WAITING_TO_DELIVER"="Stadium closed. Rewards on the way..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="{0} Card"
+
+"CARD_STAT_RESPAWN_TIME"="Respawn Time"
+
+"PRIVATE_MATCH_TITLE"="FRIENDLY MATCH"
+
+"PRIVATE_MATCH_ENTER_CODE"="Enter Code"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="Enter Code to join"
+
+"PRIVATE_MATCH_CREATE_MATCH"="CREATE MATCH"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="Waiting opponent..."
+
+"PRIVATE_MATCH_CONNECTING"="Connecting..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="Creating room..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="JOIN"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="Please enter a room code"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="Connection timeout. Please try again."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="Failed to start match"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="Failed to join room"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="Disconnected from room"
+
+"ERROR"="ERROR"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="Dark Rookie"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="Dark Knight"
+
+"PRIVATE_PVP_RULE_1"="Create a match to generate a unique code…"
+
+"PRIVATE_PVP_RULE_2"="Share the code with your friend! They can join by entering it."
+
+"PRIVATE_PVP_RULE_3"="Enjoy a private match in a random map!"
+
+"PRIVATE_PVP_RULE_4"="(Max card levels {0} - Max booster levels  {1})"
+
+"CHASER_PACK_TITLE"="{0} Power Up Pack"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="Dark Sword"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="The legacy of the slayer will transform the next knight to wield this sword."
+
+"PRIVATE_MATCH_INVITATION_CODE"="Invitation Code"
+
+"SHOP_EMOTES_OFFERS_TITLE"="Emotes"
+
+"NEW_EMOTE"="New Emote!"
+
+"SHOP_ACQUIRED"="Acquired"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="Bronze League"
+
+"TERRAIN_STADIUM_SILVER_NAME"="Silver League"
+
+"TERRAIN_STADIUM_GOLD_NAME"="Gold League"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="Diamond League"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="Champions League"
+
+"COLLECTION_EMOTES"="Emotes"
+
+"TERRAIN_STADIUM_REWARD"="Reward:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="Elite Dark Army troopers trained in both sky and ground, patrolling the battlefield with ruthless precision. With a single command, they shift from sturdy frontline guardians to soaring hunters that strike enemies with relentless firepower."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="Versatile soldiers who dominate both land and sky, hunting down enemies with deadly precision."
+
+"TOWER_ROCKET_GUNNERS_NAME"="Rocket Gunners"
+
+"ROCKET_GUNNERS_UNIT_NAME"="Rocket Gunner"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="Soldier trained to switch between jet-assisted strikes and solid ground combat."
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="The Gunners can activate their jetpacks to fly over the path or deactivate them to fight on the ground.\n(Skill always available)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="Aerial Maneuver"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="Applies a corrosive coating to every shot, reducing enemy armor and dealing area damage on impact.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="Each shot reduces armor and deals area damage."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="Phosphoric Coating"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="Launches homing missiles that instantly eliminate a target on impact.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="Fires missiles that instantly kill a target."
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="Sting Missiles"
+
+"EMOTE_AEGION_PONDERING"="Pondering"
+
+"EMOTE_ALLERIA_ANGRY"="Angry Alleria"
+
+"EMOTE_ALLERIA_SHINE"="Happy Alleria"
+
+"EMOTE_ASHBITE_HEART"="Loving Ashbite"
+
+"EMOTE_BERESAD_MONEY"="Deal with it"
+
+"EMOTE_CHICKEN_SCREAM"="Mad Chicken"
+
+"EMOTE_DENAS_ANGRY"="Pissed Denas"
+
+"EMOTE_DENAS_CRY"="Cry More"
+
+"EMOTE_DENAS_GOLD"="Ca-ching"
+
+"EMOTE_DENAS_LAUGH"="Happy Denas"
+
+"EMOTE_DIERDRE_ANGRY"="Get real"
+
+"EMOTE_EISKALT_SURPRISE"="Disapproval"
+
+"EMOTE_ELORA_TIME_CLOCK"="Sigh..."
+
+"EMOTE_GERALD_BEACH"="Chill mood"
+
+"EMOTE_GERALD_DESPAIR"="Despair..."
+
+"EMOTE_GERALD_SHINE"="Sparkling Smile"
+
+"EMOTE_GOBLIN_ANGRY"="Frustrated"
+
+"EMOTE_GOBLIN_FIRE"="This is Fine"
+
+"EMOTE_GOBLIN_GIFT"="Surprise!"
+
+"EMOTE_GOBLIN_GOOFY"="Goofin' Around"
+
+"EMOTE_GOBLIN_KISS"="Kisses for you"
+
+"EMOTE_GOBLIN_OOPS"="Whoopsie"
+
+"EMOTE_GOBLIN_SLEEPING"="Sweet Dreams"
+
+"EMOTE_GOBLIN_SNOW"="Snow Goblin"
+
+"EMOTE_GOBLIN_TAUNT"="Taunt Goblin"
+
+"EMOTE_GRAWL_BICEP"="Flex Grawl"
+
+"EMOTE_GRAWL_CHRISTMAS"="Feeling Festive"
+
+"EMOTE_HACKSAW_LAUGH"="Maniac"
+
+"EMOTE_INGVAR_TRANSFORM"="I'm going Bear!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="Brofist"
+
+"EMOTE_SKELETON_SHOCKED"="WHAT!?"
+
+"EMOTE_SKELETON_SWEAT"="Sweaty Skeleton"
+
+"EMOTE_SOLDIER_CELEBRATION"="Celebration"
+
+"EMOTE_VESPER_OK"="Perfect"
+
+"CREEP_PIG_NAME"="Pig"
+
+"CREEP_GOAT_NAME"="Goat"
+
+"CREEP_GOOSE_NAME"="Goose"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="FORSAKEN VALLEY"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="Forsaken Valley"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="Forsaken Valley"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="Legendary Winter Pack"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="Epic Winter Pack"
+
+"SHOP_SEASON_OFFERS_TITLE"="Seasonal Specials"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="A weakened Dark Army rookie that is barely protected by shattered armor."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="Even with part of its armor shattered, this knight remains a terrifying threat."
+
+"CREEP_GOOSE_SHORT_DESC"="A mighty goose spreading chaos across the farm."
+
+"CREEP_DONKEY_RIDER_NAME"="Donkey Rider"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="A farmhand who longs to become a knight."
+
+"CREEP_PIG_SHORT_DESC"="A rebellious pig that always escapes from its cage."
+
+"CREEP_GOAT_SHORT_DESC"="The GOAT."
+
+"MODIFIER_TITLE_DARK_PRIEST"="Dark Priest"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="An enemy with magic resistance that transforms units into Dark Rookies or Dark Knights."
+
+"CREEP_DARK_PRIEST_NAME"="Dark Priest"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="A Evil priest who spreads the Dark Lord's word, corurpting anyone to join the Dark Army."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>Spawns 2 <color=#F36D4D>Dark Priest <color=#FFFFFF>on the opponent's waves"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="Dark Priest Power <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="Dark Priest Power <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="Dark Priest Power <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="Bronze League Chest"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="Silver League Chest"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="Gold League Chest"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="Diamond League Chest"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="Champions League Chest"
+
+"CARDS_TAB"="CARDS"
+
+"HERO_RAELYN_DESCRIPTION"="An imposing and brutal commander of the Dark Army, Raelyn stands at the front lines, ready to cut down anything in her path. Her unwavering dedication to battle inspires fear in her enemies and fierce devotion among her knights alike."
+
+"HERO_RAELYN_SHORT_DESC"="- Protects herself with a shield.<br>- Stuns and weakens enemies with fear.<br>- Gets enraged, dealing faster area damage."
+
+"HERO_RAELYN_NAME"="Raelyn"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="Her unmatched bravery grants her a shield that nullifies all damage for a short time."
+
+"HERO_RAELYN_SKILL_0_NAME"="Unbreakable"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="Her raging war cry sends enemies into panic, stunning them and reducing their damage."
+
+"HERO_RAELYN_SKILL_1_NAME"="Inspire Fear"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="Every few seconds, her thirst for destruction drives her into a rage, increasing her attack speed and causing her strikes to deal area damage."
+
+"HERO_RAELYN_SKILL_2_NAME"="Onslaught"
+
+"STAGE_FORSAKEN_1"="Crimson Fork"
+
+"STAGE_FORSAKEN_2"="Ashlands"
+
+"STAGE_FORSAKEN_3"="The Wastes"
+
+"STAGE_FORSAKEN_4"="Gloom Alley"
+
+"STAGE_FORSAKEN_5"="Blackstone Trail"
+
+"STAGE_FORSAKEN_6"="Fallen Road"
+
+"COMMAND_ORDER_UNIT_NAME"="Fallen Dark Slayer"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="The soul of a slayer that keeps fighting even in death."
+
+"COIN_FARM_RULE_1"="Special Farm Powers replace your Spells here..."
+
+"COIN_FARM_RULE_2"="Use them to win and collect Coins in your bank..."
+
+"COIN_FARM_RULE_3"="Complete the bank before the event ends and earn all the Coins you saved !"
+
+"COIN_FARM_RULE_4"="(Max card levels {0} - Max booster levels  {1})"
+
+"SPELL_COMMAND_ORDER_NAME"="Fallen Order"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="A forbidden spell that summons the soul of an unstoppable slayer to bring havoc to the battlefield."
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="Summon a fallen Slayer to help you in the battlefield."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Ultimate Strike"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Summons a powerful strike that destroys the most powerful enemy in the spell area. When used against bosses, it will just deal high damage."
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="Strikes the strongest enemy in an area, vanquishing it instantly."
+
+"MENU_OFFER_ICON_SALE"="SALE!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="CLAIM COINS NOW!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="Do you want to claim your Coins now? You will only receive your current savings."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="A powerful Magma Elemental spawns at a random point ahead on the map. After being defeated, it enters a rock form to heal itself and revive"
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="A Magma Elemental that emerges as a living natural disaster, leaving only destruction behind."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="A Magma Elemental that was destroyed and enters a reconstruction phase to heal itself."
+
+"CREEP_SCREECHER_BAT_NAME"="Screecher Bat"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="A giant bat that flies, stunning anyone who stands in its path."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="A giant bat that uses its supersonic screech to stun nearby enemies."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="The workforce of the Dark Army, they are the ones who prepare and repair the Dark Lord's forces."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="A resilient unit that repairs any broken armor of Rookies and Knights."
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="<color=#FFFFFF>Spawns <color=#F36D4D>Shadow Blacksmith <color=#FFFFFF>on the opponent’s waves"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="Shadow Blacksmith Power <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="Shadow Blacksmith Power <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="Shadow Blacksmith Power <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="A Shadow Crowcaller that spawns Dark Crows every few seconds."
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="A crow trainer who spreads ravens across the realm to create a vast intelligence network."
+
+"MODIFIER_DESC_FLAMING_FATE"="Causes violent eruptions that send flaming rocks flying around enemies."
+
+"MODIFIER_DESC_MOLTEN_STONE"="Generates earthquakes across the battlefield, burying enemy towers in rock for a few seconds."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="Deadly archer that fires arrows with blinding speed, striking enemies before they can react."
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="A flying armored foe that triggers a rocket boost when it’s attacked."
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="A Magma Shard that was destroyed and enters a reconstruction phase to heal itself."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="A small armored golem launched by the Juggernaut."
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="A giant siege machine that destroys any castle standing in Vez’nan’s path."
+
+"NEW_LEAGUE_UNLOCKED"="League Unlocked!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="Server under maintenance. Estimated end time: {0}"
+
+"HERO_ASRA_DESCRIPTION"="Forged through merciless training, Asra is one of the deadliest Shadow Assassins ever to emerge from the Dark Army. Her silent gaze is as lethal as her blades, and those who meet it rarely live long enough to regret it. Handpicked by Vez'nan himself, she strikes swiftly, precisely, and without mercy."
+
+"HERO_ASRA_SHORT_DESC"="- Teleports and casts a shield.<br>- Fires an arrow barrage that breaks armor.<br>- Fatally poisons enemies with her dagger."
+
+"HERO_ASRA_NAME"="Asra"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="Releases a barrage of strong arrows that deal damage and break a part of the enemies' armor."
+
+"HERO_ASRA_SKILL_0_NAME"="Onyx Arrows"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="Delivers a swift and deadly strike with her tainted blade, poisoning the enemy until it perishes."
+
+"HERO_ASRA_SKILL_1_NAME"="Spider Bite"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="Using her Shadow Dance, she may instantly teleport anywhere, providing an additional protective shield when appearing near enemy troops."
+
+"HERO_ASRA_SKILL_2_NAME"="Nightveil Blink"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="A merciless archer driven by cruelty and obsession, hunting without remorse. Every foe slain under their arrows fuels their power, strengthening their striles and turning death into their greatest weapon."
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="A ruthless archer tower that gains attack power with each enemy killed, making every shot a growing threat."
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="Twilight Longbow"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="The tower can change its damage focus from targeting the enemy closest to the exit to targeting the enemy with the highest maximum HP.\n(Skill always active)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="Enemy Focus"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="Summons two Harassers to aid in battle. These fierce and agile warriors deal lethal damage while having a chance to avoid incoming attacks.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="Summons two Harassers to patrol the area and destroy anyone who tries to approach the tower."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="Support Blades"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="Fires an arrow wrapped in dark magic that confuses the target opponent unit, preventing it from using abilities for a few seconds.\n(Buy skill at Max Tower Upgrade)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="Targets Heroes first, preventing ability use for a short time."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="Silent Hunt"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="Each kill made by this tower increases its attack damage for a few seconds, up to 3 times."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="Each enemy slain by this tower's arrows has its soul absorbed, empowering them and increasing their damage, up to a maximum of 3 times.\n(Skill always active)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="Thrill of the hunt"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="Harassers"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="Skilled Twilight Elf warriors specialized in close combat. They represent the final stage before rising as Elite Harassers."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="Twilight Elf Warriors with a chance to dodge melee attacks."
+
+"INBOX_TAG_UPDATE"="Update"
+
+"INBOX_TAG_NEWS"="News"
+
+"INBOX_TAG_GIFT"="Gift"
+
+"INBOX_TITLE"="INBOX"
+
+"INBOX_NO_MESSAGES"="No messages available"
+
+"INBOX_SHOW_ALL_MESSAGES"="Show All Messages"
+
+"INBOX_READ"="Read"
+
+"HERO_ALLERIA_WILDCAT_NAME"="Alleria & Wildfang"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="In a much older and wiser form, this guardian of the forest is ready to unleash the full force of nature. Mounting her now grown Wildfang, she is able to deliver deadly slashes while still firing at enemies far away."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- Dismounts Wildfang when killed.<br>- Slows and damages enemies in an area.<br>- Roars and weakens nearby creeps."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="Dismount"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="When in grave danger, she dismounts her Wildfang and falls back to continue fighting until the beast is ready for battle again."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="Thorn Shot"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="Fires a powerful arrow charged with the force of nature that grows vines on the path, slowing and damaging enemies that cross the area."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="Wildfang Roar"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="Wildfang lets out a fierce roar that intimidates enemies, reducing the strength of their blows while increasing the damage they receive."
+
+"MEGA_TICKET_OFFER_1"="Super Ticket Offer"
+
+"MEGA_TICKET_OFFER_2"="Amazing Ticket Offer"
+
+"PLAYER_PROFILE_TITLE"="Profile"
+
+"PLAYER_PROFILE_STATS_TITLE"="Player Stats"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="Avatars"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="Banners"
+
+"PLAYER_PROFILE_TITLES_TITLE"="Titles"
+
+"PLAYER_PROFILE_USER_TAB"="User"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="Edit profile"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="Current Streak"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="Best Streak"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="Victories"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="Defeats"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="Win Rate"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="Total Cards"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="Discovered Heroes"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="Discovered Towers"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="Discovered Spells"
+
+"PLAYER_PROFILE_STAT_MATCHES"="Matches"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="Iron Onslaught"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="Advanced Onslaught challenge for strong players!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="First Player to defeat all enemies takes 1 Life from their opponent. (Max Card level 9)"
+
+"ONSLAUGHT_2_RULE_1"="Defeat every enemy faster than your opponent..."
+
+"ONSLAUGHT_2_RULE_2"="You lose 1 life if you take too long..."
+
+"ONSLAUGHT_2_RULE_3"="Win to get unique rewards!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="LINIREAN RECRUIT"
+
+"PROFILE_TITLE_DARK_ROOKIE"="DARK ROOKIE"
+
+"PROFILE_TITLE_FOREST_RANGER"="FOREST RANGER"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="BRAVE WARRIOR"
+
+"PROFILE_TITLE_0005"="LAVA IMP"
+
+"PROFILE_TITLE_0006"="STEALTH MASTER"
+
+"PROFILE_TITLE_0007"="TACTICAL GENIUS"
+
+"PROFILE_TITLE_0008"="LEGENDARY WARLORD"
+
+"BUTTON_KINGDOM_PASS"="KINGDOM PASS"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="CLAIM COINS"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="The farm is closed claim your coins!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="Change Username"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="Do you confirm you want to change your Username?"
+
+"EVENTS_REOPENS_IN"="Reopens in..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="The farm is closed but you can still claim your unclaimed coins!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="Last Call for Coins!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="Coin Farm closes soon! Play matches and grab your fortune now!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="Epic Awakening Pack I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="Epic Awakening Pack II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="Legendary Awakening Pack I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="Legendary Awakening Pack II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="Limit Reached!"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="None"
+
+"ERROR_INVALID_RESPONSE_TITLE"="Something went wrong!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="We couldn't process the server response. Please try again."
+
+"HERO_BONEHART_DESCRIPTION"="The powerful skeletal remains of the once rightful Faustus. This massive Dracolich commands over death, summoning undead and spreading plagues while decimating enemy forces with dreadful power. Having once been the chosen of the Goddess Elynie, he now roams the land with his soul tainted by dark, forbidden forces."
+
+"HERO_BONEHART_SHORT_DESC"="- Summons Wyverns.<br>- Crashes on the path, dealing damage.<br>- Spreads Plague."
+
+"HERO_BONEHART_NAME"="Bonehart"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="For every handful of enemies felled, Skeletal Wyverns rise to haunt the opponent's path. When destroyed, they burst into a festering cloud, spreading Plague to all units nearby."
+
+"HERO_BONEHART_SKILL_0_NAME"="Skeletal Wyverns"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="Dissolves into darkness before crashing onto the enemy's path, dealing heavy area damage and cursing all survivors with Plague."
+
+"HERO_BONEHART_SKILL_1_NAME"="Disease Nova"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="Exhales a rotting miasma from his cursed bones, smothering the enemy's path in a pestilent cloud that slows all who breathe it and afflicts them with Plague."
+
+"HERO_BONEHART_SKILL_2_NAME"="Plague Cloud"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="Launches a volley of disease-laden projectiles from his rotting frame, scattering Plague indiscriminately across the battlefield and striking enemies wherever they stand."
+
+"HERO_BONEHART_SKILL_3_NAME"="Spreading Burst"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="A cursed bone creature that haunts the skies, infecting all below with the plague of its dark master."
+
+"HERO_BONEHART_WYVERN_NAME"="Skeletal Wyvern"
+
+"BUY_GOLDEN_PASS"="Get Golden Pass"
+
+"BUY_PLATINUM_PASS"="Get Platinum Pass"
+
+"DECK_BUILDER_WILDCARDS"="WILDCARDS"
+
+"SEASON_PASS_COMMON_TITLE"="COMMON"
+
+"SEASON_PASS_GOLDEN_TITLE"="GOLDEN"
+
+"SEASON_PASS_PLATINUM_TITLE"="PLATINUM"
+
+"SEASON_PASS_REWARDS"="REWARDS"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 10 EXTRA PASS LEVELS"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="Show all Rewards"
+
+"SEASON_PASS_NAME"="CHAINS OF FURY"
+
+"SEASON_PASS_WIDGET_LOCKED"="KINGDOM PASS<br> Unlocks in Arena 1"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="CLAIM<br>REWARD!"
+
+"WILDCARD_RARITY_COMMON"="Common Wildcard"
+
+"WILDCARD_RARITY_RARE"="Rare Wildcard"
+
+"WILDCARD_RARITY_EPIC"="Epic Wildcard"
+
+"WILDCARD_RARITY_LEGENDARY"="Legendary Wildcard"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="CHOOSE A COMMON CARD"
+
+"WILDCARD_VIEW_TITLE_RARE"="CHOOSE A RARE CARD"
+
+"WILDCARD_VIEW_TITLE_EPIC"="CHOOSE AN EPIC CARD"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="CHOOSE A LEGENDARY CARD"
+
+"WILDCARD_VIEW_SUBTITLE"="Adding up to"
+
+"WILDCARD_VIEW_NAME"="Wildcards"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="Add {0} {1} to this card?"
+
+"WILDCARD_VIEW_WILD_CARD"="Wildcard"
+
+"WILDCARD_VIEW_WILD_CARDS"="Wildcards"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="Add Wildcards"
+
+"WILDCARD_POPUP_DESCRIPTION"="Use Wildcards to add upgrade progress to any card!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="No valid cards to use Wildcards on."
+
+"WILDCARD_YOUR_CARDS"="Your cards"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="Obtain Wildcards to upgrade your cards!"
+
+"COLLECTION_TYPE_BANNER"="PROFILE BANNER"
+
+"COLLECTION_TYPE_TITLE"="PROFILE TITLE"
+
+"COLLECTION_TYPE_AVATAR"="PROFILE AVATAR"
+
+"BANNER_BANDITS"="Raiders' Hideout"
+
+"BANNER_BASICBLUE"="Aether Blue"
+
+"BANNER_BASICGREEN"="Verdant Green"
+
+"BANNER_BASICPURPLE"="Arcane Purple"
+
+"BANNER_BASICRED"="Ember Red"
+
+"BANNER_BASICYELLOW"="Solar Yellow"
+
+"BANNER_DESERT"="Hammerhold Outskirts"
+
+"BANNER_DESERT2"="Ember Dunes"
+
+"BANNER_LINIREA"="Greenfields of Linirea"
+
+"BANNER_LINIREA"="Greenfields of Linirea"
+
+"BANNER_LINIREA2"="The Farmlands"
+
+"BANNER_MOUNTAIN"="Frostpeak Highlands"
+
+"BANNER_TRAINING"="Barracks Grounds"
+
+"BANNER_TRAINING2"="Archery Range"
+
+"AVATAR_FOOTMAN"="LINIREAN FOOTMAN"
+
+"AVATAR_GOBLIN"="NAUGHTY GOBLIN"
+
+"HERO_MALIK_NAME"="King Malik"
+
+"HERO_MALIK_DESCRIPTION"="Fierce in battle, he rose from a broken prisoner in Blood Quarry to a storm-forged legend. Seizing a fallen hammer, he shattered his chains and carved his path through countless battles as Linirea's unstoppable champion, until he claimed his throne as King of Hammerhold, now an unbreakable guardian of his people."
+
+"HERO_MALIK_SHORT_DESC"="- High damage to the toughest enemy on the map.<br>- Silences opponent's tower skills.<br>- Can jump long distances."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ NEW LEGENDARY CARD<br><size=+3>KING MALIK</size>"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="Each of Malik's attacks shatters the enemies' armor and magic resistance for a few seconds."
+
+"HERO_MALIK_SKILL_0_NAME"="Disable"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="Summons a powerful thunder strike that silences some of the opponent's towers, disabling their abilities for a few seconds and reducing their dealt damage."
+
+"HERO_MALIK_SKILL_1_NAME"="The Thunder"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="Targets the toughest enemy on the map, striking it with lightning and dealing an amount of damage equivalent to a percentage of its total health."
+
+"HERO_MALIK_SKILL_2_NAME"="Unchained Lightning"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="When moving long distances, he leaps and slams into the ground, dealing area damage to nearby creeps and stunning them for a few seconds."
+
+"HERO_MALIK_SKILL_3_NAME"="Earthquake"
+
+"PROFILE_TITLE_S1_FREE"="PIONEER"
+
+"PROFILE_TITLE_S1_GOLD"="SAND WARRIOR"
+
+"PROFILE_TITLE_S1_PLATINUM"="CHAINBREAKER"
+
+"EMOTE_ALRIC_FACEPALM"="Alric Facepalm"
+
+"EMOTE_MALIK_BOLT"="Malik Bolt"
+
+"SEASON_PASS_COMMON_PASS"="Common<br>Pass"
+
+"SEASON_PASS_GOLDEN_PASS"="Golden<br>Pass"
+
+"SEASON_PASS_PLATINUM_PASS"="Platinum<br>Pass"
+
+"AVATAR_MAGE"="MAGE APPRENTICE"
+
+"AVATAR_SHEEP"="CRAZY SHEEP"
+
+"AVATAR_YOUNGMALIK"="LIL' MALIK"
+
+"BUTTON_REROLL"="REROLL"
+
+"BUTTON_KEEP"="KEEP"
+
+"N_ROLLS_REMAINING"="Remaining: {0}"
+
+"SEASON_PASS_TIME_LEFT"="Time Left"
+
+"CHEST_INFO_NAME_SEASON_FREE"="Common Chest"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="Arcane Chest"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="Bonus Chest"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="Mythic Chest"
+
+"SEASON_PASS_SEASON_NUMBER"="Kingdom Pass - Season 1"
+

@@ -1,0 +1,24 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/PostProcessing/GrainBaker" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 21946
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 119293
+}
+}
+}

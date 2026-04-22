@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="Нажимая -Принять-, я подтверждаю, что прочитал и принял Условия и Положения и Политику конфиденциальности"
+
+"BUTTON_CONSENT"="Управление согласием"
+
+"BUTTON_ACCEPT"="Принять"
+
+"BUTTON_BATTLE"="БИТВА!"
+
+"BUTTON_CANCEL"="ОТМЕНА"
+
+"BUTTON_CONNECT_APPLE"="Войти с Apple"
+
+"BUTTON_CONNECT_GOOGLE"="Подключиться через Google"
+
+"BUTTON_CONNECT_GUEST"="Играть как гость"
+
+"BUTTON_LOGOUT"="Выйти"
+
+"BUTTON_LOGOUT_YES"="Да, выйти"
+
+"BUTTON_LOGOUT_NO"="Нет, остаться в системе"
+
+"BUTTON_EXIT"="Продолжить"
+
+"BUTTON_EXTERNAL"="Прыгните в бой и сразитесь с новыми противниками!"
+
+"BUTTON_FEEDBACK"="Обратная связь"
+
+"BUTTON_HELP_US"="Помогите нам!"
+
+"BUTTON_KEEP_CLOUD"="Использовать облачное сохранение"
+
+"BUTTON_KEEP_LOCAL"="Сохранить локальный прогресс"
+
+"BUTTON_LOCKED"="Закрыто"
+
+"BUTTON_NEXT"="ДАЛЕЕ"
+
+"BUTTON_OFF"="ОТКЛ"
+
+"BUTTON_ON"="ВКЛ"
+
+"BUTTON_PRIVACY_POLICY"="Политика конфиденциальности"
+
+"BUTTON_RECONNECT"="ПОВТОРНОЕ СОЕДИНЕНИЕ"
+
+"BUTTON_RETRY"="ПОВТОРИТЬ"
+
+"BUTTON_SETTINGS"="Настройки"
+
+"BUTTON_SUPPORT"="Поддержка"
+
+"BUTTON_TERMS"="Условия"
+
+"BUTTON_USER"="Пользовательская учетная запись"
+
+"BUTTON_DELETE_ACCOUNT"="Удалить аккаунт"
+
+"BUTTON_UPGRADE"="Улучшить"
+
+"BUTTON_CLAIM_PRIZE"="Бесплатный сундук!"
+
+"BUTTON_COLLECTION"="Коллекция"
+
+"BUTTON_SHOP"="Магазин"
+
+"BUTTON_BATTLE_TAB"="Битва"
+
+"BUTTON_EVENTS_TAB"="События"
+
+"EVENTS_COMING_SOON"="Скоро..."
+
+"BUTTON_CLANS_TAB"="Королевства"
+
+"BUTTON_INFO"="Инфо"
+
+"BUTTON_USE"="Использовать"
+
+"BUTTON_EQUIP"="Надеть"
+
+"BUTTON_UNEQUIP"="Снять"
+
+"BUTTON_SKILLS"="НАВЫКИ"
+
+"BUTTON_STATS"="СТАТИСТИКА"
+
+"BUTTON_STAGES"="Этапы"
+
+"BUTTON_CREEPS"="Крипы"
+
+"BUTTON_BOOSTERS"="Усилители"
+
+"BUTTON_OK"="ОК"
+
+"BUTTON_OPEN_INSTANTLY"="Пропустить"
+
+"BUTTON_CONFIRM"="Подтвердить"
+
+"BUTTON_MUSIC_VOLUME"="Громкость музыки"
+
+"BUTTON_SFX_VOLUME"="Громкость эффектов"
+
+"BUTTON_COPY_ID"="ID"
+
+"BUTTON_ALREADY_SIGNED"="Уже вошли"
+
+"BUTTON_GUEST_CONTINUE"="Продолжить"
+
+"BUTTON_RESTART"="ПЕРЕЗАПУСК"
+
+"BUTTON_ACCOUNT_WARNING_YES"="Да, войти"
+
+"BUTTON_ACCOUNT_WARNING_NO"="Нет, оставить текущий аккаунт"
+
+"BUTTON_MISSIONS"="Миссии"
+
+"BUTTON_GIFT"="Получить подарок"
+
+"BUTTON_QUIT"="ВЫХОД"
+
+"CARD_LOCKED_DESCRIPTION_1"="Играть"
+
+"CARD_LOCKED_DESCRIPTION_2"="Найдите эту карту в сундуке, чтобы разблокировать её"
+
+"CARD_RARITY_COMMON"="Обычный"
+
+"CARD_RARITY_EPIC"="Эпик"
+
+"CARD_RARITY_LEGENDARY"="Легендарный"
+
+"CARD_RARITY_RARE"="Редкий"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="Максимальный урон по площади"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="Урон по площади мин"
+
+"CARD_STAT_AREA_OF_EFFECT"="Область действия"
+
+"CARD_STAT_BUFF_PERCENTAGE"="Усиление"
+
+"CARD_STAT_ARMOR_REDUCTION"="Снижение брони"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="Снижение маг. сопротивления"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="Шанс"
+
+"CARD_STAT_COOLDOWN"="Перезарядка"
+
+"CARD_STAT_COST"="Стоимость"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="DOT"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT макс"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT мин"
+
+"CARD_STAT_DAMAGE_TYPE"="Тип урона"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="Артиллерия"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="Артиллерия / Магия"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="Магия"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="Физический"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="Истинный"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="Дебаф"
+
+"CARD_STAT_DURATION"="Продолж."
+
+"CARD_STAT_HEAL_HP"="Исцелено HP"
+
+"CARD_STAT_HEAL_HP_MAX"="Лечение Макс"
+
+"CARD_STAT_HEAL_HP_MIN"="Леч Мин"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="Подверж. юниты"
+
+"CARD_STAT_MAX_DAMAGE"="Урон Макс"
+
+"CARD_STAT_MIN_DAMAGE"="Урон Мин"
+
+"CARD_STAT_NUMBER_OF_UNITS"="Кол-во единиц"
+
+"CARD_STAT_RANGE"="Дальн"
+
+"CARD_STAT_STRIKE_COUNT"="Удары"
+
+"CARD_STAT_ARMOR_PIERCING"="Пробивание"
+
+"CARD_STAT_UNIT_ARMOR"="Броня"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="Скорость атаки"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="Скорость атаки"
+
+"CARD_STAT_UNIT_HP"="Здоровье"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="Сопротивление магии"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="Максимальный урон по области"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="Максимальный урон"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="Максимальный урон"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="Урон по области"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="Минимальный урон"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="Минимальный урон"
+
+"CARD_STAT_UNIT_SPEED"="Скорость"
+
+"CARD_STAT_UNIT2_ARMOR"="Броня блока 2"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="Скорость атаки юнита 2"
+
+"CARD_STAT_UNIT2_HP"="Блок 2 Здоровье"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="Максимальный урон от юнита 2"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="Минимальный урон от юнита 2"
+
+"CARD_STAT_LEVEL_TEXT"="УР"
+
+"CARD_STAT_DAMAGE"="Ущерб"
+
+"CARD_STAT_RANGED_DAMAGE"="Дальний урон"
+
+"CARD_STAT_ARMOR_TYPE"="Тип брони"
+
+"CARD_STAT_VERY_LOW"="Очень низкий"
+
+"CARD_STAT_LOW"="Низкий"
+
+"CARD_STAT_MEDIUM"="Средний"
+
+"CARD_STAT_HIGH"="Высокий"
+
+"CARD_STAT_VERY_HIGH"="Очень высокий"
+
+"CARD_STAT_NONE"="Нет"
+
+"CARD_STAT_CARD_RANK"="Ранг"
+
+"CARD_STAT_CARD_CARD_TYPE"="Тип"
+
+"CARD_STAT_HP_REDUCTION"="Снижение здоровья"
+
+"CARD_STAT_SLOW"="Медленный"
+
+"CARD_STAT_HP_TO_ACTIVATE"="Процент здоровья"
+
+"CARD_STAT_TILES_PUSHED"="Плитки сдвинуты"
+
+"CARD_TYPE_BARRACK"="КАЗАРМА"
+
+"CARD_TYPE_RANGED"="ДАЛЬНОСТЬ"
+
+"CARD_TYPE_MAGIC"="МАГИЯ"
+
+"CARD_TYPE_ARTILLERY"="АРТИЛЛЕРИЯ"
+
+"CARD_TYPE_DAMAGE"="УРОН"
+
+"CARD_TYPE_SUMMON"="ПРИЗЫВ"
+
+"CARD_TYPE_UTILITY"="УТИЛИТА"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="ПОДДЕРЖКА"
+
+"CARD_TYPE_TANK"="ТАНК"
+
+"CARD_TYPE_FLYING"="ЛЕТАЮЩИЙ"
+
+"TOWER_STATS"="СТАТИСТИКА БАШНИ"
+
+"HERO_STATS"="СТАТИСТИКА ГЕРОЯ"
+
+"SPELL_STATS"="СТАТИСТИКА ЗАКЛИНАНИЙ"
+
+"CHECKING_UPDATES"="ПРОВЕРКА ОБНОВЛЕНИЙ"
+
+"CLAIM_HERO_DESCRITPION"="Поделитесь своим мнением через короткий опрос и получите потрясающий сундук, помогая нам улучшать игру."
+
+"FREE_CHEST_VIEW_TITLE"="ПОЛУЧИТЕ СУМКУ!"
+
+"CONNECTING"="ПОДКЛЮЧЕНИЕ"
+
+"CONNECTION_LOST_CHECK_INTERNET"="Проверьте подключение к интернету"
+
+"CONNECTION_LOST_BUTTON"="ПОВТОР"
+
+"CONNECTION_LOST_RECONNECTING"="Переподключение"
+
+"CONNECTION_LOST_TITLE"="Соединение потеряно"
+
+"USER_ACCESS_TEXT"="Войти или создать аккаунт"
+
+"24_HR_NOTIFICATION_TITLE"="Ваше королевство нуждается в вас!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="Защити свои башни от новых противников!"
+
+"48_HR_NOTIFICATION_TITLE"="Время битвы!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="Новые мощные карты ждут вас! Улучшите свою колоду и сокрушите врагов. Сражайтесь сейчас!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="Получите больше наград!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="Мощные награды ждут в звездных сундуках. Погрузитесь и заберите их!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="Время собирать"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Ваш боевой сундук готов! Выигрывайте матчи, чтобы разблокировать отличные награды!"
+
+"DAILY_CHEST_RESET"="Боевая шкатулка сбросится через:"
+
+"OPEN_BATTLE_CHEST"="Поздравляем! Откройте сундук, чтобы получить свои призы!"
+
+"OPEN_BATTLE_WIN"="Победа"
+
+"BATTLE_CHEST_INSTRUCTIONS"="больше матчей, чтобы открыть этот сундук!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="матч, чтобы открыть этот сундук!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="Псс... Время собирать звезды!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="Не ждите, собирайте звезды и открывайте эпические награды!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="Ваши награды ждут!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="Получите свои награды за Трофейный путь сейчас—не упустите!"
+
+"ROOKIE_NOTIFICATION_TITLE"="Продолжай!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="Вы были на коне! Открывайте трофеи, повышайте уровень и улучшайте свою колоду!"
+
+"DECK_BUILDER_DECK"="Колода"
+
+"DECK_BUILDER_EMOJIS"="ЭМОЦИИ"
+
+"DECK_BUILDER_FILTER_LEVEL"="УРОВЕНЬ"
+
+"DECK_BUILDER_FILTER_RARITY"="РЕДК"
+
+"DECK_BUILDER_FILTER_RANK"="РАНГ"
+
+"DECK_BUILDER_FILTER_TYPE"="ТИП"
+
+"DECK_BUILDER_FOUND"="Найдено"
+
+"DECK_BUILDER_HEROES"="ГЕРОИ"
+
+"DECK_BUILDER_SPELLS"="ЗАКЛИНАНИЯ"
+
+"DECK_BUILDER_TOWERS"="БАШНИ"
+
+"DOWNLOADING"="Обновление..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="Нет, сохранить мой аккаунт"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="Да, удалить мой аккаунт"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="ЧИТАТЬ ДАЛЕЕ"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="Вы собираетесь запросить окончательное удаление вашей учетной записи и всей вашей личной информации. Если вы нажмете «Да», мы удалим все данные вашей учетной записи, включая доступ, все приобретенные и полученные предметы, игровой прогресс и уровни."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="доступ, все приобретенные и полученные предметы, прогресс в игре и уровни.\n\nВ течение {0} дней вы можете отменить ваш запрос. После этого периода процесс не может быть отменен! Если вы вернетесь в игру, будет создана новая учетная запись."
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="Вы уверены, что хотите удалить свой аккаунт?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="У вас есть {0} дней, чтобы передумать.\nПосле этого ваш аккаунт будет удален навсегда."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="Мы зарегистрировали ваш запрос на удаление"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="Ваш аккаунт запланирован на удаление"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="Если вы передумали и хотите продолжить игру, нажмите «отменить удаление».\nВ противном случае Miniclip начнет окончательное удаление вашей учетной записи через {0} дней."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="Отменить удаление"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="Продолжить удаление"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="Изменения в вашей учетной записи не были внесены.\nВы можете в любое время перезапустить процесс постоянного удаления в настройках игры."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="Процесс удаления был отменен"
+
+"SAVE_WARNING_TITLE"="СОХРАНИТЬ ПРОГРЕСС"
+
+"SAVE_WARNING_TEXT"="Подключите свою учетную запись, чтобы сохранить прогресс"
+
+"ERROR_DECK_INCOMPLETE"="ВАША БОЕВАЯ КОЛОДА НЕПОЛНА!"
+
+"ERROR_ALREADY_BOUGHT"="УЖЕ КУПЛЕНО!"
+
+"ERROR_PURCHASE_TITLE"="Ошибка покупки"
+
+"ERROR_PURCHASE_DESCRIPTION"="Произошла ошибка при обработке этой покупки. Пожалуйста, попробуйте еще раз."
+
+"ERROR_NOT_ENOUGH_GEMS"="Недостаточно самоцветов!"
+
+"ERROR_NOT_ENOUGH_GOLD"="Недостаточно монет!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="Ошибка изменения имени пользователя"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="Произошла ошибка при изменении имени пользователя, пожалуйста, попробуйте еще раз"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="Произошла ошибка при обновлении контента игры. Пожалуйста, убедитесь, что на вашем устройстве достаточно свободного места и что вы подключены к интернету, затем попробуйте снова."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="Ошибка обновления"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="Произошла ошибка при подключении к игровому серверу. Проверьте, подключены ли вы к интернету."
+
+"ERROR_CONNECTING_SERVER_TITLE"="Ошибка соединения"
+
+"ERROR_WAITING_PLAYER_TITLE"="Соперник вышел"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="Похоже, что противник вышел из игры."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="ОШИБКА СОЗДАНИЯ ПОЛЬЗОВАТЕЛЯ"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="Произошла ошибка при создании нового пользователя для этого устройства."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="Ошибка входа с Apple"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="Произошла ошибка при входе с вашей учетной записью Apple. Пожалуйста, попробуйте снова."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="Произошла ошибка при получении токена доступа. Пожалуйста, попробуйте войти снова."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Произошла ошибка при привязке аккаунта. Пожалуйста, попробуйте войти снова."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="Ошибка входа в Google"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="Произошла ошибка при входе с вашей учетной записью Google. Пожалуйста, попробуйте еще раз."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="Произошла ошибка при получении токена доступа. Пожалуйста, попробуйте войти снова."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="Произошла ошибка при проверке токена доступа. Пожалуйста, попробуйте войти снова."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="Произошла ошибка при привязке аккаунта. Пожалуйста, попробуйте войти снова."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="Произошла ошибка при переключении локального пользователя с удалённым. Пожалуйста, попробуйте войти снова."
+
+"ERROR_FRAMEDIFF_TITLE"="Обнаружен чит"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="Мы обнаружили подозрительную активность одного из игроков, и продолжить матч невозможно."
+
+"ERROR_FRAMEDIFF_BUTTON"="Продолжить"
+
+"ERROR_INVALID_SESSION_TITLE"="Что-то пошло не так!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="Сессия вашего устройства истекла. Приложение будет перезагружено."
+
+"ERROR_USER_CANCELED_OPERATION"="Пользователь отменил операцию."
+
+"BUTTON_SUMMON"="Призыв"
+
+"EVENTS_SUMMON_RIFT_TITLE"="Призвать Разлом"
+
+"EVENTS_ONSLAUGHT_TITLE"="Натиск"
+
+"EVENTS_COIN_FARM_TITLE"="Монетная ферма"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="Призывайте мощные эксклюзивные карты!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="Победите каждого врага как можно быстрее!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="Используйте Ферму, чтобы заполнить копилку!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="{0} раз призывов и получите {1} !"
+
+"DATA_WARNING_WINDOW_TITLE"="Сохранение игры обнаружено!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="Мы нашли другую сохраненную игру в вашей учетной записи. Вы хотите использовать облачное сохранение или оставить локальное?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="Аккаунт обнаружен!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="Учетная запись, в которую вы пытаетесь войти, уже связана с другим ID Kingdom Rush Battles. Вы хотите войти в эту учетную запись, несмотря на это? (текущая сессия будет закрыта)"
+
+"LOGOUT_WINDOW_TITLE"="ВНИМАНИЕ!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="Если вы выйдете из системы, прогресс на этом устройстве будет сброшен; однако данные вашей учетной записи останутся в облаке.\nВы все равно хотите выйти из системы? (текущая сессия будет закрыта)"
+
+"GAME_MSG_DEFEAT"="ПОРАЖЕНИЕ!"
+
+"GAME_MSG_DRAW"="НИЧЬЯ!"
+
+"GAME_MSG_FINAL_WAVE"="Битва с боссом!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="УРОВЕНЬ ВВЕРХ"
+
+"GAME_MSG_VERSUS"="против"
+
+"GAME_MSG_VICTORY"="ПОБЕДА!"
+
+"GAME_MSG_WAITING_OPPONENT"="Ожидание противника"
+
+"GAME_MSG_WAVE_NUMBER"="Волна {0}"
+
+"GAME_MODIFIERS_TITLE"="ВЫБЕРИТЕ УСИЛИТЕЛЬ"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="ВЫЖИВШИЙ"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="Выжить до волны 4"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="ЗАВОЕВАТЕЛЬ"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="Выиграй матч"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="НЕПОБЕДИМЫЙ"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="Не потеряйте ни одного сердца"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="БЛИЦ"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="Победите до волны 4"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="ВЫЗОВ"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="Достигните финальной волны"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="УБИЙЦА"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="Убейте финального босса"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="МАСТЕРСТВО"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="Победа в Буткемпе!"
+
+"GAME_UPDATE_BUTTON"="ОБНОВЛЕНИЕ"
+
+"GAME_UPDATE_DESCRIPTION"="Новая версия игры доступна в магазине."
+
+"GAME_UPDATE_TITLE"="ОБНОВЛЕНИЕ ДОСТУПНО!"
+
+"MAINTENANCE_MODE_BUTTON"="ВЫХОД"
+
+"MAINTENANCE_MODE_DESCRIPTION"="Игра будет недоступна до завершения обновлений"
+
+"MAINTENANCE_MODE_TITLE"="РЕЖИМ ОБСЛУЖИВАНИЯ"
+
+"INITIALIZING"="ИНИЦИАЛИЗАЦИЯ"
+
+"LOADING"="ЗАГРУЗКА"
+
+"SLOW_CONNECTION"="МЕДЛЕННОЕ СОЕДИНЕНИЕ"
+
+"LOADING_WAITING_OPPONENT"="ОЖИДАНИЕ ПРОТИВНИКА"
+
+"LOADING_SYNC_PLAYERS"="СИНХРОНИЗАЦИЯ ИГРОКОВ"
+
+"MATCH_MAKING_TIP_1"="Физические броневые враги слабы к магии, и наоборот."
+
+"MATCH_MAKING_TIP_10"="Противники с монетой при убийстве оставляют дополнительное золото."
+
+"MATCH_MAKING_TIP_2"="Разместите артиллерию рядом с казармой для концентрированного урона."
+
+"MATCH_MAKING_TIP_3"="Летающих врагов нельзя блокировать; попробуйте использовать Башни Лучников."
+
+"MATCH_MAKING_TIP_4"="Башни имеют уникальные навыки на уровне улучшения 3."
+
+"MATCH_MAKING_TIP_5"="Выберите усилители, которые противостоят башням вашего противника."
+
+"MATCH_MAKING_TIP_6"="Продажа башен возвращает процент от их стоимости."
+
+"MATCH_MAKING_TIP_7"="Проверьте информацию арены для статистики и умений врагов."
+
+"MATCH_MAKING_TIP_8"="Сбалансированная колода должна включать по 1 из каждого типа башни."
+
+"MATCH_MAKING_TIP_9"="Завершите волны быстрее своего противника, чтобы получить дополнительное золото."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="Зарабатывайте опыт игрока, чтобы повысить уровень ваших усилителей"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="Этот враг появится из портала на разных этапах."
+
+"SEARCHING_FOR_OPPONENT"="Поиск\nпротивника..."
+
+"SURVEY_POPUP"="Ваши отзывы бесценны для нас! Поделитесь своими мыслями, пройдя короткий опрос (2 - 3 минуты). Ваши ответы помогут нам выявить области для улучшения и добавить функции, чтобы улучшить игру и создать более увлекательный опыт для всех игроков."
+
+"TAB_BATTLE"="Бой"
+
+"TAB_COLLECTION"="Коллекция"
+
+"TAB_SHOP"="Магазин"
+
+"TERRAIN_COLISEUM_NAME"="СТАДИОН"
+
+"TERRAIN_COLISEUM_DESC"="Испытайте себя в этом рейтинговом Стадионе, сражаясь с прежними врагами и этапами, чтобы заработать Медали.\nТеперь ваша очередь стать лучшим игроком в Battle Towers в мире!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="Логово Бандитов"
+
+"TERRAIN_FOREST_1_NAME"="СИЛЬВЕРОАКСКИЙ ЛЕС"
+
+"TERRAIN_FOREST_2_NAME"="Серебряный лес"
+
+"TERRAIN_FOREST_3_NAME"="Сильвероакский лес"
+
+"TERRAIN_MOUNTAIN_1_NAME"="ГРОЗОВЫЕ ГОРЫ"
+
+"TERRAIN_MOUNTAIN_2_NAME"="Грозовые Горы"
+
+"TERRAIN_MOUNTAIN_3_NAME"="Грозовые Горы"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="ЛОГОВО БАНДИТОВ"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="Логово Бандитов"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="Логово Бандитов"
+
+"TERRAIN_TRAINING_NAME"="Учебный лагерь"
+
+"STAGE_TRAINING_1"="Тренировочная площадка"
+
+"STAGE_FOREST_1"="Южный Порт"
+
+"STAGE_FOREST_2"="Поля"
+
+"STAGE_FOREST_3"="Фермерские угодья"
+
+"STAGE_FOREST_4"="Окраины"
+
+"STAGE_FOREST_5"="Река"
+
+"STAGE_MOUNTAIN_1"="Замерзшие Тропы"
+
+"STAGE_MOUNTAIN_2"="Двойные Пики"
+
+"STAGE_MOUNTAIN_3"="Гнездо троллей"
+
+"STAGE_MOUNTAIN_4"="Переход Ледяных Ветров"
+
+"STAGE_MOUNTAIN_5"="Ледяная Ущелье"
+
+"STAGE_BANDITS_1"="Грязные земли"
+
+"STAGE_BANDITS_2"="Лагерь головорезов"
+
+"STAGE_BANDITS_3"="Тропа Гадюки"
+
+"STAGE_BANDITS_4"="Перекрёсток Мертвеца"
+
+"STAGE_BANDITS_5"="Тихолесье"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="Добро пожаловать в <color=#0DA7FF>Kingdom Rush Battles</color>! <br>Давайте изучим основы..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="Время защищаться! Давайте <color=#0DA7FF>построим Башню</color>, чтобы остановить этих диких гоблинов, прежде чем они убегут!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="Молодец! Вы <color=#0DA7FF>заработали немного золота</color> с побежденных врагов. Давайте используем его, чтобы построить еще одну башню."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="Осторожно! Враги проходят! Если они убегут, вы потеряете жизни. <color=#0DA7FF>Улучшите вашу башню</color>, чтобы нанести больше урона!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="Осторожно! Враги проходят! Если они убегут, вы <color=#0DA7FF>потеряете жизни</color>."
+
+"NEW_TUTORIAL_1_MSG_HERO"="<color=#0DA7FF>Герой</color> Джеральд присоединяется к битве! Перетащите его ближе к врагам, чтобы вступить в бой!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="Приближаются более сильные враги! Давайте <color=#0DA7FF>используем заклинание!</color> Перетащите, чтобы обрушить Огненный Дождь на поле боя!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="Битва продолжается наверху! Сразитесь с другими генералами - <color=#0DA7FF>побеждает последний выживший</color>. Удачи!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="Вперёд!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="Противник <color=#0DA7FF>вот-вот проиграет!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>Выберите усилитель!</color> Они могут усилить вашу защиту или усложнить волны противника."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="Не дайте врагам сбежать! Постройте башню, чтобы отбить их!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="Из портала появился <color=#837272>бронированный</color> враг! Постройте <color=#0DA7FF>Мага</color>, чтобы остановить их."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="Смотри! Некоторые из <color=#0DA7FF>врагов противника убегают!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="Постройка башен стоит золота. Зарабатывайте больше золота, побеждая врагов."
+
+"TUTORIAL_1_MSG_HERO"="Герой Джеральд появился! Вы можете переместить его, чтобы сразиться с наступающими врагами."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="Ваш противник также будет строить Башни, чтобы защитить свою сторону!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Примените 'Дождь Огня', чтобы уничтожить эту группу гоблинов."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="У вас есть новое заклинание в вашем арсенале"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="Вы можете использовать свое Золото, чтобы улучшать Башни и делать их сильнее."
+
+"TUTORIAL_1_MSG_WELCOME"="Добро пожаловать в Kingdom Rush Battles! Давайте начнем..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="Выберите этот усилитель. Это заставит их иметь дело с летающим врагом."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="Выберите «Зов Дракона». Это заставит их сразиться с летающим врагом."
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="Противник вот-вот проиграет!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="Теперь выберите Усилитель Защиты. Это поможет вам справиться с сильными врагами."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="Выберите 'Могучая Башня'. Это поможет вам справиться с сильными врагами."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="Этот враг имеет <color=#837272>Физическую Броню</color>, что делает его устойчивым к физическому урону."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="У этого врага <color=#0DA7FF>Магическая Броня</color>. Броня изменяет цвет полоски здоровья врага."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="Постройте Мага, чтобы нанести <color=#0DA7FF>магический урон</color> и преодолеть броню врага."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="Новые враги могут оказаться слишком сильными. Давайте улучшим это на всякий случай!"
+
+"TUTORIAL_2_MSG_SKILL_1"="Пора использовать навыки башни. Они помогают сражаться с врагами или атаковать противника!"
+
+"TUTORIAL_2_MSG_SKILL_2"="Сначала улучшите лучников до максимального уровня"
+
+"TUTORIAL_2_MSG_SKILL_3"="Купите навык «Заряженные выстрелы», чтобы атаковать юниты противника"
+
+"TUTORIAL_2_MSG_WELCOME"="Давайте научимся взаимодействовать с вашим противником."
+
+"TUTORIAL_METAGAME_DECK_01"="Вы разблокировали новую Башню! Давайте добавим её в вашу колоду."
+
+"TUTORIAL_METAGAME_DECK_02"="Проверьте раздел Башни!"
+
+"TUTORIAL_METAGAME_DECK_03"="Вы разблокировали новую башню! Давайте добавим её в вашу колоду."
+
+"TUTORIAL_METAGAME_DECK_04"="Улучшение башни увеличит её мощь, используя монеты и осколки."
+
+"TUTORIAL_METAGAME_DECK_05"="Теперь экипировать варваров на вашей палубе"
+
+"TUTORIAL_METAGAME_DECK_06"="Замените башню 'Паладинов' на башню 'Варваров'"
+
+"TUTORIAL_METAGAME_DECK_07"="Все готово! Теперь испытайте то, что вы узнали."
+
+"TUTORIAL_METAGAME_CHEST_01"="Зарабатывайте звезды, играя матчи, чтобы разблокировать сундуки"
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="Вы разблокировали новое заклинание! Давайте добавим его в вашу колоду."
+
+"FTUE_DIRECTIVE_01"="Еще 1 победа, чтобы разблокировать новое заклинание!"
+
+"FTUE_DIRECTIVE_02"="Еще 1 победа, чтобы разблокировать новое заклинание!"
+
+"FTUE_DIRECTIVE_03"="Еще 1 игра, чтобы разблокировать усилители!"
+
+"TITLE_USER_ACCESS"="ДОСТУП ПОЛЬЗОВАТЕЛЯ"
+
+"TITLE_SOUND_SETTINGS"="МУЗЫКА И SFX"
+
+"TITLE_EXTERNAL"="ВНЕШНИЙ"
+
+"TITLE_SETTINGS"="НАСТРОЙКИ"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="ИЗМЕНИТЬ ИМЯ"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="ВЫБЕРИТЕ ИМЯ"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 символов<br>Специальные символы не допускаются"
+
+"ERROR_USERNAME_INVALID"="Недопустимое имя"
+
+"ERROR_USERNAME_INAPPROPIATE"="Имя не разрешено"
+
+"ERROR_USERNAME_UNCHANGED"="Это уже ваше имя"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="НАГРАДЫ ЗАБЛОКИРОВАНЫ"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="Разблокируйте цикл для наград"
+
+"CHEST_YOUR_GOLD"="Монеты"
+
+"SHOP_GOLD"="Золото"
+
+"CHEST_YOUR_STARS"="ЗВЁЗДЫ"
+
+"YOUR_GEM"="Драгоценности"
+
+"CHEST_RESOURCE_CARD"="Ресурс"
+
+"CHEST_GOLD"="МОНЕТЫ"
+
+"CHEST_STAR"="ЗВЁЗДЫ"
+
+"CHEST_YOUR_REWARD"="Ваши Награды"
+
+"CHEST_COMMON_TOWER"="Обычная Башня"
+
+"CHEST_EPIC_TOWER"="Эпическая Башня"
+
+"CHEST_RARE_TOWER"="Редкая Башня"
+
+"CHEST_LEGENDARY_TOWER"="Легендарная Башня"
+
+"CHEST_COMMON_HERO"="Обычный Герой"
+
+"CHEST_EPIC_HERO"="Эпический Герой"
+
+"CHEST_RARE_HERO"="Редкий Герой"
+
+"CHEST_LEGENDARY_HERO"="Легендарный Герой"
+
+"CHEST_COMMON_SPELL"="Обычное заклинание"
+
+"CHEST_EPIC_SPELL"="Эпическое заклинание"
+
+"CHEST_RARE_SPELL"="Редкое заклинание"
+
+"CHEST_LEGENDARY_SPELL"="Легендарное заклинание"
+
+"CHEST_NEW_CARD"="НОВОЕ!"
+
+"CHEST_INFO_NAME_GOLD"="Золотой сундук"
+
+"CHEST_INFO_NAME_SILVER"="Деревянный сундук"
+
+"CHEST_INFO_NAME_MAGICAL"="Волшебный сундук"
+
+"CHEST_INFO_NAME_BRAVERY"="Боевой сундук"
+
+"CHEST_INFO_NAME_LEVEL_UP"="Сундук Повышения Уровня"
+
+"CHEST_INFO_CONTAINS_TITLE"="Содержит как минимум:"
+
+"CHEST_INFO_CONTAINS_RARES"="Редкие"
+
+"CHEST_INFO_CONTAINS_EPICS"="Эпики"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="Легендарные"
+
+"CHEST_INFO_CONTAINS_RARE"="Редкий"
+
+"CHEST_INFO_CONTAINS_EPIC"="Эпик"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="Легендарный"
+
+"CHEST_INFO_CLAIM_BUTTON"="Открыть!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="ЗАБЛОКИРОВАНО"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="Обычные Карты"
+
+"CHEST_INFO_CLAIM"="Получить!"
+
+"CHEST_INFO_UNLOCK_NOW"="Разблокировать сейчас"
+
+"CHEST_INFO_EXTRA_TITLE"="Шанс:"
+
+"CHEST_TOOLTIP_CLAIM"="ПОЛУЧИ!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="Выберите свою награду"
+
+"TROPHY_REWARD_SCREEN_TITLE"="Награда"
+
+"XP_LEVEL_UP_TITLE"="НОВЫЙ УРОВЕНЬ"
+
+"XP_LEVEL_UP_BOOSTER"="Усилители"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="Уровень повышен"
+
+"XP_LEVEL_UP_LVL"="Ур"
+
+"DECK_MAX_LEVEL"="МАКС"
+
+"PROGRESS_BAR_MAX"="МАКС"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="Ур"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="Усилитель улучшен! Улучшите модификаторы игры"
+
+"WELCOME_SCREEN_LOG_TEXT"="• Баннер призыва расколов Элоры завершен\n• Новая карта призыва расколов: Сумеречные Длиннолучники!\nИсправления ошибок\n• Исправлена ошибка, из-за которой перки повышения урона юнитов не применялись во всех случаях.\n• Исправлены несколько перков, которые ошибочно воздействовали на юнитов и башни, на которые не должны были.\n• Артиллерия: исправлена проблема, из-за которой цены на навыки уровня 3 были неправильно перепутаны.\nГеймплей\n• Добавлен новый босс, Джаггернаут, на этапе Заброшенная Долина.\nБаланс\n• Осколок магмы / Вулканический элементаль: длительность каменной фазы увеличена до 12 секунд.\n• Ракетный всадник:\n   • Здоровье снижено на 25%.\n   • Их навык рывка теперь срабатывает только на расстоянии 5 клеток от выхода (увеличено с 3).\n   • Теперь на них можно применить превращение.\n• Теневой лучник: дальний урон снижен на 30%.\nЗаброшенные арены: масштабирование карт крипов и ботов снижено, начиная с Заброшенная Долина."
+
+"WELCOME_SCREEN_TITLE_TEXT"="Что нового"
+
+"SHOP_SCREEN_PLACEHOLDER"="СКОРО"
+
+"SHOP_ROYAL_GOLD_CHEST"="Королевский сундук"
+
+"SHOP_ROYAL_SILVER_CHEST"="Сундук капитана"
+
+"SHOP_ROYAL_BRONZE_CHEST"="Сундук солдата"
+
+"SHOP_GEMS_SLOT_1"="Горсть самоцветов"
+
+"SHOP_GEMS_SLOT_2"="Куча самоцветов"
+
+"SHOP_GEMS_SLOT_3"="Мешок с самоцветами"
+
+"SHOP_GEMS_SLOT_4"="Бочка с самоцветами"
+
+"SHOP_GEMS_SLOT_5"="Хранилище самоцветов"
+
+"SHOP_GEMS_SLOT_6"="Гора самоцветов"
+
+"SHOP_GOLD_SLOT_1"="Горсть Монет"
+
+"SHOP_GOLD_SLOT_2"="Мешок с монетами"
+
+"SHOP_GOLD_SLOT_3"="Хранилище монет"
+
+"SHOP_SPECIAL_OFFER"="Специальное предложение"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Специальные предложения"
+
+"SHOP_STARTER_PACK_TITLE"="Стартовый Пакет"
+
+"SHOP_GOLD_TITLE"="Монеты"
+
+"SHOP_GEMS_TITLE"="Драгоценности"
+
+"SHOP_CHESTS_TITLE"="Сундуки"
+
+"SHOP_FIRST_PURCHASE"="Первая покупка"
+
+"SHOP_PURCHASED"="Куплено"
+
+"SHOP_CLAIMED"="Захвачено"
+
+"SHOP_VALUE"="Ценность"
+
+"SHOP_DAILY_LOCKED"="Открывается на Арене"
+
+"SHOP_FOREST_ARENA_PACK"="Пакет Сильвероак"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="Штормовой Пак"
+
+"SHOP_BANDITS_ARENA_PACK"="Пак бандитов"
+
+"SHOP_COLISEUM_ARENA_PACK"="Стадион Пак"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="Проклятый Пакет"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 звезды"
+
+"RATE_US_BUTTON_5_STARS"="5 звёзд"
+
+"RATE_US_TITLE"="Оценить Игру"
+
+"RATE_US_DESC"="Если вам нравится Kingdom Rush Battles, уделите минуту, чтобы оценить игру."
+
+"RATE_US_DESC_2"="Спасибо за вашу поддержку"
+
+"RATE_US_OPINION_BUTTON_SEND"="Отправить"
+
+"RATE_US_OPINION_REVIEW"="Написать отзыв..."
+
+"RATE_US_OPINION_TITLE"="Дайте нам ваше мнение"
+
+"RATE_US_OPINION_SENT"="Ваш отзыв был отправлен"
+
+"TROPHY_INFO_BOOSTERS"="Усилители"
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="Усилители Атаки"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="Усилители защиты"
+
+"FOREST_STAGE_1"="Лес 1"
+
+"FOREST_STAGE_2"="Лес 2"
+
+"FOREST_STAGE_3"="Лес 3"
+
+"FOREST_STAGE_4"="Лес 4"
+
+"FOREST_STAGE_5"="Лес 5"
+
+"MOUNTAIN_STAGE_1"="Гора 1"
+
+"MOUNTAIN_STAGE_2"="Гора 2"
+
+"MOUNTAIN_STAGE_3"="Гора 3"
+
+"MOUNTAIN_STAGE_4"="Гора 4"
+
+"MOUNTAIN_STAGE_5"="Гора 5"
+
+"BANDITS_LAIR_1"="Логово Бандитов 1"
+
+"BANDITS_LAIR_2"="Логово Бандитов 2"
+
+"BANDITS_LAIR_3"="Логово Бандитов 3"
+
+"BANDITS_LAIR_4"="Логово Бандитов 4"
+
+"BANDITS_LAIR_5"="Логово Бандитов 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="Нет"
+
+"LEADERBOARD_TITLE"="Таблица лидеров"
+
+"LEADERBOARD_BUTTON"="Таблица лидеров"
+
+"LEADERBOARD_TAB_GLOBAL"="Глобальный"
+
+"LEADERBOARD_TAB_LOCAL"="Локальный"
+
+"LEADERBOARD_USER_NOT_RANKED"="Достигните стадиона, чтобы ранжироваться"
+
+"SPECIAL_BUTTON_NAME"="Арсенал разблокирован"
+
+"SELL_TOWER_TITLE"="Продать башню"
+
+"SELL_TOWER_DESCRIPTION"="Продайте эту башню и получите возврат {0} золота."
+
+"BANDITS_LAIR_STAGE_1"="Логово Бандитов 1"
+
+"BANDITS_LAIR_STAGE_2"="Логово Бандитов 2"
+
+"BANDITS_LAIR_STAGE_3"="Логово Бандитов 3"
+
+"BANDITS_LAIR_STAGE_4"="Логово Бандитов 4"
+
+"BANDITS_LAIR_STAGE_5"="Логово Бандитов 5"
+
+"TAUNT_THANKS"="Спасибо!"
+
+"TAUNT_GOOD_LUCK"="Удачи"
+
+"TAUNT_OOPS"="Упс..."
+
+"TAUNT_WELL_PLAYED"="Молодец"
+
+"UNMUTE_TO_SEND_EMOTES"="Включите звук, чтобы отправлять и получать эмодзи"
+
+"BANDITS_LAIR_STAGE_1"="Логово Бандитов 1"
+
+"BANDITS_LAIR_STAGE_2"="Логово Бандитов 2"
+
+"BANDITS_LAIR_STAGE_3"="Логово Бандитов 3"
+
+"BANDITS_LAIR_STAGE_4"="Логово Бандитов 4"
+
+"BANDITS_LAIR_STAGE_5"="Логово Бандитов 5"
+
+"TAUNT_THANKS"="Спасибо!"
+
+"TAUNT_GOOD_LUCK"="Удачи!"
+
+"TAUNT_OOPS"="Ой..."
+
+"TAUNT_WELL_PLAYED"="Молодец"
+
+"UNMUTE_TO_SEND_EMOTES"="Включите звук, чтобы отправлять и получать эмодзи"
+
+"FOREST_STAGE_1"="Лес 1"
+
+"FOREST_STAGE_2"="Лес 2"
+
+"FOREST_STAGE_3"="Лес 3"
+
+"FOREST_STAGE_4"="Лес 4"
+
+"FOREST_STAGE_5"="Лес 5"
+
+"MOUNTAIN_STAGE_1"="Гора 1"
+
+"MOUNTAIN_STAGE_2"="Гора 2"
+
+"MOUNTAIN_STAGE_3"="Гора 3"
+
+"MOUNTAIN_STAGE_4"="Гора 4"
+
+"MOUNTAIN_STAGE_5"="Гора 5"
+
+"BANDITS_LAIR_1"="Логово Бандитов 1"
+
+"BANDITS_LAIR_2"="Логово Бандитов 2"
+
+"BANDITS_LAIR_3"="Логово Бандитов 3"
+
+"BANDITS_LAIR_4"="Логово Бандитов 4"
+
+"BANDITS_LAIR_5"="Логово Бандитов 5"
+
+"BANDITS_LAIR_STAGE_1"="Логово Бандитов 1"
+
+"BANDITS_LAIR_STAGE_2"="Логово Бандитов 2"
+
+"BANDITS_LAIR_STAGE_3"="Логово Бандитов 3"
+
+"BANDITS_LAIR_STAGE_4"="Логово Бандитов 4"
+
+"BANDITS_LAIR_STAGE_5"="Логово Бандитов 5"
+
+"HERO_GERALD_DESCRIPTION"="Герой Линиры и символ справедливости, он противостоял угрозам как из этого мира, так и из-за его пределов. Связанный торжественной клятвой, он всегда первым бросается в бой и последним отступает, движимый долгом защищать невинных и оборонять слабых любой ценой."
+
+"HERO_GERALD_SHORT_DESC"="-Восстанавливает HP, когда низкий.<br>-Усиливает союзников.<br>-Шанс отразить урон."
+
+"HERO_GERALD_NAME"="Джеральд Искатель Света"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="Когда его здоровье падает до опасного уровня, он использует свою святую силу, чтобы восстановить часть здоровья."
+
+"HERO_GERALD_SKILL_0_NAME"="Божественная молитва"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="Как Герой Линиреи, его непоколебимая храбрость излучается на ближайших союзников, периодически увеличивая их здоровье и урон на короткое время."
+
+"HERO_GERALD_SKILL_1_NAME"="Мужество"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="Во время боя он может поднять щит на несколько секунд, кратковременно отражая весь входящий урон обратно на атакующих."
+
+"HERO_GERALD_SKILL_2_NAME"="Щит Возмездия"
+
+"HERO_ALLERIA_DESCRIPTION"="Дочь эльфийской королевы и наследница вечного наследия, Аллерия также является стремительной и очаровательной лучницей. С её спутником Дикой кошкой они поражают врагов прежде, чем те успевают прицелиться. Её грация в бою соперничает только с её непоколебимой преданностью природе."
+
+"HERO_ALLERIA_SHORT_DESC"="-Выпускает несколько стрел одновременно.<br>-Призывает Дикого Кота.<br>-Шанс телепортации при ударе."
+
+"HERO_ALLERIA_NAME"="Алерия Стреловей"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="Заряжая магию в лук, она выпускает шквал магических стрел. Эти стрелы могут рассеиваться, чтобы поразить нескольких врагов, или сосредоточиться, чтобы нанести мощный удар по одной цели."
+
+"HERO_ALLERIA_SKILL_0_NAME"="Многократный выстрел"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="Призывает своего верного спутника Дикого Кота, чтобы сражаться на её стороне, прыгая в бой с яростной скоростью и когтями, готовыми защищать своего хозяина и друга."
+
+"HERO_ALLERIA_SKILL_1_NAME"="Зов природы"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="В ближнем бою она может стратегически отступить на безопасное расстояние, избегая опасности и перепозиционируясь для атаки с дальнего расстояния."
+
+"HERO_ALLERIA_SKILL_2_NAME"="Быстрый Уворот"
+
+"HERO_GRAWL_DESCRIPTION"="Защитник подземных тайн, владеющий кулаками и кристаллами, выкованными в его теле, он стоит последним барьером против самого беспощадного подземного империи. Неумолимый и неподвижный, он сражается, чтобы их тьма оставалась запечатанной от мира наверху."
+
+"HERO_GRAWL_SHORT_DESC"="-Ударяет по земле, чтобы оглушить врагов.<br>-Бросает валун во врагов на расстоянии.<br>-Бьет сильным осколочным ударом."
+
+"HERO_GRAWL_NAME"="Грол"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="С силой, сотрясающей землю, ударяет по земле, оглушая и нанося урон всем ближайшим врагам."
+
+"HERO_GRAWL_SKILL_0_NAME"="Топот"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="Вырывает огромный валун из земли и бросает его в дальнюю цель, нанося большой урон и раня ближайших врагов ударной волной."
+
+"HERO_GRAWL_SKILL_1_NAME"="Валун"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="Покрывает свои кулаки острыми как бритва осколками кристалла, нанося сокрушительный удар, который может мгновенно уничтожить врагов."
+
+"HERO_GRAWL_SKILL_2_NAME"="Мощный хук"
+
+"HERO_INGVAR_DESCRIPTION"="Один из самых грозных воинов Племени Медведя, он почитается не только за свою грубую силу, но и за глубокую духовную связь с предками. Когда зов войны разносится по земле, Ингвар отвечает с яростью севера."
+
+"HERO_INGVAR_SHORT_DESC"="-Вращается с топором, чтобы нанести урон в области.<br>-Призывает викингов-предков для боя.<br>-Превращается в медведя, когда HP низкий."
+
+"HERO_INGVAR_NAME"="Ингвар Медведь"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="Выпускает мощный вращающийся удар своим топором, нанося урон всем врагам вокруг него."
+
+"HERO_INGVAR_SKILL_0_NAME"="Викингская ярость"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="Дует в священный боевой рог, призывая призрачных духов своих викингов-предков присоединиться к нему в бою."
+
+"HERO_INGVAR_SKILL_1_NAME"="Зов Предков"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="Когда его здоровье на исходе, Ингвар обращается к первобытной силе своей крови. Превращаясь в огромного медведя, он становится временно неуязвимым, получает увеличенную силу и быстро восстанавливает здоровье"
+
+"HERO_INGVAR_SKILL_2_NAME"="Форма медведя"
+
+"HERO_DIERDRE_DESCRIPTION"="Спасенная Эгионом после падения её города, она была закалена верой и священной дисциплиной, став первой настоящей фронтовой жрицей. Рискуя жизнью, чтобы защитить своих союзников там, где другие падают, она стала сияющим светом в самый тёмный час."
+
+"HERO_DIERDRE_SHORT_DESC"="-Лечит ближайших союзников.<br>-Дает дополнительный урон до 2 Башням.<br>-Дает дополнительную броню себе и союзникам."
+
+"HERO_DIERDRE_NAME"="Дидра"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="Использует святую магию, чтобы наложить исцеляющее заклинание, восстанавливающее здоровье ближайших союзников."
+
+"HERO_DIERDRE_SKILL_0_NAME"="Святой свет"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="Зачаровывает ближайшие башни святой силой, увеличивая их урон."
+
+"HERO_DIERDRE_SKILL_1_NAME"="Освящение"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="Благословляет броню ближайших союзников, включая себя, повышая их физическую броню на несколько секунд."
+
+"HERO_DIERDRE_SKILL_2_NAME"="Небесная защита"
+
+"HERO_ASHBITE_DESCRIPTION"="Могущественный и свирепый огненный дракон, Эшбайт плавит всех, кто осмелится встать у него на пути. Неизвестно, почему он защищает Линирею - одни шепчут, что это от скуки, другие говорят, что это жажда боя. Какова бы ни была причина, когда он взмывает в бой, за ним следуют пламя."
+
+"HERO_ASHBITE_SHORT_DESC"="-Изрыгает дыхание, наносящее урон по области.<br>-Кусает врага с шансом мгновенного убийства.<br>-Бросает взрывной огненный шар."
+
+"HERO_ASHBITE_NAME"="Сполох"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="Обрушивает поток обжигающего огня на врага впереди, нанося непрерывный урон всем врагам, попавшим в его пылающий путь."
+
+"HERO_ASHBITE_SKILL_0_NAME"="Огненное дыхание I"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="Набрасывается на одну цель с сокрушительным укусом, нанося урон и с шансом мгновенно поглотить врага."
+
+"HERO_ASHBITE_SKILL_1_NAME"="Трапеза"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="Бросает огромный огненный шар в дальнюю цель. При ударе он взрывается и вызывает серию вторичных взрывов, нанося значительный урон по площади."
+
+"HERO_ASHBITE_SKILL_2_NAME"="Выжженная земля"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="Создает метеоритный дождь, который падает на юнит противника, поджигая землю и сжигая все соседние юниты."
+
+"HERO_ASHBITE_SKILL_3_NAME"="Пылающие Метеоры"
+
+"HERO_ASHBITE_PACK_NAME"="Ветеранский Пакет"
+
+"HERO_MAGNUS_DESCRIPTION"="Когда-то он был многообещающим учеником печально известного Везнана, но вступил в армию Королевства после того, как его наставник пал на тёмную сторону. Теперь, будучи могущественным защитником Линиреи, Магнус владеет продвинутой арканной магией и иллюзиями с непревзойдённой точностью, а его обширные знания уступают лишь боевому мастерству."
+
+"HERO_MAGNUS_SHORT_DESC"="-Создает теневые клоны самого себя.<br>-Вызывает бурю, наносящую урон в области.<br>-Может телепортироваться на большие расстояния."
+
+"HERO_MAGNUS_NAME"="Зловещий Магнус"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="Использует продвинутую арканную энергию для мгновенного перемещения на большие расстояния."
+
+"HERO_MAGNUS_SKILL_0_NAME"="Телепорт"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="Как мастер тайной магии, он создает временные иллюзии себя, чтобы помочь ему в бою."
+
+"HERO_MAGNUS_SKILL_1_NAME"="Мираж"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="Выпускает разрушительный взрыв тайной энергии на большой площади, многократно поражая всех врагов в зоне."
+
+"HERO_MAGNUS_SKILL_2_NAME"="Арканная буря"
+
+"HERO_HACKSAW_DESCRIPTION"="Знаменитый гном-изобретатель Хаксоу путешествует по миру в специально созданном им мехе, вооружённом смертоносными гаджетами. Каждое новое сражение — это и опасность, и возможность, топливо для его следующего изобретения."
+
+"HERO_HACKSAW_SHORT_DESC"="-Бросает лезвие, наносящее урон врагам.<br>-Сверлит врага с шансом мгновенного убийства.<br>-Устанавливает вращающуюся пилу на земле."
+
+"HERO_HACKSAW_NAME"="Пильщик"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="Устанавливает пильный диск на землю. Враги в зоне действия получают урон, пока пила активна."
+
+"HERO_HACKSAW_SKILL_0_NAME"="Лесопилка"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="Выпускает скрытую сверлильную руку, чтобы нанести мощный удар по врагу с шансом мгновенного убийства."
+
+"HERO_HACKSAW_SKILL_1_NAME"="ЛЕСОРУБ!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="Бросает клинок, который рикошетит между несколькими врагами, разрезая каждого и нанося урон при каждом ударе."
+
+"HERO_HACKSAW_SKILL_2_NAME"="Летающий диск"
+
+"HERO_VESPER_DESCRIPTION"="В самый тёмный час Линирии, Веспер, выбранный командующим оставшимися силами, превратил отчаяние в сопротивление. Он использует партизанскую тактику для точных ударов по захватчикам, становясь вдохновением для новых поколений героев."
+
+"HERO_VESPER_SHORT_DESC"="-Выпускает стрелу, оглушающую врага.<br>-Выпускает рикошетирующую стрелу.<br>-Трижды подряд поражает врага."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-Выпускает стрелу, оглушающую врага.<br>-Выпускает рикошетирующую стрелу.<br>-Трижды подряд поражает врага."
+
+"HERO_VESPER_NAME"="Веспер"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="Выпускает метко направленную стрелу, которая наносит урон и оглушает одного врага."
+
+"HERO_VESPER_SKILL_0_NAME"="Стрела в колено"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="Выпускает стрелу, которая отскакивает между врагами, нанося урон при каждом попадании. Требуется три цели для активации."
+
+"HERO_VESPER_SKILL_1_NAME"="Рикошет"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="Выпускает серию из трех быстрых ударов в ближнем бою по одному врагу, каждый удар увеличивает общий нанесенный урон."
+
+"HERO_VESPER_SKILL_2_NAME"="Боевой расцвет"
+
+"HERO_AEGION_DESCRIPTION"="Одинокий капитан, который стоял непоколебимо против падения города паладинов, он вел свой отряд через беспощадные волны врагов, прокладывая безопасный путь и спасая близлежащие города от Тьмы. После жестокой битвы он ушел в отставку, возвращаясь только тогда, когда в Королевстве возникает угроза."
+
+"HERO_AEGION_SHORT_DESC"="-Отталкивает врагов своим щитом.<br>-Проецирует щит, блокирующий врагов.<br>-Использует щит, чтобы стрелять по летающим врагам."
+
+"HERO_AEGION_NAME"="Эгион Светлая Сталь"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="Сливает его щит с святой силой, чтобы осветить его щит, поражая врагов и телепортируя их назад."
+
+"HERO_AEGION_SKILL_0_NAME"="Священный Щит"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="Создает проекцию щита, которая блокирует атаки врагов на несколько секунд, отражая полученный урон обратно на атакующего."
+
+"HERO_AEGION_SKILL_1_NAME"="Тяжелый Щит"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="Каждые несколько секунд выпускает сфокусированный луч из своего щита в летающего врага."
+
+"HERO_AEGION_SKILL_2_NAME"="Воздушный Удар Щит"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="Известная своим холодным нравом и мощной магией, Элора является самой страшной колдуньей северных земель. На протяжении многих лет она в одиночку противостояла захватчикам, оставляя за собой ледяные скульптуры - безмолвные предупреждения всем, кто осмелится бросить ей вызов."
+
+"HERO_ELORA_SHORT_DESC"="-Оставляет след, наносящий урон при движении.<br>-Накладывает замораживающее заклинание с высоким уроном по площади.<br>-Замедляет врагов в области."
+
+"HERO_ELORA_NAME"="Элора Леденящая"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="Направляет свою магию, чтобы двигаться быстро, оставляя след острых сосулек, которые наносят урон врагам, которые следуют."
+
+"HERO_ELORA_SKILL_0_NAME"="Ледяная Тропа"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="Выпускает мощное заклинание, которое заключает область в лед, значительно замедляя движение врагов."
+
+"HERO_ELORA_SKILL_1_NAME"="Вечная мерзлота"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="Накладывает яростное, проникающее заклинание, обрушивающее смертоносные ледяные осколки на широкую область."
+
+"HERO_ELORA_SKILL_2_NAME"="Ледяной Шторм"
+
+"HERO_EISKALT_DESCRIPTION"="Опасный ледяной вайверн, движимый сильным охотничьим инстинктом по отношению к людям. Его одно лишь присутствие — это сила природы и природная катастрофа сама по себе. Где бы он ни появился, земля неизбежно превращается в огромную ледяную пустошь."
+
+"HERO_EISKALT_SHORT_DESC"="-Бросает колючие снежки.<br>-Создает повреждающие ледяные шипы на полу.<br>-Замедляет врагов."
+
+"HERO_EISKALT_NAME"="Ледяной"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="Запускает колючий снежок, который движется по пути, нанося урон врагам."
+
+"HERO_EISKALT_SKILL_0_NAME"="Лавина"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="Накладывает заклинание, чтобы вызвать зазубренные ледяные шипы из земли, которые распространяются, пронзая и нанося урон пойманным врагам."
+
+"HERO_EISKALT_SKILL_1_NAME"="Ледяная Вершина"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="Замораживает землю под врагами, значительно замедляя их скорость передвижения на несколько секунд."
+
+"HERO_EISKALT_SKILL_2_NAME"="Ледяное Дыхание"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="Создает ледяной шторм, который замораживает на месте все вражеские юниты, оглушая их на несколько секунд."
+
+"HERO_EISKALT_SKILL_3_NAME"="Ледяной Шторм"
+
+"TOWER_ARCHER_DESCRIPTION"="Элитные лучники в обучении, известные своей точностью и острым глазом на уязвимости врагов. Даже бронированные враги не в безопасности - каждый выстрел может глубоко проникнуть, оставляя цели опасно раненными."
+
+"TOWER_ARCHER_NAME"="Башня лучников"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="Каждая атака может вызвать кровотечение у врага, нанося урон со временем.\n(Навык всегда активен)"
+
+"TOWER_ARCHER_SHORT_DESC"="Специалисты-лучники с умением заставлять врагов истекать кровью"
+
+"TOWER_ARCHER_SKILL_0_NAME"="Кровотечение"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="Выпускает град стрел, который обрушивается на ближайшую область, нанося физический урон всем пойманным врагам.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="Обрушивает стрелы на область, нанося урон всем поражённым врагам."
+
+"TOWER_ARCHER_SKILL_1_NAME"="Залп Стрел"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="Оба лучника натягивают свои луки, чтобы нанести мощный удар по двум вражеским юнитам.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="Мощные стрелы поражают два вражеских юнита."
+
+"TOWER_ARCHER_SKILL_2_NAME"="Заряженные выстрелы"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="Даже ветераны эльфов признают их мастерство в стрельбе из лука, эти мастера-рейнджеры атакуют издалека, выпуская разрушительные залпы. Будучи мастерами дикой природы, они используют сам лес, чтобы мешать и вредить своим врагам."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="Ветераны-рейнджеры, командующие природой, чтобы ловить врагов."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="Лесное братство"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="Во время атаки они могут использовать специальную стрелу, из-за которой из земли вырываются лозы, удерживая врага на месте на несколько секунд. \n(Навык всегда активен)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="Лесные Лианы"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="Рейнджеры стреляют волнами ядовитых стрел по всем ближайшим врагам, отравляя их и нанося урон со временем. \n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="Запускает ядовитые стрелы, которые отравляют врагов и наносят урон со временем."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="Ядовитая Стрела"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="Используя своё мастерство в обращении с природой, рейнджер стреляет зачарованной стрелой в сторону противника, вызывая стаю Энтов-волков. Ловкие и неуловимые, эти существа уклоняются от ближних атак, пытаясь пробраться сквозь линии врага.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="Призывает группу Волков-Энтов на стороне противника."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="Зеленые Защитники"
+
+"TOWER_MAGE_DESCRIPTION"="Фронт обороны королевства в магии, эти ученики волшебников используют элементальные заклинания для концентрации своей маны. Их магия нестабильна и взрывоопасна, и особенно опасна для врагов, пытающихся проскользнуть незамеченными."
+
+"TOWER_MAGE_SHORT_DESC"="Маг, чьи магические снаряды разделяются после удара по врагу."
+
+"TOWER_MAGE_NAME"="Башня мага"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="Каждый раз, когда перегруженный заряд попадает во врага, избыточная энергия заставляет его разделяться на дополнительные заряды, поражая ближайших врагов с уменьшенным уроном.\n(Навык всегда активен)"
+
+"TOWER_MAGE_SKILL_0_NAME"="Цепной Разряд"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="Маг направляет накопленную ману в сосредоточенный залп магических болтов, наносящий значительный урон нескольким ближайшим врагам.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="Выпускает магический залп, наносящий урон нескольким ближайшим врагам."
+
+"TOWER_MAGE_SKILL_1_NAME"="Залп Заклинаний"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="Маг использует свой посох, чтобы наложить защитное заклинание на группу вражеских юнитов на стороне противника, предоставляя им сопротивление магическому урону.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="Защищает некоторых врагов противника от магического урона."
+
+"TOWER_MAGE_SKILL_2_NAME"="Зачарование"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="Достигнув вершины магического мастерства, эти могущественные маги могут изменять саму реальность. Используя свои обширные магические знания, они могут ослабить, переместить или полностью уничтожить любого врага, осмелившегося бросить вызов их владениям."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="Мастер тайной магии с силой ослаблять магическое сопротивление врага."
+
+"TOWER_ARCANE_WIZARD_NAME"="Таинственный Волшебник"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="Каждая атака имеет шанс вызвать антимагическую ауру, уменьшающую магическую сопротивляемость пораженных врагов.\n(Навык всегда активен)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="Магический Прорыв"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="Благодаря глубокому пониманию магии, волшебник создает искажающий реальность круг, который телепортирует группу врагов назад по их пути.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="Телепортирует нескольких врагов назад"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="Телепорт"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="Арканный маг сосредотачивает огромное количество маны, чтобы выпустить один разрушительный луч, мгновенно уничтожающий врага.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="Мгновенно убивает любого врага, на которого нацелен."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="Луч смерти"
+
+"TOWER_ARTILLERY_DESCRIPTION"="Вершина гномьей металлургии, это тяжелая артиллерия изготовлена из самых прочных сплавов и оснащена разрушительными боеприпасами. С разнообразием специализированных снарядов, она может уничтожать вражеские силы, даже находящиеся за пределами её досягаемости."
+
+"TOWER_ARTILLERY_SHORT_DESC"="Тяжёлая артиллерия, способная запускать взрывные кассетные снаряды."
+
+"TOWER_ARTILLERY_NAME"="Гномья артиллерия"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="Имеет шанс выпустить кластерный снаряд, который взрывается в воздухе, сбрасывая несколько мелких бомб, которые рассеиваются и бомбардируют область.\n(Навык всегда активен)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="Кластер"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="Запускает управляемую ракету, которая наводится на цель, взрывается при контакте и наносит урон в области вокруг. Может также нацеливаться на летающих врагов.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="Выпускает самонаводящуюся ракету, которая взрывается, нанося урон врагам в области."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="Пусковая установка"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="Целится и стреляет высокоимпульсной ракетой по вражеским юнитам. Взрыв вызывает ударную волну, временно оглушающую ближайшие вражеские башни.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="Запускает ракету на сторону противника, нанося урон и оглушая башни."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="Ракета T.A.R"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="Изначально созданный для пробивания самых глубоких пород, этот мощный гномий бур был перекован в грозное оборонительное оружие. Он сотрясает землю, нанося урон и оглушая вражеские юниты и структуры."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="Дварфийская дрель оглушает врагов с каждым ударом."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="Каждая атака разрушает землю вокруг башни, ненадолго оглушая всех ближайших врагов.\n(Навык всегда активен)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="Шок и трепет"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="Высвобождает всю мощь бура, чтобы разорвать местность, вызывая поток расплавленной лавы, который сжигает всех ближайших врагов и оставляет обожженную землю, которая продолжает наносить урон со временем.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="Сжигает окружающих врагов и заполняет землю магмой."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="Сила горнила"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="Определяя местоположения вражеских башен, вызывает направленный сейсмический удар, который разрушает землю под башнями противника, оглушая их на короткое время.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="Оглушает некоторые башни противника, вызывая локальные толчки."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="Землетрясение"
+
+"TOWER_BARRACK_DESCRIPTION"="Часто называемые святыми хранителями, они являются щитами и защитниками граждан. Эти мощные рыцари известны своей непоколебимой верой и храбростью перед сильными врагами."
+
+"TOWER_BARRACK_SHORT_DESC"="Паладины, которые защищают себя священной убежденностью."
+
+"TOWER_BARRACK_NAME"="Казарма Паладинов"
+
+"BARRACK_UNIT_NAME"="паладин"
+
+"BARRACK_UNIT_SHORT_DESC"="Бронированный воин, благословленный божественной стойкостью."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="В разгар битвы паладины могут поднять свои щиты с божественной целью, отражая часть входящего урона.\n(Навык всегда активен)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="Железная Воля"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="Укрепленный священным светом, Паладин вонзает меч в землю, создавая всплеск сияющей энергии, который наносит урон всем врагам вокруг него.\n(Купите навык на максимальном уровне башни)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="Выпускает всплеск святой энергии, нанося урон ближайшим врагам."
+
+"TOWER_BARRACK_SKILL_1_NAME"="Святой удар"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="Столкнувшись с тяжелыми обстоятельствами, Паладин призывает божественную благодать, чтобы исцелить часть своих ран, восстанавливая здоровье с помощью святой магии.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="Восстанавливает здоровье с помощью святой энергии."
+
+"TOWER_BARRACK_SKILL_2_NAME"="Целебный свет"
+
+"TOWER_BARBARIAN_DESCRIPTION"="Эти свирепые и безжалостные северные воины всегда готовы сразиться в самых сложных условиях. Мастера боя с топором, они могут разрывать наземных врагов или метать свои оружия в небо, чтобы сразить летающих противников с жестокой точностью."
+
+"TOWER_BARBARIAN_SHORT_DESC"="Дикие бойцы, которые могут метать топоры в летающих врагов."
+
+"TOWER_BARBARIAN_NAME"="Барбарийская Медовая Зала"
+
+"BARBARIANS_UNIT_NAME"="Варвар"
+
+"BARBARIANS_UNIT_SHORT_DESC"="Брутальные берсеркеры-воины, движимые яростью и инстинктами."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="Варвары могут нацеливаться и атаковать летающих врагов в пределах досягаемости, метая свои топоры с смертоносной точностью.\n(Навык всегда активен)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="Метательные топоры"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="В разгар битвы варвары используют свою ярость, чтобы яростно вращаться с двумя топорами, разрезая всех врагов поблизости.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="Барбары вращаются в смертоносном вихре, нанося урон всем ближайшим врагам."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="Вихрь"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="Третий варвар появляется на вершине башни и безжалостно бросает топоры в вражеские юниты, нанося большой урон.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="Призывает третьего варвара, чтобы бросать топоры в юниты противника."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="Дождь топоров"
+
+"TOWER_MUSKETEER_DESCRIPTION"="Смертельные и терпеливые, эти снайперы могут оставаться неподвижными в течение дней, ожидая идеального выстрела. Вооруженные огнестрельным оружием, выкованным старыми гномами, только самые дисциплинированные стрелки доверяются такой мощи."
+
+"TOWER_MUSKETEER_SHORT_DESC"="Элитные стрелки, обученные пробивать броню и атаковать издалека."
+
+"TOWER_MUSKETEER_NAME"="Гарнизон мушкетеров"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="Используя специальные боеприпасы, они могут пробивать и частично игнорировать физическую броню врага. (Навык всегда активен)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="Проникающий Удар"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="Выпускает взрывной снаряд, который взрывается при ударе, нанося также большой урон по площади врагам вокруг цели.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="Взрывной выстрел, наносящий урон по области вокруг цели."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="Шрапнель"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="Мушкетёры координируют серию быстрых, высокоточных выстрелов по юнитам на стороне противника. Каждый удар наносит урон с шансом мгновенно устранить каждую цель.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="Выпускает серию мощных выстрелов по вражеским юнитам, с шансом мгновенного убийства."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="Снайперские выстрелы"
+
+"TOWER_SORCERER_DESCRIPTION"="Знаменитые мастера творения и элементальной магии, они владеют магией Земли и древними рунами, чтобы создавать или изменять всё по своей воле."
+
+"TOWER_SORCERER_SHORT_DESC"="Мастер рун, чьи атаки разрушают броню врага с каждым ударом."
+
+"TOWER_SORCERER_NAME"="Колдун"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="Каждая атака несет в себе затяжное проклятие, которое разрушает часть физической брони врага.\n(Навык всегда активен)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="Проклятие"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="Они направляют свою магию через руны, выгравированные в башне, чтобы превращать врагов в овец, лишая их сопротивления и уменьшая их здоровье.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="Превращает врага в овцу, уменьшая его здоровье и снимая сопротивления."
+
+"TOWER_SORCERER_SKILL_1_NAME"="Преображение"
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="Благодаря своему мастерству в магии Земли, они вызывают мощных элементалей из камня и почвы, чтобы защитить путь.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="Призывает Каменного Элемента для борьбы с врагами рядом с башней."
+
+"TOWER_SORCERER_SKILL_2_NAME"="Призыв элементаля"
+
+"CREEP_SORCERER_GOLEM_NAME"="Элементаль Камня"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="Могущественный каменный элементаль, который использует чистую силу и непоколебимую стойкость, чтобы сокрушать врагов и охранять путь."
+
+"TOWER_TESLA_DESCRIPTION"="Изначально созданный для обслуживания дварфийской техники, Тесла x104 вскоре был обнаружен как обладающий непревзойденным потенциалом в качестве грозного оборонительного оружия, способного высвобождать необузданную электрическую ярость на поле боя."
+
+"TOWER_TESLA_SHORT_DESC"="Молнии излучаются от цели к ближайшему врагу, нанося часть урона каждый раз."
+
+"TOWER_TESLA_NAME"="Тесла x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="Канализируя силу тысячи бурь, он высвобождает молнии, которые перескакивают между врагами, на земле или в воздухе. Каждый последующий удар наносит часть исходного урона.\n(Навык всегда активен)"
+
+"TOWER_TESLA_SKILL_0_NAME"="Цепь"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="Каждая атака имеет шанс вызвать статическую перегрузку, нанося урон всем врагам в радиусе вокруг башни.\n(Купите навык при максимальном улучшении башни)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="Атаки имеют шанс вызвать статический взрыв области вокруг башни."
+
+"TOWER_TESLA_SKILL_1_NAME"="Перегрев"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="Наносит урон юнитам противника неостановимым потоком громовых молний, оглушая их на несколько секунд.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="Атакует юнит противника, нанося урон и оглушая его."
+
+"TOWER_TESLA_SKILL_2_NAME"="Удар грома"
+
+"TOWER_GLACIAL_DRUID_NAME"="Ледяной Друид"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="Мастера зимнего гнева, они владеют ледяной магией, чтобы вызывать метели и морозные ветры, оставляя за собой след из инея и замедленных врагов."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="Маг, владеющий морозом, который может замедлять группы врагов с каждым ударом."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="Каждая атака вызывает ледяной взрыв, замедляющий всех врагов в области на несколько секунд.\n(Навык всегда активен)"
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="Ледяной Путь"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="Призывает древнюю ледяную силу, чтобы вызвать гигантского Ледяного Великана на путь противника.\n(Купите навык на максимальном уровне башни)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="Призывает Ледяного Великана на путь противника."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="Ледяной великан"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="Выпускает разрушительный ледяной шторм, который временно замораживает некоторые вражеские башни, останавливая их работу.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="Замораживает башни противника, отключая их на короткое время."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="Ледяной шторм"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="Эти эксперты в искусстве магической войны обычно стоят на последнем рубеже обороны. С их разрушительными заклинаниями и точной магией они могут отразить даже самую решительную армию или просто прогнать её."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="Военный маг, который направляет сырую магическую энергию в взрывные болты."
+
+"TOWER_ARCHMAGE_NAME"="Архимаг"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="Каждый болт перезаряжен нестабильной энергией, что дает ему шанс взорваться при ударе и повредить ближайших врагов.\n(Навык всегда активен)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="Критическая масса"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="Освобождает силу магического торнадо, которое разрывает поле боя, нанося урон и таща врагов назад по пути.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="Вызывает торнадо, которое отталкивает врагов назад и наносит урон."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="Смерч"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="Объединяет арканную и измерительную магию, чтобы перемещать некоторых врагов через поле боя, мгновенно отправляя их на сторону противника.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="Телепортирует врага на сторону противника."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="распад"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="С помощью непоколебимой веры и многолетней священной подготовки эти жрицы овладели божественной магией, чтобы защищать своих союзников в опасности. Они — лучшая страховка жизни, которую может получить воин."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="Преданный целитель, который благословляет ближайших союзников, уменьшая получаемый ими урон."
+
+"TOWER_HOLY_SANCTUARY_NAME"="Священное Убежище"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="Жрица благословляет башню, предоставляя божественную защиту всем союзникам в радиусе, уменьшая получаемый урон, пока они остаются поблизости.\n(Навык всегда активен)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="Хранитель Веры"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="Призывает священную силу, чтобы временно усилить близлежащие башни, увеличивая их урон на некоторое время. (Купите навык на максимальном уровне башни)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="Временно усиливает ближайшие башни."
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="Магическое Благословение"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="При обнаружении раненых союзников жрица выпускает всплеск исцеляющей магии, приоритизируя раненых и восстанавливая здоровье всех ближайших юнитов.\n(Купите навык на максимальном уровне башни)Retry"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="Восстанавливает соседние союзные юниты."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="Аура жизни"
+
+"TOWER_NECROMANCER_DESCRIPTION"="Мастера запрещенных искусств, некроманты подчиняют смерть своей воле. Они способны поднимать тела павших врагов в нежить, чтобы сражаться за них, предотвращая, чтобы их союзники встретили ту же судьбу."
+
+"TOWER_NECROMANCER_SHORT_DESC"="Темный маг, который воскрешает ближайших павших врагов в своей зоне."
+
+"TOWER_NECROMANCER_NAME"="Некромант"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="Некромант пассивно воскрешает павших врагов в пределах досягаемости, отправляя скелетов на сторону противника.\n(Навык всегда активен)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="Скелетная Армия"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="Вызывает ядовитое облако смерти, которое остается на поле боя, нанося урон со временем всем врагам, попавшим внутрь.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="Создает затяжное облако, которое постоянно наносит урон врагам в своей области."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="Чума"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="Вызывает Скелетного Всадника на стороне противника. Этот элитный нежить не только сражается неустанно, но и увеличивает урон ближайших воскрешенных союзников.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="Призывает Скелетона-Рыцаря, который усиливает ближайших Скелетов."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="Смертный всадник"
+
+"TOWER_NECROMANCER_PACK_NAME"="Пакет для новичков"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="Изначально разработанные как ходоки для упрощения рутинных патрулей, эти мехи с тех пор были переоборудованы в передовых защитников, способных выдерживать широкий спектр опасностей."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="Меха, который защищает башни, защищая соседние башни от оглушений и системных сбоев."
+
+"TOWER_BATTLE_MECHA_NAME"="Боевая Меха"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="Излучает стабилизирующее резонансное поле, которое предотвращает оглушение или отключение ближайших союзных башен.\n(Навык всегда активен)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="Механическая Сила"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="Запускает рой управляемых ракет, которые нацеливаются на врагов на поле боя, нанося урон с каждым попаданием.\n(Купите навык на максимальном уровне башни)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="Запускает управляемые ракеты, которые преследуют и наносят урон нескольким врагам."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="Оса Миссиль"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="Сбрасывает накопленные опасные механические отходы из меха на землю, создавая область, замедляющую врагов, которые на нее наступают.\n(Купите навык на максимальном уровне башни)"
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="Создает медленную зону отходов вокруг меха."
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="Сброс отходов"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="Минное Поле"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="Каждые несколько секунд развертывает поле мин на стороне противника. Эти мины детонируют при контакте, нанося урон по области вражеским юнитам.\n(Навык всегда активен)"
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="Боевая Меха"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="Излучает стабилизирующее резонансное поле, которое предотвращает оглушение или отключение ближайших союзных башен.\n(Навык всегда активен)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="Сформированные из остатков павших легионов Линирии, эти закаленные выжившие специализируются на дальнем guerrilla бою - нанося удары из теней с смертоносной точностью и поджигая вражеские силы издалека."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="Передовые стрелки с возможностью наносить критический урон и поджигать врагов."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="Разведчики-стрелки"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="Разведчик-стрелок"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="Воин, искусный как в дальнем бою, так и в ближнем."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="Для стрелка на передовой каждый удар имеет значение. Дальние атаки имеют шанс нанести критический удар, нанося дополнительный урон.\n(Навык всегда активен)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="Критический удар"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="Они поджигают свои стрелы маслом и пламенем, поджигая врагов и нанося урон со временем.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="При ударе зажигает врагов, нанося урон от ожога с течением времени."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="Огнём"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="Каждые несколько секунд, когда не в бою, они могут стрелять в единицы противника. (Купите навык на максимальном уровне башни)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="Выпускает залп стрел в противников, когда не находится в бою."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="Целевой Упражнение"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="Опытный охотник, в сопровождении своего верного орла. Они используют командную работу, чтобы заманить добычу в ловушки, что позволяет им одолеть даже самых грозных существ."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Тактический охотник, поддерживаемый обученным орлом, использующий ловушки для устранения врагов."
+
+"TOWER_HUNTER_OUTPOST_NAME"="Охотничий пост"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Тактический охотник, поддерживаемый обученным орлом, использующий ловушки для устранения врагов."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="Тактический охотник, поддерживаемый обученным орлом, использующий ловушки для устранения врагов."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="Обученный орел парит, исследуя большую территорию вокруг башни и атакуя любого врага в пределах досягаемости.\n(Навык всегда активен)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="Охота на орлов"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="Охотник устанавливает капканы на медведя вдоль пути. Любой враг, наступивший на них, получает урон и временно оглушается.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="Устанавливает ловушки, которые наносят урон и на короткое время оглушают врагов."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="Медвежьи ловушки"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="На регулярной основе охотник подает сигнал орлу, чтобы тот полетел на сторону противника, нарушая их ряды.\n(Купите навык при максимальном улучшении башни)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="Отправляет орлов по путям противника."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="Сканировать и Охотиться"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="Сформированные из остатков павших легионов Линирии, эти закаленные выжившие специализируются на дальнем guerrilla бою - нанося удары из теней с смертоносной точностью и поджигая вражеские силы издалека."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="Передовые стрелки с возможностью наносить критический урон и поджигать врагов."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="Передовые стрелки с возможностью наносить критический урон и поджигать врагов."
+
+"TOWER_ARCHERY_SCOUT_NAME"="Разведчики-Лучники"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="Для стрелка на передовой каждый удар имеет значение. Дальние атаки имеют шанс нанести критический удар, нанося дополнительный урон.\n(Навык всегда активен)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="Критический удар"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="Они зажигают свои стрелы маслом и пламенем, поджигая врагов и нанося урон с течением времени.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="Зажигает врагов при ударе, нанося урон от ожога с течением времени."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="Огнём"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="Каждые несколько секунд, когда не в бою, они могут стрелять в единицы противника. (Купите навык на максимальном уровне башни)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="Выпускает залп стрел в противников, когда не находится в бою."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="Целевой Упражнение"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="Самые могущественные стрелки Линирии. Хранители неба, их острые глаза позволяют им поражать даже самые дальние цели. Их верный боевой орел гарантирует, что ни один летающий враг не уйдет безнаказанным."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="Меткие стрелки с острым зрением, оснащенные дальнобойным оружием и противовоздушными тактиками."
+
+"TOWER_ROYAL_ARCHERS_NAME"="Королевские Лучники"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="Вооруженные острыми как бритва наконечниками стрел и непревзойденной меткостью, они будут наносить дополнительный урон летающим врагам.\n(Навык всегда активен)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="Острые наконечники стрел"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="Как эксперты по соколиной охоте, они могут отправлять своего обученного орла преследовать и атаковать летающих врагов каждые несколько секунд.\n(Купить навык на максимальном уровне башни)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="Каждые несколько секунд посылает орла атаковать летающих врагов."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="Хищный Орел"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="Они стреляют заряженным выстрелом с наконечниками, разрушающими броню, временно уменьшая физическую броню цели.\n(Купите навык на максимальном уровне башни)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="Стреляет заряженными стрелами, которые временно снижают броню врага."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="Пробиватель брони"
+
+"SPELL_ARCANE_CIRCLE_NAME"="Телепорт"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="Создает магический круг, который телепортирует обратно входящих врагов, пересекающих его."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="Создает магический круг, который телепортирует обратно входящих врагов."
+
+"SPELL_CURSED_VINES_NAME"="Проклятые Лозы"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="Выращивает пучок ядовитых лоз на земле, которые замедляют врагов и наносят им урон с течением времени."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="Выращивает лозы, которые замедляют врагов и отравляют их."
+
+"SPELL_CURSED_VINES_PACK_NAME"="Касуальный пакет"
+
+"SPELL_ICY_ZONE_NAME"="Ледяная Зона"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="Покрывает большую область толстым льдом, замедляя любого врага, пытающегося его пересечь."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="Покрывает большую область толстым льдом, замедляя врагов."
+
+"SPELL_POLYMORPH_NAME"="Преображение"
+
+"SPELL_POLYMORPH_DESCRIPTION"="Преобразует почти любого врага в овцу, уменьшая их здоровье и удаляя любую броню, которую они могут иметь."
+
+"SPELL_POLYMORPH_SHORT_DESC"="Превращает врагов в овец, снижая их здоровье и устраняя сопротивления."
+
+"SPELL_RAIN_OF_FIRE_NAME"="Дождь Огня"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="Выпускает мощное заклинание, которое вызывает несколько огненных шаров с неба, нанося удары всем врагам в своей области несколько раз."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="Наносит урон всем врагам в области заклинания."
+
+"SPELL_REINFORCEMENTS_NAME"="Подкрепления"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="Временно призывает пару солдат с базовым снаряжением для помощи в бою."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="Временно призывает пару солдат для помощи в бою."
+
+"REINFORCEMENTS_UNIT_NAME"="Укрепление"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="Базовый солдат, помогающий в защите."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="Ледяной великан"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="Ледяной титан, выдерживающий сражения, способные сокрушить целые армии."
+
+"HUNTING_EAGLE_UNIT_NAME"="Охота на Орла"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="Верный спутник Охотника, атакующий врагов сверху."
+
+"SCOUNT_EAGLE_UNIT_NAME"="Скаут Орел"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="Орел, прирученный Охотником, которому приказано атаковать его противника."
+
+"SPELL_STUN_NAME"="Электрический шок"
+
+"SPELL_STUN_DESCRIPTION"="Выпускает мощный гром, чтобы ударить по земле, поражая электричеством большую область и оглушая всех врагов в радиусе действия."
+
+"SPELL_STUN_SHORT_DESC"="Станет врагов в области."
+
+"SPELL_THUNDERBOLT_NAME"="Удар грома"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="Призывает мощную грозу, которая поражает всех врагов в области, нанося урон и оглушая их с каждым ударом."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="Ударяет врагов громом, нанося урон в области и на короткое время оглушая врагов."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Гром"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Ударяет самого сильного врага в области, мгновенно уничтожая его."
+
+"SPELL_SABOTAGE_NAME"="Саботаж"
+
+"SPELL_SABOTAGE_DESCRIPTION"="Уменьшает броню или магическую защиту всех врагов в зоне действия"
+
+"SPELL_SABOTAGE_SHORT_DESC"="уменьшает сопротивление всех существ в области"
+
+"SPELL_LINIREAN_LANCERS_NAME"="Линирийские копейщики"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="Временно призывает пару опытных копейщиков для помощи в бою."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="Временно призывает пару опытных копейщиков для помощи в бою."
+
+"CREEP_GOBLIN_NAME"="гоблин"
+
+"CREEP_GOBLIN_DESC_1"="Слабое и необученное существо из племени гоблинов"
+
+"CREEP_GOBLIN_SHORT_DESC"="Маленький и слабый гоблин"
+
+"CREEP_GOBLIN_WARRIOR_NAME"="Гоблин-воин"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="Обученный и более сильный гоблин, оснащенный броней для выдерживания большего урона."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="Более сильный гоблин в броне"
+
+"CREEP_GOBLIN_WIZARD_NAME"="Гоблин-волшебник"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="Опасный гоблин, использующий огненную магию, чтобы сжечь врагов"
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="Заклинатель гоблин, использующий огненные шары для нанесения урона с течением времени"
+
+"CREEP_GOBLIN_COPTER_NAME"="Гоблинский вертолёт"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="Прочная, но нестабильная машина из лома, созданная гоблинами для исследования своих территорий."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="Когда вертолет уничтожен, гоблин падает на землю и продолжает идти."
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="Летающий аппарат из лома, который при уничтожении заставляет пилота упасть на землю."
+
+"CREEP_ORC_NAME"="орк"
+
+"CREEP_ORC_DESC_1"="Опасные и стойкие существа, живущие среди племен гоблинов"
+
+"CREEP_ORC_SHORT_DESC"="Опасный враг с толстой кожей, защищающей от физических атак."
+
+"CREEP_ORC_CHAMPION_NAME"="Орк-чемпион"
+
+"CREEP_ORC_CHAMPION_DESC_1"="Хорошо обученный и стойкий орк, готовый сражаться с любыми опасными врагами."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="Грозный орк-воин, оснащённый и обученный уничтожать любого врага."
+
+"CREEP_ORC_SHAMAN_NAME"="Орк-Шаман"
+
+"CREEP_ORC_SHAMAN_DESC_1"="Целитель племени гоблинов, обычно находится в тылу, поддерживая воинов."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="Гоблин-целитель, восстанавливающий здоровье всех ближайших союзников"
+
+"CREEP_OGRE_NAME"="Людоед"
+
+"CREEP_OGRE_DESC_1"="Грозное и стойкое существо, которое прорывается через любую защиту с помощью грубой силы."
+
+"CREEP_OGRE_SHORT_DESC"="Очень опасный и мощный; каждый удар наносит урон по области."
+
+"CREEP_HATCHLING_NAME"="Маленький паучок"
+
+"CREEP_HATCHLING_DESC_1"="Новорожденные пауки, обычно видны в больших группах, следуя за Матриархом."
+
+"CREEP_HATCHLING_SHORT_DESC"="Маленькие и быстрые, эти новорожденные пауки всегда передвигаются группами."
+
+"CREEP_MATRIARCH_NAME"="Паучий матриарх"
+
+"CREEP_MATRIARCH_DESC_1"="Паук из глубин леса, использующий своих потомков для охоты и исследования."
+
+"CREEP_MATRIARCH_SHORT_DESC"="Большой паук, который откладывает яйца, порождая паучат"
+
+"CREEP_GARGOYLE_NAME"="Гаргулья"
+
+"CREEP_GARGOYLE_DESC_1"="Ночное существо, парящее в ночном небе леса"
+
+"CREEP_GARGOYLE_SHORT_DESC"="Ночное существо, парящее в ночном небе леса"
+
+"CREEP_WULF_NAME"="Вульф"
+
+"CREEP_WOLF_NAME"="Вульф"
+
+"CREEP_WULF_DESC_1"="Быстрое и умное лесное животное, охотящееся стаями."
+
+"CREEP_WOLF_SHORT_DESC"="Существо, которое быстро охотится на свою добычу; если вы видите одно, то наверняка на подходе еще больше."
+
+"BOSS_KRUM_THAK_NAME"="Крум Так"
+
+"BOSS_KRUM_THAK_DESC_1"="Могущественный шаман защищает своих союзников и использует смертоносную молнию для уничтожения врагов."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="Могущественный шаман защищает союзников, поражая врагов молнией."
+
+"BOSS_GUL_THAK_NAME"="Гул Тхак"
+
+"BOSS_GUL_THAK_DESC_1"="Могущественный вождь, который исцеляет союзников, атакуя обнаруженного врага"
+
+"BOSS_GUL_THAK_SHORT_DESC"="Могучий вождь, который лечит союзников и атакует врагов, когда они рядом"
+
+"CREEP_TROLL_NAME"="Тролль"
+
+"CREEP_TROLL_DESC_1"="Слабое существо расы троллей, обладающее способностью к регенерации"
+
+"CREEP_TROLL_SHORT_DESC"="Слабое существо расы троллей. Со временем восстанавливает HP."
+
+"CREEP_TROLL_BREAKER_NAME"="Тролль-громила"
+
+"CREEP_TROLL_BREAKER_DESC_1"="Этот гигант, оснащенный броней и бревном, может пробить даже самые укрепленные обороны."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="Огромный тролль с уроном по области благодаря бревну, которое он использует как оружие. Со временем восстанавливает HP."
+
+"CREEP_TROLL_CHAMPION_NAME"="Тролль-чемпион"
+
+"CREEP_TROLLCHAMPION_NAME"="Тролль-чемпион"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="Стойкие воины с регенерацией из расы троллей, специализирующиеся на дальних атаках."
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="Сильные тролли, которые могут атаковать с расстояния. Со временем восстанавливают HP."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="Вождь троллей"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="Этот тролль использует свои барабаны, чтобы лечить и увеличивать урон и скорость всех ближайших союзников. Обладает высокой способностью к регенерации."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="Вождь, который поддерживает союзников различными баффами. Со временем восстанавливает HP."
+
+"CREEP_TROLL_PATHFINDER_NAME"="Тролль-следопыт"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="Маленький тролль, который использует местность, чтобы скользить по льду на коньках, восстанавливая здоровье со временем."
+
+"CREEP_PATHFINDER_NAME"="Тролль-следопыт"
+
+"CREEP_PATHFINDER_SHORT_DESC"="Быстрый тролль, использующий коньки для скольжения и уклонения от врагов. Со временем восстанавливает HP."
+
+"CREEP_WINTER_WULF_NAME"="Зимний волк"
+
+"CREEP_WINTER_WULF_DESC_1"="Ловкое существо с особой шерстью, позволяющей ему сопротивляться магии и экстремальной погоде."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="Быстрое и ловкое существо, которое легко избегает некоторых ближних атак."
+
+"CREEP_YETI_NAME"="Йети"
+
+"CREEP_YETI_DESC_1"="Крупное и опасное существо; очень немногие осмеливаются встать у него на пути."
+
+"CREEP_YETI_SHORT_DESC"="Существо, способное уничтожить всё на своём пути"
+
+"CREEP_SNOW_GOLEM_NAME"="Снежный голем"
+
+"CREEP_SNOW_GOLEM_DESC_1"="Горный голем, способный атаковать на расстоянии и распадаться на части при разрушении"
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="Атакует с расстояния и при смерти разделяется на два меньших голема."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="Маленький снежный голем"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="Маленький снежный голем, обычно созданный из фрагментов большего голема."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="Маленький и слабый голем с дальнобойной атакой"
+
+"CREEP_ICE_MEPHIT_NAME"="Ледяной мефит"
+
+"CREEP_ICE_MEPHIT_DESC_1"="Горное существо, раздражающее жителей. При смерти взрывается, замораживая всё вокруг."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="Когда он умирает, происходит взрыв, наносящий урон и замораживающий ближайшие юниты."
+
+"CREEP_WINTER_FAERIE_NAME"="Зимняя фея"
+
+"CREEP_WINTER_FAERIE_DESC_1"="Горный дух, который пронзает всё на своём пути; даже броня не может выдержать его атаки."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="Выпускает несколько ледяных осколков, частично игнорирующих броню"
+
+"BOSS_JT_NAME"="Гарри"
+
+"BOSS_JT_DESC_1"="Король горы; всё, что пересекает его путь, оказывается замороженным или поглощённым."
+
+"BOSS_JT_SHORT_DESC"="Гигантский зверь, который ест врагов и замораживает башни"
+
+"BOSS_ULGUK_HAI_NAME"="Улгук-Хай"
+
+"BOSS_ULGUK_HAI_DESC_1"="Мощный горный тролль, использующий щит для блокировки любого физического урона."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="Мощный лидер, который продвигается с поднятым щитом, блокируя физический урон, опуская его только в бою."
+
+"CREEP_BANDIT_NAME"="Разбойник"
+
+"CREEP_BANDIT_DESC_1"="Маленькие и ловкие, они могут быть на самой низкой ступени в банде, но их удары сильны."
+
+"CREEP_BANDIT_SHORT_DESC"="Хрупкий, но ловкий бандит, они могут уклоняться от некоторых атак и наносить сильные удары."
+
+"CREEP_BANDIT_ARCHER_NAME"="Бандит Лучник"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="Лучник с исключительным зрением, позволяющим стрелять на большее расстояние, чем другие лучники."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="Используя свое острое зрение, он может стрелять дальше, чем другие лучники."
+
+"CREEP_BRIGAND_NAME"="Налетчик"
+
+"CREEP_BRIGAND_DESC_1"="Бандит с ломаной броней, которая ломается при получении слишком большого урона, оставляя бандита безоружным."
+
+"CREEP_BRIGAND_SHORT_DESC"="Более сильный бандит, после поражения его броня ломается, превращая его в обычного бандита."
+
+"CREEP_TRICKSTER_NAME"="Плут"
+
+"CREEP_TRICKSTER_DESC_1"="Обманчивый бандит, использующий уловки, чтобы избежать потенциальных сражений или преследователей."
+
+"CREEP_TRICKSTER_SHORT_DESC"="Когда заблокирован, он может стать невидимым, избегая обнаружения на несколько секунд."
+
+"CREEP_FOREST_SEER_NAME"="Лесной провидец"
+
+"CREEP_FOREST_SEER_DESC_1"="Разбойник, понимающий магию, способный создавать иллюзии, чтобы обмануть своих врагов."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="Магически подкованный бандит, который клонируется при блокировке"
+
+"CREEP_FOREST_SEER_CLONE_NAME"="Лесной провидец иллюзия"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="Временный клон, созданный Лесным Провидцем"
+
+"CREEP_MARAUDER_NAME"="Мародер"
+
+"CREEP_MARAUDER_DESC_1"="Громила, тяжело экипированный, чтобы выдержать любую атаку, обычно используется как щит для защиты других бандитов."
+
+"CREEP_MARAUDER_SHORT_DESC"="Бронированный громила, способный выдержать множество атак"
+
+"CREEP_RAIDER_NAME"="Налетчик"
+
+"CREEP_RAIDER_DESC_1"="Смертоносный дальнобойный воин, вооруженный шипованным шаром, игнорирующим любой тип брони."
+
+"CREEP_RAIDER_SHORT_DESC"="Смертоносный дальнобойный воин, наносящий истинный урон"
+
+"CREEP_PILLAGER_NAME"="Разрушитель"
+
+"CREEP_PILLAGER_DESC_1"="Невероятно крепкие бандиты с магическим снаряжением, способные сопротивляться магии и наносить урон по области."
+
+"CREEP_PILLAGER_SHORT_DESC"="Невероятно крепкий бандит, наносящий урон по области。"
+
+"CREEP_WORG_NAME"="Ворг"
+
+"CREEP_WORG_DESC_1"="Более стойкие родственники Вульфа, эти ворги были обучены противостоять вражеским солдатам."
+
+"CREEP_WORG_SHORT_DESC"="Ворг, обученный бандой, уклоняется от некоторых ближних атак"
+
+"CREEP_WILD_EAGLE_NAME"="Дикий орёл"
+
+"CREEP_WILD_EAGLE_DESC_1"="дикий орёл, приручённый умелым Звероловом в банде"
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="Этот орёл иногда пикирует, чтобы атаковать находящиеся под ним юниты, прежде чем продолжить движение."
+
+"BOSS_KINGPIN_NAME"="Босс"
+
+"BOSS_KINGPIN_DESC_1"="Неудержимый лидер банды, использующий украденное золото для найма и поддержки своих членов."
+
+"BOSS_KINGPIN_SHORT_DESC"="Лидер бандитов, который сокрушает всё на своём пути, может лечить союзников и вызывать подкрепление из лагерей."
+
+"BOSS_EINAR_NAME"="Эйнар Хранитель Зверей"
+
+"BOSS_EINAR_DESC_1"="зверолов использует воргов и орлов для обнаружения и атаки целей"
+
+"BOSS_EINAR_SHORT_DESC"="способный призывать орлов и стаю воргов мастер зверей"
+
+"CREEP_DARK_ROOKIE_NAME"="Темный Новичок"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="Малый бронированный враг, расходные пешки Тёмного Владыки."
+
+"CREEP_DARK_ROOKIE_DESC_1"="При потере части HP они теряют броню, увеличивая скорость"
+
+"CREEP_DARK_KNIGHT_NAME"="Темный Рыцарь"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="Сопротивление и бронированный враг. Они являются основной силой Темной Армии"
+
+"CREEP_DARK_KNIGHT_DESC_1"="При потере части HP они теряют щит, уменьшая броню и увеличивая скорость."
+
+"CREEP_DARK_SLAYER_NAME"="Темный истребитель"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="Смертоносный бронированный враг. Если один падёт в бою, другие рыцари продолжат его наследие."
+
+"CREEP_DARK_SLAYER_DESC_1"="После их смерти они оставляют свой меч, и Темный Рыцарь может взять его, чтобы стать убийцей."
+
+"CREEP_DARK_CAVALRY_NAME"="Тёмная кавалерия"
+
+"CREEP_DARK_CAVALRY_DESC_1"="На большой скорости атакует врага, оглушая его на несколько секунд."
+
+"CREEP_DARK_CAVALRY_DESC_2"="Оставляет Темного Рыцаря на месте после смерти"
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="Тёмный рыцарь, который устремляется в атаку на врагов, уничтожая любые преграды на своём пути."
+
+"CREEP_SHADOW_ARCHER_NAME"="Теневой лучник"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="Слабый, но быстрый дальнобойный атакующий"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Элдритч Магус"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="могущественный маг с широкой магической атакой"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Они накладывают заклинание, которое наносит несколько ударов и игнорирует броню"
+
+"CREEP_ROCKET_RIDER_NAME"="Ракетный всадник"
+
+"CREEP_ROCKET_RIDER_DESC_1"="Бронированный летающий враг"
+
+"CREEP_ROCKET_RIDER_DESC_2"="При уничтожении теряет реактивный ранец и падает на землю"
+
+"CREEP_DARK_CROW_NAME"="Темный Ворон"
+
+"CREEP_DARK_CROW_DESC_1"="обученная летающая ворона с магической защитой"
+
+"CREEP_DARK_CROW_SHORT_DESC"="Каждые несколько секунд атакует юнит внизу на несколько секунд, затем продолжает путь"
+
+"CREEP_MAGMA_SHARD_NAME"="Осколок магмы"
+
+"CREEP_MAGMA_SHARD_DESC_1"="Проблемный бронированный враг из лавы, который может возродиться через несколько секунд в каменном состоянии."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="При убийстве превращается в каменную статую. Если в этом состоянии не убить, может возродиться с полным здоровьем"
+
+"CREEP_GOLEM_HEAD_NAME"="Голова голема"
+
+"CREEP_GOLEM_HEAD_DESC_1"="Маленький и слабо бронированный враг"
+
+"BOSS_JUGGERNAUT_NAME"="Джаггернаут"
+
+"BOSS_JUGGERNAUT_DESC_1"="Может призвать группу голов големов на несколько клеток вперед"
+
+"BOSS_JUGGERNAUT_DESC_2"="Запускает ракету дальнего действия, наносящую высокий урон"
+
+"BOSS_WAR_ZEPPELIN_NAME"="Летающая крепость"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="Бросает бочку с дегтем в башню, оглушая её на несколько секунд."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="Крепость будет летать по своему маршруту"
+
+"CREEP_FLYING_SHEEP_NAME"="Летающая овца"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="Враг превратился в летающую овцу"
+
+"CREEP_SHEEP_NAME"="Овца"
+
+"CREEP_SHEEP_SHORT_DESC"="Враг превратился в овцу"
+
+"CREEP_SKELETON_SMALL_NAME"="Скелет"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="ожившие скелеты, атакующие живых существ"
+
+"CREEP_SKELETON_BIG_NAME"="Скелет-рыцарь"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="оживленный скелет, оснащенный щитом и шлемом"
+
+"CREEP_DEATH_RIDER_NAME"="Всадник смерти"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="Сильный скелетный рыцарь на смертельной лошади. Усиливает всех скелетов вокруг."
+
+"CREEP_VERDANT_DEFENDER_NAME"="Вульф Энт"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="Древоподобное существо в форме волка. Иногда может уклоняться от ближних атак."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="увеличение урона всех заклинаний"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="увеличение урона артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="увеличение урона в ближнем бою всех башен"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="увеличение урона всех башен по площади"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="увеличение урона всех башен"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="увеличение урона навыков всех башен"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="увеличение скорости атаки всех башен"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="уменьшение времени перезарядки навыков всех башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="увеличение урона в ближнем бою у магических башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="увеличение урона от магических башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="увеличение урона магических башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="увеличение урона навыков магических башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="увеличение скорости атаки магических башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="уменьшение времени перезарядки навыков магических башен"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="увеличение дальности магических башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="увеличение урона в ближнем бою у артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="увеличение дальнего урона артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="увеличение урона артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="увеличение урона от навыков артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="увеличение скорости атаки артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="уменьшение времени перезарядки навыков артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="увеличение дальности артиллерийских башен"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="увеличение урона в ближнем бою казарм"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="увеличение урона по площади казарм"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="увеличение урона казарм"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="увеличение урона навыков казарм"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="увеличение скорости атаки казарм"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="уменьшение времени восстановления навыков казарм"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="увеличение дальности казарм"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="увеличение урона умений башен лучников"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="увеличение скорости атаки башен лучников"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="увеличение здоровья союзников"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="увеличение брони союзников"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="увеличение урона союзников"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="увеличение урона в ближнем бою союзников"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="увеличение дальнего урона союзников"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="увеличение скорости союзников"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="увеличение урона всех заклинаний"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="уменьшение времени восстановления всех заклинаний"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="увеличение области всех заклинаний"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="увеличение урона героя"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="увеличение урона в ближнем бою героя"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="увеличение урона героя на расстоянии"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="увеличение здоровья героя"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="увеличение скорости героя"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="уменьшение времени возрождения героя"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="уменьшение здоровья врагов"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="уменьшение скорости врагов"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="уменьшение физической брони врагов"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="уменьшение магической брони врагов"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="уменьшение урона врагов"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="уменьшение времени восстановления заклинаний призыва"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="увеличение дальности стрельбы башен"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Гнев маны"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Канонная Сила"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="Штурм Шпиля"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="Шпиль Зрения"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="Сила Шпиля"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="Взрыв Шпиля"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="Шпиль Темпо"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="Спиральный Импульс"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="Магическая атака"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="Магическая точность"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="Магическая сила"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="Магический взрыв"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="Магический темп"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="Магический импульс"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="Магическое зрение"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="Артиллерийский штурм"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="Точность пушки"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="Канонная Сила"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="Пушечный взрыв"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="Темп Пушки"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="Пушечный импульс"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="Прицел пушки"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="Гарнизонное нападение"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="Точность гарнизона"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="Гарнизонные силы"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="Гарнизонный взрыв"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="Гарнизон Темпо"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="Гарнизонный импульс"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="Гарнизонный обзор"
+
+"PERK_NAME_INCREASE_UNITS_HP"="Выносливость пехоты"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="Пехотная стойкость"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="Пехотная мощь"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="Пехотная атака"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="Пехотная точность"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="Пехотная скорость"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="Гнев маны"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="Фокус маны"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="Распространение маны"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="Героическая мощь"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="Героическое нападение"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="Героическая Точность"
+
+"PERK_NAME_INCREASE_HERO_HP"="Героическая Выносливость"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="Героическая спешка"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="Героическое Возрождение"
+
+"PERK_NAME_DECREASE_CREEP_HP"="Хрупкость захватчика"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="Усталость захватчика"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="Упадок захватчика"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="Истощение захватчиков"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="Слабость захватчика"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="Фокус Призыва"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="Прицел стрелка"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="Залп Стрелка"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="Темп Стрелка"
+
+"MODIFIER_TITLE_EAGLE_EYES"="Орлиный глаз"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="Дальность башни <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="Дальность башни <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="Дальность башни <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="Дальность башни <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="Геройская ярость"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="Урон героя <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="Урон героя <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="Урон героя <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="Урон героя <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="Торговец смертью"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="Золото получено <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="Золото получено <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="Золото получено <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="Золото получено <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="Мощная башня"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="Урон башни <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="Урон башни <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="Урон башни <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="Урон башни <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="Мастер заклинаний"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="Перезарядка заклинания <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="Перезарядка заклинания <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="Перезарядка заклинания <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="Перезарядка заклинания <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="Увеличивает дальность атаки всех башен"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="Увеличивает урон героя"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="Увеличивает золото, получаемое за убийство врагов"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="Увеличивает урон всех башен"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="Сокращает время восстановления всех заклинаний"
+
+"MODIFIER_TITLE_BROODMOTHER"="Зов Матери Роя"
+
+"CREEP_BROODMOTHER_NAME"="Матка Роя"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="Яйцекладущий гигантский паук, порождающий крупных детёнышей"
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="<color=#FFFFFF>Порождает<color=#F36D4D> Матку Роя<color=#FFFFFF> на волнах противника"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="Сила Матки Роя <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="Сила Матки Роя <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="Сила Матки Роя <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="Ферма Башня"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="Морфировать 1 башню каждые 25 секунд"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="Морфировать 1 башню каждые 23 секунды"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="Морфировать 1 башню каждые <color=#F36D4D>19<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="Преобразовать <color=#F36D4D>2<color=#FFFFFF> башни каждые <color=#F36D4D>18<color=#FFFFFF> секунд"
+
+"MODIFIER_TITLE_DRAGON"="Зов Дракона"
+
+"CREEP_FLYING_DRAGON_NAME"="Дракон"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="Большой летающий дракон с магической защитой, атакующий любого ближайшего врага на расстоянии."
+
+"MODIFIER_DESC_DRAGON_LVL1"="<color=#FFFFFF>Вызывает <color=#F36D4D>дракона <color=#FFFFFF>на волны противника"
+
+"MODIFIER_DESC_DRAGON_LVL2"="Сила дракона <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="Сила дракона <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="Сила дракона <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="Призыв призраков"
+
+"CREEP_GHOST_SMALL_NAME"="Привидение"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="Душа маленького врага, слабый, но многочисленный"
+
+"CREEP_GHOST_FLYING_NAME"="Летающий призрак"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="Редко встречающиеся, эти души парят, наблюдая и помогая своим союзникам сверху."
+
+"CREEP_GHOST_BIG_NAME"="Большой Призрак"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="Сильная и стойкая душа, полная решимости выполнить свою последнюю задачу."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="У мертвых крипов есть <color=#F36D4D>30% шанс появиться в виде призрака"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="Шанс 40%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="Шанс 50%"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="Шанс 60%"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="Гоблинские шары"
+
+"CREEP_GOBLIN_BALLOON_NAME"="Гоблинский шар"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="Прочный воздушный шар, управляемый маленьким гоблином, сбрасывающий бомбы на любого врага под ним."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>Создать <color=#F36D4D>Гоблинские Шары <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="Мощность гоблинских воздушных шаров <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="Мощность гоблинских воздушных шаров <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="Мощность гоблинских воздушных шаров <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="Бронированные Летающие Големы"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="Летающий бронированный голем"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="Летающий враг, устойчивый к физическому урону"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Появление <color=#F36D4D>Бронированных Летающих Големов <color=#FFFFFF>в волнах противника"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="Сила бронированных летающих големов <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="Сила бронированных летающих големов <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="Сила бронированных летающих големов <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="Магический Летающий Голем"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="Летающий враг, устойчивый к магическому урону"
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="Магические Летающие Големы"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>Призвать <color=#F36D4D>магических летающих големов <color=#FFFFFF>на волны противника"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="Сила магических летающих големов <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="Сила магических летающих големов <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="Сила магических летающих големов <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="Большой Броня Голем"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="Мощный каменный голем с сопротивлением к физическому урону"
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="Маленький бронированный голем"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="Слабый каменный голем, но устойчив к физическому урону"
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="Бронированные големы"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="<color=#FFFFFF>Вызвать <color=#F36D4D>Бронированных Големов <color=#FFFFFF>на волны противника"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="Броня Големов Сила <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="Бронированные големы Сила <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="Броня Големов Сила <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="Большой магический голем"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="Мощный магический голем с сопротивлением к магическому урону"
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="Маленький магический голем"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="Слабый каменный голем, но устойчив к магическому урону"
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="Магические големы"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="<color=#FFFFFF>Призвать <color=#F36D4D>магических големов <color=#FFFFFF>на волны противника"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="Магическая сила големов <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="Магическая сила големов <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="Магическая сила големов <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="Великий орк шаман"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="Великий орк шаман"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="Призовите двух могущественных шаманов, которые оглушают и уничтожают врагов на своем пути."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="<color=#FFFFFF>Призвать <color=#F36D4D>Великих Орков-Шаманов <color=#FFFFFF>на волны противника"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="Великая сила орка-шамана <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="Великая сила орка-шамана<color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="Великая сила орка-шамана <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="Броненосцы"
+
+"CREEP_WAR_HOUND_NAME"="Вармадилло"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="Группа маленьких существ, которые очень быстро катятся, если их не остановить"
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="<color=#FFFFFF>Вызывает<color=#F36D4D> Рой Броненосцев <color=#FFFFFF>в волны противника"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="Сила броненосцев <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="Сила броненосцев <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="Сила броненосцев <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="гигантский паук, который откладывает яйца, чтобы вырастить более крупных личинок"
+
+"MODIFIER_DRAGON_DESC_1"="Большой летающий дракон с магической защитой, атакующий любого ближайшего врага на расстоянии."
+
+"MODIFIER_FARM_DESCRIPTION"="Временно превращает башни противника в бесполезные фермы"
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="Бронированный летающий враг, который приходит стаями"
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="Стая летающих големов с магической защитой"
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="Мёртвые крипы могут появиться в виде призраков на стороне противника"
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="Летающий враг, сбрасывающий бомбы на юниты под ним"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="группа маленьких и больших големов с физической броней"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="появляется с группой меньших бронированных големов"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="Пак маленьких и больших големов с магической защитой"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="появляется с группой меньших магически устойчивых големов"
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="Могущественный шаман, который вызывает молнию, оглушающую и наносящую урон юнитам вокруг целевой области"
+
+"MODIFIER_WARMADILLO_DESC_1"="Физическая броня у врага, который катится очень быстро, если не заблокирован"
+
+"MODIFIER_TITLE_THUNDERBIRD"="Громовая птица"
+
+"CREEP_THUNDERBIRD_NAME"="Громовая птица"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="Большое летающее существо, которое распространяет электричество с крыльев, шокируя группу врагов."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="<color=#FFFFFF>Вызывает <color=#F36D4D>Громовую птицу<color=#FFFFFF> на волнах противника"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="Мощь Громовой Птицы <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="Мощь Громовой Птицы <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="Мощь Громовой Птицы <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="Тролльберсерк"
+
+"CREEP_TROLLZERKER_NAME"="Тролльберсерк"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="Тролль-брут, который приходит в ярость при низком уровне здоровья, увеличивая атаку и скорость. Со временем восстанавливает HP."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="<color=#FFFFFF>Вызывает <color=#F36D4D>Тролля-берсерка<color=#FFFFFF> на волны противника"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="Сила Тролля-берсерка <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="Тролль-берсерк Сила <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="Тролль-берсерк Сила <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="Драгубоны"
+
+"CREEP_DRAGUBON_NAME"="Драгубон"
+
+"CREEP_DRAGUBON_SHORT_DESC"="Маленький дракон, который, если чувствует опасность, начинает летать на несколько секунд."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="<color=#FFFFFF>Вызывает<color=#F36D4D> стаю Драгубонов <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="Сила Драгубона <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="Сила Драгубонов <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="Сила Драгубонов <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="Метель"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="Замораживает <color=#F18081>1 башню каждые <color=#F18081>17<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="Замораживает 1 башню каждые 15 секунд"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="Заморозить 2 башни каждые 13 секунд"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="Замораживать 2 башни каждые <color=#F18081>10<color=#FFFFFF> секунд"
+
+"MODIFIER_TITLE_FROSTBITE"="Обморожение"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="Замораживает 2 единицы каждые 18 секунд"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="Заморозить 3 юнита каждые 16 секунд"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="Заморозить 4 юнита каждые 14 секунд"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="Заморозить 5 единиц каждые 11 секунд"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="Вестник Мороза"
+
+"CREEP_FROST_HARBINGER_NAME"="Вестник Мороза"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="Заклинатель тролль, телепортирующий союзников вперед. Со временем восстанавливает HP."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="<color=#FFFFFF>Вызывает <color=#F36D4D>Вестника Мороза <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="Сила Вестника Мороза <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="Сила Вестника Мороза <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="Сила Вестника Мороза <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="Временно замораживает башни врага, делая их неспособными атаковать"
+
+"MODIFIER_DRAGUBONS_DESC_1"="Стадо маленьких драконов, пролетающих над любым врагом, пытающимся их остановить."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#REF!"
+
+"MODIFIER_FROSTBITE_DESC_1"="Временно замораживает вражеские юниты, замедляя их движение и атаку"
+
+"MODIFIER_FROST_HARBINGER_1"="Могущественный арканист тролль, использующий телепорт для перемещения группы врагов вперед."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="Неудержимый летающий враг, обрушивающий молнии на любые юниты под ним"
+
+"MODIFIER_TROLLZEKER_DESC_1"="Свирепый воин расы троллей. Когда его здоровье низкое, он приходит в ярость, увеличивая свою силу и скорость."
+
+"CREEP_BUSH_NAME"="Засадный"
+
+"CREEP_BUSH_SHORT_DESC"="Эти бандиты теряют камуфляж только когда их блокирует юнит"
+
+"MODIFIER_TITLE_BUSH"="Засадники"
+
+"MODIFIER_BUSH_DESC_1"="Эксперты по проникновению, они могут пройти через все защиты, оставаясь незамеченными."
+
+"MODIFIER_DESC_BUSH_LVL1"="<color=#FFFFFF>Порождает <color=#F36D4D>Засадников <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_BUSH_LVL2"="Сила Засадного <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="Сила Засадного <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="Сила Засадника <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="Главарь бандитов"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="Приказывает ближайшим бандитам надеть броню, превращая их в Бригантов"
+
+"MODIFIER_TITLE_BANDITLEADER"="Главарь бандитов"
+
+"MODIFIER_BANDITLEADER_DESC_1"="Суровый лидер, организующий и снаряжающий бандитов для битвы"
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="<color=#FFFFFF>Порождает<color=#F36D4D> Лидера Бандитов<color=#FFFFFF> на волнах противника"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="Сила главаря бандитов <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="Сила главаря бандитов <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="Сила главаря бандитов <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="Щиты Бандитов"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="Оборонительное построение, выпускающее бандитов каждые несколько секунд"
+
+"MODIFIER_TITLE_BANDITSHIELDS"="Щиты бандитов"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="Позиция обороны бандитов, периодически выпускающая бойцов из своих рядов."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="<color=#FFFFFF>Порождает <color=#F36D4D>Бандитские Щиты <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="Здоровье щитов бандитов <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="Щиты бандитов HP <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="Щиты бандитов HP <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="Бандитский планер"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="Летающий бандит, который пикирует и взрывается при уничтожении"
+
+"MODIFIER_TITLE_BANDITGLIDERS"="Бандитские планеры"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="Бандиты, использующие планер для перелёта через оборону; в случае серьёзного урона они врезаются в врагов."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="<color=#FFFFFF>Порождает <color=#F36D4D>Бандитских Планеров<color=#FFFFFF> на волнах противника"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="Мощность планеров бандитов <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="Мощность бандитских планеров <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="Мощность Бандитских Планеров <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="Крушитель"
+
+"CREEP_SMASHER_SHORT_DESC"="Бандитский громила, бросающий валуны в башни, оглушая их"
+
+"MODIFIER_TITLE_SMASHER"="Крушитель"
+
+"MODIFIER_SMASHER_DESC_1"="Высокопоставленный громила, который наступает, бросая камни в юниты и башни, отключая их на несколько секунд."
+
+"MODIFIER_DESC_SMASHER_LVL1"="<color=#FFFFFF>Порождает <color=#F36D4D>Сокрушителя <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_SMASHER_LVL2"="Сила сокрушителей <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="Сила сокрушителей <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="Сила сокрушителей <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="Дымовые бомбы"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="Дымовая завеса, предотвращающая прицеливание на союзников внутри"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="<color=#FFFFFF>Создает <color=#F36D4D>дымовые бомбы <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="Мощность дымовых бомб <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="Сила дымовых бомб <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="Мощность дымовых бомб <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="Вулканический элементаль"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="Вулканический элементаль"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="Вулканический элементаль"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>Призывает <color=#F36D4D>Магма Элементаля<color=#FFFFFF> на волнах противника"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="Призывает Магма Элементаля с дополнительной силой <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>Призывает <color=#F36D4D> 2 <color=#FFFFFF>Магма Элементалей с дополнительной силой <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="Призывает 2 Магма Элементалей с дополнительной силой <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="Визгун"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="<color=#FFFFFF>Создать <color=#F36D4D>Кричащую летучую мышь <color=#FFFFFF>на волнах противника"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="Сила Визжащей Летучей Мыши <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="Сила Визжащей Летучей Мыши <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="Сила Визжащей Летучей Мыши <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="Теневой кузнец"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="Теневой кузнец"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="Темный Вороновод"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="Темный Вороновод"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>Призвать <color=#F36D4D>Теневого Призывателя Воронов<color=#FFFFFF> на волны противника"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="Сила Теневого Зовущего Воронов <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="Сила Теневого Зовущего Воронов <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="Сила Теневого Зовущего Воронов <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="Пылающая судьба"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="Призывает <color=#F36D4D>3 <color=#FFFFFF>метеорита, которые наносят урон юнитам противника каждые <color=#F36D4D>17<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="Создает 3 метеорита с <color=#F36D4D>10%<color=#FFFFFF> дополнительной силой каждые <color=#F36D4D>15<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="Создает <color=#F36D4D>4<color=#FFFFFF> метеорита с <color=#F36D4D>25%<color=#FFFFFF> дополнительной мощностью каждые <color=#F36D4D>15<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="Создает <color=#F36D4D>5<color=#FFFFFF> метеоритов с <color=#F36D4D>40%<color=#FFFFFF> дополнительной силой каждые <color=#F36D4D>10<color=#FFFFFF> секунд"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="Раскалённый камень"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="Оглушает <color=#F18081>2 <color=#FFFFFF>башни каждые <color=#F18081>17<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="Оглушает 2 башни каждые <color=#F18081>15<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="Оглушает <color=#F18081>3 <color=#FFFFFF>башни каждые <color=#F18081>13<color=#FFFFFF> секунд"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="Оглушает <color=#F18081>4 <color=#FFFFFF>башни каждые <color=#F18081>9<color=#FFFFFF> секунд"
+
+"MISSIONS_LOGINS_DONE"="Войти"
+
+"MISSIONS_PLAY_GAMES"="Играть матчи"
+
+"MISSIONS_DEFEAT_CREEPS"="Победить врагов"
+
+"MISSIONS_TOWER_BUILD"="Строить башни"
+
+"MISSIONS_TOWER_SKILL_BUY"="Купить навыки башни"
+
+"MISSIONS_TOWER_UPGRADE"="Улучшайте башни в игре"
+
+"MISSIONS_SPELL_DAMAGE"="Наносите урон с помощью заклинаний"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="Призывайте союзников с помощью заклинаний призыва"
+
+"MISSIONS_SPELL_USE"="Использовать заклинания"
+
+"MISSIONS_HERO_DAMAGE"="Наносите урон с вашим героем"
+
+"MISSIONS_CARD_USE"="Использовать карту"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="Купить ежедневные предложения"
+
+"MISSIONS_SPEND_GEMS"="Использовать кристаллы"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="Открыть сундук с помощью самоцветов"
+
+"MISSIONS_CHEST_OPEN"="Открыть сундуки"
+
+"MISSIONS_STARS_EARN"="Получить звезды"
+
+"TITLE_MISSIONS"="Миссии"
+
+"TITLE_DAILY_MISSIONS"="Ежедневные миссии"
+
+"TAUNT_THANKS"="Спасибо!"
+
+"TAUNT_GOOD_LUCK"="Удачи!"
+
+"TAUNT_OOPS"="ой"
+
+"TAUNT_WELL_PLAYED"="Молодец!"
+
+"UNMUTE_TO_SEND_EMOTES"="Включите функцию, чтобы отправлять и получать эмоции"
+
+"EVENT_COINFARM_BIG_CREEP"="Большой монстр"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="Появление большого крипа на пути врага"
+
+"EVENT_COINFARM_ALL_OUT"="Всё в атаку"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="Бросьте бочки на пути врага, чтобы нанести урон"
+
+"EVENT_COINFARM_ENCHANTMENT"="Чары"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="Дайте бафф брони на некоторых крипов на пути врага"
+
+"EVENT_COINFARM_FARM_ANIMALS"="Фермерские животные"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="Создать крипов из животных ферм на пути врага"
+
+"EVENT_COINFARM_SPEED"="Быстрые крипсы"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="Дать ускорение некоторым крипам на пути врага"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="Нажмите, чтобы продолжить"
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="ЭКРАН НАГРАД"
+
+"SUMMON_SCROLLS"="Свитки"
+
+"SUMMON_SCROLLS_1"="Свитки Призыва"
+
+"SUMMON_SCROLLS_2"="Свитки Призыва"
+
+"SUMMON_SCROLLS_3_SPECIAL"="Свитки Призыва"
+
+"SUMMON_SCROLLS_GEMS"="Свитки Призыва"
+
+"YOUR_SCROLLS"="Свитки"
+
+"EVENT_TICKET"="Билеты на событие"
+
+"YOUR_TICKETS"="Билеты на событие"
+
+"REMAINING_PURCHASE"="Осталось"
+
+"MEGA_GEMS_OFFER"="Мега Предложение Самоцветов"
+
+"MEGA_COINS_OFFER"="Мега Предложение Монет"
+
+"ACCOUNT_BANNED_TITLE"="Аккаунт заблокирован"
+
+"ACCOUNT_BANNED_DESC"="Ваш аккаунт был заблокирован за нарушение условий обслуживания"
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>Поторопитесь!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="Сохраненная игра обнаружена"
+
+"ACCOUNT_CONFLICT_DESC"="Обнаружены две разные сохраненные игры"
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="Облачное сохранение"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="Локальное сохранение"
+
+"GAME_MSG_WAVE_CLEAR"="<color=#87FF62>ВОЛНА ОЧИЩЕНА!"
+
+"GAME_MSG_WAVE_LOST"="<color=#FF7B7B>ВОЛНА ПРОИГРАНА!"
+
+"GAME_MSG_WAVE_WON"="ВОЛНА ПОБЕЖДЕНА"
+
+"TITLE_LEADERBOARD_REWARDS"="Глобальные награды"
+
+"STADIUM_RULE_1"="Получайте медали, соревнуясь на стадионе"
+
+"STADIUM_RULE_2"="Поднимитесь в рейтингах"
+
+"STADIUM_RULE_3"="Получите эксклюзивные награды!"
+
+"ONSLAUGHT_RULE_1"="Победите всех врагов быстрее, чем ваш противник..."
+
+"ONSLAUGHT_RULE_2"="Если вы слишком долго, вы теряете 1 жизнь"
+
+"ONSLAUGHT_RULE_3"="Побеждайте, чтобы получить уникальные награды!"
+
+"SUMMON_RIFT_RULE_1"="Собирайте свитки призыва из других событий"
+
+"SUMMON_RIFT_RULE_2"="Используйте их, чтобы попытаться получить эксклюзивную карту…"
+
+"SUMMON_RIFT_RULE_3"="Выполните несколько призывов, чтобы получить гарантированную эксклюзивную карту!"
+
+"HERO_BERESAD_DESCRIPTION"="Древняя тьма, заключившая сделку с Вез'наном за все золото королевства, принесла разрушение и гибель наземным королевствам. Даже самые сильные оборонительные сооружения Королевства Гномов не смогли остановить его жадность."
+
+"HERO_BERESAD_SHORT_DESC"="- Призывает голема.<br>- Пугает врагов, заставляя их отступать.<br>- Мгновенно убивает, нанося урон ближайшим врагам."
+
+"HERO_BERESAD_NAME"="Бересад"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="С устрашающим ревом Бересад вселяет ужас в своих врагов, заставляя их в панике отступать."
+
+"HERO_BERESAD_SKILL_0_NAME"="Бойтесь дракона"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="Выплёвывает камень на путь и наделяет его магией, создавая голема, который сражается с врагами несколько секунд."
+
+"HERO_BERESAD_SKILL_1_NAME"="Драконье отродье"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="Концентрирует дыхание, чтобы выпустить смертельный огненный луч, который дезинтегрирует цель и вызывает мощный взрыв."
+
+"HERO_BERESAD_SKILL_2_NAME"="уничтожить"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="Бересад зачаровывает некоторых врагов, заставляя их приносить вам дополнительное золото при смерти."
+
+"HERO_BERESAD_SKILL_3_NAME"="Налог на смерть"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="Объединяя камни, обломки и магию Бересада, это создание является символом жадности и чистой силы."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="Сделано из обычных материалов и усилено мощной магией, оно представляет волю своего создателя."
+
+"HERO_BERESAD_MINION_NAME"="Темный голем"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="Первый игрок, победивший всех врагов, отнимает 1 жизнь у противника. (Макс. уровень карты 5)"
+
+"EVENTS_ONSLAUGHT_REWARD"="Следующая награда"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="Темная башня, подпитываемая приспешниками Везнана, гордо возвышается и наводит ужас на всех, кто пытается пройти без разрешения. Сфокусировав луч на врагах, она изматывает их со временем, пока не достигнет критического состояния, вызывающего взрыв."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="Темная башня, которая медленно разъедает врагов одного за другим, пока не останется никого."
+
+"TOWER_BLAZING_GEM_NAME"="Пылающий камень"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="Каждый побежденный враг взрывается в сверхъестественном взрыве, наносящем урон другим врагам.\n(Навык всегда активен)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="Нестабильная сила"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="Позволяет Пылающему Самоцвету поражать 2 цели одновременно, разделяя урон, но увеличивая общий урон.\n(Купить навык при макс. улучшении башни)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="Может поражать 2 цели одновременно"
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="Камень Умножения"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="Могущественный Колдун Эльдритч, являющийся по зову прислужника хозяина. Когда его здоровье иссякает, он переходит во вторую неподвижную форму, в которой дает ближайшим союзникам Магическое Сопротивление, после чего исчезает.\n(Купить навык при макс. улучшении башни)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="Призывает Эльдрического Магуса на сторону противника"
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="Элдритч зов"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="Использует магию аколита для уничтожения вражеского юнита"
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="Каждые несколько секунд башня выпускает луч, который наносит урон и может мгновенно убить юнита на стороне противника.\n(Навык всегда активен)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="Разрушительный луч"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="Элдритч Магус"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="Ученики Везнана используют свою порочную силу, чтобы уничтожить врагов"
+
+"GAME_MSG_WAVE_DRAW"="Ничья"
+
+"TITLE_LANGUAGE"="ЯЗЫК"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="ПРИЗЫВ<br>РАЗРЫВ"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="Вы уверены, что хотите изменить языковые настройки?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="ЯЗЫК"
+
+"BUTTON_YES"="Да"
+
+"BUTTON_NO"="Нет"
+
+"FREE_TAG"="БЕСПЛАТНО"
+
+"TOOLTIP_CLAIM"="ПОЛУЧИ!"
+
+"ERROR_LOADING_SHOP"="ОШИБКА ЗАГРУЗКИ МАГАЗИНА"
+
+"SHOP_OFFER_EXPIRES_IN"="Предложение истекает:"
+
+"SHOP_ARENA_PACK_TITLE"="Арена Пак"
+
+"SHOP_DAILY_DEALS_TITLE"="Ежедневные предложения"
+
+"SHOP_CHESTS_TITLE"="Сундуки"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="Специальные предложения"
+
+"EVENTS_LOCKED_EVENT_TITLE"="Заблокированное событие"
+
+"COMING_SOON"="СКОРО"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="Карты для разблокировки:"
+
+"BUTTON_CLAIM"="ПОЛУЧИТЬ"
+
+"BUTTON_REWARDS"="Награды"
+
+"MISSIONS_WEEKLY"="Еженедельно"
+
+"MISSIONS_DAILY"="Ежедневно"
+
+"MISSIONS_RESETS_IN"="Сброс через:"
+
+"STADIUM_REWARD_POP_UP_NAME"="Поздравляем {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="Вы заняли {0} место в таблице лидеров. Получите свои награды!"
+
+"TOWER_TESLA_PACK_NAME"="Повседневный набор"
+
+"TAP_TO_CONTINUE"="Нажмите, чтобы продолжить"
+
+"TIPS_SCREEN_TITLE"="Советы"
+
+"REWARDS_TITLE"="Награды"
+
+"NEW_ARENA_UNLOCKED"="Новая арена<br>разблокирована!"
+
+"SELECT_CARD_TO_REPLACE"="ВЫБЕРИТЕ КАРТУ ДЛЯ ЗАМЕНЫ"
+
+"TIMER_DAY"="д"
+
+"TIMER_HOUR"="ч"
+
+"TIMER_MINUTE"="мин"
+
+"TIMER_SECOND"="сек"
+
+"COLISSEUM_WAITING_TO_DELIVER"="Стадион закрыт. Призы в пути..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="Карта {0}"
+
+"CARD_STAT_RESPAWN_TIME"="Время возрождения"
+
+"PRIVATE_MATCH_TITLE"="ДРУЖЕСКИЙ МАТЧ"
+
+"PRIVATE_MATCH_ENTER_CODE"="Ввести код"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="Введите код для входа"
+
+"PRIVATE_MATCH_CREATE_MATCH"="СОЗДАТЬ МАТЧ"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="Ожидание противника..."
+
+"PRIVATE_MATCH_CONNECTING"="Подключение..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="Создание комнаты..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="ПРИСОЕДИНИТЬСЯ"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="Пожалуйста, введите код комнаты"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="Тайм-аут соединения. Попробуйте снова."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="Не удалось начать матч"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="Не удалось присоединиться"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="Отключен от комнаты"
+
+"ERROR"="ОШИБКА"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="Темный новичок"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="Темный рыцарь"
+
+"PRIVATE_PVP_RULE_1"="Создайте матч, чтобы сгенерировать уникальный код…"
+
+"PRIVATE_PVP_RULE_2"="Поделитесь кодом с другом! Они могут присоединиться, введя его."
+
+"PRIVATE_PVP_RULE_3"="Наслаждайтесь частной игрой на случайной карте!"
+
+"PRIVATE_PVP_RULE_4"="Максимальный уровень карт {0} - Максимальный уровень усилителей {1}"
+
+"CHASER_PACK_TITLE"="Набор {0}"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="Темный меч"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="Наследие убийцы преобразит следующего рыцаря, который возьмет в руки этот меч."
+
+"PRIVATE_MATCH_INVITATION_CODE"="Код приглашения"
+
+"SHOP_EMOTES_OFFERS_TITLE"="Эмоции"
+
+"NEW_EMOTE"="Новый эмоут!"
+
+"SHOP_ACQUIRED"="Получено"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="Бронзовая лига"
+
+"TERRAIN_STADIUM_SILVER_NAME"="Серебряная лига"
+
+"TERRAIN_STADIUM_GOLD_NAME"="Золотая лига"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="Алмазная лига"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="Лига Чемпионов"
+
+"COLLECTION_EMOTES"="Эмоции"
+
+"TERRAIN_STADIUM_REWARD"="Награда:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="Элитные солдаты Темной Армии, обученные как в небе, так и на земле, патрулируют поле боя с беспощадной точностью. С одной командой они переходят от надежных стражей фронта к стремительным охотникам, наносящим врагам беспощадный урон."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="Универсальные солдаты, владеющие как небом, так и землей, охотятся на врагов с смертельной точностью."
+
+"TOWER_ROCKET_GUNNERS_NAME"="Ракетчики"
+
+"ROCKET_GUNNERS_UNIT_NAME"="Ракетчик"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="Солдат, обученный переключаться между ударами с помощью реактивного двигателя и боем на твердой почве"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="Стрелки могут активировать свои реактивные ранцы, чтобы летать над дорожкой, или деактивировать их для боя на земле.\n(Навык всегда доступен)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="Воздушные маневры"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="Наносит коррозионное покрытие на каждый выстрел, снижая броню врага и нанося урон по области при попадании.\n(Приобрести навык при максимальном улучшении башни)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="Каждый выстрел снижает броню и наносит урон по области."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="Фосфорное покрытие"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="Запускает самонаводящиеся ракеты, мгновенно уничтожающие цель при попадании.\n(Приобрести умение при максимальном улучшении башни)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="Запускает ракеты, немедленно убивая цель"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="Жало ракет"
+
+"EMOTE_AEGION_PONDERING"="Задумчивость"
+
+"EMOTE_ALLERIA_ANGRY"="Злая Аллерия"
+
+"EMOTE_ALLERIA_SHINE"="Счастливая Аллерия"
+
+"EMOTE_ASHBITE_HEART"="Влюблённый Эшбайт"
+
+"EMOTE_BERESAD_MONEY"="Смирись"
+
+"EMOTE_CHICKEN_SCREAM"="Злая Курица"
+
+"EMOTE_DENAS_ANGRY"="Взбешённый Денас"
+
+"EMOTE_DENAS_CRY"="Плачь Ещё"
+
+"EMOTE_DENAS_GOLD"="Ча-чинг"
+
+"EMOTE_DENAS_LAUGH"="Счастливый Денас"
+
+"EMOTE_DIERDRE_ANGRY"="Будь Реалистом"
+
+"EMOTE_EISKALT_SURPRISE"="Неодобрение"
+
+"EMOTE_ELORA_TIME_CLOCK"="Вздох..."
+
+"EMOTE_GERALD_BEACH"="Расслабон"
+
+"EMOTE_GERALD_DESPAIR"="Отчаяние..."
+
+"EMOTE_GERALD_SHINE"="Сияющая Улыбка"
+
+"EMOTE_GOBLIN_ANGRY"="Разочарован"
+
+"EMOTE_GOBLIN_FIRE"="Всё Нормально"
+
+"EMOTE_GOBLIN_GIFT"="Сюрприз!"
+
+"EMOTE_GOBLIN_GOOFY"="Дурачусь"
+
+"EMOTE_GOBLIN_KISS"="Поцелуи Тебе"
+
+"EMOTE_GOBLIN_OOPS"="Ой"
+
+"EMOTE_GOBLIN_SLEEPING"="Сладких Снов"
+
+"EMOTE_GOBLIN_SNOW"="Снежный Гоблин"
+
+"EMOTE_GOBLIN_TAUNT"="Насмешливый Гоблин"
+
+"EMOTE_GRAWL_BICEP"="Флексящий Граул"
+
+"EMOTE_GRAWL_CHRISTMAS"="Праздничное Настроение"
+
+"EMOTE_HACKSAW_LAUGH"="Маньяк"
+
+"EMOTE_INGVAR_TRANSFORM"="Я Превращаюсь в Медведя!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="Кулачок"
+
+"EMOTE_SKELETON_SHOCKED"="ЧТО!?"
+
+"EMOTE_SKELETON_SWEAT"="Потный Скелет"
+
+"EMOTE_SOLDIER_CELEBRATION"="Празднование"
+
+"EMOTE_VESPER_OK"="Идеально"
+
+"CREEP_PIG_NAME"="Свинья"
+
+"CREEP_GOAT_NAME"="Коза"
+
+"CREEP_GOOSE_NAME"="Гусь"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="ЗАБРОШЕННАЯ ДОЛИНА"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="Долина Отверженных"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="Долина Отверженных"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="Легендарный зимний набор"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="Эпический зимний набор"
+
+"SHOP_SEASON_OFFERS_TITLE"="Сезонные спецпредложения"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="Ослабленный новичок Темной армии, едва защищенный разбитым доспехом."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="Даже с разбитой частью доспеха, этот рыцарь остается ужасающей угрозой."
+
+"CREEP_GOOSE_SHORT_DESC"="Могучая гусыня, распространяющая хаос по ферме"
+
+"CREEP_DONKEY_RIDER_NAME"="Верховой Ослик"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="Фермер"
+
+"CREEP_PIG_SHORT_DESC"="Бунтующая свинья, всегда сбегающая из клетки"
+
+"CREEP_GOAT_SHORT_DESC"="Коза"
+
+"MODIFIER_TITLE_DARK_PRIEST"="Темный жрец"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="Враг с сопротивлением к магии, превращающий юниты в Темных Руководителей или Темных Рыцарей"
+
+"CREEP_DARK_PRIEST_NAME"="Темный жрец"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="Злой священник, распространяющий слово Темного Лорда, порабощает всех, чтобы присоединиться к Темной Армии."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>Призывает 2 <color=#F36D4D> Тёмных Жрецов <color=#FFFFFF>на волны противника"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="Сила Тёмного Жреца <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="Сила Тёмного Жреца <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="Сила Тёмного Жреца <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="Сундук Бронзовой Лиги"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="Серебряный сундук Лиги"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="Золотой сундук Лиги"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="Сундук Лиги Бриллиантов"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="Чемпионская лига сундук"
+
+"CARDS_TAB"="Карты"
+
+"HERO_RAELYN_DESCRIPTION"="Импозантная и жестокая командир Темной Армии, Рейлин стоит на передовой, готовая сбивать все на своем пути. Ее неизменное преданность битве внушает страх ее врагам и яркую преданность среди ее рыцарей."
+
+"HERO_RAELYN_SHORT_DESC"="- Защищает себя щитом.<br>- Оглушает и ослабляет врагов страхом.<br>- Впадает в ярость, нанося более быстрый урон по области."
+
+"HERO_RAELYN_NAME"="Рейлин"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="Ее бесстрашность дарует ей щит, который аннулирует весь урон на короткое время."
+
+"HERO_RAELYN_SKILL_0_NAME"="Несокрушимый"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="Ее неистовый боевой клич вводит врагов в панику, оглушая их и уменьшая урон."
+
+"HERO_RAELYN_SKILL_1_NAME"="Внушить страх"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="Каждые несколько секунд ее жажда разрушения ведет ее в ярость, увеличивая скорость атаки и нанося удары с областным уроном."
+
+"HERO_RAELYN_SKILL_2_NAME"="Нападение"
+
+"STAGE_FORSAKEN_1"="Багровый Вил"
+
+"STAGE_FORSAKEN_2"="Пепельные земли"
+
+"STAGE_FORSAKEN_3"="Пустоши"
+
+"STAGE_FORSAKEN_4"="Темный переулок"
+
+"STAGE_FORSAKEN_5"="Черный Камень Трейл"
+
+"STAGE_FORSAKEN_6"="Павший путь"
+
+"COMMAND_ORDER_UNIT_NAME"="Павший Темный Убийца"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="Душа убийцы, которая продолжает сражаться даже после смерти"
+
+"COIN_FARM_RULE_1"="Специальные силы фермы заменяют ваши заклинания здесь..."
+
+"COIN_FARM_RULE_2"="Используйте их, чтобы побеждать и собирать монеты в своем банке..."
+
+"COIN_FARM_RULE_3"="Завершите банк до окончания события и получите все монеты, которые вы накопили!"
+
+"COIN_FARM_RULE_4"="Максимальный уровень карт {0} - Максимальный уровень усилителей {1}"
+
+"SPELL_COMMAND_ORDER_NAME"="Павший порядок"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="заклинание"
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="Призовите павшего Слейера, чтобы помочь вам на поле боя"
+
+"SPELL_ULTIMATE_SLAYER_NAME"="Абсолютный Удар"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="Призывает запретное заклинание, чтобы уничтожить самого мощного врага в области"
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="Бьет самого сильного врага в области, мгновенно побеждая его."
+
+"MENU_OFFER_ICON_SALE"="РАСПРОДАЖА"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="ЗАБРАТЬ МОНЕТЫ СЕЙЧАС!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="Вы хотите забрать свои монеты сейчас? Вы получите только ваши текущие накопления."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="Мощный Магмовый Элементаль появляется в случайной точке впереди на карте. После победы он превращается в каменную форму для исцеления и воскрешения."
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="Магмовый элементаль, восходящий как живое природное бедствие, оставляя позади лишь разрушение."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="Магмовый элементаль был уничтожен и входит в фазу реконструкции для исцеления."
+
+"CREEP_SCREECHER_BAT_NAME"="Крикун летучей мыши"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="Гигантская летучая мышь, оглушающая всех, кто стоит на ее пути."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="Гигантская летучая мышь, использующая свой сверхзвуковой визг для оглушения ближайших врагов."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="Рабочие Дарк-армии - те, кто готовит и восстанавливает силы Темного Лорда."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="Ремонтник"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="Призывает Теневого Кузнеца на волны противника"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="Сила Теневого Кузнеца <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="Сила Теневого Кузнеца <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="Сила Теневого Кузнеца <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="Теневой ворон, который призывает Темных воронов каждые несколько секунд"
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="Дрессировщик ворон, который размещает ворон по всему королевству, чтобы создать обширную сеть разведки."
+
+"MODIFIER_DESC_FLAMING_FATE"="Вызывает сильные извержения, которые посылают горящие камни врагам."
+
+"MODIFIER_DESC_MOLTEN_STONE"="Генерирует землетрясения по всему полю боя, на несколько секунд замораживая вражеские башни в камне."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="Смертельный лучник, стреляющий стрелами со слепящей скоростью, поражая врагов до их реакции"
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="Летающий бронированный враг, который запускает ракетный ускоритель, когда его атакуют"
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="Магмовый осколок, разрушенный, входит в фазу реконструкции для исцеления."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="Голем"
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="Гигантская осадная машина, уничтожающая любой замок, стоящий на пути Везьнана."
+
+"NEW_LEAGUE_UNLOCKED"="Лига разблокирована!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="Сервер на обслуживании. Ориентировочное время окончания: {0}"
+
+"HERO_ASRA_DESCRIPTION"="Закаленная безжалостными тренировками, Асра — одна из самых смертоносных убийц теней, когда-либо вышедших из Темной армии. Ее безмолвный взгляд столь же смертелен, как и ее клинки, и те, кто встречается с ним, редко живут достаточно долго, чтобы пожалеть об этом. Лично отобранная Везнаном, она наносит удары быстро, точно и без пощады."
+
+"HERO_ASRA_SHORT_DESC"="- Телепортируется и создает щит.<br>- Выпускает шквал стрел, пробивающих броню.<br>- Смертельно отравляет врагов кинжалом."
+
+"HERO_ASRA_NAME"="Асра"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="Выпускает шквал мощных стрел, которые наносят урон и пробивают часть вражеской брони."
+
+"HERO_ASRA_SKILL_0_NAME"="Ониксовые стрелы"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="Наносит быстрый и смертельный удар своим отравленным клинком, отравляя врага, пока тот не погибнет."
+
+"HERO_ASRA_SKILL_1_NAME"="Укус паука"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="Используя свой Теневой танец, она может мгновенно телепортироваться в любое место, получая дополнительный защитный щит при появлении рядом с вражескими войсками."
+
+"HERO_ASRA_SKILL_2_NAME"="Мерцание ночной завесы"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="Безжалостный лучник, ведомый жестокостью и одержимостью, охотится без устали. Каждый враг, убитый его стрелами, усиливает его силу, укрепляет удары и превращает смерть в его величайшее оружие."
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="Беспощадная башня лучников, которая увеличивает силу атаки с каждым убитым врагом, делая каждый выстрел растущей угрозой."
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="Сумеречный лук"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="Башня может изменить фокус урона с нацеливания на ближайшего к выходу врага на нацеливание на врага с наибольшим максимальным HP.\n(Навык всегда активен)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="Фокус врага"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="Призывает двух Харассеров на помощь в бою. Эти свирепые и проворные воины наносят смертельный урон, имея шанс уклониться от входящих атак.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="Призывает двух Харассеров для патрулирования территории и уничтожения всех, кто пытается подойти к башне."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="Поддержка клинков"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="Выпускает стрелу, обернутую темной магией, которая сбивает с толку целевую вражескую единицу, не позволяя ей использовать способности в течение нескольких секунд.\n(Купить навык при максимальном улучшении башни)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="Целится в героев первыми, предотвращая использование способностей на короткое время."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="Тихая охота"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="Каждое убийство этой башней увеличивает ее урон от атаки на несколько секунд, до 3 раз."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="Каждый враг, убитый стрелами этой башни, отдает свою душу, усиливая их и увеличивая их урон, максимум до 3 раз.\n(Навык всегда активен)"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="Охотничий азарт"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="Харассеры"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="Опытные воины Твайлайт Эльфов, специализирующиеся на ближнем бою. Они представляют собой последний этап перед становлением Элитными Досаждателями."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="Воины Сумеречных Эльфов с шансом уклониться от атак ближнего боя."
+
+"INBOX_TAG_UPDATE"="Обновление"
+
+"INBOX_TAG_NEWS"="Новости"
+
+"INBOX_TAG_GIFT"="Подарок"
+
+"INBOX_TITLE"="ВХОДЯЩИЕ"
+
+"INBOX_NO_MESSAGES"="Нет доступных сообщений"
+
+"INBOX_SHOW_ALL_MESSAGES"="Показать все"
+
+"INBOX_READ"="Читать"
+
+"HERO_ALLERIA_WILDCAT_NAME"="Аллерия & Дикий Клык"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="В гораздо более старой и мудрой форме эта хранительница леса готова высвободить всю силу природы. Оседлав своего подросшего Дикого Клыка, она способна наносить смертельные удары когтями, продолжая стрелять по отдаленным врагам."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- Спешивается с Дикого Клыка при смерти.<br>- Выпускает стрелу, замедляющую и наносящую урон по области.<br>- Рычит и ослабляет ближайших крипов."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="Спешивание"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="В смертельной опасности она спешивается со своего Дикого Клыка и отступает, продолжая сражаться, пока зверь не будет снова готов к бою."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="Шип Выстрел"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="Выпускает мощную стрелу, заряженную силой природы, которая выращивает лозы на пути, замедляя и нанося урон врагам, пересекающим область."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="Рёв Дикого Клыка"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="Дикий Клык издает свирепый рык, который запугивает врагов, уменьшая силу их ударов и увеличивая получаемый ими урон."
+
+"MEGA_TICKET_OFFER_1"="Супер предложение билетов"
+
+"MEGA_TICKET_OFFER_2"="Потрясающее предложение билетов"
+
+"PLAYER_PROFILE_TITLE"="Профиль"
+
+"PLAYER_PROFILE_STATS_TITLE"="Статистика игрока"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="Аватары"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="Баннеры"
+
+"PLAYER_PROFILE_TITLES_TITLE"="Титулы"
+
+"PLAYER_PROFILE_USER_TAB"="Пользователь"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="Редактировать профиль"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="Текущая серия"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="Лучшая серия"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="Победы"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="Поражения"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="Процент побед"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="Всего карт"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="Разблокированные герои"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="Разблокированные башни"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="Разблокированные заклинания"
+
+"PLAYER_PROFILE_STAT_MATCHES"="Матчи"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="Железный натиск"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="Продвинутая задача натиска для сильных игроков!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="Первый игрок, победивший всех врагов, забирает 1 жизнь у противника. (Макс. уровень карты 9)"
+
+"ONSLAUGHT_2_RULE_1"="Побеждай врагов быстрее противника..."
+
+"ONSLAUGHT_2_RULE_2"="Ты потеряешь 1 жизнь, если затянешь..."
+
+"ONSLAUGHT_2_RULE_3"="Побеждай, чтобы получить уникальные награды!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="РЕКРУТ ЛИНИРЕИ"
+
+"PROFILE_TITLE_DARK_ROOKIE"="ТЁМНЫЙ НОВИЧОК"
+
+"PROFILE_TITLE_FOREST_RANGER"="ЛЕСНОЙ СТРАЖ"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="ХРАБРЫЙ ВОИН"
+
+"PROFILE_TITLE_0005"="ЛАВОВЫЙ БЕС"
+
+"PROFILE_TITLE_0006"="МАСТЕР СКРЫТНОСТИ"
+
+"PROFILE_TITLE_0007"="ТАКТИЧЕСКИЙ ГЕНИЙ"
+
+"PROFILE_TITLE_0008"="ЛЕГЕНДАРНЫЙ ПОЛКОВОДЕЦ"
+
+"BUTTON_KINGDOM_PASS"="ПРОПУСК КОРОЛЕВСТВА"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="ПОЛУЧИТЬ ЗОЛОТО"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="Ферма закрыта, получите монеты!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="Изменить имя пользователя"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="Вы подтверждаете, что хотите изменить имя пользователя?"
+
+"EVENTS_REOPENS_IN"="Откроется через..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="Ферма закрыта, но вы всё ещё можете получить неполученные монеты!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="Последний шанс на монеты!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="Монетная ферма закроется! Играйте в матчи и получите монеты сейчас!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="Эпический набор Пробуждения I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="Эпический набор Пробуждения II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="Легендарный набор Пробуждения I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="Легендарный набор Пробуждения II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="Лимит достигнут!"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="Нет"
+
+"ERROR_INVALID_RESPONSE_TITLE"="Произошла ошибка!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="Не удалось обработать ответ сервера. Пожалуйста, попробуйте ещё раз."
+
+"HERO_BONEHART_DESCRIPTION"="Мощные костяные останки некогда праведного Фауста. Этот огромный Драколич повелевает смертью, призывая нежить и распространяя чуму, уничтожая вражеские силы жуткой мощью. Некогда избранный богиней Элини, он теперь бродит по землям с душой, оскверненной тёмными, запретными силами."
+
+"HERO_BONEHART_SHORT_DESC"="- Призывает Виверн.<br>- Падает на тропу, нанося урон.<br>- Распространяет Чуму."
+
+"HERO_BONEHART_NAME"="Кощей"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="С каждой горстью поверженных врагов Костяные Виверны восстают, чтобы преследовать путь противника. При уничтожении они взрываются гнилостным облаком, распространяя Чуму на все ближайшие отряды."
+
+"HERO_BONEHART_SKILL_0_NAME"="Костяные Виверны"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="Растворяется во тьме, а затем обрушивается на путь врага, нанося мощный урон по площади и проклиная всех выживших Чумой."
+
+"HERO_BONEHART_SKILL_1_NAME"="Вспышка болезни"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="Выдыхает гнилостную миазму из проклятых костей, окутывая путь врага ядовитым облаком, замедляющим всех, кто его вдыхает, и поражающим их Чумой."
+
+"HERO_BONEHART_SKILL_2_NAME"="Облако чумы"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="Выпускает залп снарядов, наполненных болезнью, из своего гниющего тела, бесприцельно рассеивая Чуму по полю боя и поражая врагов где бы они ни находились."
+
+"HERO_BONEHART_SKILL_3_NAME"="Распространяющийся Взрыв"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="Проклятое костяное существо, бродящее по небесам и заражающее всех внизу чумой своего тёмного повелителя."
+
+"HERO_BONEHART_WYVERN_NAME"="Костяная Виверна"
+
+"BUY_GOLDEN_PASS"="Получить Золотой пропуск"
+
+"BUY_PLATINUM_PASS"="Получить Платиновый пропуск"
+
+"DECK_BUILDER_WILDCARDS"="ДЖОКЕРЫ"
+
+"SEASON_PASS_COMMON_TITLE"="ОБЫЧНЫЙ"
+
+"SEASON_PASS_GOLDEN_TITLE"="ЗОЛОТОЙ"
+
+"SEASON_PASS_PLATINUM_TITLE"="ПЛАТИНОВЫЙ"
+
+"SEASON_PASS_REWARDS"="НАГРАДЫ"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 10 ДОПОЛНИТЕЛЬНЫХ УРОВНЕЙ ПРОПУСКА"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="Показать все награды"
+
+"SEASON_PASS_NAME"="ЦЕПИ ЯРОСТИ"
+
+"SEASON_PASS_WIDGET_LOCKED"="ПРОПУСК КОРОЛЕВСТВА<br> Открывается на Арене 1"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="ПОЛУЧИТЬ<br>НАГРАДУ!"
+
+"WILDCARD_RARITY_COMMON"="Обычный джокер"
+
+"WILDCARD_RARITY_RARE"="Редкий джокер"
+
+"WILDCARD_RARITY_EPIC"="Эпический джокер"
+
+"WILDCARD_RARITY_LEGENDARY"="Легендарный джокер"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="ВЫБЕРИТЕ ОБЫЧНУЮ КАРТУ"
+
+"WILDCARD_VIEW_TITLE_RARE"="ВЫБЕРИТЕ РЕДКУЮ КАРТУ"
+
+"WILDCARD_VIEW_TITLE_EPIC"="ВЫБЕРИТЕ ЭПИЧЕСКУЮ КАРТУ"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="ВЫБЕРИТЕ ЛЕГЕНДАРНУЮ КАРТУ"
+
+"WILDCARD_VIEW_SUBTITLE"="Итого"
+
+"WILDCARD_VIEW_NAME"="Джокеры"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="Добавить {0} {1} к этой карте?"
+
+"WILDCARD_VIEW_WILD_CARD"="Джокер"
+
+"WILDCARD_VIEW_WILD_CARDS"="Джокеры"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="Добавить джокеры"
+
+"WILDCARD_POPUP_DESCRIPTION"="Используйте джокеры, чтобы ускорить улучшение любой карты!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="Нет подходящих карт для использования джокеров."
+
+"WILDCARD_YOUR_CARDS"="Ваши карты"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="Получите джокеры, чтобы улучшить свои карты!"
+
+"COLLECTION_TYPE_BANNER"="БАННЕР ПРОФИЛЯ"
+
+"COLLECTION_TYPE_TITLE"="ЗВАНИЕ ПРОФИЛЯ"
+
+"COLLECTION_TYPE_AVATAR"="АВАТАР ПРОФИЛЯ"
+
+"BANNER_BANDITS"="Логово Налётчиков"
+
+"BANNER_BASICBLUE"="Голубой Эфир"
+
+"BANNER_BASICGREEN"="Зелёная Свежесть"
+
+"BANNER_BASICPURPLE"="Таинственный Пурпур"
+
+"BANNER_BASICRED"="Красный Жар"
+
+"BANNER_BASICYELLOW"="Солнечный Жёлтый"
+
+"BANNER_DESERT"="Окраины Хаммерхолда"
+
+"BANNER_DESERT2"="Огненные Дюны"
+
+"BANNER_LINIREA"="Зелёные Поля Линиреи"
+
+"BANNER_LINIREA"="Зелёные Поля Линиреи"
+
+"BANNER_LINIREA2"="Сельскохозяйственные Угодья"
+
+"BANNER_MOUNTAIN"="Высокогорье Ледяной Вершины"
+
+"BANNER_TRAINING"="Плац Казармы"
+
+"BANNER_TRAINING2"="Стрельбище"
+
+"AVATAR_FOOTMAN"="СОЛДАТ ЛИНИРЕИ"
+
+"AVATAR_GOBLIN"="ОЗОРНОЙ ГОБЛИН"
+
+"HERO_MALIK_NAME"="Король Малик"
+
+"HERO_MALIK_DESCRIPTION"="Яростный в бою, он прошёл путь от сломленного узника Кровавого Карьера до легенды, закалённой в буре. Подняв упавший молот, он разбил свои оковы и прокладывал путь в бесчисленных сражениях как непобедимый чемпион Линиреи, пока не занял трон Короля Хаммерхолда — теперь несокрушимого защитника своего народа."
+
+"HERO_MALIK_SHORT_DESC"="Высокий урон сильнейшему врагу.<br>Глушит навыки башен врага.<br>Прыгает на большие расстояния."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ НОВАЯ ЛЕГЕНДАРНАЯ КАРТА<br>КОРОЛЬ МАЛИК"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="Каждая атака Малика разрушает броню и магическое сопротивление врагов на несколько секунд."
+
+"HERO_MALIK_SKILL_0_NAME"="Отключение"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="Призывает мощный удар молнии, заглушая некоторые башни противника, отключая их способности на несколько секунд и снижая наносимый ими урон."
+
+"HERO_MALIK_SKILL_1_NAME"="Гром"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="Нацеливается на самого живучего врага на карте, поражает его молнией и наносит урон, равный проценту от его максимального здоровья."
+
+"HERO_MALIK_SKILL_2_NAME"="Раскованная Молния"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="При движении на большие расстояния он прыгает и врезается в землю, нанося урон по площади ближайшим врагам и оглушая их на несколько секунд."
+
+"HERO_MALIK_SKILL_3_NAME"="Землетрясение"
+
+"PROFILE_TITLE_S1_FREE"="ПЕРВОПРОХОДЕЦ"
+
+"PROFILE_TITLE_S1_GOLD"="ВОИН ПЕСКОВ"
+
+"PROFILE_TITLE_S1_PLATINUM"="СОКРУШИТЕЛЬ ОКов"
+
+"EMOTE_ALRIC_FACEPALM"="Фейспалм Алрика"
+
+"EMOTE_MALIK_BOLT"="Молния Малика"
+
+"SEASON_PASS_COMMON_PASS"="Обычный<br>пропуск"
+
+"SEASON_PASS_GOLDEN_PASS"="Золотой<br>пропуск"
+
+"SEASON_PASS_PLATINUM_PASS"="Платиновый<br>пропуск"
+
+"AVATAR_MAGE"="УЧЕНИК МАГА"
+
+"AVATAR_SHEEP"="БЕЗУМНАЯ ОВЦА"
+
+"AVATAR_YOUNGMALIK"="ЮНЫЙ МАЛИК"
+
+"BUTTON_REROLL"="ПЕРЕБРОС"
+
+"BUTTON_KEEP"="ОСТАВИТЬ"
+
+"N_ROLLS_REMAINING"="Осталось: {0}"
+
+"SEASON_PASS_TIME_LEFT"="Осталось времени"
+
+"CHEST_INFO_NAME_SEASON_FREE"="Обычный Сундук"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="Тайный Сундук"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="Бонусный Сундук"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="Мифический Сундук"
+
+"SEASON_PASS_SEASON_NUMBER"="Kingdom Pass - Сезон 1"
+

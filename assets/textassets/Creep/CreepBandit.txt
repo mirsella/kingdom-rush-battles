@@ -1,0 +1,57 @@
+{
+    "CreepBandit": {
+        "goldReward": [
+            7
+        ],
+        "goldRewardShiny": [
+            47
+        ],
+        "health": [
+            50
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.9
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    12.0
+                ],
+                "maxDamage": [
+                    20.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "dodge": {
+            "disabled": [
+                false
+            ],
+            "chance": [
+                0.55
+            ],
+            "modifier": {
+                "duration": [
+                    1
+                ]
+            }
+        }
+    }
+}

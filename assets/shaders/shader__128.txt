@@ -1,0 +1,42 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/PostProcessing/FinalPass" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 3707
+}
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 78925
+}
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 195519
+}
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 250176
+}
+}
+}

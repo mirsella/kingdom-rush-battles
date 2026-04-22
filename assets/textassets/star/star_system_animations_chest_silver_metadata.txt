@@ -1,0 +1,58 @@
+{
+	"Idle1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle2_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle3_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"Attack1" : 0
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle4_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

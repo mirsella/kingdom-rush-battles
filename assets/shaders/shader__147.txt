@@ -1,0 +1,24 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/PostProcessing/TemporalAntialiasing" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 63221
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 92432
+}
+}
+}

@@ -1,0 +1,18 @@
+{
+    "tower_sorcerer_sheep": {
+        "speed": [
+            1
+        ],
+        "tapsToKill": [
+            6
+        ],
+        "ai": {
+            "weightMultiplier": [
+                500.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

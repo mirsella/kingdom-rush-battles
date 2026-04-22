@@ -1,0 +1,41 @@
+{
+    "CreepArmoredOrc": {
+        "goldReward": [
+            58
+        ],
+        "health": [
+            620
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.9
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    25.0
+                ],
+                "maxDamage": [
+                    28.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

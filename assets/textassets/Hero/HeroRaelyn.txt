@@ -1,0 +1,299 @@
+{
+    "HeroRaelyn": {
+        "health": [
+            210.0,
+            231.6,
+            255.4,
+            281.7,
+            310.7,
+            342.6,
+            377.8,
+            416.7,
+            459.6,
+            506.8,
+            559.0,
+            616.5,
+            679.9,
+            749.8,
+            826.9
+        ],
+        "regenPerSecond": [
+            13.7,
+            15.1,
+            16.6,
+            18.3,
+            20.2,
+            22.3,
+            24.6,
+            27.1,
+            29.9,
+            32.9,
+            36.3,
+            40.1,
+            44.2,
+            48.7,
+            53.7
+        ],
+        "armor": [
+            80
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            2.5
+        ],
+        "respawn": [
+            15.0
+        ],
+        "blockRange": [
+            0.8
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    68.3,
+                    78.5,
+                    90.3,
+                    103.8,
+                    119.4,
+                    137.3,
+                    157.9,
+                    181.5,
+                    208.8,
+                    240.1,
+                    276.1,
+                    317.5,
+                    365.2,
+                    419.9,
+                    482.9
+                ],
+                "maxDamage": [
+                    78.8,
+                    90.6,
+                    104.1,
+                    119.8,
+                    137.7,
+                    158.4,
+                    182.2,
+                    209.5,
+                    240.9,
+                    277.0,
+                    318.6,
+                    366.4,
+                    421.3,
+                    484.5,
+                    557.2
+                ],
+                "damageType": [
+                    "True"
+                ],
+                "rangeType": [
+                    "Melee"
+                ]
+            }
+        },
+        "unbreakable": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                25.0
+            ],
+            "mod_shield": {
+                "duration": [
+                    10
+                ],
+                "shield": [
+                    200
+                ]
+            }
+        },
+        "inspire_fear": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                18.0
+            ],
+            "range": [
+                0.5
+            ],
+            "stun": {
+                "areaRange": [
+                    0.9
+                ],
+                "duration": [
+                    6.0
+                ]
+            },
+            "debuff": {
+                "areaRange": [
+                    0.9
+                ],
+                "duration": [
+                    10.0
+                ],
+                "damagePercentage": [
+                    -30,
+                    -32,
+                    -34,
+                    -36,
+                    -38,
+                    -40,
+                    -42,
+                    -44,
+                    -46,
+                    -48,
+                    -50,
+                    -52,
+                    -54,
+                    -56,
+                    -58
+                ]
+            }
+        },
+        "onslaught": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                37.0
+            ],
+            "mod_onslaught": {
+                "duration": [
+                    10.0
+                ],
+                "attackSpeedPercentage": [
+                    35
+                ]
+            }
+        },
+        "atk_onslaught": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    68.3,
+                    78.5,
+                    90.3,
+                    103.8,
+                    119.4,
+                    137.3,
+                    157.9,
+                    181.5,
+                    208.8,
+                    240.1,
+                    276.1,
+                    317.5,
+                    365.2,
+                    419.9,
+                    482.9
+                ],
+                "maxDamage": [
+                    78.8,
+                    90.6,
+                    104.1,
+                    119.8,
+                    137.7,
+                    158.4,
+                    182.2,
+                    209.5,
+                    240.9,
+                    277.0,
+                    318.6,
+                    366.4,
+                    421.3,
+                    484.5,
+                    557.2
+                ],
+                "damageType": [
+                    "True"
+                ]
+            },
+            "area_damage": {
+                "areaRange": [
+                    0.5
+                ],
+                "minDamage": [
+                    68.3,
+                    78.5,
+                    90.3,
+                    103.8,
+                    119.4,
+                    137.3,
+                    157.9,
+                    181.5,
+                    208.8,
+                    240.1,
+                    276.1,
+                    317.5,
+                    365.2,
+                    419.9,
+                    482.9
+                ],
+                "maxDamage": [
+                    78.8,
+                    90.6,
+                    104.1,
+                    119.8,
+                    137.7,
+                    158.4,
+                    182.2,
+                    209.5,
+                    240.9,
+                    277.0,
+                    318.6,
+                    366.4,
+                    421.3,
+                    484.5,
+                    557.2
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "raelyn_perk": {
+            "damagePercentage": [
+                -4
+            ]
+        },
+        "ai": {
+            "groundPhysicalDamage": [
+                2.0
+            ],
+            "groundMagicDamage": [
+                2.0
+            ],
+            "flyingPhysicalDamage": [
+                0.0
+            ],
+            "flyingMagicDamage": [
+                0.0
+            ],
+            "swarmDefense": [
+                4.0
+            ],
+            "block": [
+                4.0
+            ]
+        }
+    }
+}

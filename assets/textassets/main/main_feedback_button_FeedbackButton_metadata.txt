@@ -1,0 +1,30 @@
+{
+	"Start" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

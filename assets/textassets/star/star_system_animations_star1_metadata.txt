@@ -1,0 +1,30 @@
+{
+	"idle" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"IdleStar" : 0
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"pop" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"PopStar" : 0
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

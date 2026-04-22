@@ -1,0 +1,127 @@
+{
+    "tower_royal_archer_1": {
+        "royal_perk": {
+            "maxHealthPercentage": [
+                -2
+            ]
+        },
+        "cost": [
+            75
+        ],
+        "basic_attack": {
+            "range": [
+                2
+            ],
+            "cooldown": [
+                0.6
+            ],
+            "damage": {
+                "minDamage": [
+                    4.2,
+                    4.8,
+                    5.6,
+                    6.4,
+                    7.3,
+                    8.4,
+                    9.7,
+                    11.2,
+                    12.8,
+                    14.8,
+                    17.0,
+                    19.5,
+                    22.5,
+                    25.8,
+                    29.7
+                ],
+                "maxDamage": [
+                    6.3,
+                    7.2,
+                    8.3,
+                    9.6,
+                    11.0,
+                    12.7,
+                    14.6,
+                    16.8,
+                    19.3,
+                    22.2,
+                    25.5,
+                    29.3,
+                    33.7,
+                    38.8,
+                    44.6
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "COMMENT": "Extra damage to flying units",
+                "damageMovementPercentage": [
+                    110
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    6.0,
+                    11.0,
+                    15.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.1
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    15.0
+                ],
+                "flyingMagicDamage": [
+                    0.2
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    0.0
+                ],
+                "swarmDefense": [
+                    0.2
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    20.0
+                ],
+                "flyingMagicDamage": [
+                    0.5
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.5
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.3
+                ]
+            }
+        }
+    }
+}

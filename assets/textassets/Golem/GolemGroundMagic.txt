@@ -1,0 +1,10 @@
+{
+    "GolemGroundMagic": {
+        "ai": {
+            "tags": [
+                "bulk",
+                "magic"
+            ]
+        }
+    }
+}

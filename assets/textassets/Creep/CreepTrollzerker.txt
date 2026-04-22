@@ -1,0 +1,202 @@
+{
+    "CreepTrollzerker": {
+        "goldReward": [
+            0
+        ],
+        "goldRewardShiny": [
+            0
+        ],
+        "health": [
+            452,
+            678,
+            961,
+            1356
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    19,
+                    29,
+                    41,
+                    58
+                ],
+                "maxDamage": [
+                    24,
+                    36,
+                    51,
+                    72
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "range_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                10
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "minDamage": [
+                    24,
+                    36,
+                    51,
+                    72
+                ],
+                "maxDamage": [
+                    36,
+                    54,
+                    77,
+                    108
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "buff_melee_atk": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "damage": {
+                "minDamage": [
+                    19,
+                    29,
+                    41,
+                    58
+                ],
+                "maxDamage": [
+                    24,
+                    36,
+                    51,
+                    72
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "buff_range_atk": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                10
+            ],
+            "range": [
+                1.2
+            ],
+            "fillTargets": [
+                2
+            ],
+            "loops": [
+                2
+            ],
+            "damage": {
+                "minDamage": [
+                    19,
+                    29,
+                    41,
+                    58
+                ],
+                "maxDamage": [
+                    24,
+                    36,
+                    51,
+                    72
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "enrage": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                21
+            ],
+            "COMMENT": "Below this health value if cooldown reached, it will make this ability",
+            "healthThreshold": [
+                40
+            ],
+            "zerker_buff": {
+                "duration": [
+                    9
+                ],
+                "damagePercentage": [
+                    15,
+                    25,
+                    35,
+                    45
+                ],
+                "attackSpeedPercentage": [
+                    20,
+                    30,
+                    35,
+                    50
+                ],
+                "movementSpeedPercentage": [
+                    0,
+                    20,
+                    30,
+                    50
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    4.0
+                ],
+                "maxHeal": [
+                    4.0
+                ],
+                "percentageHeal": [
+                    0
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                500.0
+            ],
+            "blockweightmultiplier": [
+                2.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "FrostHarbinger": {
+        "goldReward": [
+            0
+        ],
+        "goldRewardShiny": [
+            0
+        ],
+        "health": [
+            298,
+            425,
+            574,
+            935
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.6
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8,
+                    12,
+                    16,
+                    26
+                ],
+                "maxDamage": [
+                    10,
+                    14,
+                    19,
+                    31
+                ],
+                "areaDamageRange": [
+                    0.6
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    4.0
+                ],
+                "maxHeal": [
+                    4.0
+                ],
+                "percentageHeal": [
+                    0
+                ]
+            }
+        },
+        "trollTeleport": {
+            "cooldown": [
+                16,
+                15,
+                14,
+                12
+            ],
+            "Teleport_modifier": {
+                "distance": [
+                    1.8
+                ],
+                "COMMENT": "Time the enemy unit is invisible after receiving the spell waiting to be teleported",
+                "duration": [
+                    0.6
+                ]
+            },
+            "teleport_mark": {
+                "COMMENT": "This is the time to wait before teleporting the same creep again",
+                "duration": [
+                    3.0,
+                    4.0,
+                    5.0,
+                    6.0
+                ]
+            },
+            "teleportUnit": {
+                "startingDelay": [
+                    5
+                ]
+            },
+            "safeDistanceToExit": [
+                4.5
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                20.0
+            ],
+            "blockweightmultiplier": [
+                5.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ]
+        }
+    }
+}

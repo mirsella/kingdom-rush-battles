@@ -1,0 +1,80 @@
+{
+    "CreepGoblinWizard": {
+        "goldReward": [
+            15
+        ],
+        "health": [
+            180
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.0
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    5.0
+                ],
+                "maxDamage": [
+                    8.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.8
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    19.0
+                ],
+                "maxDamage": [
+                    21.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            },
+            "burn": {
+                "duration": [
+                    3.0
+                ],
+                "tickTime": [
+                    0.2
+                ],
+                "minHealth": [
+                    5.0
+                ],
+                "maxHealth": [
+                    8.0
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        }
+    }
+}

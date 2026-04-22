@@ -1,0 +1,209 @@
+{
+    "MG_TowerTwilightLongbows_3": {
+        "stats": {
+            "COST": [
+                315
+            ],
+            "CARD_RANK": [
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+",
+                "EX",
+                "EX",
+                "EX+",
+                "MAX"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                2.0
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                473,
+                544,
+                626,
+                719,
+                827,
+                951,
+                1094,
+                1258,
+                1447,
+                1664,
+                1914,
+                2201,
+                2531,
+                2910,
+                3347
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                539,
+                620,
+                713,
+                820,
+                943,
+                1084,
+                1247,
+                1434,
+                1649,
+                1896,
+                2181,
+                2508,
+                2884,
+                3316,
+                3814
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_PHYSICAL"
+            ],
+            "RANGE": [
+                270
+            ]
+        },
+        "skill1": {},
+        "legendarySkill": {
+            "BUFF_PERCENTAGE": [
+                "40%"
+            ],
+            "DURATION": [
+                12.0
+            ]
+        },
+        "skill2": {
+            "COST": [
+                195
+            ],
+            "NUMBER_OF_UNITS": [
+                2
+            ],
+            "UNIT_HP": [
+                1485,
+                1708,
+                1964,
+                2258,
+                2597,
+                2987,
+                3435,
+                3950,
+                4543,
+                5224,
+                6008,
+                6909,
+                7945,
+                9137,
+                10507
+            ],
+            "UNIT_ARMOR": [
+                "25%"
+            ],
+            "CHANCE_PERCENTAGE": [
+                "45%"
+            ],
+            "UNIT_ATTACK_SPEED": [
+                1.2
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                198,
+                228,
+                262,
+                301,
+                346,
+                398,
+                458,
+                527,
+                606,
+                697,
+                801,
+                921,
+                1059,
+                1218,
+                1401
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                242,
+                278,
+                320,
+                368,
+                423,
+                487,
+                560,
+                644,
+                740,
+                851,
+                979,
+                1126,
+                1295,
+                1489,
+                1712
+            ]
+        },
+        "skill3": {
+            "COST": [
+                220
+            ],
+            "MAX_AFFECTED_UNITS": [
+                1
+            ],
+            "DURATION": [
+                9.0
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                165,
+                190,
+                218,
+                251,
+                289,
+                332,
+                382,
+                439,
+                505,
+                580,
+                668,
+                768,
+                883,
+                1015,
+                1167
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                220,
+                253,
+                291,
+                335,
+                385,
+                442,
+                509,
+                585,
+                673,
+                774,
+                890,
+                1024,
+                1177,
+                1354,
+                1557
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Decrease_Creep_Damage"
+                ],
+                "perkPercentage": [
+                    3
+                ]
+            },
+            "perk2": {
+                "perkType": [
+                    "Increase_Hero_Range_Damage"
+                ],
+                "perkPercentage": [
+                    5
+                ]
+            }
+        }
+    }
+}

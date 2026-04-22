@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "TextMeshPro/Sprite",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_ClipRect', ColorRGBA(r=-32767.0, g=-32767.0, b=32767.0, a=32767.0)), ('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0))], m_Floats=[('_ColorMask', 15.0), ('_CullMode', 0.0), ('_Stencil', 0.0), ('_StencilComp', 8.0), ('_StencilOp', 0.0), ('_StencilReadMask', 255.0), ('_StencilWriteMask', 255.0), ('_UseUIAlphaClip', 0.0)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=-8496547894965674883, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=2, m_PathID=3416126243364311598, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

@@ -1,0 +1,73 @@
+{
+    "MoltenOoze": {
+        "moltenStone": {
+            "cooldown": [
+                17,
+                15,
+                13,
+                9
+            ],
+            "maxTargets": [
+                2,
+                2,
+                3,
+                4
+            ],
+            "molten_stun": {
+                "duration": [
+                    3,
+                    3,
+                    4,
+                    6
+                ]
+            }
+        },
+        "ai": {
+            "tags": [
+                "stun"
+            ],
+            "groundValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "groundArmorValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "groundMagicResistanceValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "flyingValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "flyingArmorValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "flyingMagicResistanceValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "swarm": [
+                3.0,
+                5.0,
+                7.0,
+                10.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "CreepMagmaElemental": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            205.0,
+            256.2,
+            329.4,
+            402.6
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0
+        ],
+        "revive": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                12.0,
+                12.0,
+                12.0,
+                12.0
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                2.0
+            ]
+        }
+    }
+}

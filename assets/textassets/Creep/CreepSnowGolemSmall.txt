@@ -1,0 +1,63 @@
+{
+    "CreepSnowGolemSmall": {
+        "goldReward": [
+            3
+        ],
+        "health": [
+            185
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.1
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    2.0
+                ],
+                "maxDamage": [
+                    5.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ranged_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "minDamage": [
+                    1.0
+                ],
+                "maxDamage": [
+                    3.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

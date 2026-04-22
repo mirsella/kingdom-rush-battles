@@ -1,0 +1,3892 @@
+"ACCEPT_TERMS"="-수락-'을 눌러서 이용약관 및 개인정보처리방침을 읽고 동의했음을 확인합니다"
+
+"BUTTON_CONSENT"="동의 관리"
+
+"BUTTON_ACCEPT"="수락"
+
+"BUTTON_BATTLE"="배틀!"
+
+"BUTTON_CANCEL"="취소"
+
+"BUTTON_CONNECT_APPLE"="Apple로 로그인"
+
+"BUTTON_CONNECT_GOOGLE"="구글로 연결하기"
+
+"BUTTON_CONNECT_GUEST"="게스트로 플레이"
+
+"BUTTON_LOGOUT"="로그아웃"
+
+"BUTTON_LOGOUT_YES"="예, 로그아웃"
+
+"BUTTON_LOGOUT_NO"="아니요, 로그인 유지"
+
+"BUTTON_EXIT"="계속"
+
+"BUTTON_EXTERNAL"="전투에 뛰어들어 새로운 도전자를 상대하세요!"
+
+"BUTTON_FEEDBACK"="피드백"
+
+"BUTTON_HELP_US"="도와주세요!"
+
+"BUTTON_KEEP_CLOUD"="클라우드 저장 사용"
+
+"BUTTON_KEEP_LOCAL"="로컬 저장 유지"
+
+"BUTTON_LOCKED"="잠김"
+
+"BUTTON_NEXT"="다음"
+
+"BUTTON_OFF"="끄기"
+
+"BUTTON_ON"="켜기"
+
+"BUTTON_PRIVACY_POLICY"="개인정보 처리방침"
+
+"BUTTON_RECONNECT"="재연결"
+
+"BUTTON_RETRY"="재시도"
+
+"BUTTON_SETTINGS"="설정"
+
+"BUTTON_SUPPORT"="지원"
+
+"BUTTON_TERMS"="이용 약관"
+
+"BUTTON_USER"="사용자 계정"
+
+"BUTTON_DELETE_ACCOUNT"="계정 삭제"
+
+"BUTTON_UPGRADE"="레벨 업"
+
+"BUTTON_CLAIM_PRIZE"="무료 보물 상자!"
+
+"BUTTON_COLLECTION"="컬렉션"
+
+"BUTTON_SHOP"="상점"
+
+"BUTTON_BATTLE_TAB"="전투"
+
+"BUTTON_EVENTS_TAB"="이벤트"
+
+"EVENTS_COMING_SOON"="곧 출시 예정..."
+
+"BUTTON_CLANS_TAB"="왕국"
+
+"BUTTON_INFO"="정보"
+
+"BUTTON_USE"="사용"
+
+"BUTTON_EQUIP"="장착"
+
+"BUTTON_UNEQUIP"="해제"
+
+"BUTTON_SKILLS"="스킬"
+
+"BUTTON_STATS"="스탯"
+
+"BUTTON_STAGES"="스테이지"
+
+"BUTTON_CREEPS"="크립"
+
+"BUTTON_BOOSTERS"="부스터"
+
+"BUTTON_OK"="확인"
+
+"BUTTON_OPEN_INSTANTLY"="건너뛰기"
+
+"BUTTON_CONFIRM"="확인"
+
+"BUTTON_MUSIC_VOLUME"="음악 볼륨"
+
+"BUTTON_SFX_VOLUME"="효과음량"
+
+"BUTTON_COPY_ID"="ID"
+
+"BUTTON_ALREADY_SIGNED"="이미 로그인됨"
+
+"BUTTON_GUEST_CONTINUE"="계속"
+
+"BUTTON_RESTART"="재시작"
+
+"BUTTON_ACCOUNT_WARNING_YES"="예, 로그인"
+
+"BUTTON_ACCOUNT_WARNING_NO"="아니요, 현재 계정 유지"
+
+"BUTTON_MISSIONS"="미션"
+
+"BUTTON_GIFT"="선물 받기"
+
+"BUTTON_QUIT"="종료"
+
+"CARD_LOCKED_DESCRIPTION_1"="플레이"
+
+"CARD_LOCKED_DESCRIPTION_2"="상자에서 이 카드를 찾아 잠금을 해제하세요"
+
+"CARD_RARITY_COMMON"="일반"
+
+"CARD_RARITY_EPIC"="에픽"
+
+"CARD_RARITY_LEGENDARY"="전설"
+
+"CARD_RARITY_RARE"="희귀"
+
+"CARD_STAT_AREA_DAMAGE_MAX"="최대 범위 피해"
+
+"CARD_STAT_AREA_DAMAGE_MIN"="범위 피해 최소"
+
+"CARD_STAT_AREA_OF_EFFECT"="효과 범위"
+
+"CARD_STAT_BUFF_PERCENTAGE"="버프"
+
+"CARD_STAT_ARMOR_REDUCTION"="방어구 감소"
+
+"CARD_STAT_MAGIC_RESISTANCE_REDUCTION"="마법 저항 감소"
+
+"CARD_STAT_CHANCE_PERCENTAGE"="확률"
+
+"CARD_STAT_COOLDOWN"="쿨다운"
+
+"CARD_STAT_COST"="비용"
+
+"CARD_STAT_DAMAGE_OVER_TIME"="DOT"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MAX"="DOT 최대"
+
+"CARD_STAT_DAMAGE_OVER_TIME_MIN"="DOT 최소"
+
+"CARD_STAT_DAMAGE_TYPE"="피해 유형"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY"="포병"
+
+"CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"="포병 / 마법"
+
+"CARD_STAT_DAMAGE_TYPE_MAGIC"="마법"
+
+"CARD_STAT_DAMAGE_TYPE_PHYSICAL"="물리"
+
+"CARD_STAT_DAMAGE_TYPE_TRUE"="고정"
+
+"CARD_STAT_DEBUFF_PERCENTAGE"="디버프"
+
+"CARD_STAT_DURATION"="지속"
+
+"CARD_STAT_HEAL_HP"="치유 HP"
+
+"CARD_STAT_HEAL_HP_MAX"="치료 최대"
+
+"CARD_STAT_HEAL_HP_MIN"="치료 최"
+
+"CARD_STAT_MAX_AFFECTED_UNITS"="한국어"
+
+"CARD_STAT_MAX_DAMAGE"="최대 데미지"
+
+"CARD_STAT_MIN_DAMAGE"="최소 데미지"
+
+"CARD_STAT_NUMBER_OF_UNITS"="유닛 수량"
+
+"CARD_STAT_RANGE"="사거리"
+
+"CARD_STAT_STRIKE_COUNT"="타격"
+
+"CARD_STAT_ARMOR_PIERCING"="방어구 관통"
+
+"CARD_STAT_UNIT_ARMOR"="갑옷"
+
+"CARD_STAT_UNIT_ATTACK_SPEED"="공격 속도"
+
+"CARD_STAT_UNIT_RANGED_ATTACK_SPEED"="공격 속도"
+
+"CARD_STAT_UNIT_HP"="체력"
+
+"CARD_STAT_UNIT_MAGIC_RESISTANCE"="마법 저항"
+
+"CARD_STAT_UNIT_MAX_AREA_DAMAGE"="최대 영역 피해"
+
+"CARD_STAT_UNIT_MAX_DAMAGE"="최대 피해"
+
+"CARD_STAT_UNIT_MAX_RANGE_DAMAGE"="최대 피해"
+
+"CARD_STAT_UNIT_MIN_AREA_DAMAGE"="최소 지역 피해"
+
+"CARD_STAT_UNIT_MIN_DAMAGE"="최소 데미지"
+
+"CARD_STAT_UNIT_MIN_RANGE_DAMAGE"="최소 데미지"
+
+"CARD_STAT_UNIT_SPEED"="속도"
+
+"CARD_STAT_UNIT2_ARMOR"="유닛 2 갑옷"
+
+"CARD_STAT_UNIT2_ATTACK_SPEED"="유닛 2 공격 속도"
+
+"CARD_STAT_UNIT2_HP"="유닛 2 체력"
+
+"CARD_STAT_UNIT2_MAX_DAMAGE"="유닛 2 최대 데미지"
+
+"CARD_STAT_UNIT2_MIN_DAMAGE"="유닛 2 최소 데미지"
+
+"CARD_STAT_LEVEL_TEXT"="LV"
+
+"CARD_STAT_DAMAGE"="피해"
+
+"CARD_STAT_RANGED_DAMAGE"="원거리 피해"
+
+"CARD_STAT_ARMOR_TYPE"="방어구 유형"
+
+"CARD_STAT_VERY_LOW"="매우 낮음"
+
+"CARD_STAT_LOW"="낮은"
+
+"CARD_STAT_MEDIUM"="중간"
+
+"CARD_STAT_HIGH"="높은"
+
+"CARD_STAT_VERY_HIGH"="매우 높음"
+
+"CARD_STAT_NONE"="없음"
+
+"CARD_STAT_CARD_RANK"="등급"
+
+"CARD_STAT_CARD_CARD_TYPE"="유형"
+
+"CARD_STAT_HP_REDUCTION"="체력 감소"
+
+"CARD_STAT_SLOW"="느린"
+
+"CARD_STAT_HP_TO_ACTIVATE"="체력 비율"
+
+"CARD_STAT_TILES_PUSHED"="타일을 밀었음"
+
+"CARD_TYPE_BARRACK"="병영"
+
+"CARD_TYPE_RANGED"="원거리"
+
+"CARD_TYPE_MAGIC"="마법"
+
+"CARD_TYPE_ARTILLERY"="포병"
+
+"CARD_TYPE_DAMAGE"="피해"
+
+"CARD_TYPE_SUMMON"="소환"
+
+"CARD_TYPE_UTILITY"="유틸리티"
+
+"CARD_TYPE_MELEE"="MELEE"
+
+"CARD_TYPE_SUPPORT"="지원"
+
+"CARD_TYPE_TANK"="탱크"
+
+"CARD_TYPE_FLYING"="비행"
+
+"TOWER_STATS"="타워 스탯"
+
+"HERO_STATS"="영웅 스탯"
+
+"SPELL_STATS"="스펠 스탯"
+
+"CHECKING_UPDATES"="업데이트 확인 중"
+
+"CLAIM_HERO_DESCRITPION"="짧은 설문조사를 통해 피드백을 공유하고 게임 개선에 도움을 주시면 멋진 상자를 받으세요."
+
+"FREE_CHEST_VIEW_TITLE"="상자를 얻으세요!"
+
+"CONNECTING"="연결 중"
+
+"CONNECTION_LOST_CHECK_INTERNET"="인터넷 연결을 확인하세요"
+
+"CONNECTION_LOST_BUTTON"="재시도"
+
+"CONNECTION_LOST_RECONNECTING"="재연결"
+
+"CONNECTION_LOST_TITLE"="연결 끊김"
+
+"USER_ACCESS_TEXT"="로그인 또는 계정 생성"
+
+"24_HR_NOTIFICATION_TITLE"="당신의 왕국이 당신을 필요로 합니다!"
+
+"24_HR_NOTIFICATION_DESCRIPTION"="새로운 도전자들로부터 타워를 방어하세요!"
+
+"48_HR_NOTIFICATION_TITLE"="전투가 시작됩니다!"
+
+"48_HR_NOTIFICATION_DESCRIPTION"="새로운 강력한 카드가 기다리고 있습니다! 덱을 업그레이드하고 적을 물리치세요. 지금 전투하세요!"
+
+"WON_6_HR_NOTIFICATION_TITLE"="보상을 더 받아가세요!"
+
+"WON_6_HR_NOTIFICATION_DESCRIPTION"="강력한 보상이 별 상자에서 기다리고 있습니다. 뛰어들어 획득하세요!"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_TITLE"="수집할 시간"
+
+"DAILY_CHEST_TIME_REACHED_NOTIFICATION_DESCRIPTION"="전투 상자가 준비되었습니다! 경기를 승리하여 멋진 보상을 잠금 해제하세요!"
+
+"DAILY_CHEST_RESET"="배틀 상자는 다음 시간에 초기화됩니다:"
+
+"OPEN_BATTLE_CHEST"="축하합니다! 보물을 열어 보상을 받으세요!"
+
+"OPEN_BATTLE_WIN"="이기다"
+
+"BATTLE_CHEST_INSTRUCTIONS"="이 상자를 열려면 더 많은 경기가 필요합니다!"
+
+"BATTLE_CHEST_INSTRUCTIONS_SINGLE"="이 상자를 열려면 1경기가 필요합니다!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_TITLE"="쉿... 별을 잡을 시간이에요!"
+
+"STAR_SYSTEM_TIME_REACHED_NOTIFICATION_DESCRIPTION"="기다리지 마세요, 별을 모으고 에픽 보상을 얻으세요!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_TITLE"="보상이 기다리고 있어요!"
+
+"TROPHY_ROAD_REWARDS_NOTIFICATION_DESCRIPTION"="지금 트로피 로드 보상을 받으세요—놓치지 마세요!"
+
+"ROOKIE_NOTIFICATION_TITLE"="계속하세요!"
+
+"ROOKIE_NOTIFICATION_DESCRIPTION"="당신은 잘하고 있었어요! 트로피를 잠금 해제하고, 레벨 업하고, 덱을 강화하세요!"
+
+"DECK_BUILDER_DECK"="덱"
+
+"DECK_BUILDER_EMOJIS"="이모트"
+
+"DECK_BUILDER_FILTER_LEVEL"="레벨"
+
+"DECK_BUILDER_FILTER_RARITY"="희귀도"
+
+"DECK_BUILDER_FILTER_RANK"="등급"
+
+"DECK_BUILDER_FILTER_TYPE"="유형"
+
+"DECK_BUILDER_FOUND"="발견"
+
+"DECK_BUILDER_HEROES"="영웅"
+
+"DECK_BUILDER_SPELLS"="주문"
+
+"DECK_BUILDER_TOWERS"="타워"
+
+"DOWNLOADING"="업데이트 중..."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_NO"="아니요, 내 계정 유지"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_YES"="예, 내 계정 삭제"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_READ_MORE"="더 읽기"
+
+"ERASE_ACCOUNT_WINDOW_WARNING"="계정을 영구적으로 삭제하고 모든 개인 정보를 요청하려고 합니다. '예'를 클릭하면 계정의 모든 데이터, 즉 접근 권한, 구매 및 획득한 아이템, 게임 진행 상황 및 레벨이 삭제됩니다."
+
+"ERASE_ACCOUNT_WINDOW_DESCRIPTION"="계정을 영구 삭제하고 모든 개인 정보를 요청하려고 합니다. '예'를 클릭하면 계정의 모든 데이터, 즉 접근 권한, 구매 및 획득한 아이템, 게임 진행 상황 및 레벨이 삭제됩니다.\n\n{0}일 동안 요청을 취소할 수 있습니다. 이 기간이 지나면 이 과정을 되돌릴 수 없습니다! 게임으로 돌아오면 새 계정이 생성됩니다。"
+
+"ERASE_ACCOUNT_WINDOW_TITLE"="계정을 삭제하시겠습니까?"
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_MESSAGE"="귀하는 마음을 바꿀 수 있는 {0}일이 있습니다.\n그 후 계정이 영구적으로 삭제됩니다."
+
+"ERASE_ACCOUNT_WINDOW_CONFIRM_TITLE"="삭제 요청이 등록되었습니다"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_TITLE"="계정이 삭제 예정입니다"
+
+"ERASE_ACCOUNT_WINDOW_RESTORE_DESCRIPTION"="마음이 바뀌어 계속 플레이하고 싶다면 ""삭제 취소""를 클릭하세요.\n그렇지 않으면 Miniclip은 {0}일 후에 계정을 영구 삭제합니다."
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CANCEL_DELETION"="삭제 취소"
+
+"ERASE_ACCOUNT_WINDOW_BUTTON_CONTINUE_DELETION"="삭제 계속"
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_DESCRIPTION"="계정에 변경 사항이 없습니다.\n게임 설정에서 언제든지 영구 삭제 프로세스를 다시 시작할 수 있습니다."
+
+"ERASE_ACCOUNT_WINDOW_CANCEL_TITLE"="삭제 프로세스가 취소되었습니다"
+
+"SAVE_WARNING_TITLE"="진행 상황 저장"
+
+"SAVE_WARNING_TEXT"="계정을 연결하여 진행 상황을 저장하세요"
+
+"ERROR_DECK_INCOMPLETE"="당신의 전투 덱이 불완전합니다!"
+
+"ERROR_ALREADY_BOUGHT"="이미 구매함!"
+
+"ERROR_PURCHASE_TITLE"="구매 오류"
+
+"ERROR_PURCHASE_DESCRIPTION"="구매 처리 중 오류가 발생했습니다. 다시 시도해 주세요."
+
+"ERROR_NOT_ENOUGH_GEMS"="젬이 부족합니다!"
+
+"ERROR_NOT_ENOUGH_GOLD"="코인이 부족합니다!"
+
+"ERROR_EDITING_PLAYER_NAME_TITLE"="사용자 이름 변경 오류"
+
+"ERROR_EDITING_PLAYER_NAME_DESCRIPTION"="사용자 이름을 수정하는 중 오류가 발생했습니다. 다시 시도해 주세요"
+
+"ERROR_DOWNLOADING_CONTENT_DESCRIPTION"="게임 콘텐츠 업데이트 중 오류가 발생했습니다. 기기에 충분한 여유 저장 공간이 있는지 확인하고 인터넷에 연결되어 있는지 확인한 후 다시 시도해 주세요."
+
+"ERROR_DOWNLOADING_CONTENT_TITLE"="업데이트 오류"
+
+"ERROR_CONNECTING_SERVER_DESCRIPTION"="게임 서버에 연결하는 중 오류가 발생했습니다. 인터넷에 연결되어 있는지 확인하세요."
+
+"ERROR_CONNECTING_SERVER_TITLE"="연결 오류"
+
+"ERROR_WAITING_PLAYER_TITLE"="상대가 나갔습니다"
+
+"ERROR_WAITING_PLAYER_DESCRIPTION"="상대방이 게임을 종료한 것 같습니다."
+
+"ERROR_GETTING_ANONYMOUS_USER_TITLE"="사용자 생성 오류"
+
+"ERROR_GETTING_ANONYMOUS_USER_DESCRIPTION"="이 장치에 대한 새 사용자 생성 중 오류가 발생했습니다."
+
+"ERROR_APPLE_SIGN_IN_TITLE"="애플 로그인 오류"
+
+"ERROR_APPLE_SIGN_IN_DESCRIPTION"="Apple 계정으로 로그인하는 중 오류가 발생했습니다. 다시 시도해 주세요."
+
+"ERROR_APPLE_ACCESS_TOKEN_DESCRIPTION"="액세스 토큰을 가져오는 중 오류가 발생했습니다. 다시 로그인해 주세요."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="계정 연결 중 오류가 발생했습니다. 다시 로그인해 주세요."
+
+"ERROR_GOOGLE_SIGN_IN_TITLE"="구글 로그인 오류"
+
+"ERROR_GOOGLE_SIGN_IN_DESCRIPTION"="구글 계정으로 로그인하는 중 오류가 발생했습니다. 다시 시도해 주세요."
+
+"ERROR_GOOGLE_ACCESS_TOKEN_DESCRIPTION"="액세스 토큰을 가져오는 중 오류가 발생했습니다. 다시 로그인해 주세요."
+
+"ERROR_GOOGLE_VALIDATE_TOKEN_DESCRIPTION"="액세스 토큰을 검증하는 중 오류가 발생했습니다. 다시 로그인해 주세요."
+
+"ERROR_GOOGLE_LINK_DESCRIPTION"="계정 연결 중 오류가 발생했습니다. 다시 로그인해 주세요."
+
+"ERROR_SWITCHING_USERS_ON_SIGN_IN"="로컬 사용자와 원격 사용자 간 전환 중 오류가 발생했습니다. 다시 로그인해 주세요."
+
+"ERROR_FRAMEDIFF_TITLE"="부정행위 탐지됨"
+
+"ERROR_FRAMEDIFF_DESCRIPTION"="우리는 한 플레이어의 의심스러운 활동을 감지했으며, 경기를 계속할 수 없습니다."
+
+"ERROR_FRAMEDIFF_BUTTON"="계속"
+
+"ERROR_INVALID_SESSION_TITLE"="문제가 발생했습니다!"
+
+"ERROR_INVALID_SESSION_DESCRIPTION"="귀하의 기기 세션이 만료되었습니다. 애플리케이션이 이제 다시 로드됩니다."
+
+"ERROR_USER_CANCELED_OPERATION"="사용자가 작업을 취소했습니다."
+
+"BUTTON_SUMMON"="소환"
+
+"EVENTS_SUMMON_RIFT_TITLE"="소환 균열"
+
+"EVENTS_ONSLAUGHT_TITLE"="공세"
+
+"EVENTS_COIN_FARM_TITLE"="코인 농장"
+
+"EVENTS_SUMMON_RIFT_DESCRIPTION"="강력한 전용 카드를 소환하세요!"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION"="모든 적을 가능한 한 빨리 물리치세요!"
+
+"EVENTS_COIN_FARM_DESCRIPTION"="농장을 사용해서 저금통을 채우세요!"
+
+"EVENTS_SUMMONING_RIFT_PROGRESS"="{0} 회 소환을 완료하고 {1} 을 받으세요!"
+
+"DATA_WARNING_WINDOW_TITLE"="게임 저장이 감지되었습니다!"
+
+"DATA_WARNING_WINDOW_DESCRIPTION"="귀하의 계정에서 다른 저장 게임을 찾았습니다. 클라우드 저장 게임을 사용하시겠습니까, 아니면 로컬 저장 게임을 유지하시겠습니까?"
+
+"ACCOUNT_WARNING_WINDOW_TITLE"="계정이 감지되었습니다!"
+
+"ACCOUNT_WARNING_WINDOW_DESCRIPTION"="당신이 로그인하려는 계정은 이미 다른 Kingdom Rush Battles ID에 연결되어 있습니다. 그래도 이 계정으로 로그인하시겠습니까? (현재 세션이 종료됩니다)"
+
+"LOGOUT_WINDOW_TITLE"="경고!"
+
+"LOGOUT_WINDOW_DESCRIPTION"="이 기기에서 로그아웃하면 진행 상황이 초기화됩니다. 그러나 귀하의 계정 데이터는 클라우드에 남아 있습니다.\n그래도 로그아웃하시겠습니까? (현재 세션이 종료됩니다)"
+
+"GAME_MSG_DEFEAT"="패배!"
+
+"GAME_MSG_DRAW"="뽑기!"
+
+"GAME_MSG_FINAL_WAVE"="보스 전투!"
+
+"GAME_MSG_FINAL_WAVE_LEVEL_UP"="레벨 업"
+
+"GAME_MSG_VERSUS"="대"
+
+"GAME_MSG_VICTORY"="승리!"
+
+"GAME_MSG_WAITING_OPPONENT"="상대방 대기 중"
+
+"GAME_MSG_WAVE_NUMBER"="웨이브 {0}"
+
+"GAME_MODIFIERS_TITLE"="부스터 선택"
+
+"VICTORY_DEFEAT_SURVIVOR_TITLE"="생존자"
+
+"VICTORY_DEFEAT_SURVIVOR_DESCRIPTION"="4파까지 생존하세요"
+
+"VICTORY_DEFEAT_CONQUEROR_TITLE"="정복자"
+
+"VICTORY_DEFEAT_CONQUEROR_DESCRIPTION"="경기를 이기세요"
+
+"VICTORY_DEFEAT_UNBREAKABLE_TITLE"="불굴의"
+
+"VICTORY_DEFEAT_UNBREAKABLE_DESCRIPTION"="하트 하나도 잃지 마세요"
+
+"VICTORY_DEFEAT_BLITZ_TITLE"="블리츠"
+
+"VICTORY_DEFEAT_BLITZ_DESCRIPTION"="4파 전에 승리하세요"
+
+"VICTORY_DEFEAT_CHALLENGER_TITLE"="도전자"
+
+"VICTORY_DEFEAT_CHALLENGER_DESCRIPTION"="최종 웨이브 도달"
+
+"VICTORY_DEFEAT_SLAYER_TITLE"="슬레이어"
+
+"VICTORY_DEFEAT_SLAYER_DESCRIPTION"="최종 보스를 처치하라"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_TITLE"="마스터리"
+
+"VICTORY_DEFEAT_COMPLETE_TUTORIAL_DESCRIPTION"="부트캠프에서 승리!"
+
+"GAME_UPDATE_BUTTON"="업데이트"
+
+"GAME_UPDATE_DESCRIPTION"="게임의 새 버전이 상점에서 제공됩니다."
+
+"GAME_UPDATE_TITLE"="업데이트가 가능합니다!"
+
+"MAINTENANCE_MODE_BUTTON"="나가기"
+
+"MAINTENANCE_MODE_DESCRIPTION"="게임은 업데이트가 완료될 때까지 중단됩니다"
+
+"MAINTENANCE_MODE_TITLE"="유지 보수 모드"
+
+"INITIALIZING"="초기화 중"
+
+"LOADING"="로딩"
+
+"SLOW_CONNECTION"="느린 연결"
+
+"LOADING_WAITING_OPPONENT"="상대방 대기 중"
+
+"LOADING_SYNC_PLAYERS"="플레이어 동기화 중"
+
+"MATCH_MAKING_TIP_1"="물리 방어구 적은 마법에 약하고, 그 반대도 마찬가지입니다."
+
+"MATCH_MAKING_TIP_10"="코인을 가진 적을 처치하면 추가 금이 떨어집니다."
+
+"MATCH_MAKING_TIP_2"="병영 근처에 포대를 배치하여 집중 피해를 줍니다."
+
+"MATCH_MAKING_TIP_3"="비행 적은 막을 수 없습니다. 아처 타워를 사용해 보세요."
+
+"MATCH_MAKING_TIP_4"="타워는 업그레이드 레벨 3에서 고유한 스킬을 가지고 있습니다."
+
+"MATCH_MAKING_TIP_5"="상대의 타워에 저항하는 부스터를 선택하세요."
+
+"MATCH_MAKING_TIP_6"="타워를 판매하면 비용의 일부가 반환됩니다."
+
+"MATCH_MAKING_TIP_7"="아레나 정보를 확인하여 적의 스탯과 스킬을 확인하세요."
+
+"MATCH_MAKING_TIP_8"="균형 잡힌 덱에는 각 유형의 타워를 1개 포함해야 합니다."
+
+"MATCH_MAKING_TIP_9"="상대보다 더 빨리 웨이브를 완료하여 추가 골드를 얻으세요."
+
+"TROPHY_ROAD_INFO_MODIFIER_TIP"="플레이어 경험을 얻어 부스터를 레벨 업하세요"
+
+"TROPHY_ROAD_INFO_CREEPS_TIP"="이 적은 다양한 단계에서 포털에서 생성됩니다."
+
+"SEARCHING_FOR_OPPONENT"="상대\n검색 중..."
+
+"SURVEY_POPUP"="귀하의 피드백은 저희에게 매우 소중합니다! 간단한 설문조사(2 - 3분)를 통해 의견을 공유해 주세요. 귀하의 응답은 개선할 부분을 식별하고 게임을 향상시키고 모든 플레이어에게 더 몰입감 있는 경험을 제공하는 데 도움이 됩니다."
+
+"TAB_BATTLE"="전투"
+
+"TAB_COLLECTION"="컬렉션"
+
+"TAB_SHOP"="상점"
+
+"TERRAIN_COLISEUM_NAME"="스타디움"
+
+"TERRAIN_COLISEUM_DESC"="이 순위 경기장에서 다른 플레이어와 대결하고 이전의 적과 스테이지를 상대로 싸워 메달을 획득하세요.\n이제 세계 최고의 Battle Towers 플레이어가 될 시간입니다!"
+
+"TERRAIN_BANDITS_LAIR_NAME"="도적의 소굴"
+
+"TERRAIN_FOREST_1_NAME"="실버오크 숲"
+
+"TERRAIN_FOREST_2_NAME"="실버오크 숲"
+
+"TERRAIN_FOREST_3_NAME"="실버오크 숲"
+
+"TERRAIN_MOUNTAIN_1_NAME"="폭풍구름 산맥"
+
+"TERRAIN_MOUNTAIN_2_NAME"="폭풍구름 산맥"
+
+"TERRAIN_MOUNTAIN_3_NAME"="폭풍구름 산맥"
+
+"TERRAIN_BANDITS_LAIR_1_NAME"="도적의 소굴"
+
+"TERRAIN_BANDITS_LAIR_2_NAME"="도적의 소굴"
+
+"TERRAIN_BANDITS_LAIR_3_NAME"="도적의 소굴"
+
+"TERRAIN_TRAINING_NAME"="부트캠프"
+
+"STAGE_TRAINING_1"="훈련장"
+
+"STAGE_FOREST_1"="사우스포트"
+
+"STAGE_FOREST_2"="필드"
+
+"STAGE_FOREST_3"="농지"
+
+"STAGE_FOREST_4"="외곽"
+
+"STAGE_FOREST_5"="강가"
+
+"STAGE_MOUNTAIN_1"="얼어붙은 길"
+
+"STAGE_MOUNTAIN_2"="쌍둥이 봉우리"
+
+"STAGE_MOUNTAIN_3"="트롤 둥지"
+
+"STAGE_MOUNTAIN_4"="얼음바람 길목"
+
+"STAGE_MOUNTAIN_5"="얼어붙은 협곡"
+
+"STAGE_BANDITS_1"="진흙땅"
+
+"STAGE_BANDITS_2"="무법자 캠프"
+
+"STAGE_BANDITS_3"="바이퍼 트레일"
+
+"STAGE_BANDITS_4"="죽은 자의 교차로"
+
+"STAGE_BANDITS_5"="고요의 숲"
+
+"NEW_TUTORIAL_1_MSG_WELCOME"="<color=#0DA7FF>Kingdom Rush Battles</color>에 오신 것을 환영합니다! <br>기본을 배워봅시다..."
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER"="방어할 시간입니다! 이 야생 고블린들이 도망치기 전에 <color=#0DA7FF>타워를 건설</color>하여 막아야 합니다!"
+
+"NEW_TUTORIAL_1_MSG_BUILD_TOWER_2"="잘했어요! 적을 물리쳐 <color=#0DA7FF>골드를 얻었습니다</color>. 그것을 사용하여 또 다른 타워를 건설합시다."
+
+"NEW_TUTORIAL_1_MSG_UPGRADE_TOWER"="조심하세요! 적들이 지나가고 있습니다! 그들이 도망치면 생명을 잃게 됩니다. <color=#0DA7FF>타워를 업그레이드</color>하여 더 많은 피해를 입히세요!"
+
+"NEW_TUTORIAL_1_MSG_LIVES"="조심하세요! 적들이 지나가고 있습니다! 그들이 탈출하면 <color=#0DA7FF>목숨을 잃습니다</color>."
+
+"NEW_TUTORIAL_1_MSG_HERO"="<color=#0DA7FF>영웅</color> 제럴드가 전투에 합류합니다! 적에게 더 가까이 끌어당겨 전투에 참여하세요!"
+
+"NEW_TUTORIAL_1_MSG_SPELL"="더 강한 적이 다가오고 있습니다! <color=#0DA7FF>주문을 시전하세요!</color> 드래그하여 전장에 불의 비를 내리세요!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT"="전투가 위로 확장됩니다! 다른 장군들과 맞서 싸우세요 - <color=#0DA7FF>마지막까지 살아남는 자가 승리</color>. 행운을 빕니다!"
+
+"NEW_TUTORIAL_1_MSG_OPPONENT_TAUNT"="시작해!"
+
+"NEW_TUTORIAL_1_MSG_CREEPS_ESCAPE"="상대가 <color=#0DA7FF>곧 패배합니다!</color>"
+
+"NEW_TUTORIAL_2_MSG_BOOSTERS"="<color=#0DA7FF>부스터를 선택하세요!</color> 방어를 강화하거나 상대의 웨이브를 더 어렵게 만들 수 있습니다."
+
+"TUTORIAL_1_MSG_BUILD_TOWER"="적이 도망가지 않게 하세요! 타워를 지어 싸우세요!"
+
+"TUTORIAL_1_MSG_BUILD_TOWER_2"="<color=#837272>장갑</color> 적이 포털에서 생성되었습니다! <color=#0DA7FF>마법사</color>를 지어 그들을 막으세요."
+
+"TUTORIAL_1_MSG_CREEPS_ESCAPE"="보세요! <color=#0DA7FF>상대의 적들이 도망가고 있습니다!</color>"
+
+"TUTORIAL_1_MSG_EARN_GOLD"="타워 건설에는 골드가 필요합니다. 적을 물리쳐 더 많은 골드를 획득하세요."
+
+"TUTORIAL_1_MSG_HERO"="영웅 제럴드가 나타났습니다! 그를 이동시켜 다가오는 적들과 싸우세요."
+
+"TUTORIAL_1_MSG_OPPONENT_DEFENSE"="상대방도 그들의 측면을 방어하기 위해 타워를 건설할 것입니다!"
+
+"TUTORIAL_1_MSG_SPELL_CAST"="Rain of Fire'를 시전하여 이 고블린 무리를 파괴하세요."
+
+"TUTORIAL_1_MSG_SPELL_UNLOCKED"="당신의 무기고에 새로운 주문이 사용 가능합니다"
+
+"TUTORIAL_1_MSG_UPGRADE_TOWER"="골드를 사용하여 타워를 업그레이드하고 더 강력하게 만드세요."
+
+"TUTORIAL_1_MSG_WELCOME"="Kingdom Rush Battles에 오신 것을 환영합니다! 시작해봅시다..."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_1"="이 부스터를 선택하세요. 이는 그들이 비행 적과 맞서게 할 것입니다."
+
+"TUTORIAL_2_MSG_ATTACK_BOOSTER_2"="용의 부름'을 선택하세요. 이는 그들이 비행 적과 맞서게 할 것입니다."
+
+"TUTORIAL_2_MSG_CREEPS_ESCAPE"="상대가 곧 패배할 것입니다!"
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_1"="이제 방어 부스터를 선택하세요. 이는 강한 적을 상대하는 데 도움이 됩니다."
+
+"TUTORIAL_2_MSG_DEFENSE_BOOSTER_2"="마이티 타워'를 선택하세요. 강한 적을 상대하는 데 도움이 됩니다."
+
+"TUTORIAL_2_MSG_RESISTANCE_1"="이 적은 <color=#837272>물리 방어구</color>를 가지고 있어 물리적 피해에 저항합니다."
+
+"TUTORIAL_2_MSG_RESISTANCE_2"="이 적은 <color=#0DA7FF>마법 방어구</color>를 가지고 있습니다. 방어구는 적의 체력바 색상을 변경합니다."
+
+"TUTORIAL_2_MSG_RESISTANCE_3"="마법사를 지어 <color=#0DA7FF>마법 피해</color>를 입히고 적의 방어구를 극복하세요."
+
+"TUTORIAL_2_MSG_RESISTANCE_4"="새로운 적이 너무 강할 수 있습니다. 안전을 위해 업그레이드합시다!"
+
+"TUTORIAL_2_MSG_SKILL_1"="타워 스킬을 사용할 시간입니다. 적과 싸우거나 상대를 공격하는 데 도움이 됩니다!"
+
+"TUTORIAL_2_MSG_SKILL_2"="먼저 궁수를 최대 레벨로 업그레이드하세요"
+
+"TUTORIAL_2_MSG_SKILL_3"="Charged Shots' 스킬을 구매하여 상대의 유닛을 공격하세요!"
+
+"TUTORIAL_2_MSG_WELCOME"="상대와 상호작용하는 방법을 배워봅시다."
+
+"TUTORIAL_METAGAME_DECK_01"="새로운 타워를 잠금 해제했습니다! 덱에 추가해 보세요."
+
+"TUTORIAL_METAGAME_DECK_02"="타워 섹션을 확인하세요!"
+
+"TUTORIAL_METAGAME_DECK_03"="새로운 타워를 잠금 해제했습니다! 덱에 추가해 보세요."
+
+"TUTORIAL_METAGAME_DECK_04"="타워를 레벨 업하면 코인과 조각을 사용하여 파워가 증가합니다."
+
+"TUTORIAL_METAGAME_DECK_05"="이제 덱에 있는 야만인을 장비하세요"
+
+"TUTORIAL_METAGAME_DECK_06"="팔라딘 타워'를 '바바리안 타워'로 교체"
+
+"TUTORIAL_METAGAME_DECK_07"="모두 완료! 이제 배운 것을 시험해 보세요."
+
+"TUTORIAL_METAGAME_CHEST_01"="경기를 플레이하여 별을 획득하고 상자를 잠금 해제하세요"
+
+"TUTORIAL_METAGAME_EQUIP_SPELL_01"="새로운 주문을 잠금 해제했습니다! 덱에 추가해 보세요."
+
+"FTUE_DIRECTIVE_01"="새로운 주문을 잠금 해제하려면 1번 더 승리하세요!"
+
+"FTUE_DIRECTIVE_02"="새로운 주문을 잠금 해제하려면 1승 더 필요!"
+
+"FTUE_DIRECTIVE_03"="부스터를 잠금 해제하려면 게임 1회 더 필요!"
+
+"TITLE_USER_ACCESS"="사용자 액세스"
+
+"TITLE_SOUND_SETTINGS"="음악 및 SFX"
+
+"TITLE_EXTERNAL"="외부"
+
+"TITLE_SETTINGS"="설정"
+
+"CHANGE_USERNAME_TITLE_CHANGE"="이름 변경"
+
+"CHANGE_USERNAME_TITLE_CHOOSE"="이름을 선택하세요"
+
+"CHANGE_USERNAME_DESCRIPTION"="2 - 12 문자 제한<br>특수 문자는 허용되지 않습니다"
+
+"ERROR_USERNAME_INVALID"="잘못된 이름"
+
+"ERROR_USERNAME_INAPPROPIATE"="이름 허용 안 됨"
+
+"ERROR_USERNAME_UNCHANGED"="그것은 이미 당신의 이름입니다"
+
+"UNLOCK_CHEST_CYCLE_TITLE"="보상 잠김"
+
+"UNLOCK_CHEST_CYCLE_DESCRIPTION"="상자 주기 해제로 보상 계속 획득"
+
+"CHEST_YOUR_GOLD"="코인"
+
+"SHOP_GOLD"="골드"
+
+"CHEST_YOUR_STARS"="별"
+
+"YOUR_GEM"="젬"
+
+"CHEST_RESOURCE_CARD"="자원"
+
+"CHEST_GOLD"="코인"
+
+"CHEST_STAR"="별"
+
+"CHEST_YOUR_REWARD"="당신의 보상"
+
+"CHEST_COMMON_TOWER"="공용 타워"
+
+"CHEST_EPIC_TOWER"="에픽 타워"
+
+"CHEST_RARE_TOWER"="희귀 타워"
+
+"CHEST_LEGENDARY_TOWER"="전설의 타워"
+
+"CHEST_COMMON_HERO"="일반 영웅"
+
+"CHEST_EPIC_HERO"="에픽 히어로"
+
+"CHEST_RARE_HERO"="희귀 영웅"
+
+"CHEST_LEGENDARY_HERO"="전설적인 영웅"
+
+"CHEST_COMMON_SPELL"="일반 주문"
+
+"CHEST_EPIC_SPELL"="에픽 주문"
+
+"CHEST_RARE_SPELL"="희귀 주문"
+
+"CHEST_LEGENDARY_SPELL"="전설의 주문"
+
+"CHEST_NEW_CARD"="새로운!"
+
+"CHEST_INFO_NAME_GOLD"="골드 상자"
+
+"CHEST_INFO_NAME_SILVER"="나무 상자"
+
+"CHEST_INFO_NAME_MAGICAL"="마법 상자"
+
+"CHEST_INFO_NAME_BRAVERY"="전투 상자"
+
+"CHEST_INFO_NAME_LEVEL_UP"="레벨 업 상자"
+
+"CHEST_INFO_CONTAINS_TITLE"="최소 포함:"
+
+"CHEST_INFO_CONTAINS_RARES"="레어"
+
+"CHEST_INFO_CONTAINS_EPICS"="에픽"
+
+"CHEST_INFO_CONTAINS_LEGENDARIES"="전설"
+
+"CHEST_INFO_CONTAINS_RARE"="희귀"
+
+"CHEST_INFO_CONTAINS_EPIC"="에픽"
+
+"CHEST_INFO_CONTAINS_LEGENDARY"="전설적인"
+
+"CHEST_INFO_CLAIM_BUTTON"="열기!"
+
+"CHEST_INFO_CLAIM_BUTTON_DISABLED"="잠김"
+
+"CHEST_INFO_ALL_COMMON_CARDS"="일반 카드"
+
+"CHEST_INFO_CLAIM"="획득!"
+
+"CHEST_INFO_UNLOCK_NOW"="지금 잠금 해제"
+
+"CHEST_INFO_EXTRA_TITLE"="확률:"
+
+"CHEST_TOOLTIP_CLAIM"="받기!"
+
+"TROPHY_REWARD_SCREEN_CARD_CHOICE"="보상을 선택하세요"
+
+"TROPHY_REWARD_SCREEN_TITLE"="보상"
+
+"XP_LEVEL_UP_TITLE"="새로운 레벨"
+
+"XP_LEVEL_UP_BOOSTER"="부스터"
+
+"XP_LEVEL_UP_BOOSTER_LEVEL"="레벨 업"
+
+"XP_LEVEL_UP_LVL"="레벨"
+
+"DECK_MAX_LEVEL"="최대"
+
+"PROGRESS_BAR_MAX"="최대"
+
+"XP_LEVEL_UP_BOOSTER_LVL"="레벨"
+
+"XP_ROAD_BOOSTER_TOOLTIP"="부스터 레벨 업! 게임 수정자를 향상시키세요"
+
+"WELCOME_SCREEN_LOG_TEXT"="• 엘로라 소환 균열 배너 종료\n• 새로운 소환 균열 카드: 황혼의 장궁!\n버그 수정\n• 유닛의 피해 증가 특전이 모든 경우에 적용되지 않던 버그를 수정했습니다.\n• 의도하지 않은 유닛과 타워에 잘못 영향을 주던 여러 특전을 수정했습니다.\n• 포병: 레벨 3 스킬 가격이 잘못 바뀌어 있던 문제를 수정했습니다.\n게임플레이\n• 버려진 계곡 스테이지에 새로운 보스, 저거너트를 추가했습니다.\n밸런스\n• 마그마 조각 / 마그마 정령: 암석 단계의 지속 시간이 12초로 증가했습니다.\n• 로켓 라이더:\n   • 체력이 25% 감소했습니다.\n   • 돌진 스킬은 이제 출구에서 5칸 떨어져 있을 때만 발동됩니다(3칸에서 증가).\n   • 이제 변이 가능합니다.\n• 그림자 궁수: 원거리 피해가 30% 감소했습니다.\n버려진 경기장: 버려진 계곡부터 크립 및 봇 카드 스케일링이 완화되었습니다."
+
+"WELCOME_SCREEN_TITLE_TEXT"="새로운 소식"
+
+"SHOP_SCREEN_PLACEHOLDER"="곧 출시"
+
+"SHOP_ROYAL_GOLD_CHEST"="왕의 상자"
+
+"SHOP_ROYAL_SILVER_CHEST"="캡틴의 상자"
+
+"SHOP_ROYAL_BRONZE_CHEST"="병사의 상자"
+
+"SHOP_GEMS_SLOT_1"="한 줌의 보석"
+
+"SHOP_GEMS_SLOT_2"="보석 더미"
+
+"SHOP_GEMS_SLOT_3"="보석 주머니"
+
+"SHOP_GEMS_SLOT_4"="보석 통"
+
+"SHOP_GEMS_SLOT_5"="보석 금고"
+
+"SHOP_GEMS_SLOT_6"="보석의 산"
+
+"SHOP_GOLD_SLOT_1"="한 줌의 동전"
+
+"SHOP_GOLD_SLOT_2"="코인 주머니"
+
+"SHOP_GOLD_SLOT_3"="코인 금고"
+
+"SHOP_SPECIAL_OFFER"="특별 제공"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="특별 제공"
+
+"SHOP_STARTER_PACK_TITLE"="스타터 팩"
+
+"SHOP_GOLD_TITLE"="코인"
+
+"SHOP_GEMS_TITLE"="젬"
+
+"SHOP_CHESTS_TITLE"="상자"
+
+"SHOP_FIRST_PURCHASE"="첫 구매"
+
+"SHOP_PURCHASED"="구매 완료"
+
+"SHOP_CLAIMED"="획득"
+
+"SHOP_VALUE"="가치"
+
+"SHOP_DAILY_LOCKED"="아레나에서 잠금 해제"
+
+"SHOP_FOREST_ARENA_PACK"="Silveroak 팩"
+
+"SHOP_MOUNTAIN_ARENA_PACK"="스톰클라우드 팩"
+
+"SHOP_BANDITS_ARENA_PACK"="도적 팩"
+
+"SHOP_COLISEUM_ARENA_PACK"="스타디움 팩"
+
+"SHOP_FORSAKEN_VALLEY_ARENA_PACK"="버려진 팩"
+
+"RATE_US_BUTTON_1_4_STARS"="1-4 스타"
+
+"RATE_US_BUTTON_5_STARS"="5 스타"
+
+"RATE_US_TITLE"="게임 평가"
+
+"RATE_US_DESC"="Kingdom Rush Battles를 즐기고 계신다면, 게임을 평가하는 시간을 가져보세요."
+
+"RATE_US_DESC_2"="지원해 주셔서 감사합니다"
+
+"RATE_US_OPINION_BUTTON_SEND"="보내기"
+
+"RATE_US_OPINION_REVIEW"="피드백 작성..."
+
+"RATE_US_OPINION_TITLE"="의견을 주세요"
+
+"RATE_US_OPINION_SENT"="귀하의 피드백이 전송되었습니다"
+
+"TROPHY_INFO_BOOSTERS"="부스터"
+
+"TROPHY_INFO_ATTACK_BOOSTERS"="공격 부스터"
+
+"TROPHY_INFO_DEFENSE_BOOSTERS"="방어 부스터"
+
+"FOREST_STAGE_1"="숲 1"
+
+"FOREST_STAGE_2"="숲 2"
+
+"FOREST_STAGE_3"="숲 3"
+
+"FOREST_STAGE_4"="숲 4"
+
+"FOREST_STAGE_5"="숲 5"
+
+"MOUNTAIN_STAGE_1"="산 1"
+
+"MOUNTAIN_STAGE_2"="산 2"
+
+"MOUNTAIN_STAGE_3"="산 3"
+
+"MOUNTAIN_STAGE_4"="산 4"
+
+"MOUNTAIN_STAGE_5"="산 5"
+
+"BANDITS_LAIR_1"="도적 소굴 1"
+
+"BANDITS_LAIR_2"="도적 소굴 2"
+
+"BANDITS_LAIR_3"="도적 소굴 3"
+
+"BANDITS_LAIR_4"="도적 소굴 4"
+
+"BANDITS_LAIR_5"="도적 소굴 5"
+
+"CARD_STAT_DAMAGE_TYPE_NONE"="없음"
+
+"LEADERBOARD_TITLE"="리더보드"
+
+"LEADERBOARD_BUTTON"="리더보드"
+
+"LEADERBOARD_TAB_GLOBAL"="글로벌"
+
+"LEADERBOARD_TAB_LOCAL"="로컬"
+
+"LEADERBOARD_USER_NOT_RANKED"="경기장에 도달하여 순위에 오르세요"
+
+"SPECIAL_BUTTON_NAME"="무기고 잠금 해제"
+
+"SELL_TOWER_TITLE"="타워 판매"
+
+"SELL_TOWER_DESCRIPTION"="이 타워를 판매하고 {0} 골드를 환불받으세요."
+
+"BANDITS_LAIR_STAGE_1"="도적 소굴 1"
+
+"BANDITS_LAIR_STAGE_2"="도적 소굴 2"
+
+"BANDITS_LAIR_STAGE_3"="도적 소굴 3"
+
+"BANDITS_LAIR_STAGE_4"="도적 소굴 4"
+
+"BANDITS_LAIR_STAGE_5"="도적 소굴 5"
+
+"TAUNT_THANKS"="감사합니다!"
+
+"TAUNT_GOOD_LUCK"="행운을 빕니다"
+
+"TAUNT_OOPS"="이런..."
+
+"TAUNT_WELL_PLAYED"="잘했어"
+
+"UNMUTE_TO_SEND_EMOTES"="음소거 해제하여 이모티콘 주고받기"
+
+"BANDITS_LAIR_STAGE_1"="도적 소굴 1"
+
+"BANDITS_LAIR_STAGE_2"="도적 소굴 2"
+
+"BANDITS_LAIR_STAGE_3"="도적 소굴 3"
+
+"BANDITS_LAIR_STAGE_4"="도적 소굴 4"
+
+"BANDITS_LAIR_STAGE_5"="도적 소굴 5"
+
+"TAUNT_THANKS"="감사합니다!"
+
+"TAUNT_GOOD_LUCK"="행운을 빕니다!"
+
+"TAUNT_OOPS"="이런..."
+
+"TAUNT_WELL_PLAYED"="잘했어"
+
+"UNMUTE_TO_SEND_EMOTES"="음소거 해제하여 이모티콘을 보내고 받기"
+
+"FOREST_STAGE_1"="숲 1"
+
+"FOREST_STAGE_2"="숲 2"
+
+"FOREST_STAGE_3"="숲 3"
+
+"FOREST_STAGE_4"="숲 4"
+
+"FOREST_STAGE_5"="숲 5"
+
+"MOUNTAIN_STAGE_1"="산 1"
+
+"MOUNTAIN_STAGE_2"="산 2"
+
+"MOUNTAIN_STAGE_3"="산 3"
+
+"MOUNTAIN_STAGE_4"="산 4"
+
+"MOUNTAIN_STAGE_5"="산 5"
+
+"BANDITS_LAIR_1"="도적 소굴 1"
+
+"BANDITS_LAIR_2"="도적 소굴 2"
+
+"BANDITS_LAIR_3"="도적 소굴 3"
+
+"BANDITS_LAIR_4"="도적 소굴 4"
+
+"BANDITS_LAIR_5"="도적 소굴 5"
+
+"BANDITS_LAIR_STAGE_1"="도적 소굴 1"
+
+"BANDITS_LAIR_STAGE_2"="도적 소굴 2"
+
+"BANDITS_LAIR_STAGE_3"="도적 소굴 3"
+
+"BANDITS_LAIR_STAGE_4"="도적 소굴 4"
+
+"BANDITS_LAIR_STAGE_5"="도적 소굴 5"
+
+"HERO_GERALD_DESCRIPTION"="영웅이자 정의의 상징인 그는 이 세계와 그 너머의 위협에 맞서 싸워왔습니다. 엄숙한 맹세에 묶여, 그는 항상 전투에 가장 먼저 돌진하고 마지막까지 물러서지 않으며, 무고한 자를 보호하고 약자를 방어하는 의무에 의해 움직입니다."
+
+"HERO_GERALD_SHORT_DESC"="-HP가 낮을 때 회복.<br>-아군 강화.<br>-피해 반사 확률."
+
+"HERO_GERALD_NAME"="제럴드 라이트시커"
+
+"HERO_GERALD_SKILL_0_DESCRIPTION"="그의 HP가 위험할 정도로 낮아지면, 그는 신성한 힘을 사용하여 HP를 회복합니다."
+
+"HERO_GERALD_SKILL_0_NAME"="신성한 기도"
+
+"HERO_GERALD_SKILL_1_DESCRIPTION"="리니레아의 영웅으로서 그의 흔들림 없는 용기는 근처 아군에게 방사되어 주기적으로 그들의 HP와 데미지를 짧은 시간 동안 증가시킵니다."
+
+"HERO_GERALD_SKILL_1_NAME"="용기"
+
+"HERO_GERALD_SKILL_2_DESCRIPTION"="전투 중에 그는 몇 초 동안 방패를 들어 모든 들어오는 피해를 공격자에게 반사할 수 있습니다."
+
+"HERO_GERALD_SKILL_2_NAME"="보복의 방패"
+
+"HERO_ALLERIA_DESCRIPTION"="엘프 여왕의 딸이자 영원한 유산의 상속자인 알레리아는 빠르고 매력적인 궁수입니다. 그녀의 야생 고양이 동반자와 함께, 그들은 적들이 조준하기도 전에 적을 무찌릅니다. 전투에서의 그녀의 우아함은 자연에 대한 그녀의 변함없는 헌신에 필적합니다."
+
+"HERO_ALLERIA_SHORT_DESC"="-동시에 여러 화살을 발사합니다.<br>-야생 고양이를 소환합니다.<br>-맞았을 때 순간이동할 확률이 있습니다."
+
+"HERO_ALLERIA_NAME"="알레리아 스위프트윈드"
+
+"HERO_ALLERIA_SKILL_0_DESCRIPTION"="활에 마법을 충전하여 그녀는 마법 화살의 소나기를 발사합니다. 이 화살들은 여러 적을 공격하기 위해 흩어지거나 단일 목표에 강력한 일격을 가할 수 있습니다."
+
+"HERO_ALLERIA_SKILL_0_NAME"="멀티샷"
+
+"HERO_ALLERIA_SKILL_1_DESCRIPTION"="충성스러운 와일드캣 동료를 소환하여 그녀의 곁에서 싸우며, 빠른 속도로 전투에 뛰어들어 주인과 친구를 방어할 준비가 되어 있습니다."
+
+"HERO_ALLERIA_SKILL_1_NAME"="야생의 부름"
+
+"HERO_ALLERIA_SKILL_2_DESCRIPTION"="근접 전투에서 그녀는 전략적으로 안전한 거리로 후퇴하여 위험을 피하고 원거리에서 공격하기 위해 재배치할 수 있습니다."
+
+"HERO_ALLERIA_SKILL_2_NAME"="스위프트 회피"
+
+"HERO_GRAWL_DESCRIPTION"="지하 비밀의 수호자, 그의 몸 안에서 단련된 주먹과 크리스탈을 휘두르며, 그는 가장 무자비한 지하 제국에 대한 마지막 장벽으로 서 있다. 끈질기고 움직이지 않는 그는 그들의 어둠이 지상 세계로 퍼지는 것을 막기 위해 싸운다."
+
+"HERO_GRAWL_SHORT_DESC"="-땅을 쳐서 적을 기절시킵니다.<br>-멀리 있는 적에게 바위를 던집니다.<br>-강력한 파편 펀치로 공격합니다."
+
+"HERO_GRAWL_NAME"="영웅 그로울"
+
+"HERO_GRAWL_SKILL_0_DESCRIPTION"="대지를 뒤흔드는 힘으로 땅을 내리쳐, 근처의 모든 적을 기절시키고 피해를 입힙니다."
+
+"HERO_GRAWL_SKILL_0_NAME"="대지 강타"
+
+"HERO_GRAWL_SKILL_1_DESCRIPTION"="땅에서 거대한 바위를 뽑아내어 먼 목표물에 던져, 큰 피해를 입히고 충격파로 인근 적들을 부상시킵니다."
+
+"HERO_GRAWL_SKILL_1_NAME"="바위 던지기"
+
+"HERO_GRAWL_SKILL_2_DESCRIPTION"="날카로운 수정 조각으로 주먹을 감싸고, 적을 즉시 소멸시킬 수 있는 막대한 피해를 입히는 치명적인 공격을 가합니다."
+
+"HERO_GRAWL_SKILL_2_NAME"="파편 주먹"
+
+"HERO_INGVAR_DESCRIPTION"="곰 부족의 가장 강력한 전사 중 한 명인 그는 단순한 힘뿐만 아니라 조상들과의 깊은 영적 유대로도 존경받고 있습니다. 전쟁의 부름이 땅에 울려 퍼질 때, 잉바르는 북쪽의 분노로 응답합니다."
+
+"HERO_INGVAR_SHORT_DESC"="-도끼로 회전하여 범위 내에 피해를 입힙니다.<br>-바이킹 조상을 소환하여 싸웁니다.<br>-HP가 낮을 때 곰 형태로 변합니다."
+
+"HERO_INGVAR_NAME"="잉바르 베어클로"
+
+"HERO_INGVAR_SKILL_0_DESCRIPTION"="도끼로 강력한 회전 공격을 펼쳐 주변의 모든 적에게 피해를 입힙니다."
+
+"HERO_INGVAR_SKILL_0_NAME"="바이킹의 분노"
+
+"HERO_INGVAR_SKILL_1_DESCRIPTION"="신성한 전쟁의 뿔피리를 불어 그의 바이킹 조상의 유령을 소환하여 전투에 합류시킵니다."
+
+"HERO_INGVAR_SKILL_1_NAME"="조상 소환"
+
+"HERO_INGVAR_SKILL_2_DESCRIPTION"="그의 체력이 낮아지면, 잉그바르는 혈통의 원시적인 힘을 발휘합니다. 거대한 곰으로 변신하여 일시적으로 무적이 되고, 힘이 증가하며, 체력을 빠르게 회복합니다"
+
+"HERO_INGVAR_SKILL_2_NAME"="곰 형태"
+
+"HERO_DIERDRE_DESCRIPTION"="애지온에게 구출된 후 그녀의 마을이 함락되자, 그녀는 신앙과 신성한 훈련을 통해 단련되어 최초의 진정한 전선 여사제로 떠올랐습니다. 다른 이들이 쓰러지는 곳에서 동료를 보호하기 위해 목숨을 걸고, 그녀는 가장 어두운 시간에 빛나는 빛이 되었습니다."
+
+"HERO_DIERDRE_SHORT_DESC"="-주변 아군을 치유합니다.<br>-최대 2개의 타워에 추가 피해를 부여합니다.<br>-자신과 아군에게 추가 방어력을 부여합니다."
+
+"HERO_DIERDRE_NAME"="영웅 디어드레"
+
+"HERO_DIERDRE_SKILL_0_DESCRIPTION"="신성한 마법을 사용하여 치유 주문을 시전하여 근처 아군의 HP를 회복합니다."
+
+"HERO_DIERDRE_SKILL_0_NAME"="성스러운 빛"
+
+"HERO_DIERDRE_SKILL_1_DESCRIPTION"="주변 타워에 신성한 힘을 부여하여 피해량을 증가시킵니다."
+
+"HERO_DIERDRE_SKILL_1_NAME"="축성"
+
+"HERO_DIERDRE_SKILL_2_DESCRIPTION"="주변 아군의 방어구를 축복하여, 자신을 포함하여 몇 초 동안 물리 방어력을 증가시킵니다."
+
+"HERO_DIERDRE_SKILL_2_NAME"="축복받은 갑옷"
+
+"HERO_ASHBITE_DESCRIPTION"="강력하고 무시무시한 불의 드래곤, 애쉬바이트는 그의 길을 막는 자들을 녹여버립니다. 그가 왜 리니레아를 보호하는지는 알려지지 않았습니다 - 어떤 사람들은 지루함 때문이라고 속삭이고, 다른 사람들은 전투에 대한 갈증 때문이라고 말합니다. 이유가 무엇이든, 그가 전투에 날아오를 때, 불길이 뒤따릅니다."
+
+"HERO_ASHBITE_SHORT_DESC"="-범위에 피해를 주는 숨결을 내뿜습니다.<br>-적을 물어 즉사시킬 확률이 있습니다.<br>-폭발성 화염구를 던집니다."
+
+"HERO_ASHBITE_NAME"="영웅 애쉬바이트"
+
+"HERO_ASHBITE_SKILL_0_DESCRIPTION"="앞의 적에게 뜨거운 불길을 내뿜어, 그 불길의 경로에 잡힌 모든 적에게 지속적인 피해를 입힙니다."
+
+"HERO_ASHBITE_SKILL_0_NAME"="화염 숨결"
+
+"HERO_ASHBITE_SKILL_1_DESCRIPTION"="단일 대상에게 돌진하여 치명적인 물기로 피해를 입히고 적을 즉시 삼킬 수 있는 기회를 제공합니다."
+
+"HERO_ASHBITE_SKILL_1_NAME"="먹이 사냥"
+
+"HERO_ASHBITE_SKILL_2_DESCRIPTION"="먼 거리의 목표에 거대한 화염구를 던집니다. 충돌 시 폭발하여 일련의 2차 폭발을 일으키며, 강력한 범위 피해를 입힙니다."
+
+"HERO_ASHBITE_SKILL_2_NAME"="야생의 불지옥"
+
+"HERO_ASHBITE_SKILL_3_DESCRIPTION"="상대의 유닛 위로 유성우를 만들어 땅을 불태우고 근처의 다른 유닛을 태웁니다."
+
+"HERO_ASHBITE_SKILL_3_NAME"="타오르는 유성"
+
+"HERO_ASHBITE_PACK_NAME"="베테랑 팩"
+
+"HERO_MAGNUS_DESCRIPTION"="한때 악명 높은 베즈난의 유망한 제자였던 그는 스승이 어둠에 빠진 뒤 왕국 군대에 합류했다. 이제 리니레아의 강력한 수호자인 마그누스는 고급 비전 마법과 환술을 압도적인 정밀도로 구사하며, 방대한 지식은 그의 전투 능력 앞에서조차 빛을 잃을 정도다."
+
+"HERO_MAGNUS_SHORT_DESC"="-자신의 그림자 클론을 생성합니다.<br>-지역에 피해를 주는 폭풍을 소환합니다.<br>-장거리로 순간이동할 수 있습니다."
+
+"HERO_MAGNUS_NAME"="영웅 마그누스 스펠베인"
+
+"HERO_MAGNUS_SKILL_0_DESCRIPTION"="고급 마법 에너지를 활용하여 먼 거리를 즉시 이동합니다."
+
+"HERO_MAGNUS_SKILL_0_NAME"="순간 이동"
+
+"HERO_MAGNUS_SKILL_1_DESCRIPTION"="비전 마법의 대가로서 그는 전투에서 자신을 돕기 위해 일시적인 환영을 만들어냅니다."
+
+"HERO_MAGNUS_SKILL_1_NAME"="미라지"
+
+"HERO_MAGNUS_SKILL_2_DESCRIPTION"="넓은 지역에 강력한 비전 에너지를 방출하여, 그 지역 내의 모든 적을 여러 번 공격합니다."
+
+"HERO_MAGNUS_SKILL_2_NAME"="비전 폭풍"
+
+"HERO_HACKSAW_DESCRIPTION"="유명한 노움 발명가인 핵소는 자신이 설계한 맞춤형 메카를 타고 세계를 돌아다니며 치명적인 장치들을 무기로 삼습니다. 새로운 전투는 위험이자 기회이며, 그의 다음 발명을 위한 연료가 됩니다."
+
+"HERO_HACKSAW_SHORT_DESC"="-칼날을 던져 적에게 피해를 입힙니다.<br>-적을 드릴로 공격하여 즉사 확률이 있습니다.<br>-바닥에 회전 톱을 놓습니다."
+
+"HERO_HACKSAW_NAME"="영웅 핵소우"
+
+"HERO_HACKSAW_SKILL_0_DESCRIPTION"="바닥에 톱날을 놓습니다. 영역 내의 적은 톱이 활성 상태인 동안 피해를 입습니다."
+
+"HERO_HACKSAW_SKILL_0_NAME"="제재소"
+
+"HERO_HACKSAW_SKILL_1_DESCRIPTION"="숨겨진 드릴 암을 풀어 적에게 강력한 일격을 가하고 즉시 죽일 수 있는 기회를 제공합니다."
+
+"HERO_HACKSAW_SKILL_1_NAME"="나무 넘어간다!"
+
+"HERO_HACKSAW_SKILL_2_DESCRIPTION"="여러 적 사이를 튕기는 칼날을 던져 각각을 베고, 맞을 때마다 피해를 입힙니다."
+
+"HERO_HACKSAW_SKILL_2_NAME"="비행 톱날"
+
+"HERO_VESPER_DESCRIPTION"="린이레아의 가장 어두운 시기에 남은 군대의 지휘관으로 선택된 베스퍼는 절망을 저항으로 바꾸었습니다. 그는 게릴라 전술을 사용하여 침략자에 대한 정밀한 공격을 이끌며, 새로운 세대의 영웅들에게 영감을 주는 존재가 되었습니다."
+
+"HERO_VESPER_SHORT_DESC"="-적을 기절시키는 화살을 쏜다.<br>-튕기는 화살을 쏜다.<br>-적을 세 번 연속으로 공격한다."
+
+"HERO_VESPER_INGAME_DESCRIPTION"="-적을 기절시키는 화살을 쏜다.<br>-튕기는 화살을 쏜다.<br>-적을 세 번 연속으로 공격한다."
+
+"HERO_VESPER_NAME"="베스퍼"
+
+"HERO_VESPER_SKILL_0_DESCRIPTION"="잘 조준된 화살을 발사하여 단일 적에게 피해를 주고 기절시킵니다."
+
+"HERO_VESPER_SKILL_0_NAME"="무릎에 화살을 맞다"
+
+"HERO_VESPER_SKILL_1_DESCRIPTION"="적 사이를 튕기는 화살을 쏘아 맞출 때마다 피해를 줍니다. 발동하려면 세 개의 대상이 필요합니다."
+
+"HERO_VESPER_SKILL_1_NAME"="리코셰"
+
+"HERO_VESPER_SKILL_2_DESCRIPTION"="단일 적에게 세 번의 빠른 근접 공격을 퍼붓고, 각 타격마다 총 피해량이 증가합니다."
+
+"HERO_VESPER_SKILL_2_NAME"="무술 기교"
+
+"HERO_AEGION_DESCRIPTION"="고독한 대장은 팔라딘 도시의 몰락에 굴하지 않고 맞서 싸웠으며, 그의 부대를 이끌고 끊임없는 적의 파도를 뚫고 안전한 길을 개척하며 어둠으로부터 인근 마을을 구했습니다. 치열한 전투 후, 그는 은퇴했지만 왕국 내에 위협이 생길 때만 돌아옵니다."
+
+"HERO_AEGION_SHORT_DESC"="-방패로 적을 밀어냅니다.<br>-적을 막는 방패를 투사합니다.<br>-방패를 사용하여 비행하는 적을 쏩니다."
+
+"HERO_AEGION_NAME"="아이기온 브라이트스틸"
+
+"HERO_AEGION_SKILL_0_DESCRIPTION"="방패에 신성한 힘을 융합하여 방패를 밝히고 적을 공격하여 뒤로 순간이동시킵니다."
+
+"HERO_AEGION_SKILL_0_NAME"="성스러운 방패"
+
+"HERO_AEGION_SKILL_1_DESCRIPTION"="방패 투영을 생성하여 몇 초 동안 적의 공격을 막고 받은 피해를 공격자에게 반사합니다."
+
+"HERO_AEGION_SKILL_1_NAME"="헤비 실드"
+
+"HERO_AEGION_SKILL_2_DESCRIPTION"="몇 초마다 방패에서 비행 적을 향해 집중 광선을 발사합니다."
+
+"HERO_AEGION_SKILL_2_NAME"="공습 방패"
+
+"HERO_AEGION_SHIELD_NAME"="-"
+
+"HERO_AEGION_SHIELD_SHORT_DESC"="-"
+
+"HERO_AEGION_SHIELD_DESCRIPTION"="-"
+
+"HERO_ELORA_DESCRIPTION"="냉정한 태도와 강력한 마법으로 유명한 엘로라는 북부 지역에서 가장 두려운 마녀입니다. 수년간 그녀는 침입자들에 맞서 홀로 서 있었고, 뒤에는 얼음 조각상을 남겨두었습니다. 이는 그녀에게 도전하는 모든 이들에게 무언의 경고입니다."
+
+"HERO_ELORA_SHORT_DESC"="-이동 시 피해를 입히는 흔적을 남깁니다.<br>-높은 범위 피해를 입히는 얼음 주문을 시전합니다.<br>-지역 내 적을 느리게 합니다."
+
+"HERO_ELORA_NAME"="영웅 엘로라 윈터송"
+
+"HERO_ELORA_SKILL_0_DESCRIPTION"="마법을 사용하여 빠르게 이동하고, 따라오는 적에게 피해를 주는 날카로운 고드름 자국을 남깁니다."
+
+"HERO_ELORA_SKILL_0_NAME"="얼어붙은 길"
+
+"HERO_ELORA_SKILL_1_DESCRIPTION"="강력한 주문을 발동하여 지역을 얼음으로 감싸 적의 움직임을 크게 느리게 합니다."
+
+"HERO_ELORA_SKILL_1_NAME"="영구 동토층"
+
+"HERO_ELORA_SKILL_2_DESCRIPTION"="강력하고 관통력 있는 주문을 시전하여 넓은 지역에 치명적인 얼음 파편을 쏟아냅니다."
+
+"HERO_ELORA_SKILL_2_NAME"="얼음 폭풍"
+
+"HERO_EISKALT_DESCRIPTION"="인간을 향한 강한 사냥 본능에 이끌린 위험한 얼음 와이번. 그의 존재만으로도 자연의 힘이자 하나의 재앙이다. 그가 내려앉는 곳은 반드시 광활한 빙하 황무지로 변한다."
+
+"HERO_EISKALT_SHORT_DESC"="-가시가 있는 눈덩이를 던집니다.<br>-바닥에 피해를 주는 얼음 가시를 만듭니다.<br>-적을 느리게 합니다."
+
+"HERO_EISKALT_NAME"="얼음같은"
+
+"HERO_EISKALT_SKILL_0_DESCRIPTION"="가시가 있는 눈덩이를 발사하여 경로를 따라 이동하며 적에게 피해를 줍니다."
+
+"HERO_EISKALT_SKILL_0_NAME"="눈사태"
+
+"HERO_EISKALT_SKILL_1_DESCRIPTION"="땅에서 날카로운 얼음 가시를 소환하는 주문을 시전하여 퍼져나가며 잡힌 적들을 관통하고 피해를 입힙니다."
+
+"HERO_EISKALT_SKILL_1_NAME"="얼음 봉우리"
+
+"HERO_EISKALT_SKILL_2_DESCRIPTION"="적 아래의 땅을 얼려 몇 초 동안 이동 속도를 크게 늦춥니다."
+
+"HERO_EISKALT_SKILL_2_NAME"="서리 숨결"
+
+"HERO_EISKALT_SKILL_3_DESCRIPTION"="빙하 폭풍을 일으켜 모든 적 유닛을 제자리에 얼려 몇 초 동안 기절시킵니다."
+
+"HERO_EISKALT_SKILL_3_NAME"="빙하 폭풍"
+
+"TOWER_ARCHER_DESCRIPTION"="훈련 중인 엘리트 궁수들은 정확한 명중률과 적의 취약점을 꿰뚫는 예리한 눈으로 유명합니다. 심지어 장갑을 입은 적도 안전하지 않습니다 - 각 사격은 깊이 관통하여 목표를 위험하게 만듭니다."
+
+"TOWER_ARCHER_NAME"="궁수 타워"
+
+"TOWER_ARCHER_SKILL_0_DESCRIPTION"="모든 공격은 적을 출혈시켜 시간이 지남에 따라 피해를 줄 수 있습니다.\n(스킬 항상 활성화)"
+
+"TOWER_ARCHER_SHORT_DESC"="적을 출혈시키는 능력을 가진 견습 궁수"
+
+"TOWER_ARCHER_SKILL_0_NAME"="출혈"
+
+"TOWER_ARCHER_SKILL_1_DESCRIPTION"="화살의 비를 발사하여 근처 지역에 쏟아져 들어오는 모든 적에게 물리적 피해를 입힙니다.\n(최대 타워 업그레이드 시 스킬 구매)"
+
+"TOWER_ARCHER_SKILL_1_SHORT_DESC"="화살비가 내리며, 맞은 모든 적에게 피해를 줍니다."
+
+"TOWER_ARCHER_SKILL_1_NAME"="화살 세례"
+
+"TOWER_ARCHER_SKILL_2_DESCRIPTION"="두 명의 궁수가 활을 당겨 두 적 유닛에 강력한 공격을 가합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARCHER_SKILL_2_SHORT_DESC"="강력한 화살이 두 적 유닛을 공격합니다."
+
+"TOWER_ARCHER_SKILL_2_NAME"="충전된 발사"
+
+"TOWER_RANGERS_HIDEOUT_DESCRIPTION"="베테랑 엘프들조차도 그들의 활 솜씨를 인정하는 이 마스터 레인저들은 멀리서 공격하며 파괴적인 화살 세례를 퍼붓습니다. 야생의 대가로서, 그들은 숲 자체를 이용하여 적을 방해하고 해를 입힙니다."
+
+"TOWER_RANGERS_HIDEOUT_SHORT_DESC"="자연을 지휘하여 적을 함정에 빠뜨리는 베테랑 레인저."
+
+"TOWER_RANGERS_HIDEOUT_NAME"="레인저 초소"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_DESCRIPTION"="공격 시, 땅에서 덩굴이 솟아나 적을 몇 초 동안 제자리에 가두는 특수 화살을 사용할 수 있습니다. \n(스킬 항상 활성화)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_0_NAME"="숲 덩굴"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_DESCRIPTION"="레인저는 근처의 모든 적에게 독화살을 발사하여 중독시키고 시간이 지남에 따라 피해를 줍니다. \n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_SHORT_DESC"="독화살을 발사하여 적을 중독시키고 시간이 지남에 따라 피해를 줍니다."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_1_NAME"="독화살"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_DESCRIPTION"="자연의 마스터리를 이용하여, 레인저는 상대편에 마법 화살을 쏘아 울프 엔트 무리를 소환합니다. 민첩하고 교묘한 이 생물들은 근접 공격을 피하면서 적의 방어선을 뚫고자 합니다.\n(최대 타워 업그레이드 시 기술 구매 가능)"
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_SHORT_DESC"="상대편에 늑대 엔트를 소환합니다."
+
+"TOWER_RANGERS_HIDEOUT_SKILL_2_NAME"="초록 수호자"
+
+"TOWER_MAGE_DESCRIPTION"="마법 방어의 최전선인 이 견습 마법사들은 원소 주문을 사용하여 마나를 집중합니다. 그들의 마법은 불안정하고 폭발적이며, 특히 눈에 띄지 않게 빠져나가려는 적들에게 위험합니다."
+
+"TOWER_MAGE_SHORT_DESC"="적을 공격한 후 마법 볼트가 분열되는 마법사."
+
+"TOWER_MAGE_NAME"="마법사 타워"
+
+"TOWER_MAGE_SKILL_0_DESCRIPTION"="과충전된 볼트가 적을 맞출 때마다, 초과 에너지가 추가 볼트로 분리되어, 주변 적에게 감소된 피해를 입힙니다.\n(스킬 항상 활성화)"
+
+"TOWER_MAGE_SKILL_0_NAME"="체인 볼트"
+
+"TOWER_MAGE_SKILL_1_DESCRIPTION"="마법사는 저장된 마나를 집중된 마법 볼트 폭발로 전환하여 근처의 여러 적에게 큰 피해를 입힙니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_MAGE_SKILL_1_SHORT_DESC"="주변의 여러 적에게 피해를 입히는 마법 폭격을 발사합니다."
+
+"TOWER_MAGE_SKILL_1_NAME"="주문 폭격"
+
+"TOWER_MAGE_SKILL_2_DESCRIPTION"="마법사는 지팡이를 사용하여 상대방 측의 적 유닛 그룹에 보호 마법을 시전하여 마법 피해에 대한 저항력을 부여합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_MAGE_SKILL_2_SHORT_DESC"="일부 상대의 적을 마법 피해로부터 보호합니다."
+
+"TOWER_MAGE_SKILL_2_NAME"="마법 부여"
+
+"TOWER_ARCANE_WIZARD_DESCRIPTION"="현자의 정점에 도달한 이 강력한 마법사들은 현실 자체를 재구성할 수 있습니다. 그들의 방대한 마법 지식을 사용하여, 그들은 그들의 영역에 도전하는 적을 약화시키거나, 이동시키거나, 완전히 소멸시킬 수 있습니다."
+
+"TOWER_ARCANE_WIZARD_SHORT_DESC"="적의 마법 저항력을 약화시키는 힘을 가진 비전 마법의 대가."
+
+"TOWER_ARCANE_WIZARD_NAME"="비전 마법사"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_DESCRIPTION"="각 공격은 영향을 받은 적의 마법 저항을 감소시키는 반마법 오라를 소환할 기회를 가집니다.\n(스킬 항상 활성화)"
+
+"TOWER_ARCANE_WIZARD_SKILL_0_NAME"="매직 브레이크"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_DESCRIPTION"="마법에 대한 깊은 이해를 통해 마법사는 현실을 왜곡하는 원을 만들어 적 그룹을 경로를 따라 뒤로 순간이동시킵니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_SHORT_DESC"="여러 적을 뒤로 순간이동"
+
+"TOWER_ARCANE_WIZARD_SKILL_1_NAME"="순간 이동"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_DESCRIPTION"="아케인 위자드는 엄청난 마나를 집중하여 단일의 치명적인 광선을 발사하여 적을 즉시 소멸시킵니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARCANE_WIZARD_SKILL_2_SHORT_DESC"="대상을 즉시 처치합니다."
+
+"TOWER_ARCANE_WIZARD_SKILL_2_NAME"="죽음의 광선"
+
+"TOWER_ARTILLERY_DESCRIPTION"="드워프 금속 공학의 궁극적인 산물인 이 중포는 가장 강력한 합금으로 만들어졌으며, 파괴적인 탄약으로 구동됩니다. 다양한 특수 포탄을 사용하여 적군을 섬멸할 수 있으며, 사거리 밖의 적도 공격할 수 있습니다."
+
+"TOWER_ARTILLERY_SHORT_DESC"="폭발성 클러스터 포탄을 발사할 수 있는 중포."
+
+"TOWER_ARTILLERY_NAME"="드워프 대포"
+
+"TOWER_ARTILLERY_SKILL_0_DESCRIPTION"="공중에서 폭발하는 클러스터 포탄을 발사할 기회가 있으며, 여러 개의 작은 폭탄을 떨어뜨려 지역을 폭격합니다.\n(스킬 항상 활성화)"
+
+"TOWER_ARTILLERY_SKILL_0_NAME"="클러스터"
+
+"TOWER_ARTILLERY_SKILL_1_DESCRIPTION"="유도 미사일을 발사하여 목표물을 추적하고 접촉 시 폭발하여 주변 지역에 피해를 줍니다. 비행 적도 타겟으로 삼을 수 있습니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARTILLERY_SKILL_1_SHORT_DESC"="유도 미사일을 발사하여 폭발하며, 범위 내 적에게 피해를 줍니다."
+
+"TOWER_ARTILLERY_SKILL_1_NAME"="미사일 발사"
+
+"TOWER_ARTILLERY_SKILL_2_DESCRIPTION"="상대 유닛을 향해 고충격 미사일을 조준하고 발사합니다. 폭발은 충격파를 방출하여 근처의 상대 타워를 일시적으로 기절시킵니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARTILLERY_SKILL_2_SHORT_DESC"="상대방 측에 미사일을 발사하여 피해를 주고 타워를 기절시킵니다."
+
+"TOWER_ARTILLERY_SKILL_2_NAME"="T.A.R 미사일"
+
+"TOWER_DWARVEN_DRILL_DESCRIPTION"="원래 가장 깊은 암석을 뚫기 위해 만들어진 이 강력한 드워프 채굴 드릴은 강력한 방어 무기로 재단조되었습니다. 지면을 흔들어 적 유닛과 구조물에 피해를 주고 기절시킵니다."
+
+"TOWER_DWARVEN_DRILL_SHORT_DESC"="드워프 드릴은 공격할 때마다 적을 기절시킵니다."
+
+"TOWER_DWARVEN_DRILL_NAME"="DWAARP"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_DESCRIPTION"="모든 공격은 탑 주변의 땅을 부수고, 근처의 모든 적을 잠시 기절시킵니다.\n(스킬 항상 활성화)"
+
+"TOWER_DWARVEN_DRILL_SKILL_0_NAME"="충격과 경외"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_DESCRIPTION"="드릴의 모든 힘을 발휘하여 지형을 파열시키고, 용암의 급류를 일으켜 주변의 모든 적을 태우고 시간이 지남에 따라 지속적으로 피해를 주는 불타는 땅을 남깁니다.\n(최대 타워 업그레이드 시 스킬 구매)"
+
+"TOWER_DWARVEN_DRILL_SKILL_1_SHORT_DESC"="주변의 적을 태우고 땅을 마그마로 채웁니다."
+
+"TOWER_DWARVEN_DRILL_SKILL_1_NAME"="용광로 폭발"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_DESCRIPTION"="적 타워 위치를 정확히 찾아내어, 상대 타워 아래의 지면을 파괴하고 짧은 시간 동안 기절시키는 목표 지진 충격을 유발합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_DWARVEN_DRILL_SKILL_2_SHORT_DESC"="국지적 진동을 일으켜 일부 적의 타워를 기절시킵니다."
+
+"TOWER_DWARVEN_DRILL_SKILL_2_NAME"="지진"
+
+"TOWER_BARRACK_DESCRIPTION"="자주 신성한 수호자라고 불리며, 시민의 방패이자 보호자입니다. 이 강력한 기사들은 강한 적에 맞서 흔들리지 않는 신념과 용기로 알려져 있습니다."
+
+"TOWER_BARRACK_SHORT_DESC"="신성한 신념으로 자신을 보호하는 성기사."
+
+"TOWER_BARRACK_NAME"="팔라딘 막사"
+
+"BARRACK_UNIT_NAME"="성기사"
+
+"BARRACK_UNIT_SHORT_DESC"="신성한 저항력을 지닌 갑옷 전사."
+
+"TOWER_BARRACK_SKILL_0_DESCRIPTION"="전투 중에 팔라딘은 신성한 목적으로 방패를 들어오는 피해의 일부를 막을 수 있습니다.\n(스킬 항상 활성화)"
+
+"TOWER_BARRACK_SKILL_0_NAME"="아이언 윌"
+
+"TOWER_BARRACK_SKILL_1_DESCRIPTION"="신성한 빛에 의해 강화된 팔라딘은 그의 검을 땅에 내리쳐 주변의 모든 적에게 피해를 주는 빛나는 에너지의 폭발을 생성합니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_BARRACK_SKILL_1_SHORT_DESC"="신성한 에너지의 폭발을 방출하여 근처의 적에게 피해를 줍니다."
+
+"TOWER_BARRACK_SKILL_1_NAME"="신성한 일격"
+
+"TOWER_BARRACK_SKILL_2_DESCRIPTION"="어려운 상황에 직면했을 때, 팔라딘은 신성한 은총을 호출하여 상처의 일부를 치유하고 신성한 마법으로 체력을 회복합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_BARRACK_SKILL_2_SHORT_DESC"="신성한 에너지를 사용하여 HP를 회복합니다."
+
+"TOWER_BARRACK_SKILL_2_NAME"="치유의 빛"
+
+"TOWER_BARBARIAN_DESCRIPTION"="이 사납고 무자비한 북부 전사들은 항상 가장 도전적인 환경에서 맞설 준비가 되어 있습니다. 도끼 전투의 대가인 그들은 지상 적을 찢어버리거나 무기를 하늘로 던져 공중의 적을 잔인한 정밀도로 처치할 수 있습니다."
+
+"TOWER_BARBARIAN_SHORT_DESC"="날아다니는 적에게 도끼를 던질 수 있는 야만 전사들."
+
+"TOWER_BARBARIAN_NAME"="바바리안 미드 홀"
+
+"BARBARIANS_UNIT_NAME"="바바리안"
+
+"BARBARIANS_UNIT_SHORT_DESC"="분노와 본능에 의해 자극받은 야만적인 광전사 전사들."
+
+"TOWER_BARBARIAN_SKILL_0_DESCRIPTION"="바바리안은 사정거리 내의 비행 적을 치명적인 정확도로 도끼를 던져 조준하고 공격할 수 있습니다.\n(스킬은 항상 활성화되어 있습니다)"
+
+"TOWER_BARBARIAN_SKILL_0_NAME"="도끼 투척"
+
+"TOWER_BARBARIAN_SKILL_1_DESCRIPTION"="전투 중에 야만인들은 그들의 원초적인 분노를 사용하여 양손 도끼로 격렬하게 회전하며 근처의 모든 적을 베어냅니다.\n(최대 타워 업그레이드 시 스킬 구매)"
+
+"TOWER_BARBARIAN_SKILL_1_SHORT_DESC"="야만인들이 치명적인 회오리바람 속에서 회전하며 근처의 모든 적에게 피해를 줍니다."
+
+"TOWER_BARBARIAN_SKILL_1_NAME"="휩쓸기 공격"
+
+"TOWER_BARBARIAN_SKILL_2_DESCRIPTION"="세 번째 야만인이 탑 꼭대기에 나타나 적 유닛에게 무자비하게 도끼를 던져 큰 피해를 입힙니다.\n(최대 타워 업그레이드 시 스킬 구매)"
+
+"TOWER_BARBARIAN_SKILL_2_SHORT_DESC"="세 번째 야만인을 소환하여 적의 유닛에 도끼를 던지게 합니다."
+
+"TOWER_BARBARIAN_SKILL_2_NAME"="도끼 비"
+
+"TOWER_MUSKETEER_DESCRIPTION"="치명적이고 인내심이 강한 이 저격수들은 완벽한 사격을 위해 며칠 동안 움직이지 않고 기다릴 수 있습니다. 고대 드워프들이 만든 총기로 무장한 이들은 가장 훈련된 사수만이 이 정도의 화력을 다룰 수 있도록 신뢰받습니다."
+
+"TOWER_MUSKETEER_SHORT_DESC"="엘리트 저격수는 갑옷을 관통하고 멀리서 공격하도록 훈련받았습니다."
+
+"TOWER_MUSKETEER_NAME"="총사대"
+
+"TOWER_MUSKETEER_SKILL_0_DESCRIPTION"="특수 탄약을 사용하면 적의 물리적 방어구를 관통하고 부분적으로 무시할 수 있습니다.(스킬은 항상 활성화됨)"
+
+"TOWER_MUSKETEER_SKILL_0_NAME"="관통 타격"
+
+"TOWER_MUSKETEER_SKILL_1_DESCRIPTION"="폭발성 포탄을 발사하여 충격 시 폭발하며, 목표 주변의 적들에게도 큰 범위 피해를 줍니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_MUSKETEER_SKILL_1_SHORT_DESC"="대상 주변에 범위 피해를 주는 폭발적인 샷입니다."
+
+"TOWER_MUSKETEER_SKILL_1_NAME"="파열탄 사격"
+
+"TOWER_MUSKETEER_SKILL_2_DESCRIPTION"="총사들은 적의 편에 있는 유닛에 대해 일련의 빠르고 정밀한 사격을 조정합니다. 각 공격은 피해를 주며 각 목표를 즉시 제거할 확률이 있습니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_MUSKETEER_SKILL_2_SHORT_DESC"="적 유닛에게 강력한 연속 사격을 가하며, 즉시 처치할 확률이 있습니다."
+
+"TOWER_MUSKETEER_SKILL_2_NAME"="저격수 사격"
+
+"TOWER_SORCERER_DESCRIPTION"="저명한 창조와 원소 마법의 대가로, 그들은 대지 마법과 고대 룬을 사용하여 자신의 의지에 따라 무엇이든 만들거나 재형성합니다."
+
+"TOWER_SORCERER_SHORT_DESC"="룬 마스터로, 공격할 때마다 적의 방어구를 침식합니다."
+
+"TOWER_SORCERER_NAME"="마법사"
+
+"TOWER_SORCERER_SKILL_0_DESCRIPTION"="각 공격은 적의 물리적 방어구의 일부를 침식하는 지속적인 저주를 동반합니다.\n(스킬은 항상 활성화되어 있습니다)"
+
+"TOWER_SORCERER_SKILL_0_NAME"="저주"
+
+"TOWER_SORCERER_SKILL_1_DESCRIPTION"="그들은 탑에 새겨진 룬을 통해 마법을 채널링하여 적을 양으로 변환하고 저항력을 제거하며 HP를 줄입니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_SORCERER_SKILL_1_SHORT_DESC"="적을 양으로 변환하여 HP를 줄이고 저항을 제거합니다."
+
+"TOWER_SORCERER_SKILL_1_NAME"="변이"
+
+"TOWER_SORCERER_SKILL_2_DESCRIPTION"="그들은 지구 마법에 대한 숙련 덕분에 돌과 흙에서 강력한 정수를 소환하여 길을 보호합니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_SORCERER_SKILL_2_SHORT_DESC"="탑 근처의 적과 싸우기 위해 돌 정령을 소환합니다."
+
+"TOWER_SORCERER_SKILL_2_NAME"="정령 소환"
+
+"CREEP_SORCERER_GOLEM_NAME"="돌 정령"
+
+"CREEP_SORCERER_GOLEM_SHORT_DESC"="강력한 돌 원소로, 순수한 힘과 흔들리지 않는 저항력을 사용하여 적을 부수고 길을 지킵니다."
+
+"TOWER_TESLA_DESCRIPTION"="원래 드워프 기계를 유지하기 위해 제작된 테슬라 x104는 곧 전장에서 원시 전기 분노를 방출할 수 있는 강력한 방어 무기로서 비할 데 없는 잠재력을 지니고 있음을 발견하게 되었습니다."
+
+"TOWER_TESLA_SHORT_DESC"="번개가 목표에서 가장 가까운 적으로 아크를 그리며, 매번 피해의 일부를 줍니다."
+
+"TOWER_TESLA_NAME"="테슬라 x104"
+
+"TOWER_TESLA_SKILL_0_DESCRIPTION"="천 개의 폭풍의 힘을 채널링하여 적들 사이를 아크로 뛰는 번개를 방출합니다. 후속 타격은 원래 피해의 일부를 입힙니다.\n(스킬 항상 활성화)"
+
+"TOWER_TESLA_SKILL_0_NAME"="회로"
+
+"TOWER_TESLA_SKILL_1_DESCRIPTION"="각 공격은 정적 과부하를 유발할 확률이 있으며, 타워 주변 반경 내의 모든 적에게 피해를 줍니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_TESLA_SKILL_1_SHORT_DESC"="공격은 타워 주변에 범위 효과의 정적 폭발을 일으킬 기회를 가집니다."
+
+"TOWER_TESLA_SKILL_1_NAME"="과충전"
+
+"TOWER_TESLA_SKILL_2_DESCRIPTION"="상대의 유닛에 멈출 수 없는 천둥 번개를 쳐서 피해를 주고 몇 초 동안 기절시킵니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_TESLA_SKILL_2_SHORT_DESC"="적의 유닛을 공격하여 피해를 주고 기절시킵니다."
+
+"TOWER_TESLA_SKILL_2_NAME"="천둥"
+
+"TOWER_GLACIAL_DRUID_NAME"="얼음 드루이드"
+
+"TOWER_GLACIAL_DRUID_DESCRIPTION"="겨울의 분노의 대가들, 그들은 빙하 마법을 사용하여 눈보라와 차가운 바람을 소환하며, 그들의 뒤에는 서리와 느려진 적들이 남겨집니다."
+
+"TOWER_GLACIAL_DRUID_SHORT_DESC"="얼음을 다루는 마법사로, 매 공격마다 적 그룹의 속도를 늦출 수 있습니다."
+
+"TOWER_GLACIAL_DRUID_SKILL_0_DESCRIPTION"="각 공격은 차가운 폭발을 방출하여 몇 초 동안 지역 내 모든 적의 속도를 늦춥니다.\n(스킬 항상 활성화)"
+
+"TOWER_GLACIAL_DRUID_SKILL_0_NAME"="서리 길"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_DESCRIPTION"="고대의 빙하 힘을 호출하여 적의 길에 거대한 프로스트 자이언트를 소환합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_GLACIAL_DRUID_SKILL_1_SHORT_DESC"="적의 경로에 얼음 거인을 소환합니다."
+
+"TOWER_GLACIAL_DRUID_SKILL_1_NAME"="얼음 거인"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_DESCRIPTION"="파괴적인 얼음 폭풍을 발산하여 일부 적 타워를 일시적으로 얼려 기능을 중단시킵니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_GLACIAL_DRUID_SKILL_2_SHORT_DESC"="상대의 타워를 얼려서 잠시 비활성화합니다."
+
+"TOWER_GLACIAL_DRUID_SKILL_2_NAME"="얼음 폭풍"
+
+"TOWER_ARCHMAGE_DESCRIPTION"="이 마법 전쟁의 전문가들은 보통 최후의 방어선으로 서 있습니다. 그들의 파괴적인 주문과 정밀한 마법으로, 그들은 가장 단호한 군대조차 물리치거나 그들을 쫓아낼 수 있습니다."
+
+"TOWER_ARCHMAGE_SHORT_DESC"="전투 마법사로서 원시 마법 에너지를 폭발성 볼트로 변환합니다."
+
+"TOWER_ARCHMAGE_NAME"="대마법사"
+
+"TOWER_ARCHMAGE_SKILL_0_DESCRIPTION"="각 볼트는 불안정한 에너지로 과충전되어 충격 시 폭발하여 근처의 적에게 피해를 줄 기회를 제공합니다.\n(스킬 항상 활성화)"
+
+"TOWER_ARCHMAGE_SKILL_0_NAME"="치명성 물질"
+
+"TOWER_ARCHMAGE_SKILL_1_DESCRIPTION"="마법의 토네이도를 해방시켜 전장을 휩쓸고 적에게 피해를 주며 경로를 따라 뒤로 끌어당깁니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARCHMAGE_SKILL_1_SHORT_DESC"="토네이도를 시전하여 적을 뒤로 끌어당기고 피해를 입힙니다."
+
+"TOWER_ARCHMAGE_SKILL_1_NAME"="돌개바람"
+
+"TOWER_ARCHMAGE_SKILL_2_DESCRIPTION"="비전과 차원 마법을 결합하여 일부 적을 전장 건너편으로 이동시켜 즉시 상대편으로 보냅니다.\n(최대 타워 업그레이드 시 스킬 구매)"
+
+"TOWER_ARCHMAGE_SKILL_2_SHORT_DESC"="적을 상대편 쪽으로 텔레포트합니다."
+
+"TOWER_ARCHMAGE_SKILL_2_NAME"="소멸"
+
+"TOWER_HOLY_SANCTUARY_DESCRIPTION"="확고한 신념과 수년간의 신성한 훈련을 통해 이 여사제들은 위험에 처한 동료를 보호하기 위해 신성한 마법을 마스터했습니다. 그들은 전사가 가질 수 있는 최고의 생명 보험입니다."
+
+"TOWER_HOLY_SANCTUARY_SHORT_DESC"="주변 아군을 축복하여 받는 피해를 줄이는 헌신적인 치유사입니다."
+
+"TOWER_HOLY_SANCTUARY_NAME"="신성한 성역"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_DESCRIPTION"="여사제가 탑을 축복하여 범위 내 모든 아군에게 신성한 보호를 부여하고, 근처에 있는 한 받는 피해를 줄입니다.\n(스킬 항상 활성화)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_0_NAME"="신앙의 수호자"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_DESCRIPTION"="신성한 힘을 호출하여 인근 타워를 일시적으로 강화하고 일정 시간 동안 피해를 증가시킵니다. (최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_SHORT_DESC"="인근 타워의 일시적인 버프."
+
+"TOWER_HOLY_SANCTUARY_SKILL_1_NAME"="마법의 축복"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_DESCRIPTION"="부상당한 아군을 감지하면 여사제가 치유 마법의 폭발을 방출하여 부상자를 우선시하고 근처의 모든 유닛의 HP를 회복합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_SHORT_DESC"="주변 아군 유닛을 치유합니다."
+
+"TOWER_HOLY_SANCTUARY_SKILL_2_NAME"="생명의 오라"
+
+"TOWER_NECROMANCER_DESCRIPTION"="죽음의 금지된 예술의 대가인 네크로맨서는 죽음을 자신의 의지대로 비틀어냅니다. 그들은 쓰러진 적의 시체를 언데드 군대로 소환하여 자신을 위해 싸우게 할 수 있으며, 그들의 동료가 같은 운명을 맞는 것을 방지합니다."
+
+"TOWER_NECROMANCER_SHORT_DESC"="주변에 쓰러진 적을 되살리는 어두운 마법사입니다."
+
+"TOWER_NECROMANCER_NAME"="강령술사"
+
+"TOWER_NECROMANCER_SKILL_0_DESCRIPTION"="네크로맨서는 범위 내에서 쓰러진 적을 수동적으로 되살려 해골을 상대 측으로 보냅니다.\n(스킬 항상 활성화)"
+
+"TOWER_NECROMANCER_SKILL_0_NAME"="해골 군대"
+
+"TOWER_NECROMANCER_SKILL_1_DESCRIPTION"="독성 죽음의 구름을 소환하여 전장에 남아 있으며, 그 안에 갇힌 모든 적에게 시간 경과에 따라 피해를 줍니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_NECROMANCER_SKILL_1_SHORT_DESC"="지속적인 구름을 생성하여 해당 지역 내 적에게 지속적으로 피해를 줍니다."
+
+"TOWER_NECROMANCER_SKILL_1_NAME"="역병"
+
+"TOWER_NECROMANCER_SKILL_2_DESCRIPTION"="적의 편에 스켈레톤 기병을 소환합니다. 이 엘리트 언데드 전사는 끊임없이 싸울 뿐만 아니라 근처의 재생된 아군의 피해를 증가시킵니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_NECROMANCER_SKILL_2_SHORT_DESC"="스켈레톤 기사를 소환하여 근처의 스켈레톤을 강화합니다."
+
+"TOWER_NECROMANCER_SKILL_2_NAME"="죽음의 기수"
+
+"TOWER_NECROMANCER_PACK_NAME"="초보자 팩"
+
+"TOWER_BATTLE_MECHA_DESCRIPTION"="원래 정기 순찰을 단순화하기 위해 보행기로 설계된 이 메카는 이후 다양한 위험을 견딜 수 있는 최전선 방어자로 개조되었습니다."
+
+"TOWER_BATTLE_MECHA_SHORT_DESC"="탑을 보호하는 메카로, 인근 탑을 기절과 시스템 방해로부터 보호합니다."
+
+"TOWER_BATTLE_MECHA_NAME"="배틀 메카"
+
+"TOWER_BATTLE_MECHA_SKILL_0_DESCRIPTION"="주변 아군 타워가 기절하거나 비활성화되는 것을 방지하는 안정적인 공명 필드를 방출합니다.\n(스킬은 항상 활성화되어 있습니다)"
+
+"TOWER_BATTLE_MECHA_SKILL_0_NAME"="기계의 힘"
+
+"TOWER_BATTLE_MECHA_SKILL_1_DESCRIPTION"="적을 추적하는 미사일 떼를 발사하여 전장에서 적을 추적하고, 각 적중 시 피해를 줍니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_BATTLE_MECHA_SKILL_1_SHORT_DESC"="유도 미사일을 발사하여 여러 적을 추적하고 피해를 줍니다."
+
+"TOWER_BATTLE_MECHA_SKILL_1_NAME"="벌꿀 미사일"
+
+"TOWER_BATTLE_MECHA_SKILL_2_DESCRIPTION"="기계에서 축적된 위험한 기계 폐기물을 바닥에 쏟아 적들이 밟으면 느려지는 지역을 만듭니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_BATTLE_MECHA_SKILL_2_SHORT_DESC"="메카 주변에 둔화 지역을 생성합니다"
+
+"TOWER_BATTLE_MECHA_SKILL_2_NAME"="폐기물 투하"
+
+"TOWER_BATTLE_MECHA_SKILL_3_NAME"="지뢰밭"
+
+"TOWER_BATTLE_MECHA_SKILL_3_DESCRIPTION"="매 몇 초마다 적의 편에 지뢰 필드를 배치합니다. 이 지뢰는 접촉 시 폭발하여 적 유닛에 범위 피해를 줍니다.\n(스킬 항상 활성화)"
+
+"TOWER_BATTLE_MECHA_UNIT_NAME"="배틀 메카"
+
+"TOWER_BATTLE_MECHA_UNIT_SHORT_DESC"="주변의 아군 타워가 기절하거나 비활성화되는 것을 방지하는 안정적인 공명 필드를 방출합니다.\n(스킬은 항상 활성화되어 있습니다)"
+
+"TOWER_ARCHERY_SCOUTS_DESCRIPTION"="그림자에서 치명적인 정밀도로 적군을 공격하고 멀리서 적군에 불을 지르는 원거리 게릴라 전투를 전문으로 하는 이 강인한 생존자들은 리니레아의 쓰러진 군단의 잔재로 형성되었습니다."
+
+"TOWER_ARCHERY_SCOUTS_SHORT_DESC"="전선의 궁수로, 치명적인 피해를 주고 적을 불태울 수 있는 능력을 가지고 있습니다."
+
+"TOWER_ARCHERY_SCOUTS_NAME"="궁수 정찰병"
+
+"ARCHERY_OUTPOST_UNIT_NAME"="궁수 정찰병"
+
+"ARCHERY_OUTPOST_UNIT_SHORT_DESC"="원거리 정밀과 근접 전투 모두에 능숙한 전사입니다."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_DESCRIPTION"="전방 궁수에게는 모든 타격이 중요합니다. 원거리 공격은 치명타를 날릴 확률이 있으며, 추가 피해를 줍니다.\n(스킬은 항상 활성화되어 있습니다)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_0_NAME"="크리티컬 히트"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_DESCRIPTION"="그들은 화살에 기름과 불을 붙여 적을 불태우고 시간이 지남에 따라 피해를 입힙니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_SHORT_DESC"="충격으로 적을 점화하여 시간 경과에 따라 화상 피해를 줍니다."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_1_NAME"="발사"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_DESCRIPTION"="몇 초마다 전투 중이 아닐 때 적 유닛에 몇 발을 발사할 수 있습니다. (최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_SHORT_DESC"="전투 중이 아닐 때 적 유닛에 화살을 발사합니다."
+
+"TOWER_ARCHERY_SCOUTS_SKILL_2_NAME"="사격 연습"
+
+"TOWER_HUNTER_OUTPOST_DESCRIPTION"="경험이 풍부한 사냥꾼과 그의 충실한 독수리. 그들은 팀워크를 사용하여 먹이를 함정으로 유인하여 가장 강력한 생물조차 처치할 수 있습니다."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="전문 훈련을 받은 독수리의 지원을 받는 전술 사냥꾼으로, 적을 제거하기 위해 함정을 사용합니다."
+
+"TOWER_HUNTER_OUTPOST_NAME"="사냥꾼 초소"
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="전문 훈련을 받은 독수리의 지원을 받는 전술 사냥꾼으로, 적을 제거하기 위해 함정을 사용합니다."
+
+"TOWER_HUNTER_OUTPOST_SHORT_DESC"="전문 훈련을 받은 독수리의 지원을 받는 전술 사냥꾼으로, 적을 제거하기 위해 함정을 사용합니다."
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_DESCRIPTION"="훈련된 독수리가 날아올라 탑 주변의 넓은 지역을 정찰하고 사정거리 내의 적을 공격합니다.\n(스킬 항상 활성화)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_0_NAME"="독수리 사냥"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_DESCRIPTION"="사냥꾼이 길에 곰 덫을 설치합니다. 적이 밟으면 피해를 입고 일시적으로 기절합니다.\n(최대 타워 업그레이드 시 스킬 구매)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_SHORT_DESC"="적에게 피해를 주고 잠시 기절시키는 함정을 설치합니다."
+
+"TOWER_HUNTER_OUTPOST_SKILL_1_NAME"="곰 덫"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_DESCRIPTION"="정기적으로 사냥꾼이 독수리에게 신호를 보내 적의 쪽으로 날아가게 하여 그들의 대열을 방해합니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_SHORT_DESC"="상대의 경로로 독수리를 보냅니다."
+
+"TOWER_HUNTER_OUTPOST_SKILL_2_NAME"="정찰 및 사냥"
+
+"TOWER_ARCHERY_SCOUT_DESCRIPTION"="그림자에서 치명적인 정밀도로 적군을 공격하고 멀리서 적군에 불을 지르는 원거리 게릴라 전투를 전문으로 하는 이 강인한 생존자들은 리니레아의 쓰러진 군단의 잔재로 형성되었습니다."
+
+"TOWER_ARCHERY_SCOUT_SHORT_DESC"="전선의 궁수로, 치명적인 피해를 주고 적을 불태울 수 있는 능력을 가지고 있습니다."
+
+"TOWER_ARCHERY_SCOUT_INGAME_DESCRIPTION"="전선의 궁수로, 치명적인 피해를 주고 적을 불태울 수 있는 능력을 가지고 있습니다."
+
+"TOWER_ARCHERY_SCOUT_NAME"="궁수 정찰병"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_DESCRIPTION"="전방의 궁수에게는 모든 타격이 중요합니다. 원거리 공격은 치명타를 날릴 확률이 있어 추가 피해를 줍니다.\n(스킬 항상 활성화)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_0_NAME"="크리티컬 히트"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_DESCRIPTION"="그들은 화살을 기름과 불로 점화하여 적을 불태우고 시간에 따라 피해를 줍니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_SHORT_DESC"="충격으로 적을 점화하여 시간에 따라 화상 피해를 줍니다."
+
+"TOWER_ARCHERY_SCOUT_SKILL_1_NAME"="발사"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_DESCRIPTION"="전투 중이 아닐 때마다 몇 초마다 적 유닛에 몇 발을 발사할 수 있습니다. (최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_SHORT_DESC"="전투 중이 아닐 때 적 유닛에 화살을 발사합니다."
+
+"TOWER_ARCHERY_SCOUT_SKILL_2_NAME"="사격 연습"
+
+"TOWER_ROYAL_ARCHERS_DESCRIPTION"="린네리아의 가장 강력한 저격수들. 하늘의 수호자들로서 그들의 날카로운 눈은 가장 먼 목표를 조준할 수 있게 해줍니다. 그들의 충성스러운 전투 독수리는 어떤 비행 적도 무사히 도망치지 못하게 합니다."
+
+"TOWER_ROYAL_ARCHERS_SHORT_DESC"="날카로운 시각을 가진 저격수는 원거리와 공중전술을 갖추고 있습니다."
+
+"TOWER_ROYAL_ARCHERS_NAME"="왕실 궁병대"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_DESCRIPTION"="날카로운 화살촉과 비할 데 없는 조준력을 갖춘 그들은 공중 적에게 추가 피해를 입힙니다.\n(스킬 항상 활성화)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_0_NAME"="날카로운 화살촉"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_DESCRIPTION"="매의 전문가로서 그들은 훈련된 독수리를 보내 몇 초마다 공중의 적을 추적하고 공격할 수 있습니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_SHORT_DESC"="몇 초마다 날아다니는 적을 공격하기 위해 독수리를 보냅니다."
+
+"TOWER_ROYAL_ARCHERS_SKILL_1_NAME"="탐욕스러운 독수리"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_DESCRIPTION"="그들은 갑옷을 부수는 화살이 장착된 충전 샷을 발사하여 목표의 물리적 갑옷을 일시적으로 감소시킵니다.\n(최대 타워 업그레이드에서 기술 구매)"
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_SHORT_DESC"="충전된 화살을 발사하여 적의 방어력을 일시적으로 감소시킵니다."
+
+"TOWER_ROYAL_ARCHERS_SKILL_2_NAME"="아머 피어서"
+
+"SPELL_ARCANE_CIRCLE_NAME"="텔레포트"
+
+"SPELL_ARCANE_CIRCLE_DESCRIPTION"="마법의 원을 시전하여 그것을 넘는 적을 되돌려 보냅니다."
+
+"SPELL_ARCANE_CIRCLE_SHORT_DESC"="들어오는 적을 되돌리는 마법 원을 소환합니다."
+
+"SPELL_CURSED_VINES_NAME"="저주받은 덩굴"
+
+"SPELL_CURSED_VINES_DESCRIPTION"="땅에 독성 덩굴을 자생시켜 적의 속도를 늦추고 시간이 지남에 따라 피해를 줍니다."
+
+"SPELL_CURSED_VINES_SHORT_DESC"="덩굴을 키워 적을 느리게 하고 독을 줍니다."
+
+"SPELL_CURSED_VINES_PACK_NAME"="캐주얼 팩"
+
+"SPELL_ICY_ZONE_NAME"="얼음 지역"
+
+"SPELL_ICY_ZONE_DESCRIPTION"="두꺼운 얼음으로 넓은 지역을 덮어, 건너려는 적의 속도를 늦춥니다."
+
+"SPELL_ICY_ZONE_SHORT_DESC"="두꺼운 얼음으로 넓은 지역을 덮어 적의 속도를 늦춥니다."
+
+"SPELL_POLYMORPH_NAME"="변이"
+
+"SPELL_POLYMORPH_DESCRIPTION"="거의 모든 적을 양으로 변환하여 HP를 줄이고 그들이 가질 수 있는 모든 방어구를 제거합니다."
+
+"SPELL_POLYMORPH_SHORT_DESC"="적을 양으로 변환하여 HP를 줄이고 저항력을 제거합니다."
+
+"SPELL_RAIN_OF_FIRE_NAME"="불의 비"
+
+"SPELL_RAIN_OF_FIRE_DESCRIPTION"="강력한 주문을 발동하여 하늘에서 여러 개의 불덩이를 소환하고, 그 영역 내의 모든 적을 여러 번 타격합니다."
+
+"SPELL_RAIN_OF_FIRE_SHORT_DESC"="주문 범위 내의 모든 적에게 피해를 줍니다."
+
+"SPELL_REINFORCEMENTS_NAME"="지원군"
+
+"SPELL_REINFORCEMENTS_DESCRIPTION"="일시적으로 기본 장비를 갖춘 병사 두 명을 소환하여 전투를 돕습니다."
+
+"SPELL_REINFORCEMENTS_SHORT_DESC"="전투를 돕기 위해 잠시 병사 두 명을 소환합니다."
+
+"REINFORCEMENTS_UNIT_NAME"="지원"
+
+"REINFORCEMENTS_UNIT_SHORT_DESC"="기본 병사로 방어를 돕습니다."
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_NAME"="얼음 거인"
+
+"GLACIAL_DRUID_FROST_GIANT_UNIT_SHORT_DESC"="전체 군대를 산산조각 낼 전투도 견뎌내는 얼어붙은 거인."
+
+"HUNTING_EAGLE_UNIT_NAME"="사냥 독수리"
+
+"HUNTING_EAGLE_UNIT_SHORT_DESC"="사냥꾼의 충실한 동반자, 위에서 적을 공격합니다."
+
+"SCOUNT_EAGLE_UNIT_NAME"="스카우트 이글"
+
+"SCOUNT_EAGLE_UNIT_SHORT_DESC"="사냥꾼에 의해 길들여진 독수리, 그의 적을 공격하라는 지시를 받았다."
+
+"SPELL_STUN_NAME"="번개 기절"
+
+"SPELL_STUN_DESCRIPTION"="강력한 번개를 방출하여 땅을 강타하고, 넓은 지역을 감전시켜 범위 내 모든 적을 기절시킵니다."
+
+"SPELL_STUN_SHORT_DESC"="주변의 적을 기절시킵니다."
+
+"SPELL_THUNDERBOLT_NAME"="천둥"
+
+"SPELL_THUNDERBOLT_DESCRIPTION"="강력한 천둥 폭풍을 소환하여 지역 내 모든 적을 가격하고, 각 타격마다 피해를 주고 기절시킵니다."
+
+"SPELL_THUNDERBOLT_SHORT_DESC"="적에게 천둥으로 공격하여 지역 내에 피해를 주고 적을 잠시 기절시킵니다."
+
+"SPELL_ULTIMATE_SLAYER_NAME"="천둥"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="지역 내 가장 강한 적을 공격하여 즉시 처치합니다."
+
+"SPELL_SABOTAGE_NAME"="사보타주"
+
+"SPELL_SABOTAGE_DESCRIPTION"="범위 내 모든 적의 방어력 또는 마법 저항력을 감소시킵니다"
+
+"SPELL_SABOTAGE_SHORT_DESC"="지역 내 모든 크립의 저항 감소"
+
+"SPELL_LINIREAN_LANCERS_NAME"="리니레안 랜서"
+
+"SPELL_LINIREAN_LANCERS_DESCRIPTION"="일시적으로 베테랑 랜서를 소환하여 전투를 돕습니다."
+
+"SPELL_LINIREAN_LANCERS_SHORT_DESC"="일시적으로 베테랑 랜서를 소환하여 전투를 돕습니다."
+
+"CREEP_GOBLIN_NAME"="고블린"
+
+"CREEP_GOBLIN_DESC_1"="약하고 훈련되지 않은 고블린 부족 생물"
+
+"CREEP_GOBLIN_SHORT_DESC"="작고 약한 고블린"
+
+"CREEP_GOBLIN_WARRIOR_NAME"="고블린 전사"
+
+"CREEP_GOBLIN_WARRIOR_DESC_1"="훈련되고 더 강력한 고블린은 더 많은 피해를 견딜 수 있는 갑옷을 장착했습니다."
+
+"CREEP_GOBLIN_WARRIOR_SHORT_DESC"="갑옷을 입은 더 강한 고블린"
+
+"CREEP_GOBLIN_WIZARD_NAME"="고블린 위자드"
+
+"CREEP_GOBLIN_WIZARD_DESC_1"="불의 마법을 사용하여 적을 태우는 위험한 고블린"
+
+"CREEP_GOBLIN_WIZARD_SHORT_DESC"="화염구를 사용하여 지속적인 피해를 입히는 주문을 사용하는 고블린"
+
+"CREEP_GOBLIN_COPTER_NAME"="고블린 헬리콥터"
+
+"CREEP_GOBLIN_COPTER_DESC_1"="튼튼하지만 불안정한 고철 기계로, 고블린이 그들의 영토를 탐험하기 위해 만든 것이다."
+
+"CREEP_GOBLIN_COPTER_DESC_2"="헬리콥터가 파괴되면 고블린이 땅에 떨어져 계속 걷습니다."
+
+"CREEP_GOBLIN_COPTER_SHORT_DESC"="파괴되면 조종사가 땅에 떨어지는 고철 비행기입니다."
+
+"CREEP_ORC_NAME"="오크"
+
+"CREEP_ORC_DESC_1"="고블린 부족 사이에 사는 위험하고 끈질긴 생물"
+
+"CREEP_ORC_SHORT_DESC"="두꺼운 피부로 물리 공격을 막아내는 위험한 적."
+
+"CREEP_ORC_CHAMPION_NAME"="오크 챔피언"
+
+"CREEP_ORC_CHAMPION_DESC_1"="잘 훈련되고 저항력이 강한 오크로, 위험한 적과 싸울 준비가 되어 있습니다."
+
+"CREEP_ORC_CHAMPION_SHORT_DESC"="강력한 오크 전사로, 어떤 적도 파괴할 수 있도록 장비와 훈련이 되어 있습니다."
+
+"CREEP_ORC_SHAMAN_NAME"="오크 주술사"
+
+"CREEP_ORC_SHAMAN_DESC_1"="고블린 부족의 힐러로, 보통 후방에서 전사들을 지원합니다."
+
+"CREEP_ORC_SHAMAN_SHORT_DESC"="주변 아군의 체력을 회복시키는 고블린 힐러"
+
+"CREEP_OGRE_NAME"="오우거"
+
+"CREEP_OGRE_DESC_1"="무시무시하고 끈질긴 생명체로, 어떤 방어도 힘으로 돌파합니다."
+
+"CREEP_OGRE_SHORT_DESC"="매우 위험하고 강력합니다. 각 공격은 범위 피해를 입힙니다."
+
+"CREEP_HATCHLING_NAME"="새끼 거미"
+
+"CREEP_HATCHLING_DESC_1"="새끼 거미들은 보통 대모를 따라 큰 무리로 나타납니다."
+
+"CREEP_HATCHLING_SHORT_DESC"="작고 빠른 이 새끼 거미들은 항상 무리를 지어 움직입니다."
+
+"CREEP_MATRIARCH_NAME"="거대 여왕 거미"
+
+"CREEP_MATRIARCH_DESC_1"="숲의 깊은 곳에서 온 거미로, 자손을 이용해 사냥과 탐험을 합니다."
+
+"CREEP_MATRIARCH_SHORT_DESC"="알을 낳아 거미 새끼를 부화시키는 큰 거미"
+
+"CREEP_GARGOYLE_NAME"="가고일"
+
+"CREEP_GARGOYLE_DESC_1"="숲의 밤하늘을 나는 야행성 생물"
+
+"CREEP_GARGOYLE_SHORT_DESC"="숲의 밤하늘을 나는 야행성 생물"
+
+"CREEP_WULF_NAME"="울프"
+
+"CREEP_WOLF_NAME"="울프"
+
+"CREEP_WULF_DESC_1"="빠르고 영리한 숲속 동물로, 무리를 지어 사냥감을 추적합니다."
+
+"CREEP_WOLF_SHORT_DESC"="사냥감을 빠르게 사냥하는 생물; 하나를 보면 더 많은 것이 올 것입니다."
+
+"BOSS_KRUM_THAK_NAME"="크룸 탁"
+
+"BOSS_KRUM_THAK_DESC_1"="강력한 주술사가 아군을 보호하고 치명적인 번개로 적을 제거합니다."
+
+"BOSS_KRUM_THAK_SHORT_DESC"="강력한 주술사가 아군을 보호하며 적을 무찌르는 번개를 시전합니다."
+
+"BOSS_GUL_THAK_NAME"="굴 탁"
+
+"BOSS_GUL_THAK_DESC_1"="강력한 족장은 탐지된 적에게 돌진하면서 아군을 치유합니다"
+
+"BOSS_GUL_THAK_SHORT_DESC"="강력한 족장으로, 아군을 치유하고 근처의 적에게 돌진합니다"
+
+"CREEP_TROLL_NAME"="트롤"
+
+"CREEP_TROLL_DESC_1"="재생 특성을 가진 약한 트롤 종족 생물"
+
+"CREEP_TROLL_SHORT_DESC"="트롤 종족의 약한 생물. 시간이 지나면 HP가 회복됩니다."
+
+"CREEP_TROLL_BREAKER_NAME"="파괴자 트롤"
+
+"CREEP_TROLL_BREAKER_DESC_1"="갑옷과 나무줄기를 장착한 이 거인은 가장 견고한 방어도 돌파할 수 있습니다."
+
+"CREEP_TROLL_BREAKER_SHORT_DESC"="통나무를 무기로 사용하여 범위 피해를 입히는 거대한 트롤. 시간이 지남에 따라 HP를 회복합니다."
+
+"CREEP_TROLL_CHAMPION_NAME"="트롤 챔피언"
+
+"CREEP_TROLLCHAMPION_NAME"="트롤 챔피언"
+
+"CREEP_TROLL_CHAMPION_DESC_1"="재생 능력을 가진 트롤 종족의 강인한 전사로, 원거리 공격에 특화되어 있습니다."
+
+"CREEP_TROLLCHAMPION_SHORT_DESC"="강력한 트롤로 원거리에서 공격할 수 있습니다. 시간이 지나면 HP가 회복됩니다."
+
+"CREEP_TROLL_CHIEFTAIN_NAME"="트롤 족장"
+
+"CREEP_TROLL_CHIEFTAIN_DESC_1"="이 트롤은 드럼을 사용하여 주변 아군의 피해와 속도를 증가시키고 치유합니다. 높은 재생 능력을 가지고 있습니다."
+
+"CREEP_TROLL_CHIEFTAIN_SHORT_DESC"="동맹을 다양한 버프로 지원하는 족장. 시간이 지나면 HP가 회복됩니다."
+
+"CREEP_TROLL_PATHFINDER_NAME"="트롤 길잡이"
+
+"CREEP_TROLL_PATHFINDER_DESC_1"="지형을 이용해 얼음 위를 미끄러지듯 이동하며 시간이 지남에 따라 HP를 회복하는 작은 트롤입니다."
+
+"CREEP_PATHFINDER_NAME"="트롤 길잡이"
+
+"CREEP_PATHFINDER_SHORT_DESC"="스케이트를 사용하여 미끄러지며 적을 회피하는 빠른 트롤. 시간이 지나면 HP가 회복됩니다."
+
+"CREEP_WINTER_WULF_NAME"="겨울늑대"
+
+"CREEP_WINTER_WULF_DESC_1"="마법과 극한 날씨에 저항할 수 있는 특별한 털을 가진 민첩한 생물입니다."
+
+"CREEP_WINTER_WULF_SHORT_DESC"="빠르고 민첩한 생물로, 일부 근접 공격을 쉽게 피합니다."
+
+"CREEP_YETI_NAME"="설인"
+
+"CREEP_YETI_DESC_1"="크고 위험한 생물; 그 길을 막으려는 사람은 거의 없다."
+
+"CREEP_YETI_SHORT_DESC"="경로의 모든 것을 파괴할 수 있는 강인한 생물"
+
+"CREEP_SNOW_GOLEM_NAME"="스노우 골렘"
+
+"CREEP_SNOW_GOLEM_DESC_1"="원거리 공격 능력을 가지고 있으며 부서지면 분리되는 산의 골렘"
+
+"CREEP_SNOW_GOLEM_SHORT_DESC"="거리에서 공격하고, 죽을 때 두 개의 작은 골렘으로 분열됩니다."
+
+"CREEP_SMALL_SNOW_GOLEM_NAME"="작은 스노우 골렘"
+
+"CREEP_SMALL_SNOW_GOLEM_DESC_1"="작은 눈 골렘, 보통 더 큰 골렘의 파편으로 만들어집니다."
+
+"CREEP_SMALL_SNOW_GOLEM_SHORT_DESC"="작고 약한 소형 골렘, 원거리 공격 가능"
+
+"CREEP_ICE_MEPHIT_NAME"="아이스 메피트"
+
+"CREEP_ICE_MEPHIT_DESC_1"="산의 주민들을 괴롭히는 산악 생물. 죽으면 폭발하여 주변을 얼린다."
+
+"CREEP_ICE_MEPHIT_SHORT_DESC"="죽으면 폭발을 일으켜 주변 유닛에 피해를 주고 얼립니다."
+
+"CREEP_WINTER_FAERIE_NAME"="겨울 요정"
+
+"CREEP_WINTER_FAERIE_DESC_1"="산의 정령으로, 길을 막는 모든 것을 꿰뚫는다. 갑옷조차 그 공격을 막을 수 없다."
+
+"CREEP_WINTER_FAERIE_SHORT_DESC"="여러 개의 얼음 파편을 발사하여 일부 방어력을 무시합니다"
+
+"BOSS_JT_NAME"="J.T."
+
+"BOSS_JT_DESC_1"="산의 왕; 그 길을 가로지르는 모든 것은 얼어붙거나 삼켜진다."
+
+"BOSS_JT_SHORT_DESC"="적을 먹고 타워를 얼리는 거대한 야수"
+
+"BOSS_ULGUK_HAI_NAME"="울구크 하이"
+
+"BOSS_ULGUK_HAI_DESC_1"="강력한 마운틴 트롤로, 방패를 사용하여 모든 물리적 피해를 막습니다."
+
+"BOSS_ULGUK_HAI_SHORT_DESC"="강력한 리더로, 방패를 들고 전진하며 물리적 피해를 막고, 전투 중에만 방패를 내립니다."
+
+"CREEP_BANDIT_NAME"="도적"
+
+"CREEP_BANDIT_DESC_1"="작고 민첩하며, 그들은 갱단에서 가장 낮은 계급일지 모르지만, 그들의 공격은 강력합니다."
+
+"CREEP_BANDIT_SHORT_DESC"="약하지만 민첩한 도적, 일부 공격을 피하고 강력한 타격을 가할 수 있습니다."
+
+"CREEP_BANDIT_ARCHER_NAME"="도적 궁수"
+
+"CREEP_BANDIT_ARCHER_DESC_1"="비범한 시력을 가진 궁수로, 다른 궁수보다 더 먼 거리를 쏠 수 있습니다."
+
+"CREEP_BANDIT_ARCHER_SHORT_DESC"="그는 예리한 시력을 사용하여 다른 궁수들보다 더 멀리 쏠 수 있습니다."
+
+"CREEP_BRIGAND_NAME"="무장강도"
+
+"CREEP_BRIGAND_DESC_1"="고철 갑옷을 입은 산적, 너무 많은 피해를 입으면 갑옷이 부서져 산적이 무장 해제됩니다."
+
+"CREEP_BRIGAND_SHORT_DESC"="더 강한 도적, 패배하면 갑옷이 부서져 일반 도적으로 변한다."
+
+"CREEP_TRICKSTER_NAME"="요술사"
+
+"CREEP_TRICKSTER_DESC_1"="잠재적인 싸움이나 추격자를 피하기 위해 속임수를 사용하는 교활한 도적."
+
+"CREEP_TRICKSTER_SHORT_DESC"="차단되면 몇 초 동안 투명해져 탐지를 피할 수 있습니다."
+
+"CREEP_FOREST_SEER_NAME"="숲의 예언자"
+
+"CREEP_FOREST_SEER_DESC_1"="마법을 이해하는 도적, 적을 속이기 위해 환영을 만들어낼 수 있습니다."
+
+"CREEP_FOREST_SEER_SHORT_DESC"="마법에 능한 도적, 차단 시 자신을 복제"
+
+"CREEP_FOREST_SEER_CLONE_NAME"="숲의 예언자 환영"
+
+"CREEP_FOREST_SEER_CLONE_SHORT_DESC"="숲의 예언자가 만든 임시 클론"
+
+"CREEP_MARAUDER_NAME"="약탈범"
+
+"CREEP_MARAUDER_DESC_1"="어떤 공격도 견딜 수 있도록 무겁게 무장한 야만인으로, 보통 다른 도적을 보호하는 방패로 사용됩니다."
+
+"CREEP_MARAUDER_SHORT_DESC"="다수의 공격을 견딜 수 있는 장갑 거수"
+
+"CREEP_RAIDER_NAME"="철퇴잡이"
+
+"CREEP_RAIDER_DESC_1"="치명적인 원거리 전사, 모든 종류의 방어구를 무시하는 스파이크 볼 장착."
+
+"CREEP_RAIDER_SHORT_DESC"="치명적인 원거리 전사로, 진정한 피해를 입힙니다"
+
+"CREEP_PILLAGER_NAME"="강탈범"
+
+"CREEP_PILLAGER_DESC_1"="마법을 저항하고 범위 피해를 입힐 수 있는 마법 장비를 갖춘 매우 강력한 도적입니다."
+
+"CREEP_PILLAGER_SHORT_DESC"="믿을 수 없을 정도로 강한 도적이 범위 피해를 입힙니다。"
+
+"CREEP_WORG_NAME"="워그"
+
+"CREEP_WORG_DESC_1"="더욱 강인한 울프의 친척인 이 워그들은 적군 병사들을 상대하도록 훈련되었습니다."
+
+"CREEP_WORG_SHORT_DESC"="갱단이 훈련한 워그는 일부 근접 공격을 회피합니다"
+
+"CREEP_WILD_EAGLE_NAME"="와일드 이글"
+
+"CREEP_WILD_EAGLE_DESC_1"="갱의 숙련된 비스트마스터가 길들인 야생 독수리"
+
+"CREEP_WILD_EAGLE_SHORT_DESC"="이 독수리는 때때로 아래의 유닛을 공격한 후 이동합니다."
+
+"BOSS_KINGPIN_NAME"="보스"
+
+"BOSS_KINGPIN_DESC_1"="멈출 수 없는 갱단 리더로, 훔친 금을 사용하여 멤버를 고용하고 지원합니다."
+
+"BOSS_KINGPIN_SHORT_DESC"="모든 것을 부수는 도적 두목으로, 아군을 치유하고 캠프에서 지원군을 소환할 수 있다."
+
+"BOSS_EINAR_NAME"="에이나르 비스트키퍼"
+
+"BOSS_EINAR_DESC_1"="야수 조련사는 워그와 독수리를 사용하여 목표를 탐지하고 공격합니다"
+
+"BOSS_EINAR_SHORT_DESC"="독수리와 늑대 무리를 소환할 수 있는 야수 주인"
+
+"CREEP_DARK_ROOKIE_NAME"="다크 루키"
+
+"CREEP_DARK_ROOKIE_SHORT_DESC"="소형 장갑 적으로, 어둠의 군주의 소모용 말입니다."
+
+"CREEP_DARK_ROOKIE_DESC_1"="HP가 감소하면 방어력을 잃고 속도가 증가합니다"
+
+"CREEP_DARK_KNIGHT_NAME"="다크 나이트"
+
+"CREEP_DARK_KNIGHT_SHORT_DESC"="저항과 장갑을 갖춘 적. 그들은 다크 아미의 주력입니다"
+
+"CREEP_DARK_KNIGHT_DESC_1"="HP가 감소하면 방패를 잃고 방어력이 감소하며 속도가 증가합니다."
+
+"CREEP_DARK_SLAYER_NAME"="암흑 학살자"
+
+"CREEP_DARK_SLAYER_SHORT_DESC"="치명적인 장갑 적입니다. 전투에서 하나가 쓰러지면 다른 기사들이 그 유산을 이어갑니다."
+
+"CREEP_DARK_SLAYER_DESC_1"="그들이 죽은 후, 그들의 검을 남기고 다크 나이트가 그것을 가져가 슬레이어가 될 수 있습니다."
+
+"CREEP_DARK_CAVALRY_NAME"="다크 기병"
+
+"CREEP_DARK_CAVALRY_DESC_1"="고속으로 적에게 돌진하여 몇 초 동안 기절시킵니다."
+
+"CREEP_DARK_CAVALRY_DESC_2"="죽은 후 다크 나이트를 남깁니다"
+
+"CREEP_DARK_CAVALRY_SHORT_DESC"="적에게 돌진하여 진로를 막으려는 모든 장애물을 파괴하는 어둠의 기사입니다."
+
+"CREEP_SHADOW_ARCHER_NAME"="섀도우 아처"
+
+"CREEP_SHADOW_ARCHER_DESC_1"="약하지만 빠른 원거리 공격자"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="엘드리치 마구스"
+
+"CREEP_ELDRITCH_MAGUS_DESC_1"="넓은 범위의 마법 공격을 가진 강력한 마법사"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="그들은 몇 번 공격하고 방어구를 무시하는 주문을 시전합니다"
+
+"CREEP_ROCKET_RIDER_NAME"="로켓 라이더"
+
+"CREEP_ROCKET_RIDER_DESC_1"="장갑 비행 적"
+
+"CREEP_ROCKET_RIDER_DESC_2"="파괴되면 제트팩을 잃고 땅에 떨어집니다"
+
+"CREEP_DARK_CROW_NAME"="다크 크로우"
+
+"CREEP_DARK_CROW_DESC_1"="마법 저항력을 가진 훈련된 비행 까마귀"
+
+"CREEP_DARK_CROW_SHORT_DESC"="몇 초마다 아래 유닛을 공격한 후, 경로를 계속 진행합니다."
+
+"CREEP_MAGMA_SHARD_NAME"="마그마 조각"
+
+"CREEP_MAGMA_SHARD_DESC_1"="용암으로 이루어진 성가신 장갑 적으로, 바위 상태에서 몇 초 후 부활할 수 있습니다."
+
+"CREEP_MAGMA_SHARD_SHORT_DESC"="죽으면 바위 조각상으로 변합니다. 그 상태에서 죽지 않으면 체력이 가득 찬 상태로 다시 부활할 수 있습니다"
+
+"CREEP_GOLEM_HEAD_NAME"="골렘 머리"
+
+"CREEP_GOLEM_HEAD_DESC_1"="작고 약한 장갑 적"
+
+"BOSS_JUGGERNAUT_NAME"="저거너트"
+
+"BOSS_JUGGERNAUT_DESC_1"="몇 칸 앞에 골렘 머리 무리를 소환할 수 있습니다"
+
+"BOSS_JUGGERNAUT_DESC_2"="장거리 미사일을 발사하여 높은 대미지를 입힙니다"
+
+"BOSS_WAR_ZEPPELIN_NAME"="비행 요새"
+
+"BOSS_WAR_ZEPPELIN_DESC_1"="타워에 타르 배럴을 던져 몇 초 동안 기절시킵니다."
+
+"BOSS_WAR_ZEPPELIN_SHORT_DESC"="요새는 자체 비행 경로를 따라 비행합니다"
+
+"CREEP_FLYING_SHEEP_NAME"="날으는 양"
+
+"CREEP_FLYING_SHEEP_SHORT_DESC"="적이 날아다니는 양으로 변했다"
+
+"CREEP_SHEEP_NAME"="양"
+
+"CREEP_SHEEP_SHORT_DESC"="적이 양으로 변했다"
+
+"CREEP_SKELETON_SMALL_NAME"="해골"
+
+"CREEP_SKELETON_SMALL_SHORT_DESC"="살아있는 존재를 공격하는 되살아난 해골"
+
+"CREEP_SKELETON_BIG_NAME"="해골 기사"
+
+"CREEP_SKELETON_BIG_SHORT_DESC"="방패와 헬멧을 장착한 재생된 해골"
+
+"CREEP_DEATH_RIDER_NAME"="데스 라이더"
+
+"CREEP_DEATH_RIDER_SHORT_DESC"="강력한 해골 기사, 죽음의 말을 타고 있다. 주변의 다른 해골을 강화한다."
+
+"CREEP_VERDANT_DEFENDER_NAME"="울프 엔트"
+
+"CREEP_VERDANT_DEFENDER_SHORT_DESC"="늑대 형태의 나무 같은 생물입니다. 때때로 근접 공격을 피할 수 있습니다."
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="모든 주문의 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="포탑의 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_MELEE_DAMAGE"="모든 타워의 근접 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_RANGE_DAMAGE"="모든 타워의 범위 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_DAMAGE"="모든 타워의 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_SKILL_DAMAGE"="모든 타워의 스킬 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_ALL_INCREASE_ATTACK_SPEED"="모든 타워의 공격 속도 증가"
+
+"PERK_DESCRIPTION_TOWER_ALL_DECREASE_COOLDOWN"="모든 타워의 스킬 쿨다운 감소"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="마법 타워의 근접 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="마법 타워의 범위 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_DAMAGE"="마법 타워의 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="마법 타워의 스킬 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="마법 타워의 공격 속도 증가"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_DECREASE_COOLDOWN"="마법 타워의 스킬 쿨다운 감소"
+
+"PERK_DESCRIPTION_TOWER_MAGIC_INCREASE_RANGE"="마법 타워 범위 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="포탑의 근접 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="포탑의 사거리 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_DAMAGE"="포병 타워의 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="포탑 스킬 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="포탑 공격 속도 증가"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_DECREASE_COOLDOWN"="포탑 스킬 쿨다운 감소"
+
+"PERK_DESCRIPTION_TOWER_ARTILLERY_INCREASE_RANGE"="포탑 사거리 증가"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="병영의 근접 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="병영의 범위 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_DAMAGE"="병영의 데미지 증가"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="병영 스킬 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="병영의 공격 속도 증가"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_DECREASE_COOLDOWN"="병영의 스킬 쿨다운 감소"
+
+"PERK_DESCRIPTION_TOWER_BARRACK_INCREASE_RANGE"="병영 범위 증가"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="궁수 타워의 스킬 피해 증가"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="궁수 타워의 공격 속도 증가"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_HP"="아군의 HP 증가"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_ARMOR"="아군의 방어력 증가"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_DAMAGE"="아군의 데미지 증가"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_MELEE_DAMAGE"="아군의 근접 피해 증가"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_RANGED_DAMAGE"="아군 원거리 피해 증가"
+
+"PERK_DESCRIPTION_INCREASE_UNITS_SPEED"="아군의 속도 증가"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_DAMAGE"="모든 주문의 데미지 증가"
+
+"PERK_DESCRIPTION_DECREASE_SPELL_COOLDOWN"="모든 주문의 쿨다운 감소"
+
+"PERK_DESCRIPTION_INCREASE_SPELL_RANGE"="모든 주문의 범위 증가"
+
+"PERK_DESCRIPTION_INCREASE_HERO_DAMAGE"="영웅의 데미지 증가"
+
+"PERK_DESCRIPTION_INCREASE_HERO_MELEE_DAMAGE"="영웅의 근접 피해 증가"
+
+"PERK_DESCRIPTION_INCREASE_HERO_RANGE_DAMAGE"="영웅의 범위 데미지 증가"
+
+"PERK_DESCRIPTION_INCREASE_HERO_HP"="영웅의 HP 증가"
+
+"PERK_DESCRIPTION_INCREASE_HERO_SPEED"="영웅의 속도 증가"
+
+"PERK_DESCRIPTION_DECREASE_HERO_RESPAWN_TIME"="영웅의 부활 시간 감소"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_HP"="적의 HP 감소"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_SPEED"="적의 속도 감소"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_ARMOR"="적의 물리 방어력 감소"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_MAGIC_RESISTANCE"="적의 마법 방어력 감소"
+
+"PERK_DESCRIPTION_DECREASE_CREEP_DAMAGE"="적의 데미지 감소"
+
+"PERK_DESCRIPTION_DECREASE_SUMMON_SPELL_COOLDOWN"="소환 주문의 쿨다운 감소"
+
+"PERK_DESCRIPTION_TOWER_ARCHER_INCREASE_RANGE"="원거리 타워의 사거리 증가"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="마나의 분노"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="캐논 포스"
+
+"PERK_NAME_TOWER_ALL_INCREASE_MELEE_DAMAGE"="스파이어 어설트"
+
+"PERK_NAME_TOWER_ALL_INCREASE_RANGE_DAMAGE"="스파이어 사이트"
+
+"PERK_NAME_TOWER_ALL_INCREASE_DAMAGE"="스파이어 포스"
+
+"PERK_NAME_TOWER_ALL_INCREASE_SKILL_DAMAGE"="스파이어 버스트"
+
+"PERK_NAME_TOWER_ALL_INCREASE_ATTACK_SPEED"="스파이어 템포"
+
+"PERK_NAME_TOWER_ALL_DECREASE_COOLDOWN"="스파이어 펄스"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_MELEE_DAMAGE"="마법 공격"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE_DAMAGE"="마법 정밀도"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_DAMAGE"="매직 포스"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_SKILL_DAMAGE"="매직 버스트"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_ATTACK_SPEED"="매직 템포"
+
+"PERK_NAME_TOWER_MAGIC_DECREASE_COOLDOWN"="매직 펄스"
+
+"PERK_NAME_TOWER_MAGIC_INCREASE_RANGE"="마법 시야"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_MELEE_DAMAGE"="캐논 어썰트"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE_DAMAGE"="캐논 정밀도"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_DAMAGE"="캐논 포스"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_SKILL_DAMAGE"="캐논 버스트"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_ATTACK_SPEED"="캐논 템포"
+
+"PERK_NAME_TOWER_ARTILLERY_DECREASE_COOLDOWN"="캐논 펄스"
+
+"PERK_NAME_TOWER_ARTILLERY_INCREASE_RANGE"="캐논 조준"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_MELEE_DAMAGE"="주둔지 습격"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE_DAMAGE"="주둔지 정밀도"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_DAMAGE"="주둔 부대"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_SKILL_DAMAGE"="주둔지 폭발"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_ATTACK_SPEED"="주둔지 템포"
+
+"PERK_NAME_TOWER_BARRACK_DECREASE_COOLDOWN"="주둔지 펄스"
+
+"PERK_NAME_TOWER_BARRACK_INCREASE_RANGE"="주둔지 시야"
+
+"PERK_NAME_INCREASE_UNITS_HP"="보병 내구력"
+
+"PERK_NAME_INCREASE_UNITS_ARMOR"="보병의 강인함"
+
+"PERK_NAME_INCREASE_UNITS_DAMAGE"="보병의 힘"
+
+"PERK_NAME_INCREASE_UNITS_MELEE_DAMAGE"="보병 돌격"
+
+"PERK_NAME_INCREASE_UNITS_RANGED_DAMAGE"="보병 정밀"
+
+"PERK_NAME_INCREASE_UNITS_SPEED"="보병 신속"
+
+"PERK_NAME_INCREASE_SPELL_DAMAGE"="마나의 분노"
+
+"PERK_NAME_DECREASE_SPELL_COOLDOWN"="마나 집중"
+
+"PERK_NAME_INCREASE_SPELL_RANGE"="마나 확산"
+
+"PERK_NAME_INCREASE_HERO_DAMAGE"="영웅의 힘"
+
+"PERK_NAME_INCREASE_HERO_MELEE_DAMAGE"="영웅 돌격"
+
+"PERK_NAME_INCREASE_HERO_RANGE_DAMAGE"="영웅의 정밀함"
+
+"PERK_NAME_INCREASE_HERO_HP"="영웅의 인내"
+
+"PERK_NAME_INCREASE_HERO_SPEED"="영웅의 신속"
+
+"PERK_NAME_DECREASE_HERO_RESPAWN_TIME"="영웅의 부활"
+
+"PERK_NAME_DECREASE_CREEP_HP"="침입자 취약성"
+
+"PERK_NAME_DECREASE_CREEP_SPEED"="침입자 피로"
+
+"PERK_NAME_DECREASE_CREEP_ARMOR"="침입자 부패"
+
+"PERK_NAME_DECREASE_CREEP_MAGIC_RESISTANCE"="침입자 소멸"
+
+"PERK_NAME_DECREASE_CREEP_DAMAGE"="침입자 약점"
+
+"PERK_NAME_DECREASE_SUMMON_SPELL_COOLDOWN"="소환 집중"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_RANGE"="명사수의 조준경"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_SKILL_DAMAGE"="명사수 폭발"
+
+"PERK_NAME_TOWER_ARCHER_INCREASE_ATTACK_SPEED"="명사수 템포"
+
+"MODIFIER_TITLE_EAGLE_EYES"="이글 아이즈"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL1"="타워 범위 <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL2"="타워 범위 <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL3"="타워 범위 <color=#70FDFD>+30%"
+
+"MODIFIER_DESC_EAGLE_EYES_LVL4"="타워 범위 <color=#70FDFD>+55%"
+
+"MODIFIER_TITLE_HERO_FRENZY"="히어로 프렌지"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL1"="영웅 피해 <color=#72FFFF>+10%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL2"="영웅 피해 <color=#72FFFF>+35%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL3"="영웅 피해 <color=#72FFFF>+70%"
+
+"MODIFIER_DESC_HERO_FRENZY_LVL4"="영웅 피해 <color=#72FFFF>+140%"
+
+"MODIFIER_TITLE_MERCHANT_OF_DEATH"="죽음의 상인"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL1"="골드 획득 <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL2"="획득한 골드 <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL3"="골드 획득 <color=#70FDFD>+20%"
+
+"MODIFIER_DESC_MERCHANT_OF_DEATH_LVL4"="골드 획득 <color=#70FDFD>+80%"
+
+"MODIFIER_TITLE_MIGHTY_TOWER"="강력한 타워"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL1"="타워 피해 <color=#70FDFD>+5%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL2"="타워 피해 <color=#70FDFD>+10%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL3"="타워 데미지 <color=#70FDFD>+15%"
+
+"MODIFIER_DESC_MIGHTY_TOWER_LVL4"="타워 피해 <color=#70FDFD>+30%"
+
+"MODIFIER_TITLE_SPELL_MASTER"="스펠 마스터"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL1"="주문 쿨타임 <color=#70FDFD>-5%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL2"="주문 쿨다운 <color=#70FDFD>-10%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL3"="주문 쿨타임 <color=#70FDFD>-15%"
+
+"MODIFIER_DESC_SPELL_MASTER_LVL4"="주문 쿨다운 <color=#70FDFD>-25%"
+
+"MODIFIER_EAGLE_EYES_DESC_1"="모든 타워의 공격 범위를 증가시킵니다"
+
+"MODIFIER_HERO_FRENZY_DESC_1"="영웅의 데미지를 증가"
+
+"MODIFIER_MERCHANT_OF_DEATH_DESC_1"="적을 처치하여 획득하는 골드 증가"
+
+"MODIFIER_MIGHTY_TOWER_DESC_1"="모든 타워의 피해량 증가"
+
+"MODIFIER_SPELL_MASTER_DESC_1"="모든 주문의 쿨다운 감소"
+
+"MODIFIER_TITLE_BROODMOTHER"="브루드마더의 부름"
+
+"CREEP_BROODMOTHER_NAME"="브루드마더"
+
+"CREEP_BROODMOTHER_SHORT_DESC"="거대한 알을 낳아 더 큰 새끼를 부화시키는 거미"
+
+"MODIFIER_DESC_BROODMOTHER_LVL1"="<color=#FFFFFF>상대의 웨이브에<color=#F36D4D> 브루드마더<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_BROODMOTHER_LVL2"="브루드마더의 힘 <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL3"="브루드마더의 힘 <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_BROODMOTHER_LVL4"="브루드마더의 힘 <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_FARM_TOWER"="농장 타워"
+
+"MODIFIER_DESC_FARM_TOWER_LVL1"="25초마다 1개의 타워 변형"
+
+"MODIFIER_DESC_FARM_TOWER_LVL2"="23초마다 1개의 타워 변형"
+
+"MODIFIER_DESC_FARM_TOWER_LVL3"="타워 1개를 <color=#F36D4D>19<color=#FFFFFF>초마다 변형"
+
+"MODIFIER_DESC_FARM_TOWER_LVL4"="<color=#F36D4D>2<color=#FFFFFF>개의 타워를 <color=#F36D4D>18<color=#FFFFFF>초마다 변형"
+
+"MODIFIER_TITLE_DRAGON"="드래곤의 부름"
+
+"CREEP_FLYING_DRAGON_NAME"="드래곤"
+
+"CREEP_FLYING_DRAGON_SHORT_DESC"="마법 저항력을 가진 큰 비행 드래곤으로, 근처의 적을 원거리에서 공격합니다."
+
+"MODIFIER_DESC_DRAGON_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>드래곤<color=#FFFFFF>을 소환합니다"
+
+"MODIFIER_DESC_DRAGON_LVL2"="드래곤 파워 <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGON_LVL3"="드래곤 파워 <color=#F36D4D>+145%"
+
+"MODIFIER_DESC_DRAGON_LVL4"="드래곤 파워 <color=#F36D4D>+225%"
+
+"MODIFIER_TITLE_GHOST_CHANCE"="유령 소환"
+
+"CREEP_GHOST_SMALL_NAME"="유령"
+
+"CREEP_GHOST_SMALL_SHORT_DESC"="작은 적의 영혼, 약하지만 수가 많다"
+
+"CREEP_GHOST_FLYING_NAME"="비행 유령"
+
+"CREEP_GHOST_FLYING_SHORT_DESC"="드물게 보이는 이 영혼들은 떠다니며 위에서 아군을 지켜보고 돕습니다."
+
+"CREEP_GHOST_BIG_NAME"="빅 고스트"
+
+"CREEP_GHOST_BIG_SHORT_DESC"="강하고 끈질긴 영혼, 마지막 임무를 완수하려는 결단력."
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL1"="죽은 크립은 <color=#F36D4D>30% 확률로 유령으로 나타납니다"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL2"="40% 확률"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL3"="50% 확률"
+
+"MODIFIER_DESC_GHOST_CHANCE_LVL4"="60% 확률"
+
+"MODIFIER_TITLE_GOBLIN_BALLOON"="고블린 풍선"
+
+"CREEP_GOBLIN_BALLOON_NAME"="고블린 풍선"
+
+"CREEP_GOBLIN_BALLOON_SHORT_DESC"="작은 고블린이 조종하는 튼튼한 풍선으로, 아래의 적에게 폭탄을 떨어뜨립니다."
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>고블린 풍선 <color=#FFFFFF>소환"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL2"="고블린 풍선 파워 <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL3"="고블린 풍선 파워 <color=#F36D4D>+160%"
+
+"MODIFIER_DESC_GOBLIN_BALLOON_LVL4"="고블린 풍선 파워 <color=#F36D4D>+220%"
+
+"MODIFIER_TITLE_ARMORED_FLYING_GOLEMS"="장갑 비행 골렘"
+
+"CREEP_ARMOR_FLYING_GOLEM_NAME"="비행 장갑 골렘"
+
+"CREEP_ARMOR_FLYING_GOLEM_SHORT_DESC"="물리 피해에 저항하는 비행 적"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>장갑 비행 골렘<color=#FFFFFF> 소환"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL2"="장갑 비행 골렘의 힘 <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL3"="장갑 비행 골렘의 힘 <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_ARMORED_FLYING_GOLEMS_LVL4"="장갑 비행 골렘의 힘 <color=#F36D4D>+150%"
+
+"CREEP_MAGIC_FLYING_GOLEM_NAME"="매직 플라잉 골렘"
+
+"CREEP_MAGIC_FLYING_GOLEM_SHORT_DESC"="마법 피해에 저항하는 비행 적"
+
+"MODIFIER_TITLE_MAGIC_FLYING_GOLEMS"="마법 비행 골렘"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>마법 비행 골렘<color=#FFFFFF> 소환"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL2"="마법 비행 골렘의 힘 <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL3"="마법 비행 골렘의 힘 <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGIC_FLYING_GOLEMS_LVL4"="마법 비행 골렘의 힘 <color=#F36D4D>+150%"
+
+"CREEP_ARMOR_GOLEM_NAME"="빅 아머 골렘"
+
+"CREEP_ARMOR_GOLEM_SHORT_DESC"="강력한 돌 골렘으로 물리 피해에 저항력이 있습니다"
+
+"CREEP_SMALL_ARMOR_GOLEM_NAME"="작은 장갑 골렘"
+
+"CREEP_SMALL_ARMOR_GOLEM_SHORT_DESC"="약한 돌 골렘이지만 물리 피해에 저항력이 있습니다"
+
+"MODIFIER_TITLE_ARMORED_GOLEMS"="갑옷 골렘"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>장갑 골렘<color=#FFFFFF> 소환"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL2"="갑옷 골렘의 파워 <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL3"="아머드 골렘 파워 <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_ARMORED_GOLEMS_LVL4"="갑옷 골렘의 파워 <color=#F36D4D>+215%"
+
+"CREEP_MAGIC_GOLEM_NAME"="빅 매직 골렘"
+
+"CREEP_MAGIC_GOLEM_SHORT_DESC"="강력한 마법 골렘으로 마법 피해에 저항력이 있습니다"
+
+"CREEP_SMALL_MAGIC_GOLEM_NAME"="작은 마법 골렘"
+
+"CREEP_SMALL_MAGIC_GOLEM_SHORT_DESC"="약한 돌 골렘이지만 마법 피해에 저항력이 있음"
+
+"MODIFIER_TITLE_MAGIC_GOLEMS"="매직 골렘"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>마법 골렘<color=#FFFFFF> 소환"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL2"="마법 골렘의 힘 <color=#F36D4D>+45%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL3"="마법 골렘의 파워 <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_MAGIC_GOLEMS_LVL4"="매직 골렘 파워 <color=#F36D4D>+200%"
+
+"MODIFIER_TITLE_GREAT_ORC_SHAMAN"="위대한 오크 주술사"
+
+"CREEP_GREAT_ORC_SHAMAN_NAME"="위대한 오크 주술사"
+
+"CREEP_GREAT_ORC_SHAMAN_SHORT_DESC"="강력한 주문을 사용하는 샤먼 두 명을 소환하여 길을 막는 적을 기절시키고 파괴합니다."
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>위대한 오크 주술사 <color=#FFFFFF>소환"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL2"="위대한 오크 주술사의 힘 <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL3"="위대한 오크 주술사의 힘<color=#F36D4D>+110%"
+
+"MODIFIER_DESC_GREAT_ORC_SHAMAN_LVL4"="위대한 오크 주술사의 힘 <color=#F36D4D>+250%"
+
+"MODIFIER_TITLE_WARMADILLO"="웜마딜로"
+
+"CREEP_WAR_HOUND_NAME"="웜아르마딜로"
+
+"CREEP_WAR_HOUND_SHORT_DESC"="멈추지 않으면 매우 빠르게 구르는 작은 생물의 그룹"
+
+"MODIFIER_DESC_WARMADILLO_LVL1"="<color=#FFFFFF>웜마딜로 무리를<color=#F36D4D> 상대의 웨이브에 소환합니다<color=#FFFFFF>"
+
+"MODIFIER_DESC_WARMADILLO_LVL2"="웜마딜로의 힘 <color=#F36D4D>+100%"
+
+"MODIFIER_DESC_WARMADILLO_LVL3"="웜마딜로의 힘 <color=#F36D4D>+165%"
+
+"MODIFIER_DESC_WARMADILLO_LVL4"="웜마딜로의 힘 <color=#F36D4D>+460%"
+
+"MODIFIER_BROODMOTHER_DESC_1"="거대한 거미가 알을 낳아 더 큰 유충을 부화시킵니다"
+
+"MODIFIER_DRAGON_DESC_1"="마법 저항력을 가진 큰 비행 드래곤으로, 근처의 적을 원거리에서 공격합니다."
+
+"MODIFIER_FARM_DESCRIPTION"="일시적으로 상대의 타워를 쓸모없는 농장으로 바꿉니다"
+
+"MODIFIER_ARMORED_FLYING_GOLEMS_DESC_1"="갑옷을 입은 비행 적이 무리를 지어 온다"
+
+"MODIFIER_MAGIC_FLYING_GOLEMS_DESC_1"="마법 저항이 있는 비행 골렘 무리"
+
+"MODIFIER_GHOST_CHANCE_DESC_1"="죽은 크립이 상대편에서 유령으로 나타날 수 있습니다"
+
+"MODIFIER_GOBLIN_BALLOON_DESC_1"="하늘을 나는 적이 아래 유닛에 폭탄을 떨어뜨립니다"
+
+"MODIFIER_ARMORED_GOLEMS_DESC_1"="작고 큰 골렘 그룹이 물리 방어구를 가지고 있습니다."
+
+"MODIFIER_ARMORED_GOLEMS_DESC_2"="작은 장갑 골렘 그룹과 함께 생성"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_1"="작고 큰 골렘의 무리, 마법 저항"
+
+"MODIFIER_MAGIC_GOLEMS_DESC_2"="작은 마법 저항 골렘 그룹과 함께 생성"
+
+"MODIFIER_GREAT_ORC_SHAMAN_DESC_1"="강력한 주술사가 번개를 발사하여 대상 지역 주변의 유닛을 기절시키고 피해를 줍니다"
+
+"MODIFIER_WARMADILLO_DESC_1"="물리 방어구를 가진 적으로, 막히지 않으면 매우 빠르게 구른다"
+
+"MODIFIER_TITLE_THUNDERBIRD"="썬더버드"
+
+"CREEP_THUNDERBIRD_NAME"="썬더버드"
+
+"CREEP_THUNDERBIRD_SHORT_DESC"="날개에서 전기를 퍼뜨려 적 무리를 감전시키는 큰 비행 생물입니다."
+
+"MODIFIER_DESC_THUNDERBIRD_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>썬더버드<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL2"="썬더버드 파워 <color=#F36D4D>+70%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL3"="썬더버드 파워 <color=#F36D4D>+200%"
+
+"MODIFIER_DESC_THUNDERBIRD_LVL4"="썬더버드 파워 <color=#F36D4D>+340%"
+
+"MODIFIER_TITLE_TROLLZEKER"="트롤버서커"
+
+"CREEP_TROLLZERKER_NAME"="트롤버서커"
+
+"CREEP_TROLLZERKER_SHORT_DESC"="체력이 낮아지면 분노하여 공격력과 속도가 증가하는 트롤 거한. 시간이 지나면 HP가 회복됩니다."
+
+"MODIFIER_DESC_TROLLZEKER_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>트롤버서커<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_TROLLZEKER_LVL2"="트롤버서커 파워 <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL3"="트롤버서커 파워 <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_TROLLZEKER_LVL4"="트롤버서커 파워 <color=#F36D4D>+205%"
+
+"MODIFIER_TITLE_DRAGUBONS"="드래그본즈"
+
+"CREEP_DRAGUBON_NAME"="드래구본"
+
+"CREEP_DRAGUBON_SHORT_DESC"="위험을 느끼면 몇 초 동안 날기 시작하는 작은 크기의 드래곤입니다."
+
+"MODIFIER_DESC_DRAGUBONS_LVL1"="<color=#FFFFFF>상대의 웨이브에<color=#F36D4D> 드라구본 무리를<color=#FFFFFF>소환합니다"
+
+"MODIFIER_DESC_DRAGUBONS_LVL2"="드래그본의 힘 <color=#F36D4D>+55%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL3"="드래그본의 힘 <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_DRAGUBONS_LVL4"="드래그본의 힘 <color=#F36D4D>+270%"
+
+"MODIFIER_TITLE_BLIZZARD"="블리자드"
+
+"MODIFIER_DESC_BLIZZARD_LVL1"="매<color=#F18081>17<color=#FFFFFF>초마다 <color=#F18081>1개의 <color=#FFFFFF>타워를 얼립니다"
+
+"MODIFIER_DESC_BLIZZARD_LVL2"="15초마다 1개의 타워를 얼립니다"
+
+"MODIFIER_DESC_BLIZZARD_LVL3"="2개의 타워를 13초마다 얼리기"
+
+"MODIFIER_DESC_BLIZZARD_LVL4"="10초마다 2개의 타워 얼리기"
+
+"MODIFIER_TITLE_FROSTBITE"="동상"
+
+"MODIFIER_DESC_FROSTBITE_LVL1"="18초마다 2 유닛 동결"
+
+"MODIFIER_DESC_FROSTBITE_LVL2"="3명의 유닛을 16초마다 얼리기"
+
+"MODIFIER_DESC_FROSTBITE_LVL3"="4 유닛을 14초마다 얼리기"
+
+"MODIFIER_DESC_FROSTBITE_LVL4"="5개의 유닛을 11초마다 얼리기"
+
+"MODIFIER_TITLE_FROST_HARBINGER"="서리의 전조"
+
+"CREEP_FROST_HARBINGER_NAME"="서리의 전령"
+
+"CREEP_FROST_HARBINGER_SHORT_DESC"="주문을 외우는 트롤이 아군을 앞으로 순간이동시킵니다. 시간이 지나면 HP가 회복됩니다."
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>프로스트 하빈저<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL2"="서리의 전조자 힘 <color=#F36D4D>+30%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL3"="서리의 전조자 힘 <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_FROST_HARBINGER_LVL4"="서리의 전조자 힘 <color=#F36D4D>+150%"
+
+"MODIFIER_BLIZZARD_DESC_1"="적의 타워를 일시적으로 얼려 공격할 수 없게 만듭니다"
+
+"MODIFIER_DRAGUBONS_DESC_1"="작은 드래곤 무리가 그들을 막으려는 적 위로 날아간다."
+
+"MODIFIER_DRAGUBONS_DESC_2"="#REF!"
+
+"MODIFIER_FROSTBITE_DESC_1"="적 유닛을 일시적으로 얼려 이동과 공격을 느리게 합니다"
+
+"MODIFIER_FROST_HARBINGER_1"="강력한 아르카니스트 트롤로, 텔레포트를 사용하여 적 그룹을 앞으로 이동시킵니다."
+
+"MODIFIER_THUNDERBIRD_DESC_1"="어떤 유닛이든 그 아래에 서 있는 유닛에게 번개를 내리는 막을 수 없는 비행체"
+
+"MODIFIER_TROLLZEKER_DESC_1"="트롤 종족의 사나운 전사. 체력이 낮아지면 분노하여 힘과 속도가 증가합니다."
+
+"CREEP_BUSH_NAME"="매복자"
+
+"CREEP_BUSH_SHORT_DESC"="이 도적들은 유닛에 의해 막힐 때만 위장이 풀립니다"
+
+"MODIFIER_TITLE_BUSH"="매복자"
+
+"MODIFIER_BUSH_DESC_1"="침투 전문가인 그들은 모든 방어를 감지되지 않고 통과할 수 있습니다."
+
+"MODIFIER_DESC_BUSH_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>매복자<color=#FFFFFF> 생성"
+
+"MODIFIER_DESC_BUSH_LVL2"="매복자 파워 <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BUSH_LVL3"="매복자 파워 <color=#F36D4D>+75%"
+
+"MODIFIER_DESC_BUSH_LVL4"="매복자 파워 <color=#F36D4D>+145%"
+
+"CREEP_BANDIT_LEADER_NAME"="산적 두목"
+
+"CREEP_BANDIT_LEADER_SHORT_DESC"="주변의 도적들에게 갑옷을 입혀 브리건드로 변신시킵니다"
+
+"MODIFIER_TITLE_BANDITLEADER"="산적 두목"
+
+"MODIFIER_BANDITLEADER_DESC_1"="전투를 위해 도적을 조직하고 장비하는 격렬한 지도자"
+
+"MODIFIER_DESC_BANDITLEADER_LVL1"="<color=#FFFFFF>상대의 웨이브에<color=#F36D4D> 도적 리더<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_BANDITLEADER_LVL2"="도적단 두목의 힘 <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL3"="도적단 리더 파워 <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITLEADER_LVL4"="산적 두목의 힘 <color=#F36D4D>+130%"
+
+"CREEP_BANDIT_SHIELDS_NAME"="도적 방패"
+
+"CREEP_BANDIT_SHIELDS_SHORT_DESC"="몇 초마다 도적을 방출하는 방어 형성입니다."
+
+"MODIFIER_TITLE_BANDITSHIELDS"="도적 방패"
+
+"MODIFIER_BANDITSHIELDS_DESC_1"="주기적으로 전사를 방출하는 도적의 방어 형성입니다."
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>밴딧 실드<color=#FFFFFF> 생성"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL2"="도적 방패 HP <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL3"="도적 방패 HP <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_BANDITSHIELDS_LVL4"="도적 방패 HP <color=#F36D4D>+165%"
+
+"CREEP_BANDIT_GLIDER_NAME"="도적 글라이더"
+
+"CREEP_BANDIT_GLIDER_SHORT_DESC"="하늘을 나는 도적이 내려와 죽으면 폭발합니다"
+
+"MODIFIER_TITLE_BANDITGLIDERS"="도적 글라이더"
+
+"MODIFIER_BANDITGLIDERS_DESC_1"="글라이더를 사용하여 방어선을 넘어 비행하는 도적들; 심각한 피해를 입으면 적에게 추락합니다."
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>밴딧 글라이더<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL2"="도적 글라이더 파워 <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL3"="도적 글라이더 파워 <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_BANDITGLIDERS_LVL4"="도적 글라이더의 파워 <color=#F36D4D>+120%"
+
+"CREEP_SMASHER_NAME"="스매셔"
+
+"CREEP_SMASHER_SHORT_DESC"="탑에 바위를 던져 기절시키는 도적 거한"
+
+"MODIFIER_TITLE_SMASHER"="스매셔"
+
+"MODIFIER_SMASHER_DESC_1"="유닛과 타워에 바위를 던져 전진하며, 몇 초간 비활성화시키는 고급 브루트."
+
+"MODIFIER_DESC_SMASHER_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>스매셔<color=#FFFFFF>를 소환합니다"
+
+"MODIFIER_DESC_SMASHER_LVL2"="스매셔 파워 <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SMASHER_LVL3"="스매셔 파워 <color=#F36D4D>+115%"
+
+"MODIFIER_DESC_SMASHER_LVL4"="스매셔 파워 <color=#F36D4D>+165%"
+
+"MODIFIER_TITLE_SMOKE_BOMB"="연막탄"
+
+"MODIFIER_SMOKE_BOMB_DESC_1"="아군을 겨냥할 수 없게 하는 연막"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>연막탄<color=#FFFFFF>을 생성합니다"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL2"="연막탄 위력 <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL3"="연막탄 위력 <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SMOKE_BOMB_LVL4"="연막탄 위력 <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_MAGMA_ELEMENTAL"="마그마 정령"
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_NAME"="마그마 정령"
+
+"CREEP_MAGMA_ELEMENTAL_NAME"="마그마 정령"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL1"="<color=#FFFFFF>상대 웨이브에 <color=#F36D4D>마그마 정령<color=#FFFFFF> 1마리 소환"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL2"="마그마 정령 소환, 추가 위력 <color=#F36D4D>+50%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL3"="<color=#FFFFFF>마그마 정령 <color=#F36D4D>2<color=#FFFFFF>마리 소환, 추가 위력 <color=#F36D4D>+110%"
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL_LVL4"="마그마 정령 2마리 소환, 추가 위력 <color=#F36D4D>+150%"
+
+"MODIFIER_TITLE_SCREECHER_BAT"="비명박쥐"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL1"="<color=#FFFFFF>스폰 <color=#F36D4D>스크리처 박쥐 <color=#FFFFFF>상대의 웨이브에"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL2"="비명박쥐 위력 <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL3"="비명박쥐 위력 <color=#F36D4D>+130%"
+
+"MODIFIER_DESC_SCREECHER_BAT_LVL4"="비명박쥐 위력 <color=#F36D4D>+180%"
+
+"MODIFIER_TITLE_SHADOW_BLACKSMITH"="섀도우 대장장이"
+
+"CREEP_SHADOW_BLACKSMITH_NAME"="섀도우 대장장이"
+
+"MODIFIER_TITLE_SHADOW_CROWCALLER"="그림자 까마귀소환사"
+
+"CREEP_SHADOW_CROWCALLER_NAME"="그림자 까마귀소환사"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL1"="<color=#FFFFFF>상대의 웨이브에 <color=#F36D4D>그림자 까마귀 소환사<color=#FFFFFF> 소환"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL2"="그림자 까마귀소환사 위력 <color=#F36D4D>+65%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL3"="그림자 까마귀소환사 위력 <color=#F36D4D>+95%"
+
+"MODIFIER_DESC_SHADOW_CROWCALLER_LVL4"="그림자 까마귀소환사 위력 <color=#F36D4D>+120%"
+
+"MODIFIER_TITLE_FLAMING_FATE"="불타는 운명"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL1"="상대 유닛에게 <color=#F36D4D>3개의 <color=#FFFFFF>메테오리트를 소환하여 <color=#F36D4D>17<color=#FFFFFF>초마다 피해를 입힙니다"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL2"="15초마다 <color=#F36D4D>10%<color=#FFFFFF> 추가 파워를 가진 메테오라이트 3개 소환"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL3"="15초마다 <color=#F36D4D>4개의<color=#FFFFFF> 메테오라이트를 <color=#F36D4D>25%<color=#FFFFFF> 추가 파워로 소환합니다"
+
+"MODIFIER_DESC_FLAMING_FATE_LVL4"="10초마다 <color=#F36D4D>40%<color=#FFFFFF> 추가 파워로 <color=#F36D4D>5<color=#FFFFFF>개의 메테오리트 소환"
+
+"MODIFIER_TITLE_MOLTEN_STONE"="용암석"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL1"="<color=#F18081>17<color=#FFFFFF>초마다 <color=#F18081>2<color=#FFFFFF>개의 타워를 기절시킴"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL2"="15초마다 2개의 타워를 기절시킵니다"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL3"="<color=#F18081>13<color=#FFFFFF>초마다 <color=#F18081>3<color=#FFFFFF>개의 타워를 기절시킴"
+
+"MODIFIER_DESC_MOLTEN_STONE_LVL4"="<color=#F18081>9<color=#FFFFFF>초마다 <color=#F18081>4<color=#FFFFFF>개의 타워를 기절시킴"
+
+"MISSIONS_LOGINS_DONE"="로그인"
+
+"MISSIONS_PLAY_GAMES"="매치를 플레이하세요"
+
+"MISSIONS_DEFEAT_CREEPS"="적을 물리치기"
+
+"MISSIONS_TOWER_BUILD"="타워 건설"
+
+"MISSIONS_TOWER_SKILL_BUY"="타워 스킬 구매"
+
+"MISSIONS_TOWER_UPGRADE"="게임 내에서 타워 업그레이드"
+
+"MISSIONS_SPELL_DAMAGE"="주문을 사용하여 피해를 입히세요"
+
+"MISSIONS_SPELL_SUMMON_UNITS"="소환형 주문으로 아군 소환"
+
+"MISSIONS_SPELL_USE"="주문 사용"
+
+"MISSIONS_HERO_DAMAGE"="영웅으로 피해를 입히세요"
+
+"MISSIONS_CARD_USE"="카드 사용"
+
+"MISSIONS_PURCHASE_DAILY_DEAL"="일일 특가 구매"
+
+"MISSIONS_SPEND_GEMS"="젬 사용"
+
+"MISSIONS_UNLOCK_CHEST_WITH_GEMS"="보석으로 상자 열기"
+
+"MISSIONS_CHEST_OPEN"="상자 열기"
+
+"MISSIONS_STARS_EARN"="별 획득"
+
+"TITLE_MISSIONS"="미션"
+
+"TITLE_DAILY_MISSIONS"="데일리 미션"
+
+"TAUNT_THANKS"="감사합니다!"
+
+"TAUNT_GOOD_LUCK"="행운을 빕니다!"
+
+"TAUNT_OOPS"="이런"
+
+"TAUNT_WELL_PLAYED"="잘했어!"
+
+"UNMUTE_TO_SEND_EMOTES"="이모티콘을 보내고 받으려면 기능을 활성화하세요"
+
+"EVENT_COINFARM_BIG_CREEP"="빅 크리프"
+
+"EVENT_COINFARM_BIG_CREEP_SHORT_DESC"="적 경로에 큰 크리프 생성"
+
+"EVENT_COINFARM_ALL_OUT"="총공격"
+
+"EVENT_COINFARM_ALL_OUT_SHORT_DESC"="적의 경로에 데미지를 주는 배럴을 떨어뜨리세요"
+
+"EVENT_COINFARM_ENCHANTMENT"="마법 부여"
+
+"EVENT_COINFARM_ENCHANTMENT_SHORT_DESC"="적 경로에 있는 일부 크립에게 방어력 버프를 부여합니다"
+
+"EVENT_COINFARM_FARM_ANIMALS"="농장 동물"
+
+"EVENT_COINFARM_FARM_ANIMALS_SHORT_DESC"="적 경로에 농장 동물 크립 생성"
+
+"EVENT_COINFARM_SPEED"="속도 크립"
+
+"EVENT_COINFARM_SPEED_SHORT_DESC"="적 경로에 있는 일부 크립에게 속도 버프를 부여"
+
+"EVENT_SUMMON_RIFT_PRESS_TO_CONTINUE"="계속하려면 누르세요"
+
+"EVENT_SUMMON_RIFT_REWARDS_SCREEN"="보상 화면"
+
+"SUMMON_SCROLLS"="스크롤"
+
+"SUMMON_SCROLLS_1"="소환 스크롤"
+
+"SUMMON_SCROLLS_2"="소환 스크롤"
+
+"SUMMON_SCROLLS_3_SPECIAL"="소환 스크롤"
+
+"SUMMON_SCROLLS_GEMS"="소환 스크롤"
+
+"YOUR_SCROLLS"="스크롤"
+
+"EVENT_TICKET"="이벤트 티켓"
+
+"YOUR_TICKETS"="이벤트 티켓"
+
+"REMAINING_PURCHASE"="남은"
+
+"MEGA_GEMS_OFFER"="메가 젬 오퍼"
+
+"MEGA_COINS_OFFER"="메가 코인 오퍼"
+
+"ACCOUNT_BANNED_TITLE"="계정 정지"
+
+"ACCOUNT_BANNED_DESC"="귀하의 계정이 서비스 약관 위반으로 정지되었습니다"
+
+"GAME_MSG_HURRY_UP"="<color=#FFFFFF>서둘러!!!"
+
+"ACCOUNT_CONFLICT_TITLE"="저장된 게임이 감지되었습니다"
+
+"ACCOUNT_CONFLICT_DESC"="두 개의 다른 저장 게임이 감지되었습니다"
+
+"ACCOUNT_CONFLICT_CLOUD_SAVE_TITLE"="클라우드 저장"
+
+"ACCOUNT_CONFLICT_LOCAL_SAVE_TITLE"="로컬 저장"
+
+"GAME_MSG_WAVE_CLEAR"="<color=#87FF62>웨이브 클리어!"
+
+"GAME_MSG_WAVE_LOST"="<color=#FF7B7B>웨이브 실패!"
+
+"GAME_MSG_WAVE_WON"="웨이브 승리"
+
+"TITLE_LEADERBOARD_REWARDS"="글로벌 보상"
+
+"STADIUM_RULE_1"="경기장에서 경쟁하여 메달을 획득하세요"
+
+"STADIUM_RULE_2"="랭킹을 올리세요"
+
+"STADIUM_RULE_3"="독점 보상을 받으세요!"
+
+"ONSLAUGHT_RULE_1"="상대보다 더 빨리 모든 적을 물리치세요..."
+
+"ONSLAUGHT_RULE_2"="너무 오래 걸리면 생명 1개를 잃습니다"
+
+"ONSLAUGHT_RULE_3"="승리하여 독특한 보상을 받으세요!"
+
+"SUMMON_RIFT_RULE_1"="다른 이벤트에서 소환 스크롤 수집"
+
+"SUMMON_RIFT_RULE_2"="이를 사용하여 한정 카드를 얻어보세요…"
+
+"SUMMON_RIFT_RULE_3"="몇 번의 소환을 완료하여 보장된 한정 카드를 획득하세요!"
+
+"HERO_BERESAD_DESCRIPTION"="고대의 어둠이 베즈난과 거래하여 왕국의 모든 금을 얻고 지상 왕국에 파멸과 파괴를 가져왔습니다. 드워프 왕국의 가장 강력한 방어도 그의 탐욕을 막을 수 없었습니다."
+
+"HERO_BERESAD_SHORT_DESC"="- 골렘을 소환합니다.<br>- 적을 겁주어 후퇴시킵니다.<br>- 주변 적에게 피해를 주는 즉사 공격."
+
+"HERO_BERESAD_NAME"="베레사드"
+
+"HERO_BERESAD_SKILL_0_DESCRIPTION"="무시무시한 포효로 베레사드는 적에게 공포를 주어 그들을 공황 상태로 후퇴하게 만듭니다."
+
+"HERO_BERESAD_SKILL_0_NAME"="드래곤을 두려워하라"
+
+"HERO_BERESAD_SKILL_1_DESCRIPTION"="길에 바위를 내뱉고 마법을 부여하여 몇 초 동안 적과 싸우는 골렘을 만듭니다."
+
+"HERO_BERESAD_SKILL_1_NAME"="드래곤 스폰"
+
+"HERO_BERESAD_SKILL_2_DESCRIPTION"="숨결을 집중하여 대상을 소멸시키고 강력한 폭발을 일으키는 치명적인 화염 광선을 발사합니다."
+
+"HERO_BERESAD_SKILL_2_NAME"="전멸"
+
+"HERO_BERESAD_SKILL_3_DESCRIPTION"="베레사드는 적의 일부를 마법으로 조종하여 처치 시 추가 골드를 획득할 수 있습니다."
+
+"HERO_BERESAD_SKILL_3_NAME"="사망세"
+
+"HERO_BERESAD_MINION_DESCRIPTION"="바위, 고철, 베레사드의 마법을 결합한 이 창조물은 탐욕과 순수한 힘의 상징입니다."
+
+"HERO_BERESAD_MINION_SHORT_DESC"="일반적인 재료로 만들어졌으며 강력한 마법으로 강화되어 창조자의 의지를 나타냅니다."
+
+"HERO_BERESAD_MINION_NAME"="다크 골렘"
+
+"EVENTS_ONSLAUGHT_DESCRIPTION_LONG"="모든 적을 먼저 물리친 플레이어는 상대의 생명 1을 빼앗습니다. (최대 카드 레벨 5)"
+
+"EVENTS_ONSLAUGHT_REWARD"="다음 보상"
+
+"TOWER_BLAZING_GEM_DESCRIPTION"="베즈난의 신도들이 힘을 실어준 어둠의 탑은 당당히 솟아올라 허락 없이 지나가려는 모든 이에게 공포를 안긴다. 적에게 광선을 집중시켜 시간이 지남에 따라 약화시키고, 임계 상태에 도달하면 폭발을 일으킨다."
+
+"TOWER_BLAZING_GEM_SHORT_DESC"="하나씩 적을 부식시켜 모두 사라질 때까지 천천히 공격하는 어두운 탑."
+
+"TOWER_BLAZING_GEM_NAME"="타오르는 보석"
+
+"TOWER_BLAZING_GEM_SKILL_0_DESCRIPTION"="처치된 적마다 초자연적인 폭발을 일으켜 다른 적에게 피해를 줍니다.\n(스킬 항상 활성)"
+
+"TOWER_BLAZING_GEM_SKILL_0_NAME"="불안정한 힘"
+
+"TOWER_BLAZING_GEM_SKILL_1_DESCRIPTION"="불타는 보석이 동시에 두 개의 목표를 공격할 수 있게 하며, 피해를 나누지만 전체적인 피해량을 증가시킵니다.\n(타워 최대 업그레이드시 구매)"
+
+"TOWER_BLAZING_GEM_SKILL_1_SHORT_DESC"="두 개의 대상을 동시에 공격할 수 있습니다"
+
+"TOWER_BLAZING_GEM_SKILL_1_NAME"="곱셈의 보석"
+
+"TOWER_BLAZING_GEM_SKILL_2_DESCRIPTION"="주인의 시종이 부르면 모습을 드러내는 강력한 요술사입니다. HP가 모두 소모되면 움직이지 않는 두 번째 형태로 들어가 사라지기 전에 주변 아군에게 마법 저항을 부여합니다.\n(타워 최대 업그레이드시 구매)"
+
+"TOWER_BLAZING_GEM_SKILL_2_SHORT_DESC"="상대방 측에 엘드리치 마구스를 소환합니다"
+
+"TOWER_BLAZING_GEM_SKILL_2_NAME"="엘드리치 콜"
+
+"TOWER_BLAZING_GEM_SKILL_3_SHORT_DESC"="신도의 마법을 사용하여 적 유닛을 파괴합니다"
+
+"TOWER_BLAZING_GEM_SKILL_3_DESCRIPTION"="몇 초마다 타워가 상대편 유닛에 피해를 주고 즉시 처치할 수 있습니다.\n(스킬 항상 활성)"
+
+"TOWER_BLAZING_GEM_SKILL_3_NAME"="파괴 광선"
+
+"CREEP_ELDRITCH_MAGUS_NAME"="엘드리치 마구스"
+
+"CREEP_ELDRITCH_MAGUS_SHORT_DESC"="베즈난의 제자들은 그들의 타락한 힘을 사용하여 적을 파괴합니다"
+
+"GAME_MSG_WAVE_DRAW"="무승부"
+
+"TITLE_LANGUAGE"="언어"
+
+"BUTTON_DISCORD"="Discord"
+
+"MAIN_BUTTON_SUMMON_RIFT"="소환 균열"
+
+"CONFIRM_LANGUAGE_WINDOW_DESC"="언어 설정을 변경하시겠습니까?"
+
+"CONFIRM_LANGUAGE_WINDOW_TITLE"="언어"
+
+"BUTTON_YES"="예"
+
+"BUTTON_NO"="아니요"
+
+"FREE_TAG"="무료"
+
+"TOOLTIP_CLAIM"="받기!"
+
+"ERROR_LOADING_SHOP"="상점 로딩 오류"
+
+"SHOP_OFFER_EXPIRES_IN"="제안 만료:"
+
+"SHOP_ARENA_PACK_TITLE"="아레나 팩"
+
+"SHOP_DAILY_DEALS_TITLE"="데일리 딜"
+
+"SHOP_CHESTS_TITLE"="상자"
+
+"SHOP_SPECIAL_OFFERS_TITLE"="특별 제안"
+
+"EVENTS_LOCKED_EVENT_TITLE"="잠긴 이벤트"
+
+"COMING_SOON"="곧 출시"
+
+"TROPHY_ROAD_CARDS_TO_UNLOCK"="잠금 해제할 카드："
+
+"BUTTON_CLAIM"="받기"
+
+"BUTTON_REWARDS"="보상"
+
+"MISSIONS_WEEKLY"="주간"
+
+"MISSIONS_DAILY"="일일"
+
+"MISSIONS_RESETS_IN"="초기화까지:"
+
+"STADIUM_REWARD_POP_UP_NAME"="축하합니다 {0} !"
+
+"STADIUM_REWARD_POP_UP_DESCRIPTION"="당신은 리더보드에서 {0}위였습니다. 보상을 받으세요!"
+
+"TOWER_TESLA_PACK_NAME"="캐주얼 팩"
+
+"TAP_TO_CONTINUE"="탭하여 계속"
+
+"TIPS_SCREEN_TITLE"="팁"
+
+"REWARDS_TITLE"="보상"
+
+"NEW_ARENA_UNLOCKED"="새 아레나<br>해금됨!"
+
+"SELECT_CARD_TO_REPLACE"="교체할 카드를 선택하세요"
+
+"TIMER_DAY"="일"
+
+"TIMER_HOUR"="시간"
+
+"TIMER_MINUTE"="분"
+
+"TIMER_SECOND"="초"
+
+"COLISSEUM_WAITING_TO_DELIVER"="스타디움 종료. 보상 전달 중..."
+
+"TIMER_SEPARATOR"=" "
+
+"CARD_RARITY"="{0} 카드"
+
+"CARD_STAT_RESPAWN_TIME"="리스폰 시간"
+
+"PRIVATE_MATCH_TITLE"="우정 경기"
+
+"PRIVATE_MATCH_ENTER_CODE"="코드 입력"
+
+"PRIVATE_MATCH_ENTER_CODE_TO_JOIN"="코드 입력"
+
+"PRIVATE_MATCH_CREATE_MATCH"="매치 생성"
+
+"PRIVATE_MATCH_WAITIING_FOR_FRIEND"="대기 중인 상대..."
+
+"PRIVATE_MATCH_CONNECTING"="연결 중..."
+
+"PRIVATE_MATCH_CREATING_ROOM"="방 생성 중..."
+
+"PRIVATE_MATCH_JOIN_ROOM"="가입"
+
+"PRIVATE_MATCH_ERROR_EMPTY_CODE"="방 코드를 입력하세요"
+
+"PRIVATE_MATCH_ERROR_TIMEOUT"="연결 시간 초과. 다시 시도하세요."
+
+"PRIVATE_MATCH_ERROR_START_FAILED"="매치 시작 실패"
+
+"PRIVATE_MATCH_ERROR_JOIN_FAILED"="참여 실패"
+
+"PRIVATE_MATCH_ERROR_DISCONNECTED"="방에서 연결이 끊어졌습니다"
+
+"ERROR"="에러"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_NAME"="다크 루키"
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_NAME"="다크 나이트"
+
+"PRIVATE_PVP_RULE_1"="매치를 생성하여 고유 코드를 생성합니다…"
+
+"PRIVATE_PVP_RULE_2"="친구에게 코드를 공유하세요! 그들은 그것을 입력하여 참여할 수 있습니다."
+
+"PRIVATE_PVP_RULE_3"="랜덤 맵에서 개인 매치를 즐기세요!"
+
+"PRIVATE_PVP_RULE_4"="최대 카드 레벨 {0} - 최대 부스터 레벨 {1}"
+
+"CHASER_PACK_TITLE"="{0} 강화팩"
+
+"CREEP_DARK_SLAYER_SWORD_NAME"="어둠의 검"
+
+"CREEP_DARK_SLAYER_SWORD_SHORT_DESC"="다음 기사가 이 검을 들면 슬레이어의 유산이 변할 것입니다."
+
+"PRIVATE_MATCH_INVITATION_CODE"="초대 코드"
+
+"SHOP_EMOTES_OFFERS_TITLE"="이모트"
+
+"NEW_EMOTE"="새로운 이모티콘!"
+
+"SHOP_ACQUIRED"="획득"
+
+"TERRAIN_STADIUM_BRONZE_NAME"="브론즈 리그"
+
+"TERRAIN_STADIUM_SILVER_NAME"="실버 리그"
+
+"TERRAIN_STADIUM_GOLD_NAME"="골드 리그"
+
+"TERRAIN_STADIUM_DIAMOND_NAME"="다이아몬드 리그"
+
+"TERRAIN_STADIUM_CHAMPIONS_NAME"="챔피언스 리그"
+
+"COLLECTION_EMOTES"="이모티콘"
+
+"TERRAIN_STADIUM_REWARD"="보상:"
+
+"TOWER_ROCKET_GUNNERS_DESCRIPTION"="엘리트 다크 군대의 병사들은 하늘과 땅에서 훈련을 받아 무자비한 정밀도로 전장을 순찰합니다. 단 한 번의 명령으로, 그들은 튼튼한 전선 수호자에서 무자비한 화력으로 적을 공격하는 소리있는 사냥꾼으로 변신합니다."
+
+"TOWER_ROCKET_GUNNERS_SHORT_DESC"="육지와 하늘을 지배하며 치명적인 정밀도로 적을 사냥하는 다재다능한 병사들"
+
+"TOWER_ROCKET_GUNNERS_NAME"="로켓 사수들"
+
+"ROCKET_GUNNERS_UNIT_NAME"="로켓 사수"
+
+"ROCKET_GUNNERS_UNIT_SHORT_DESC"="제트 보조 공격과 지상 전투를 전환하도록 훈련받은 병사"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_DESCRIPTION"="건너들은 제트팩을 활성화하여 경로 위를 날거나 비활성화하여 지상에서 싸울 수 있습니다.\n(스킬 항상 사용 가능)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_0_NAME"="공중 기동"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_DESCRIPTION"="모든 사격에 부식 코팅을 적용하여 적의 방어력을 감소시키고 충격 시 범위 피해를 입힙니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_SHORT_DESC"="각 샷은 방어력을 감소시키고 범위 피해를 입힙니다."
+
+"TOWER_ROCKET_GUNNERS_SKILL_1_NAME"="인산 코팅"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_DESCRIPTION"="유도 미사일을 발사하여 목표물을 즉시 제거합니다.\n(최대 타워 업그레이드에서 스킬 구매)"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_SHORT_DESC"="미사일을 발사하여 대상을 즉사시킵니다"
+
+"TOWER_ROCKET_GUNNERS_SKILL_2_NAME"="스팅 미사일"
+
+"EMOTE_AEGION_PONDERING"="고민 중"
+
+"EMOTE_ALLERIA_ANGRY"="화난 알레리아"
+
+"EMOTE_ALLERIA_SHINE"="행복한 알레리아"
+
+"EMOTE_ASHBITE_HEART"="사랑스러운 애쉬바이트"
+
+"EMOTE_BERESAD_MONEY"="받아들여"
+
+"EMOTE_CHICKEN_SCREAM"="화난 닭"
+
+"EMOTE_DENAS_ANGRY"="열받은 데나스"
+
+"EMOTE_DENAS_CRY"="더 울어봐"
+
+"EMOTE_DENAS_GOLD"="쨍그랑"
+
+"EMOTE_DENAS_LAUGH"="행복한 데나스"
+
+"EMOTE_DIERDRE_ANGRY"="현실을 봐"
+
+"EMOTE_EISKALT_SURPRISE"="불만"
+
+"EMOTE_ELORA_TIME_CLOCK"="한숨..."
+
+"EMOTE_GERALD_BEACH"="느긋한 기분"
+
+"EMOTE_GERALD_DESPAIR"="절망..."
+
+"EMOTE_GERALD_SHINE"="반짝이는 미소"
+
+"EMOTE_GOBLIN_ANGRY"="좌절"
+
+"EMOTE_GOBLIN_FIRE"="괜찮아"
+
+"EMOTE_GOBLIN_GIFT"="깜짝!"
+
+"EMOTE_GOBLIN_GOOFY"="장난치기"
+
+"EMOTE_GOBLIN_KISS"="너에게 키스"
+
+"EMOTE_GOBLIN_OOPS"="이런"
+
+"EMOTE_GOBLIN_SLEEPING"="좋은 꿈 꿔"
+
+"EMOTE_GOBLIN_SNOW"="눈 고블린"
+
+"EMOTE_GOBLIN_TAUNT"="도발 고블린"
+
+"EMOTE_GRAWL_BICEP"="으스대는 그롤"
+
+"EMOTE_GRAWL_CHRISTMAS"="축제 기분"
+
+"EMOTE_HACKSAW_LAUGH"="미친놈"
+
+"EMOTE_INGVAR_TRANSFORM"="곰 된다!"
+
+"EMOTE_MAGNUS_FIST_BUMP"="주먹 인사"
+
+"EMOTE_SKELETON_SHOCKED"="뭐라고!?"
+
+"EMOTE_SKELETON_SWEAT"="땀 흘리는 해골"
+
+"EMOTE_SOLDIER_CELEBRATION"="축하"
+
+"EMOTE_VESPER_OK"="완벽"
+
+"CREEP_PIG_NAME"="돼지"
+
+"CREEP_GOAT_NAME"="염소"
+
+"CREEP_GOOSE_NAME"="거위"
+
+"TERRAIN_FORSAKEN_VALLEY_1_NAME"="버려진 계곡"
+
+"TERRAIN_FORSAKEN_VALLEY_2_NAME"="잊힌 계곡"
+
+"TERRAIN_FORSAKEN_VALLEY_3_NAME"="저주받은 계곡"
+
+"SEASON_OFFER_LEGENDARY_HOLIDAY_PACK"="전설 윈터 팩"
+
+"SEASON_OFFER_EPIC_HOLIDAY_PACK"="에픽 윈터 팩"
+
+"SHOP_SEASON_OFFERS_TITLE"="시즌 특별"
+
+"CREEP_DARK_ROOKIE_NO_ARMOR_SHORT_DESC"="상처 입은 다크 군단 신병으로, 부서진 갑옷으로 겨우 보호받고 있다."
+
+"CREEP_DARK_KNIGHT_NO_ARMOR_SHORT_DESC"="갑옷 일부가 파괴되었더라도, 이 기사는 여전히 무서운 위협입니다."
+
+"CREEP_GOOSE_SHORT_DESC"="농장을 혼란에 빠뜨리는 강력한 거위"
+
+"CREEP_DONKEY_RIDER_NAME"="당나귀 기수"
+
+"CREEP_DONKEY_RIDER_SHORT_DESC"="농부"
+
+"CREEP_PIG_SHORT_DESC"="탈출하는 반항적인 돼지"
+
+"CREEP_GOAT_SHORT_DESC"="최고"
+
+"MODIFIER_TITLE_DARK_PRIEST"="다크 사제"
+
+"MODIFIER_DARK_PRIEST_DESC_1"="마법 저항력을 가진 적, 유닛을 다크 루키 또는 다크 나이트로 변신시킵니다"
+
+"CREEP_DARK_PRIEST_NAME"="다크 사제"
+
+"CREEP_DARK_PRIEST_SHORT_DESC"="악의적인 사제로, 어둠 군단에 가입하도록 타락시키는 어둠 군주의 말씀을 전파합니다."
+
+"MODIFIER_DESC_DARK_PRIEST_LVL1"="<color=#FFFFFF>상대 웨이브에 <color=#F36D4D> 어둠의 사제 <color=#FFFFFF>2명 소환"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL2"="어둠의 사제 위력 <color=#F36D4D>+35%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL3"="어둠의 사제 위력 <color=#F36D4D>+85%"
+
+"MODIFIER_DESC_DARK_PRIEST_LVL4"="어둠의 사제 위력 <color=#F36D4D>+165%"
+
+"CHEST_INFO_NAME_LEAGUE_BRONZE"="브론즈 리그 상자"
+
+"CHEST_INFO_NAME_LEAGUE_SILVER"="실버 리그 상자"
+
+"CHEST_INFO_NAME_LEAGUE_GOLD"="골드 리그 상자"
+
+"CHEST_INFO_NAME_LEAGUE_DIAMOND"="다이아몬드 리그 상자"
+
+"CHEST_INFO_NAME_LEAGUE_CHAMPIONS"="챔피언스 리그 상자"
+
+"CARDS_TAB"="카드"
+
+"HERO_RAELYN_DESCRIPTION"="다크 군대의 위엄 있는 잔인한 지휘관 레일린은 전선에 서 있어 그녀의 길을 가로막는 모든 것을 제거할 준비가 되어 있습니다. 전투에 대한 불굴의 헌신은 그녀의 적들에게 공포를 일으키고 기사들 사이에서도 치열한 헌신을 일으킵니다."
+
+"HERO_RAELYN_SHORT_DESC"="- 방패로 자신을 보호합니다.<br>- 공포로 적을 기절시키고 약화시킵니다.<br>- 분노하여 더 빠른 광역 피해를 입힙니다."
+
+"HERO_RAELYN_NAME"="래린"
+
+"HERO_RAELYN_SKILL_0_DESCRIPTION"="그녀의 무적의 용기는 잠시 동안 모든 피해를 무효화하는 방패를 부여합니다."
+
+"HERO_RAELYN_SKILL_0_NAME"="불멸"
+
+"HERO_RAELYN_SKILL_1_DESCRIPTION"="그녀의 격렬한 전투 외침은 적들을 패닉 상태로 만들어 기절시키고 피해를 줄입니다."
+
+"HERO_RAELYN_SKILL_1_NAME"="공포유발"
+
+"HERO_RAELYN_SKILL_2_DESCRIPTION"="파괴욕이 몇 초마다 그녀를 격노로 몰아넣어 공격 속도를 증가시키고, 그녀의 타격이 범위 피해를 입히도록 합니다."
+
+"HERO_RAELYN_SKILL_2_NAME"="공격"
+
+"STAGE_FORSAKEN_1"="진홍 포크"
+
+"STAGE_FORSAKEN_2"="잿빛 땅"
+
+"STAGE_FORSAKEN_3"="황무지"
+
+"STAGE_FORSAKEN_4"="어둠의 골목"
+
+"STAGE_FORSAKEN_5"="블랙스톤 트레일"
+
+"STAGE_FORSAKEN_6"="무너진 길"
+
+"COMMAND_ORDER_UNIT_NAME"="타락한 다크 슬레이어"
+
+"COMMAND_ORDER_UNIT_SHORT_DESC"="슬레이어의 영혼은 죽어도 싸움을 멈추지 않는다"
+
+"COIN_FARM_RULE_1"="특별 농장 파워가 여기서 당신의 주문을 대체합니다..."
+
+"COIN_FARM_RULE_2"="이겨서 동전을 모아보세요..."
+
+"COIN_FARM_RULE_3"="이벤트 종료 전에 은행을 완료하고 모은 모든 코인을 획득하세요!"
+
+"COIN_FARM_RULE_4"="최대 카드 레벨 {0} - 최대 부스터 레벨 {1}"
+
+"SPELL_COMMAND_ORDER_NAME"="타락한 질서"
+
+"SPELL_COMMAND_ORDER_DESCRIPTION"="금지된"
+
+"SPELL_COMMAND_ORDER_SHORT_DESC"="전사를 소환하여 전투에서 도움을 받으세요"
+
+"SPELL_ULTIMATE_SLAYER_NAME"="궁극의 일격"
+
+"SPELL_ULTIMATE_SLAYER_DESCRIPTION"="금기된 주문을 사용하여 지역 내에서 가장 강력한 적을 파괴합니다"
+
+"SPELL_ULTIMATE_SLAYER_SHORT_DESC"="가장 강한 적을 즉시 제거합니다."
+
+"MENU_OFFER_ICON_SALE"="세일"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE"="지금 코인 받기!"
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_DESCRIPTION"="지금 코인을 수령하시겠습니까? 현재 보유 중인 저축분만 받을 수 있습니다."
+
+"MODIFIER_DESC_MAGMA_ELEMENTAL"="맵 전방의 무작위 지점에 강력한 마그마 엘리멘탈이 소환됩니다. 처치된 후, 바위 형태로 변하여 자가 치유하고 부활합니다."
+
+"CREEP_MAGMA_ELEMENTAL_SHORT_DESC"="마그마 엘리멘탈은 파괴만을 남기고 나타나는 살아있는 자연 재해입니다."
+
+"CREEP_MAGMA_ELEMENTAL_ROCK_SHORT_DESC"="마그마 엘리멘탈이 파괴되어 재구축 단계에 들어가 자신을 치유합니다."
+
+"CREEP_SCREECHER_BAT_NAME"="스크리처 밧"
+
+"CREEP_SCREECHER_BAT_SHORT_DESC"="거대한 박쥐가 날아다니며 경로에 서 있는 모든 이를 기절시킵니다."
+
+"MODIFIER_SCREECHER_BAT_DESC_1"="거대한 박쥐. 주변 적을 기절시키는 초음파를 사용합니다."
+
+"CREEP_SHADOW_BLACKSMITH_SHORT_DESC"="다크 군대의 노동자들은 다크 로드의 군대를 준비하고 수리하는 사람들입니다."
+
+"MODIFIER_SHADOW_BLACKSMITH_DESC_1"="수리병"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL1"="상대의 웨이브에 그림자 대장장이 소환"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL2"="그림자 대장장이 위력 <color=#F36D4D>+40%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL3"="그림자 대장장이 위력 <color=#F36D4D>+80%"
+
+"MODIFIER_DESC_SHADOW_BLACKSMITH_LVL4"="그림자 대장장이 위력 <color=#F36D4D>+130%"
+
+"MODIFIER_SHADOW_CROWCALLER_DESC_1"="어둠의 까마귀를 수 초마다 소환하는 그림자 까마귀 소환사"
+
+"CREEP_SHADOW_CROWCALLER_SHORT_DESC"="까마귀 조련사는 왕국 전역에 까마귀를 퍼뜨려 거대한 정보 네트워크를 만듭니다."
+
+"MODIFIER_DESC_FLAMING_FATE"="적 주변에 불타는 돌을 날리는 격렬한 분출을 일으키는 것입니다."
+
+"MODIFIER_DESC_MOLTEN_STONE"="전장 전체에 지진을 일으켜 적의 타워를 바위 속에 묻어 몇 초 동안 무력화합니다."
+
+"CREEP_SHADOW_ARCHER_SHORT_DESC"="반응할 시간도 없이 적을 공격하는 치명적인 궁수"
+
+"CREEP_ROCKET_RIDER_SHORT_DESC"="공격을 받으면 로켓 부스트를 발동하는 비행하는 갑옷 적"
+
+"CREEP_MAGMA_SHARD_ROCK_SHORT_DESC"="마그마 조각이 파괴되어 재구성 단계에 들어가 자신을 치유합니다."
+
+"CREEP_GOLEM_HEAD_SHORT_DESC"="골렘"
+
+"BOSS_JUGGERNAUT_SHORT_DESC"="베즈난의 길에 서 있는 모든 성을 파괴하는 거대한 공성 기계입니다."
+
+"NEW_LEAGUE_UNLOCKED"="리그 해금!"
+
+"MAINTENANCE_MODE_DESCRIPTION_DATE"="서버 점검 중. 종료 예정 시간: {0}"
+
+"HERO_ASRA_DESCRIPTION"="무자비한 훈련을 통해 단련된 아스라는 어둠의 군대에서 나온 가장 치명적인 암살자 중 한 명입니다. 그녀의 침묵하는 시선은 칼날만큼이나 치명적이며, 그것과 마주친 자들은 후회할 시간조차 없이 목숨을 잃습니다. 베즈난이 직접 선택한 그녀는 신속하고 정확하며 무자비하게 공격합니다."
+
+"HERO_ASRA_SHORT_DESC"="- 순간이동하며 방어막 생성.<br>- 방어구를 부수는 연속 화살 발사.<br>- 단검으로 적을 치명적으로 중독시킴."
+
+"HERO_ASRA_NAME"="아스라"
+
+"HERO_ASRA_SKILL_0_DESCRIPTION"="강력한 화살을 난사하여 피해를 주고 적 방어구의 일부를 파괴합니다."
+
+"HERO_ASRA_SKILL_0_NAME"="호마노 화살"
+
+"HERO_ASRA_SKILL_1_DESCRIPTION"="독이 묻은 칼날로 빠르고 치명적인 공격을 가해 적이 죽을 때까지 중독시킵니다."
+
+"HERO_ASRA_SKILL_1_NAME"="독거미 송곳니"
+
+"HERO_ASRA_SKILL_2_DESCRIPTION"="그림자의 춤을 사용하여 어디든 즉시 순간이동할 수 있으며, 적 부대 근처에 나타날 때 추가 보호막을 생성합니다."
+
+"HERO_ASRA_SKILL_2_NAME"="밤안개 점멸"
+
+"TOWER_TWILIGHT_LONGBOWS_DESCRIPTION"="잔혹함과 집착에 이끌리는 무자비한 궁수。그들의 화살로 쓰러진 적은 그들의 힘을 강화시키며, 그들의 공격을 강화시키고, 죽음을 그들의 최대 무기로 만든다。"
+
+"TOWER_TWILIGHT_LONGBOWS_SHORT_DESC"="적을 처치할 때마다 공격력이 증가하여 각 발사가 커지는 위협이 되는 무자비한 궁수 타워입니다。"
+
+"TOWER_TWILIGHT_LONGBOWS_NAME"="황혼 롱보우"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_DESCRIPTION"="타워는 출구에 가장 가까운 적을 타겟팅하는 것에서 최대 HP가 가장 높은 적을 타겟팅하는 것으로 데미지 초점을 변경할 수 있습니다.\n（스킬 항상 활성）"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_0_NAME"="적 중점"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_DESCRIPTION"="전투를 돕기 위해 두 명의 하라서를 소환합니다. 이 사나운 민첩한 전사들은 들어오는 공격을 피할 기회를 가지면서 치명적인 피해를 입힙니다.\n（타워 최대 업그레이드 시 스킬 구매）"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_SHORT_DESC"="타워에 접근하려는 모든 적을 파괴하기 위해 2명의 하라서를 소환합니다."
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_1_NAME"="지원 블레이드"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_DESCRIPTION"="대상 적 유닛을 혼란시키는 어둠 마법으로 감싼 화살을 발사하여 몇 초 동안 능력을 사용하지 못하게 합니다.\n（타워 최대 업그레이드 시 스킬 구매）"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_SHORT_DESC"="영웅을 먼저 공격하여 잠시 동안 능력 사용을 방지합니다。"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_2_NAME"="사일런트 헌트"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_SHORT_DESC"="이 타워가 처치할 때마다 공격 피해가 몇 초 동안 증가하며, 최대 3회까지 중첩됩니다。"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_DESCRIPTION"="이 타워의 화살에 의해 죽은 각 적의 영혼이 흡수되어 화살을 강화하고 피해를 증가시키며, 최대 3회까지 중첩됩니다.\n（스킬 항상 활성）"
+
+"TOWER_TWILIGHT_LONGBOWS_SKILL_3_NAME"="사냥의 쾌감"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_NAME"="폭행자"
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_DESC"="숙련된 트와일라잇 엘프 전사들은 근접 전투에 특화되어 있습니다. 그들은 엘리트 하라서로 승격하기 전의 최종 단계를 나타냅니다."
+
+"TOWER_TWILIGHT_LONGBOWS_MELEE_UNIT_SHORT_DESC"="근접 공격을 회피할 수 있는 황혼 엘프 전사들。"
+
+"INBOX_TAG_UPDATE"="업데이트"
+
+"INBOX_TAG_NEWS"="뉴스"
+
+"INBOX_TAG_GIFT"="선물"
+
+"INBOX_TITLE"="받은편지함"
+
+"INBOX_NO_MESSAGES"="사용 가능한 메시지가 없습니다"
+
+"INBOX_SHOW_ALL_MESSAGES"="모두 보기"
+
+"INBOX_READ"="읽기"
+
+"HERO_ALLERIA_WILDCAT_NAME"="알레리아 & 와일드팡"
+
+"HERO_ALLERIA_WILDCAT_DESCRIPTION"="훨씬 나이가 들고 현명해진 모습으로, 이 숲의 수호자는 자연의 모든 힘을 발휘할 준비가 되어 있습니다. 이제 다 자란 와일드팡을 타고, 멀리 있는 적들에게 화살을 쏘면서도 치명적인 베기 공격을 가할 수 있습니다."
+
+"HERO_ALLERIA_WILDCAT_SHORT_DESC"="- 죽으면 와일드팡에서 내립니다.<br>- 범위 내에서 감속시키고 피해를 주는 화살을 발사합니다.<br>- 포효하여 근처의 크립을 약화시킵니다."
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_NAME"="하마"
+
+"HERO_ALLERIA_WILDCAT_SKILL_0_DESCRIPTION"="심각한 위험에 처하면, 그녀는 와일드팡에서 내려 후퇴하며 야수가 다시 전투 준비가 될 때까지 계속 싸웁니다."
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_NAME"="가시 화살"
+
+"HERO_ALLERIA_WILDCAT_SKILL_1_DESCRIPTION"="자연의 힘이 담긴 강력한 화살을 발사하여 경로에 덩굴을 자라게 하고, 그 지역을 지나가는 적들을 느리게 하고 피해를 줍니다."
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_NAME"="와일드팡 포효"
+
+"HERO_ALLERIA_WILDCAT_SKILL_2_DESCRIPTION"="와일드팡이 사나운 포효를 내질러 적들을 위협하고, 그들의 타격 강도를 줄이는 동시에 그들이 받는 피해를 증가시킵니다."
+
+"MEGA_TICKET_OFFER_1"="슈퍼 티켓 오퍼"
+
+"MEGA_TICKET_OFFER_2"="어메이징 티켓 오퍼"
+
+"PLAYER_PROFILE_TITLE"="프로필"
+
+"PLAYER_PROFILE_STATS_TITLE"="플레이어 스탯"
+
+"PLAYER_PROFILE_AVATAR_TITLE"="아바타"
+
+"PLAYER_PROFILE_BANNERS_TITLE"="배너"
+
+"PLAYER_PROFILE_TITLES_TITLE"="칭호"
+
+"PLAYER_PROFILE_USER_TAB"="사용자"
+
+"PLAYER_PROFILE_CUSTOMIZE_TITLE"="프로필 수정"
+
+"PLAYER_PROFILE_STAT_WINSTREAK"="현재 연승"
+
+"PLAYER_PROFILE_STAT_LONGESTWINSTREAK"="최고 연승"
+
+"PLAYER_PROFILE_STAT_VICTORIES"="승리"
+
+"PLAYER_PROFILE_STAT_DEFEATS"="패배"
+
+"PLAYER_PROFILE_STAT_WINPERCENT"="승률"
+
+"PLAYER_PROFILE_STAT_CARDSUNLOCKED"="총 카드 수"
+
+"PLAYER_PROFILE_STAT_HERO_CARDS"="잠금 해제된 영웅"
+
+"PLAYER_PROFILE_STAT_TOWER_CARDS"="잠금 해제된 타워"
+
+"PLAYER_PROFILE_STAT_SPELL_CARDS"="잠금 해제된 스펠"
+
+"PLAYER_PROFILE_STAT_MATCHES"="매치"
+
+"EVENTS_ONSLAUGHT_2_TITLE"="강철 공세"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION"="강력한 플레이어를 위한 고급 공세 도전!"
+
+"EVENTS_ONSLAUGHT_2_DESCRIPTION_LONG"="모든 적을 먼저 처치한 플레이어가 상대로부터 생명 1개를 빼앗습니다. (최대 카드 레벨 9)"
+
+"ONSLAUGHT_2_RULE_1"="상대보다 빠르게 모든 적을 처치하세요..."
+
+"ONSLAUGHT_2_RULE_2"="너무 오래 걸리면 생명 1개를 잃습니다..."
+
+"ONSLAUGHT_2_RULE_3"="승리하고 특별한 보상을 받으세요!"
+
+"PROFILE_TITLE_LINIREAN_RECRUIT"="리니리아 신병"
+
+"PROFILE_TITLE_DARK_ROOKIE"="다크 루키"
+
+"PROFILE_TITLE_FOREST_RANGER"="숲 레인저"
+
+"PROFILE_TITLE_BRAVE_WARRIOR"="용감한 전사"
+
+"PROFILE_TITLE_0005"="용암 임프"
+
+"PROFILE_TITLE_0006"="은신 마스터"
+
+"PROFILE_TITLE_0007"="전술 천재"
+
+"PROFILE_TITLE_0008"="전설적인 군주"
+
+"BUTTON_KINGDOM_PASS"="왕국 패스"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_TITLE"="골드 받기"
+
+"EVENTS_COIN_FARM_READY_TO_CLAIM_DESCRIPTION"="농장이 닫혔습니다, 코인을 받으세요!"
+
+"CHANGE_NAME_CONFIRM_TITLE"="사용자 이름 변경"
+
+"CHANGE_NAME_CONFIRM_MESSAGE"="사용자 이름을 변경하시겠습니까?"
+
+"EVENTS_REOPENS_IN"="재개방까지..."
+
+"COIN_FARM_CONFIRM_EARLY_CLAIM_TITLE_LOCKED"="농장은 닫혔지만 아직 받지 않은 코인을 받을 수 있습니다!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_TITLE"="코인 농장 마감 임박!"
+
+"EVENTS_COIN_FARM_NOTIFICATION_DESCRIPTION"="코인 농장이 곧 종료됩니다! 지금 매치를 플레이하고 코인을 획득하세요!"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_1"="에픽 각성 팩 I"
+
+"SEASON_OFFER_EPIC_AWAKENING_PACK_2"="에픽 각성 팩 II"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_1"="전설 각성 팩 I"
+
+"SEASON_OFFER_LEGENDARY_AWAKENING_PACK_2"="전설 각성 팩 II"
+
+"EVENTS_COIN_FARM_LIMIT_REACHED_TITLE"="한도 초과！"
+
+"PLAYER_PROFILE_EMPTY_TITLE"="없음"
+
+"ERROR_INVALID_RESPONSE_TITLE"="오류가 발생했습니다!"
+
+"ERROR_INVALID_RESPONSE_DESCRIPTION"="서버 응답을 처리할 수 없었습니다. 다시 시도해 주세요."
+
+"HERO_BONEHART_DESCRIPTION"="한때 정당한 파우스투스의 강력한 해골 잔해. 이 거대한 드라코리치는 죽음을 지배하며, 언데드를 소환하고 역병을 퍼뜨리면서 두려운 힘으로 적의 군대를 궤멸시킨다. 한때 여신 엘리니에의 선택받은 자였으나, 이제는 어둡고 금지된 힘에 영혼이 오염되어 대지를 떠돌고 있다."
+
+"HERO_BONEHART_SHORT_DESC"="- 와이번을 소환합니다.<br>- 경로에 추락하여 피해를 줍니다.<br>- 역병을 퍼뜨립니다."
+
+"HERO_BONEHART_NAME"="본하트"
+
+"HERO_BONEHART_SKILL_0_DESCRIPTION"="일정 수의 적을 쓰러뜨릴 때마다 해골 와이번이 나타나 상대의 경로를 배회합니다. 파괴되면 곪은 구름을 뿜어내며 주변 모든 유닛에게 역병을 퍼뜨립니다."
+
+"HERO_BONEHART_SKILL_0_NAME"="해골 와이번"
+
+"HERO_BONEHART_SKILL_1_DESCRIPTION"="어둠 속으로 사라진 후 적의 경로에 추락하여 강력한 범위 피해를 입히고, 모든 생존자에게 역병의 저주를 겁니다."
+
+"HERO_BONEHART_SKILL_1_NAME"="역병 폭발"
+
+"HERO_BONEHART_SKILL_2_DESCRIPTION"="저주받은 뼈에서 썩은 독기를 내뿜어 적의 경로를 역병 구름으로 뒤덮으며, 흡입한 모든 존재를 느리게 하고 역병을 안깁니다."
+
+"HERO_BONEHART_SKILL_2_NAME"="역병 구름"
+
+"HERO_BONEHART_SKILL_3_DESCRIPTION"="썩어가는 몸에서 역병이 가득한 투사체를 일제히 발사하여 전장 곳곳에 무차별적으로 역병을 퍼뜨리고 적이 어디 있든 타격합니다."
+
+"HERO_BONEHART_SKILL_3_NAME"="전염 폭발"
+
+"HERO_BONEHART_WYVERN_SHORT_DESC"="하늘을 떠도는 저주받은 뼈 생물로, 아래의 모든 존재를 어두운 주인의 역병으로 감염시킵니다."
+
+"HERO_BONEHART_WYVERN_NAME"="해골 와이번"
+
+"BUY_GOLDEN_PASS"="골든 패스 구매"
+
+"BUY_PLATINUM_PASS"="플래티넘 패스 구매"
+
+"DECK_BUILDER_WILDCARDS"="와일드카드"
+
+"SEASON_PASS_COMMON_TITLE"="일반"
+
+"SEASON_PASS_GOLDEN_TITLE"="골든"
+
+"SEASON_PASS_PLATINUM_TITLE"="플래티넘"
+
+"SEASON_PASS_REWARDS"="보상"
+
+"SEASON_PASS_REWARDS_PLUS_COUNT"="<size=+12>+{0}</size> {1}"
+
+"SEASON_PASS_REWARDS_MULT_COUNT"="x{0} {1}"
+
+"SEASON_PASS_PLATINUM_REWARD_2"="+ 패스 레벨 10 추가"
+
+"SEASON_PASS_SHOW_ALL_REWARDS"="모든 보상 보기"
+
+"SEASON_PASS_NAME"="분노의 사슬"
+
+"SEASON_PASS_WIDGET_LOCKED"="왕국 패스<br>아레나 1에서 해금"
+
+"SEASON_PASS_WIDGET_CLAIM_REWARD"="보상<br>받기！"
+
+"WILDCARD_RARITY_COMMON"="일반 와일드카드"
+
+"WILDCARD_RARITY_RARE"="희귀 와일드카드"
+
+"WILDCARD_RARITY_EPIC"="영웅 와일드카드"
+
+"WILDCARD_RARITY_LEGENDARY"="전설 와일드카드"
+
+"WILDCARD_VIEW_TITLE_COMMMON"="일반 카드 선택"
+
+"WILDCARD_VIEW_TITLE_RARE"="희귀 카드 선택"
+
+"WILDCARD_VIEW_TITLE_EPIC"="영웅 카드 선택"
+
+"WILDCARD_VIEW_TITLE_LEGENDARY"="전설 카드 선택"
+
+"WILDCARD_VIEW_SUBTITLE"="합계"
+
+"WILDCARD_VIEW_NAME"="와일드카드"
+
+"WILDCARD_VIEW_CONFIRM_DESC"="이 카드에 {0} {1}을(를) 추가하시겠습니까?"
+
+"WILDCARD_VIEW_WILD_CARD"="와일드카드"
+
+"WILDCARD_VIEW_WILD_CARDS"="와일드카드"
+
+"WILDCARD_VIEW_ADD_CARDS_TITLE"="와일드카드 추가"
+
+"WILDCARD_POPUP_DESCRIPTION"="와일드카드로 원하는 카드의 업그레이드 진행도를 높이세요!"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_CARDS"="와일드카드를 사용할 유효한 카드가 없습니다."
+
+"WILDCARD_YOUR_CARDS"="내 카드"
+
+"WILDCARD_POPUP_DESCRIPTION_NO_WILDCARDS"="와일드카드를 획득하여 카드를 업그레이드하세요!"
+
+"COLLECTION_TYPE_BANNER"="프로필 배너"
+
+"COLLECTION_TYPE_TITLE"="프로필 칭호"
+
+"COLLECTION_TYPE_AVATAR"="프로필 아바타"
+
+"BANNER_BANDITS"="약탈자의 은신처"
+
+"BANNER_BASICBLUE"="에테르 블루"
+
+"BANNER_BASICGREEN"="비옥한 초록"
+
+"BANNER_BASICPURPLE"="신비로운 보라"
+
+"BANNER_BASICRED"="잿불 빨강"
+
+"BANNER_BASICYELLOW"="태양 노랑"
+
+"BANNER_DESERT"="해머홀드 외곽"
+
+"BANNER_DESERT2"="잿불 사구"
+
+"BANNER_LINIREA"="리니리아의 초원"
+
+"BANNER_LINIREA"="리니리아의 초원"
+
+"BANNER_LINIREA2"="농경지"
+
+"BANNER_MOUNTAIN"="서리봉 고원"
+
+"BANNER_TRAINING"="병영 훈련장"
+
+"BANNER_TRAINING2"="사격장"
+
+"AVATAR_FOOTMAN"="리니리아 보병"
+
+"AVATAR_GOBLIN"="장난꾸러기 고블린"
+
+"HERO_MALIK_NAME"="왕 말릭"
+
+"HERO_MALIK_DESCRIPTION"="혹독한 전투 속에서 피의 채석장의 무너진 죄수에서 폭풍이 단련한 전설로 거듭났다. 쓰러진 망치를 집어들어 사슬을 부수고, 수많은 전투에서 리니리아의 무적 영웅으로 길을 개척하며, 마침내 해머홀드의 왕으로 왕좌를 차지한 그는 이제 백성의 굳건한 수호자다."
+
+"HERO_MALIK_SHORT_DESC"="가장 강한 적에게 높은 피해.<br>상대 탑 스킬 침묵.<br>장거리 점프 가능."
+
+"SEASON_PASS_PLATINUM_REWARD_1"="+ 새 전설 카드<br>왕 말릭"
+
+"HERO_MALIK_SKILL_0_DESCRIPTION"="말릭의 공격은 적의 방어력과 마법 저항력을 수 초 동안 파괴합니다."
+
+"HERO_MALIK_SKILL_0_NAME"="무력화"
+
+"HERO_MALIK_SKILL_1_DESCRIPTION"="강력한 번개 공격을 소환하여 상대의 일부 방어탑을 침묵시키고 몇 초 동안 능력을 비활성화하며 가하는 피해를 감소시킵니다."
+
+"HERO_MALIK_SKILL_1_NAME"="천둥"
+
+"HERO_MALIK_SKILL_2_DESCRIPTION"="지도에서 가장 강한 적을 목표로 번개로 공격하여 총 체력의 일정 비율에 해당하는 피해를 입힙니다."
+
+"HERO_MALIK_SKILL_2_NAME"="해방된 번개"
+
+"HERO_MALIK_SKILL_3_DESCRIPTION"="장거리 이동 시 도약하여 지면을 강타해 주변 적에게 범위 피해를 입히고 몇 초간 기절시킵니다."
+
+"HERO_MALIK_SKILL_3_NAME"="대지진격"
+
+"PROFILE_TITLE_S1_FREE"="개척자"
+
+"PROFILE_TITLE_S1_GOLD"="모래 전사"
+
+"PROFILE_TITLE_S1_PLATINUM"="사슬파괴자"
+
+"EMOTE_ALRIC_FACEPALM"="알리크 페이스팜"
+
+"EMOTE_MALIK_BOLT"="말릭의 번개"
+
+"SEASON_PASS_COMMON_PASS"="일반<br>패스"
+
+"SEASON_PASS_GOLDEN_PASS"="골든<br>패스"
+
+"SEASON_PASS_PLATINUM_PASS"="플래티넘<br>패스"
+
+"AVATAR_MAGE"="마법사 견습생"
+
+"AVATAR_SHEEP"="미친 양"
+
+"AVATAR_YOUNGMALIK"="어린 말릭"
+
+"BUTTON_REROLL"="리롤"
+
+"BUTTON_KEEP"="유지"
+
+"N_ROLLS_REMAINING"="남은 횟수: {0}"
+
+"SEASON_PASS_TIME_LEFT"="남은 시간"
+
+"CHEST_INFO_NAME_SEASON_FREE"="일반 상자"
+
+"CHEST_INFO_NAME_SEASON_ARCANE"="신비 상자"
+
+"CHEST_INFO_NAME_SEASON_BONUS"="보너스 상자"
+
+"CHEST_INFO_NAME_SEASON_REROLL"="신화 상자"
+
+"SEASON_PASS_SEASON_NUMBER"="왕국 패스 - 시즌 1"
+

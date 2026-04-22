@@ -1,0 +1,15 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/Internal-Loading" {
+Properties {
+
+}
+SubShader {
+ Pass {
+  GpuProgramID 63542
+}
+}
+}

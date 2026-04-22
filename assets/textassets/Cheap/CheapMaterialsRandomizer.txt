@@ -1,0 +1,5 @@
+{
+    "CheapMaterials": {
+        "costPercentage" : [-15.0]
+    }
+}

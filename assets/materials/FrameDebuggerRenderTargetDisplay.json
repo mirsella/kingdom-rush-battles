@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "FrameDebuggerRenderTargetDisplay",
+  "saved_properties": "UnityPropertySheet(m_Colors=[], m_Floats=[], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=0, m_PathID=10755, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

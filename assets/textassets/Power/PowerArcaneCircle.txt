@@ -1,0 +1,86 @@
+{
+    "ArcaneCircle": {
+        "cardCooldown": [
+            28,
+            28,
+            27,
+            27,
+            27,
+            26,
+            26,
+            26,
+            25,
+            25,
+            25,
+            24,
+            24,
+            24,
+            23
+        ],
+        "COMMENT": "If the spell didnt teleport the max count, then it will close when this time passed",
+        "timeToLive": [
+            2.5,
+            3.0,
+            3.0,
+            3.5,
+            4.0,
+            4.0,
+            4.5,
+            5.0,
+            5.0,
+            5.5,
+            6.0,
+            6.0,
+            6.5,
+            7.0,
+            7.0
+        ],
+        "arcaneTeleport": {
+            "range": [
+                0.8
+            ],
+            "COMMENT": "Number of times the spell will teleport creeps before disappearing",
+            "cooldown": [
+                0.1
+            ],
+            "maxPerformCount": [
+                5.0
+            ],
+            "Teleport_modifier": {
+                "distance": [
+                    2.3
+                ],
+                "COMMENT": "Time the enemy unit is invisible after receiving the spell waiting to be teleported",
+                "duration": [
+                    0.5
+                ]
+            },
+            "teleport_mark": {
+                "COMMENT": "This is the time to wait before teleporting the same creep again",
+                "duration": [
+                    3
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.1
+            ],
+            "groundDamage": [
+                0.6
+            ],
+            "flyingDamage": [
+                1.0
+            ],
+            "groundSwarmDefense": [
+                0.7
+            ],
+            "flyingSwarmDefense": [
+                0.6
+            ],
+            "stopping": [
+                100.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "SmokeBomb": {
+        "timeToLive": [
+            6,
+            7,
+            8,
+            9
+        ],
+        "smoke_path": {
+            "extraNodesToTarget": [
+                1,
+                1,
+                2,
+                2
+            ],
+            "extraConsecutiveNodes": [
+                1,
+                1,
+                2,
+                2
+            ],
+            "cooldown": [
+                27,
+                26,
+                25,
+                24
+            ]
+        },
+        "ai": {
+            "tags": [
+                "stun",
+                "swarm"
+            ]
+        }
+    }
+}

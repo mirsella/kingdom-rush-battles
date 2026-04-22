@@ -1,0 +1,11 @@
+{
+    "FlyingDragon": {
+        "ai": {
+            "tags": [
+                "bulk",
+                "flying",
+				"magic"
+            ]
+        }
+    }
+}

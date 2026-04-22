@@ -1,0 +1,10 @@
+{
+  "invalid_keywords": [],
+  "name": "Default-ParticleSystem",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_CameraFadeParams', ColorRGBA(r=0.0, g=inf, b=0.0, a=0.0)), ('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0)), ('_ColorAddSubDiff', ColorRGBA(r=0.0, g=0.0, b=0.0, a=0.0)), ('_EmissionColor', ColorRGBA(r=0.0, g=0.0, b=0.0, a=1.0)), ('_SoftParticleFadeParams', ColorRGBA(r=0.0, g=0.0, b=0.0, a=0.0)), ('_SpecColor', ColorRGBA(r=0.5, g=0.5, b=0.5, a=1.0))], m_Floats=[('_BlendOp', 0.0), ('_BumpScale', 1.0), ('_CameraFadingEnabled', 0.0), ('_CameraFarFadeDistance', 2.0), ('_CameraNearFadeDistance', 1.0), ('_ColorMode', 0.0), ('_Cull', 2.0), ('_Cutoff', 0.5), ('_DistortionBlend', 0.5), ('_DistortionEnabled', 0.0), ('_DistortionStrength', 1.0), ('_DistortionStrengthScaled', 0.0), ('_DstBlend', 10.0), ('_EmissionEnabled', 0.0), ('_FlipbookMode', 0.0), ('_InvFade', 1.0), ('_LightingEnabled', 0.0), ('_Mode', 2.0), ('_Shininess', 0.078125), ('_SoftParticlesEnabled', 0.0), ('_SoftParticlesFarFadeDistance', 1.0), ('_SoftParticlesNearFadeDistance', 0.0), ('_SrcBlend', 5.0), ('_ZWrite', 0.0)], m_TexEnvs=[('_BumpMap', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>))), ('_EmissionMap', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>))), ('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=3, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=0, m_PathID=8, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": [
+    "_ALPHABLEND_ON"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "disable holder stage randomizer": {
+        "amount": [2],
+        "cost": [170]
+        }
+}

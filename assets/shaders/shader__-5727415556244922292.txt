@@ -1,0 +1,70 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "MP/UI/BarberPole" {
+Properties {
+
+_MainTex ("Sprite Texture", 2D) = "white" { }
+
+_Color ("Tint", Color) = (1,1,1,1)
+
+_StripeColorA ("Stripe Color A", Color) = (0.85,0.1,0.1,1)
+
+_StripeColorB ("Stripe Color B", Color) = (1,1,1,1)
+
+_StripeColorC ("Stripe Color C", Color) = (0.1,0.45,0.9,1)
+
+_StripeColorD ("Stripe Color D", Color) = (1,1,1,1)
+
+_StripeWidth ("Stripe Width", Range(0.02, 1)) = 0.20000000298023224
+
+_StripeSoftness ("Stripe Softness", Range(0, 0.2)) = 0.019999999552965164
+
+_AngleDeg ("Stripe Angle (deg)", Range(-90, 90)) = -45.0
+
+_Speed ("Scroll Speed", Range(-5, 5)) = 1.5
+
+[Header(Bottom fade to black)] [Toggle] _BottomFadeUseMeshY ("Use mesh Y (for atlas sprites)", Float) = 0.0
+
+_MeshFadeBottom ("Mesh fade bottom (local Y)", Float) = 0.0
+
+_MeshFadeTop ("Mesh fade top (local Y)", Float) = 100.0
+
+_BottomFadeStartY ("Fade region top (UV Y)", Range(0, 1)) = 0.5
+
+_BottomFadeEndY ("Fade region bottom (UV Y)", Range(0, 1)) = 0.0
+
+[Toggle] _BottomFadeInvert ("Invert fade UV Y", Float) = 0.0
+
+_BottomDarkenAmount ("Darken to black", Range(0, 1)) = 1.0
+
+_BottomAlphaFadeAmount ("Fade alpha at bottom", Range(0, 1)) = 0.0
+
+_StencilComp ("Stencil Comparison", Float) = 8.0
+
+_Stencil ("Stencil ID", Float) = 0.0
+
+_StencilOp ("Stencil Operation", Float) = 0.0
+
+_StencilWriteMask ("Stencil Write Mask", Float) = 255.0
+
+_StencilReadMask ("Stencil Read Mask", Float) = 255.0
+
+_ColorMask ("Color Mask", Float) = 15.0
+
+[Toggle(UNITY_UI_ALPHACLIP)] _UseUIAlphaClip ("Use Alpha Clip", Float) = 0.0
+
+}
+SubShader {
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ Pass {
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZTest Off
+ ZWrite Off
+ Cull Off
+  GpuProgramID 1919
+}
+}
+}

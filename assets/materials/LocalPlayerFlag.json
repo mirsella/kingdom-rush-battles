@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "LocalPlayerFlag",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0)), ('_EmissionColor', ColorRGBA(r=0.0, g=0.0, b=0.0, a=1.0))], m_Floats=[('_Brightness', 0.08399999886751175), ('_BumpScale', 1.0), ('_ColorMask', 15.0), ('_Contrast', 1.2000000476837158), ('_Cutoff', 0.5), ('_DetailNormalMapScale', 1.0), ('_DstBlend', 0.0), ('_GlossMapScale', 1.0), ('_Glossiness', 0.5), ('_GlossyReflections', 1.0), ('_Hue', 205.0), ('_Metallic', 0.0), ('_Mode', 0.0), ('_OcclusionStrength', 1.0), ('_Parallax', 0.019999999552965164), ('_Saturation', 1.0), ('_SmoothnessTextureChannel', 0.0), ('_SpecularHighlights', 1.0), ('_SrcBlend', 1.0), ('_Stencil', 0.0), ('_StencilComp', 8.0), ('_StencilOp', 0.0), ('_StencilReadMask', 255.0), ('_StencilWriteMask', 255.0), ('_UVSec', 0.0), ('_UseUIAlphaClip', 0.0), ('_ZWrite', 1.0)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=1, m_PathID=-1331225137094301607, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

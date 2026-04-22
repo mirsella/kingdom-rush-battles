@@ -1,0 +1,16 @@
+{
+	"idle" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"Attack1" : 0
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

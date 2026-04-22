@@ -1,0 +1,46 @@
+{
+    "CreepRocketRider": {
+        "goldReward": [
+			35
+        ],
+        "health": [
+            105
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.2
+        ],
+        "turbo": {
+            "cooldown": [
+                6.0
+            ],
+            "mod_turbo": {
+                "duration": [
+                    2.0
+                ],
+                "movementSpeedPercentage": [
+                    250
+                ]
+            },
+            "safeDistanceToExit": [
+                5.5
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                500.0
+            ],
+            "stoppingweightmultiplier": [
+                5.0
+            ],
+            "threatlevel": [
+                5.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "MG_TowerSorcerer_1": {
+        "stats": {
+            "COST": [
+                75
+            ],
+            "CARD_RANK": [
+                "D",
+                "D",
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                1.3
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                120,
+                138,
+                159,
+                183,
+                210,
+                241,
+                278,
+                319,
+                367,
+                422,
+                485,
+                558,
+                642,
+                738,
+                849
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                140,
+                161,
+                185,
+                213,
+                245,
+                282,
+                324,
+                372,
+                428,
+                493,
+                566,
+                651,
+                749,
+                861,
+                991
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_MAGIC"
+            ],
+            "RANGE": [
+                150
+            ]
+        },
+        "skill1": {
+            "DURATION": [
+                10.0
+            ],
+            "ARMOR_REDUCTION": [
+                "45%"
+            ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "Custom_SimpleOverlay",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=0.5424528121948242, g=0.8329506516456604, b=1.0, a=1.0))], m_Floats=[('_Exposure', 1.0), ('_Opacity', 1.0), ('_ScrollXSpeed', 0.0), ('_ScrollYSpeed', 0.0), ('_luminanceMin', 0.5)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=2, m_PathID=-1413902506796513204, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

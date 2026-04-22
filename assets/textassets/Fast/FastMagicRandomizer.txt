@@ -1,0 +1,5 @@
+{
+    "Fast Magic stage randomizer": {
+        "cooldownPercentage" : [-50.0]
+    }
+}

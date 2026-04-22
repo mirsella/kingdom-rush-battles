@@ -1,0 +1,76 @@
+{
+    "RainOfFire": {
+        "cardCooldown": [
+            58
+        ],
+        "rof_perk": {
+            "damagePercentage": [
+                3
+            ]
+        },
+        "explosion": {
+            "disabled": [
+                false
+            ],
+            "damage": {
+                "minDamage": [
+                    33.6,
+                    38.64,
+                    44.44,
+                    51.1,
+                    58.77,
+                    67.58,
+                    77.72,
+                    89.38,
+                    102.78,
+                    118.2,
+                    135.93,
+                    156.32,
+                    179.77,
+                    206.73,
+                    237.74
+                ],
+                "maxDamage": [
+                    48.3,
+                    55.55,
+                    63.88,
+                    73.46,
+                    84.48,
+                    97.15,
+                    111.72,
+                    128.48,
+                    147.75,
+                    169.91,
+                    195.4,
+                    224.71,
+                    258.42,
+                    297.18,
+                    341.76
+                ],
+                "areaRange": [
+                    0.8
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                1.0
+            ],
+            "groundDamage": [
+                0.8
+            ],
+            "flyingDamage": [
+                0.8
+            ],
+            "groundSwarmDefense": [
+                0.6
+            ],
+            "flyingSwarmDefense": [
+                0.6
+            ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "Font Material",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0))], m_Floats=[], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=2872068856138669328, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=1, m_PathID=10101, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

@@ -1,0 +1,35 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "FlashTools/SwfSimpleGrab" {
+Properties {
+
+_MainTex ("Main Texture", 2D) = "white" { }
+
+_AlphaTex ("Alpha Texture", 2D) = "white" { }
+
+_ExternalAlpha ("External Alpha", Float) = 0.0
+
+_Tint ("Tint", Color) = (1,1,1,1)
+
+[Enum(UnityEngine.Rendering.BlendOp  )] _BlendOp ("BlendOp", Float) = 0.0
+
+[Enum(UnityEngine.Rendering.BlendMode)] _SrcBlend ("SrcBlend", Float) = 1.0
+
+[Enum(UnityEngine.Rendering.BlendMode)] _DstBlend ("DstBlend", Float) = 10.0
+
+}
+SubShader {
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ GrabPass {
+}
+ Pass {
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZWrite Off
+ Cull Off
+  GpuProgramID 24865
+}
+}
+}

@@ -1,0 +1,48 @@
+{
+    "Defenders": {
+        "probability": [
+            0.22
+        ],
+        "maxStreak": [
+            1
+        ],
+        "cost": [
+            0
+        ],
+        "cardCooldown": [
+            15.0
+        ],
+        "defenders": {
+            "COMMENT": "How many creeps will be spawned",
+            "cooldown": [
+                1.3
+            ],
+            "summon_def": {
+                "COMMENT": "Leave this in 1, it ensures 1 creep per projectile",
+                "count": [
+                    1
+                ]
+            },
+            "maxPerformCount": [
+                3
+            ]
+        },
+        "ai": {
+            "delay": [
+                0.0
+            ],
+            "groundDamage": [
+                0.25
+            ],
+            "flyingDamage": [
+                0.25
+            ],
+            "groundSwarmDefense": [
+                0.25
+            ],
+            "flyingSwarmDefense": [
+                0.25
+            ]
+        }
+    }
+}

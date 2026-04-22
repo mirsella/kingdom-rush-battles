@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "DebugDraw",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=0.0, b=0.0, a=1.0))], m_Floats=[], m_TexEnvs=[], m_Ints=[])",
+  "shader": "PPtr(m_FileID=1, m_PathID=1, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

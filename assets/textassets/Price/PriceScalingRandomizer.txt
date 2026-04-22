@@ -1,0 +1,5 @@
+{
+    "PriceScaling": {
+        "costPercentage" : [15.0]
+    }
+}

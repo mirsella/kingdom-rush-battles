@@ -1,0 +1,44 @@
+{
+    "CreepOgre": {
+        "goldReward": [
+            69
+        ],
+        "health": [
+            1125
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "abilityType": [
+                "BasicAttack"
+            ],
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "minDamage": [
+                    35.0
+                ],
+                "maxDamage": [
+                    40.0
+                ],
+                "areaRange": [
+                    0.4
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

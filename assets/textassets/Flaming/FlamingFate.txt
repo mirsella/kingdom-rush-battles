@@ -1,0 +1,51 @@
+{
+    "Flaming Fate": {
+        "meteorRain": {
+            "cooldown": [
+                17,
+                15,
+                13,
+                10
+            ],
+            "maxTargets": [
+                3,
+                3,
+                4,
+                5
+            ],
+            "COMMENT": "Fill targets needs to match max targets, it will fire x times until reaching fill target, if it has targets",
+            "fillTargets": [
+                3,
+                3,
+                4,
+                5
+            ]
+        },
+        "explosion": {
+            "disabled": [
+                false
+            ],
+            "damage": {
+                "minDamage": [
+                    20,
+                    22,
+                    25,
+                    28
+                ],
+                "maxDamage": [
+                    50,
+                    55,
+                    63,
+                    70
+                ],
+                "areaRange": [
+                    0.8
+                ],
+                "damageType": [
+                    "True"
+                ]
+            },
+            "ai": {}
+        }
+    }
+}

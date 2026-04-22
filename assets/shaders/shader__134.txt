@@ -1,0 +1,154 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/PostProcessing/DepthOfField" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ Name "CoC Calculation"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 38108
+}
+ Pass {
+ Name "CoC Temporal Filter"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 74593
+}
+ Pass {
+ Name "Downsample and Prefilter"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 155771
+}
+ Pass {
+ Name "Bokeh Filter (small)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 222627
+}
+ Pass {
+ Name "Bokeh Filter (medium)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 313855
+}
+ Pass {
+ Name "Bokeh Filter (large)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 364199
+}
+ Pass {
+ Name "Bokeh Filter (very large)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 412682
+}
+ Pass {
+ Name "Postfilter"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 473214
+}
+ Pass {
+ Name "Combine"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 581092
+}
+ Pass {
+ Name "Debug Overlay"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 608515
+}
+}
+SubShader {
+ Pass {
+ Name "CoC Calculation"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 703831
+}
+ Pass {
+ Name "CoC Temporal Filter"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 732018
+}
+ Pass {
+ Name "Downsample and Prefilter"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 793451
+}
+ Pass {
+ Name "Bokeh Filter (small)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 890411
+}
+ Pass {
+ Name "Bokeh Filter (medium)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 966469
+}
+ Pass {
+ Name "Bokeh Filter (large)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 1035014
+}
+ Pass {
+ Name "Bokeh Filter (very large)"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 1051185
+}
+ Pass {
+ Name "Postfilter"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 1120897
+}
+ Pass {
+ Name "Combine"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 1218761
+}
+ Pass {
+ Name "Debug Overlay"
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 1269419
+}
+}
+}

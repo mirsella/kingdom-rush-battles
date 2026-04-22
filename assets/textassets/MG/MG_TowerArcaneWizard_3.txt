@@ -1,0 +1,146 @@
+{
+    "MG_TowerArcaneWizard_3": {
+        "stats": {
+            "COST": [
+                270
+            ],
+            "CARD_RANK": [
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+",
+                "EX"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                2.0
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                660,
+                759,
+                873,
+                1004,
+                1154,
+                1327,
+                1527,
+                1756,
+                2019,
+                2322,
+                2670,
+                3071,
+                3531,
+                4061,
+                4670
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                715,
+                822,
+                946,
+                1087,
+                1251,
+                1438,
+                1654,
+                1902,
+                2187,
+                2515,
+                2893,
+                3326,
+                3825,
+                4399,
+                5059
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_MAGIC"
+            ],
+            "RANGE": [
+                170
+            ]
+        },
+        "skill1": {
+            "CHANCE_PERCENTAGE": [
+                "40%"
+            ],
+            "MAGIC_RESISTANCE_REDUCTION": [
+                "70%"
+            ],
+            "DURATION": [
+                13
+            ]
+        },
+        "skill2": {
+            "COST": [
+                190
+            ],
+            "COOLDOWN": [
+                25
+            ],
+            "RANGE": [
+                80
+            ],
+            "MAX_AFFECTED_UNITS": [
+                4
+            ],
+            "TILES_PUSHED": [
+                1.4,
+                1.44,
+                1.48,
+                1.52,
+                1.56,
+                1.6,
+                1.64,
+                1.68,
+                1.72,
+                1.76,
+                1.8,
+                1.84,
+                1.88,
+                1.92,
+                1.96
+            ]
+        },
+        "skill3": {
+            "COST": [
+                200,
+                196,
+                192,
+                188,
+                184,
+                180,
+                176,
+                172,
+                168,
+                164,
+                160,
+                156,
+                152,
+                148,
+                144
+            ],
+            "COOLDOWN": [
+                16
+            ],
+            "MAX_AFFECTED_UNITS": [
+                1
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Increase_Spell_Damage"
+                ],
+                "perkPercentage": [
+                    3
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "CreepMagmaShard": {
+        "goldReward": [
+			20.0
+        ],
+        "goldRewardShiny": [
+            43
+        ],
+        "health": [
+            120
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.4
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    15.0
+                ],
+                "maxDamage": [
+                    20.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                10.0
+            ],
+            "stoppingweightmultiplier": [
+                2.0
+            ],
+            "threatlevel": [
+                2.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "CreepScreecherBat": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            280,
+            392,
+            532,
+            672
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.5
+        ],
+        "screech": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                16.0,
+                14.0,
+                12.0,
+                10.0
+            ],
+            "range": [
+                0.8
+            ],
+            "stun": {
+                "duration": [
+                    4,
+                    6,
+                    8,
+                    8
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                100.0
+            ],
+            "stoppingweightmultiplier": [
+                50.0
+            ],
+            "threatlevel": [
+                2.0
+            ]
+        }
+    }
+}

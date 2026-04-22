@@ -1,0 +1,11 @@
+{
+    "ShadowBlacksmith": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "armor",
+				"bulk"
+            ]
+        }
+    }
+}

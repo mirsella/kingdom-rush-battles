@@ -1,0 +1,49 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "MP/Custom_Glow" {
+Properties {
+
+_MainTex ("Sprite Texture", 2D) = "white" { }
+
+_Color ("Tint", Color) = (1,1,1,1)
+
+_EmissionColor ("_EmissionColor", Color) = (1,1,1,1)
+
+_StencilComp ("Stencil Comparison", Float) = 8.0
+
+_Stencil ("Stencil ID", Float) = 0.0
+
+_StencilOp ("Stencil Operation", Float) = 0.0
+
+_StencilWriteMask ("Stencil Write Mask", Float) = 255.0
+
+_StencilReadMask ("Stencil Read Mask", Float) = 255.0
+
+_ColorMask ("Color Mask", Float) = 15.0
+
+_intensity ("_intensity", Float) = 1.0
+
+_EffectAmount ("_EffectAmount", Range(0, 1)) = 1.0
+
+_flatColor ("_flatColor", Color) = (1,1,1,1)
+
+_useFlatColor ("useFlat", Float) = 0.0
+
+[Toggle(UNITY_UI_ALPHACLIP)] _UseUIAlphaClip ("Use Alpha Clip", Float) = 0.0
+
+}
+SubShader {
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ Pass {
+ Name "Default"
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZTest Off
+ ZWrite Off
+ Cull Off
+  GpuProgramID 58497
+}
+}
+}

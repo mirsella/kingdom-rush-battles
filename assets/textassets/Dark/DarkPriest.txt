@@ -1,0 +1,11 @@
+{
+    "DarkPriest": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "armor",
+				"bulk"
+            ]
+        }
+    }
+}

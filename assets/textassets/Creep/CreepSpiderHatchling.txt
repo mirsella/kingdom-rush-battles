@@ -1,0 +1,38 @@
+{
+    "CreepSpiderHatchling": {
+        "goldReward": [
+            1
+        ],
+        "health": [
+            13
+        ],
+        "speed": [
+            1.7
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "basic_attack": {
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    3.0
+                ],
+                "maxDamage": [
+                    4.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

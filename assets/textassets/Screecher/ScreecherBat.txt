@@ -1,0 +1,11 @@
+{
+    "ScreecherBat": {
+        "ai": {
+            "tags": [
+                "bulk",
+                "flying",
+				"magic"
+            ]
+        }
+    }
+}

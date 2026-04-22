@@ -1,0 +1,12 @@
+{
+	"MerchantOfDeath":{
+		
+		"goldPercentage" : [ 5, 10, 20, 80 ],
+
+		"ai": {
+			"tags": [
+				"defense"
+			]
+		}
+	}
+}

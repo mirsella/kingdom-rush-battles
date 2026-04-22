@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "MP_TopGradientvictory",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0))], m_Floats=[('_ColorMask', 15.0), ('_GradientHorizontal', 0.0), ('_GradientPower', 1.5), ('_GradientVertical', 1.0), ('_ScrollXSpeed', 0.10000000149011612), ('_ScrollYSpeed', 0.10000000149011612), ('_SmoothstepBottom', 0.0), ('_SmoothstepUpper', 0.0), ('_Stencil', 0.0), ('_StencilComp', 8.0), ('_StencilOp', 0.0), ('_StencilReadMask', 255.0), ('_StencilWriteMask', 255.0), ('_UseSmoothStep', 0.0), ('_UseUIAlphaClip', 0.0), ('_alpha', 0.6000000238418579)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=2, m_PathID=-5741099526460266849, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

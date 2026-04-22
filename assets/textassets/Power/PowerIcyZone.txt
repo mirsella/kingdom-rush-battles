@@ -1,0 +1,87 @@
+{
+    "PowerIcyZone": {
+        "cardCooldown": [
+            23.0,
+            23.0,
+            23.0,
+            23.0,
+            22.0,
+            22.0,
+            22.0,
+            22.0,
+            22.0,
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            21.0,
+            20.0
+        ],
+        "COMMENT": "How much time the spell is active",
+        "timeToLive": [
+            7.0,
+            7.0,
+            7.0,
+            7.5,
+            7.5,
+            7.5,
+            7.5,
+            7.5,
+            8.0,
+            8.0,
+            8.0,
+            8.0,
+            8.0,
+            8.5,
+            8.5
+        ],
+        "Slow_Creeps": {
+            "icyZone_modifier": {
+                "COMMENT": "How much time after leaving the area is going to be affected",
+                "areaRange": [
+                    0.9,
+                    0.91,
+                    0.92,
+                    0.92,
+                    0.92,
+                    0.93,
+                    0.94,
+                    0.95,
+                    0.95,
+                    0.95,
+                    0.96,
+                    0.97,
+                    0.98,
+                    0.98,
+                    0.98
+                ],
+                "movementSpeedPercentage": [
+                    -70
+                ],
+                "duration": [
+                    0.3
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.3
+            ],
+            "groundDamage": [
+                0.0
+            ],
+            "flyingDamage": [
+                0.0
+            ],
+            "groundSwarmDefense": [
+                0.6
+            ],
+            "flyingSwarmDefense": [
+                0.0
+            ],
+            "stopping": [
+                100.0
+            ]
+        }
+    }
+}

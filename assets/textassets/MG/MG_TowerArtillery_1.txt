@@ -1,0 +1,111 @@
+{
+    "MG_TowerArtillery_1": {
+        "stats": {
+            "COST": [
+                85
+            ],
+            "CARD_RANK": [
+                "D",
+                "D",
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                3.2
+            ],
+            "UNIT_MIN_AREA_DAMAGE": [
+                100,
+                115,
+                132,
+                152,
+                175,
+                201,
+                231,
+                266,
+                306,
+                352,
+                405,
+                465,
+                535,
+                615,
+                708
+            ],
+            "UNIT_MAX_AREA_DAMAGE": [
+                200,
+                230,
+                265,
+                304,
+                350,
+                402,
+                463,
+                532,
+                612,
+                704,
+                809,
+                930,
+                1070,
+                1231,
+                1415
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_ARTILLERY"
+            ],
+            "RANGE": [
+                155.0
+            ]
+        },
+        "skill1": {
+            "CHANCE_PERCENTAGE": [
+                "20%"
+            ],
+            "UNIT_MIN_AREA_DAMAGE": [
+                60,
+                69,
+                79,
+                91,
+                105,
+                121,
+                139,
+                160,
+                184,
+                211,
+                243,
+                279,
+                321,
+                369,
+                425
+            ],
+            "UNIT_MAX_AREA_DAMAGE": [
+                120,
+                138,
+                159,
+                183,
+                210,
+                241,
+                278,
+                319,
+                367,
+                422,
+                485,
+                558,
+                642,
+                738,
+                849
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_ARTILLERY"
+            ]
+        }
+    }
+}

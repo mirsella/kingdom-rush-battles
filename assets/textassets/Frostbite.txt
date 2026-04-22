@@ -1,0 +1,85 @@
+{
+    "Frostbite": {
+        "frost": {
+            "cooldown": [
+                18,
+                16,
+                14,
+                11
+            ],
+            "maxTargets": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "frost_slow": {
+                "movementSpeedPercentage": [
+                    -40.0,
+                    -50.0,
+                    -70.0,
+                    -90.0
+                ],
+                "attackSpeedPercentage": [
+                    -70,
+                    -100,
+                    -200,
+                    -300
+                ],
+                "duration": [
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            }
+        },
+        "ai": {
+            "tags": [
+                "stun"
+            ],
+            "groundValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "groundArmorValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "groundMagicResistanceValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "flyingValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "flyingArmorValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "flyingMagicResistanceValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "swarm": [
+                4.5,
+                8.0,
+                11.5,
+                16.0
+            ]
+        }
+    }
+}

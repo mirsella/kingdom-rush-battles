@@ -1,0 +1,12 @@
+{
+    "Thunderbird": {
+        "ai": {
+            "tags": [
+                "flying",
+                "magic",
+				"bulk",
+				"stun"
+            ]
+        }
+    }
+}

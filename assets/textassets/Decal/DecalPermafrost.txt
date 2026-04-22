@@ -1,0 +1,22 @@
+{
+    "decalPermafrost": {
+        "COMMENT": "How much time the spell is active",
+        "timeToLive": [
+            2.0,
+            2.1,
+            2.3,
+            2.6,
+            2.9,
+            4.1,
+            6.2,
+            8.6,
+            1.4,
+            4.6,
+            8.3,
+            2.6,
+            7.5,
+            3.1,
+            9.5
+        ]
+    }
+}

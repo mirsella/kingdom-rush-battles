@@ -1,0 +1,72 @@
+{
+    "CreepWinterFaerie": {
+        "goldReward": [
+            14
+        ],
+        "goldRewardShiny": [
+            60
+        ],
+        "health": [
+            190
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.0
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6.0
+                ],
+                "maxDamage": [
+                    9.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.5
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6.3
+                ],
+                "maxDamage": [
+                    7.0
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "armorPiercing": [
+                    50
+                ]
+            }
+        }
+    }
+}

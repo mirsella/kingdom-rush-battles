@@ -1,0 +1,10 @@
+{
+    "power holder stage randomizer": {
+        "amount": [2],
+        "power_holder": {
+            "power_holder": {
+                "damagePercentage" : [40]
+            }
+        }
+    }
+}

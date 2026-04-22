@@ -1,0 +1,10 @@
+{
+  "invalid_keywords": [],
+  "name": "Default-Skybox",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_GroundColor', ColorRGBA(r=0.36899998784065247, g=0.3490000069141388, b=0.3409999907016754, a=1.0)), ('_SkyTint', ColorRGBA(r=0.5, g=0.5, b=0.5, a=1.0))], m_Floats=[('_AtmosphereThickness', 1.0), ('_Exposure', 1.2999999523162842), ('_SunDisk', 1.0), ('_SunSize', 0.03999999910593033), ('_SunSizeConvergence', 5.0)], m_TexEnvs=[], m_Ints=[])",
+  "shader": "PPtr(m_FileID=0, m_PathID=3, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": [
+    "_SUNDISK_SIMPLE"
+  ]
+}

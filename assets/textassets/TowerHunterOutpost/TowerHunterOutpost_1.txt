@@ -1,0 +1,114 @@
+{
+    "tower_hunter_outpost_1": {
+        "hunter_perk": {
+            "movementSpeedPercentage": [
+                -2
+            ]
+        },
+        "cost": [
+            80
+        ],
+        "basic_attack": {
+            "range": [
+                1.5
+            ],
+            "cooldown": [
+                0.8
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    7.4,
+                    8.5,
+                    9.7,
+                    11.2,
+                    12.9,
+                    14.8,
+                    17.0,
+                    19.6,
+                    22.5,
+                    25.9,
+                    29.7,
+                    34.2,
+                    39.3,
+                    45.2,
+                    52.0
+                ],
+                "maxDamage": [
+                    10.5,
+                    12.1,
+                    13.9,
+                    16.0,
+                    18.4,
+                    21.1,
+                    24.3,
+                    27.9,
+                    32.1,
+                    36.9,
+                    42.5,
+                    48.9,
+                    56.2,
+                    64.6,
+                    74.3
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    10.0,
+                    19.4,
+                    30.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    0.8
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.0
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    20.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    0.0
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.3
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    8.1
+                ],
+                "attack": [
+                    1.0
+                ]
+            }
+        }
+    }
+}

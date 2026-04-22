@@ -1,0 +1,52 @@
+{
+    "MagmaElemental": {
+        "meteors_path": {
+            "extraNodesToTarget": [
+                0,
+                0,
+                1,
+                1
+            ],
+            "pathEndDistance": [
+                9
+            ],
+            "meteor_spawn": {
+                "randomStartingDelay": [
+                    200
+                ]
+            }
+        },
+        "explosion": {
+            "disabled": [
+                false
+            ],
+            "damage": {
+                "minDamage": [
+                    20,
+                    24,
+                    40,
+                    64
+                ],
+                "maxDamage": [
+                    30,
+                    36,
+                    60,
+                    96
+                ],
+                "areaRange": [
+                    1.0
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "ai": {
+            "tags": [
+                "bulk",
+                "flying",
+                "magic"
+            ]
+        }
+    }
+}

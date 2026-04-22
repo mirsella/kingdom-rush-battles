@@ -1,0 +1,8 @@
+{
+    "Strengthening units stage randomizer": {
+        "strengthening": {
+                "damagePercentage" : [50.0],
+                "maxHealthPercentage" : [85.0]
+        }
+    }
+}

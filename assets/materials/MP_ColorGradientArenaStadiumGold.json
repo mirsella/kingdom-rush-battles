@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "MP_ColorGradientArenaStadiumGold",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0)), ('_Color1', ColorRGBA(r=0.4811320900917053, g=0.3168507516384125, b=0.0022694964427500963, a=1.0)), ('_Color2', ColorRGBA(r=0.28301888704299927, g=0.1259383112192154, b=0.0, a=1.0)), ('_EmissionColor', ColorRGBA(r=0.0, g=0.0, b=0.0, a=1.0))], m_Floats=[('_BumpScale', 1.0), ('_ColorMask', 15.0), ('_Cutoff', 0.5), ('_DetailNormalMapScale', 1.0), ('_DstBlend', 0.0), ('_GlossMapScale', 1.0), ('_Glossiness', 0.5), ('_GlossyReflections', 1.0), ('_GradientHorizontal', 0.0), ('_GradientPower', 2.369999885559082), ('_GradientVertical', 1.0), ('_Metallic', 0.0), ('_Mode', 0.0), ('_OcclusionStrength', 1.0), ('_Parallax', 0.019999999552965164), ('_SmoothnessA', 0.550000011920929), ('_SmoothnessB', 0.44999998807907104), ('_SmoothnessTextureChannel', 0.0), ('_SpecularHighlights', 1.0), ('_SrcBlend', 1.0), ('_Stencil', 0.0), ('_StencilComp', 8.0), ('_StencilOp', 0.0), ('_StencilReadMask', 255.0), ('_StencilWriteMask', 255.0), ('_StepValue', 0.5), ('_UVSec', 0.0), ('_ZWrite', 1.0), ('_alpha', 1.0), ('_bottomDarker', 0.0), ('_upperBottomColors', 1.0), ('_upperGlow', 0.0), ('_useSmooth', 0.0), ('_useStep', 0.0)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=2, m_PathID=-2757685628370940188, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

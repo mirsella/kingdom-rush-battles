@@ -1,0 +1,32 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Custom/Overlay_UI_GrabPass" {
+Properties {
+
+_luminanceMin ("_luminanceMin", Range(0, 1)) = 1.0
+
+_MainTex ("Texture", 2D) = "white" { }
+
+_ScrollXSpeed ("X Scroll Speed", Range(-25, 25)) = 0.0
+
+_ScrollYSpeed ("Y Scroll Speed", Range(-25, 25)) = 0.0
+
+}
+SubShader {
+ LOD 100
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Overlay" "RenderType" = "Transparent" }
+ GrabPass {
+ "_sharedGrabTexture"
+}
+ Pass {
+  LOD 100
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Overlay" "RenderType" = "Transparent" }
+ ZWrite Off
+ Cull Off
+  GpuProgramID 16530
+}
+}
+}

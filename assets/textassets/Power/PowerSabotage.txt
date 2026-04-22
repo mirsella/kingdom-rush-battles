@@ -1,0 +1,123 @@
+{
+    "Sabotage": {
+        "sabotage_perk": {
+            "skillSpeedPercentage": [
+                2
+            ]
+        },
+        "cardCooldown": [
+            19.0,
+            19.0,
+            19.0,
+            19.0,
+            18.5,
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            17.5,
+            17.0,
+            17.0,
+            17.0,
+            17.0,
+            16.5
+        ],
+        "COMMENT": "this power would need custom logic for the bot to use it properly",
+        "timeToLive": [
+            4
+        ],
+        "sabotage": {
+            "disabled": [
+                false
+            ],
+            "debuff": {
+                "duration": [
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0,
+                    13.0
+                ],
+                "COMMENT": "armor is capped in 0 as minimun",
+                "armorPercentage": [
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95
+                ],
+                "magicResistancePercentage": [
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95,
+                    -95
+                ],
+                "areaRange": [
+                    1.0,
+                    1.04,
+                    1.08,
+                    1.12,
+                    1.12,
+                    1.12,
+                    1.16,
+                    1.2,
+                    1.24,
+                    1.24,
+                    1.24,
+                    1.28,
+                    1.32,
+                    1.36,
+                    1.36
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.0
+            ],
+            "groundDamage": [
+                0.0
+            ],
+            "flyingDamage": [
+                0.0
+            ],
+            "groundSwarmDefense": [
+                1.0
+            ],
+            "flyingSwarmDefense": [
+                0.0
+            ]
+        }
+    }
+}

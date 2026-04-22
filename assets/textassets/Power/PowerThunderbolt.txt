@@ -1,0 +1,81 @@
+{
+    "Thunderbolt": {
+        "thunder_perk": {
+            "skillDamagePercentage": [
+                4
+            ]
+        },
+        "cardCooldown": [
+            55
+        ],
+        "explosion": {
+            "damage": {
+                "minDamage": [
+                    30.8,
+                    35.42,
+                    40.73,
+                    46.84,
+                    53.87,
+                    61.95,
+                    71.24,
+                    81.93,
+                    94.22,
+                    108.35,
+                    124.6,
+                    143.29,
+                    164.79,
+                    189.51,
+                    217.93
+                ],
+                "maxDamage": [
+                    34.1,
+                    39.22,
+                    45.1,
+                    51.86,
+                    59.64,
+                    68.59,
+                    78.88,
+                    90.71,
+                    104.31,
+                    119.96,
+                    137.95,
+                    158.65,
+                    182.44,
+                    209.81,
+                    241.28
+                ],
+                "areaRange": [
+                    0.8
+                ],
+                "damageType": [
+                    "True"
+                ]
+            },
+            "thunder_stun": {
+                "areaRange": [
+                    0.8
+                ],
+                "duration": [
+                    0.3
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.1
+            ],
+            "groundDamage": [
+                0.8
+            ],
+            "flyingDamage": [
+                1.0
+            ],
+            "groundSwarmDefense": [
+                0.6
+            ],
+            "flyingSwarmDefense": [
+                0.6
+            ]
+        }
+    }
+}

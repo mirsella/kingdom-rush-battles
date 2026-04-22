@@ -1,0 +1,42 @@
+{
+	"Spawning1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		}
+	},
+	"Idle1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		}
+	},
+	"Ability1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"Attack1" : 63
+		}
+	},
+	"Death1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		}
+	}
+}

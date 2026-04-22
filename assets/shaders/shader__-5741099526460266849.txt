@@ -1,0 +1,48 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Custom/Gradient_Alpha" {
+Properties {
+
+_MainTex ("Texture", 2D) = "white" { }
+
+_ColorMask ("Color Mask", Float) = 15.0
+
+_GradientPower ("_GradientPower", Float) = 1.0
+
+_GradientHorizontal ("_GradientHorizontal", Float) = 0.0
+
+_GradientVertical ("_GradientVertical", Float) = 1.0
+
+_UseSmoothStep ("_UseSmoothstep", Float) = 0.0
+
+_SmoothstepBottom ("_SmoothstepBottom", Float) = 0.0
+
+_SmoothstepUpper ("_SmoothstepUpper", Float) = 0.0
+
+_alpha ("_alpha", Float) = 1.0
+
+_StencilComp ("Stencil Comparison", Float) = 8.0
+
+_Stencil ("Stencil ID", Float) = 0.0
+
+_StencilOp ("Stencil Operation", Float) = 0.0
+
+_StencilWriteMask ("Stencil Write Mask", Float) = 255.0
+
+_StencilReadMask ("Stencil Read Mask", Float) = 255.0
+
+}
+SubShader {
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ Pass {
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZTest Off
+ ZWrite Off
+ Cull Off
+  GpuProgramID 10317
+}
+}
+}

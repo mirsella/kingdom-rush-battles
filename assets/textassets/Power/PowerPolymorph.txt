@@ -1,0 +1,54 @@
+{
+    "Polymorph": {
+        "cardCooldown": [
+            28
+        ],
+        "polymorph": {
+            "disabled": [
+                false
+            ],
+            "poly_mark": {
+                "areaRange": [
+                    0.8
+                ],
+                "reductionPercentage": [
+                    0.25,
+                    0.27,
+                    0.29,
+                    0.31,
+                    0.33,
+                    0.35,
+                    0.38,
+                    0.4,
+                    0.43,
+                    0.46,
+                    0.49,
+                    0.53,
+                    0.56,
+                    0.6,
+                    0.64
+                ],
+                "revertDuration": [
+                    8.0
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.0
+            ],
+            "groundDamage": [
+                0.4
+            ],
+            "flyingDamage": [
+                0.4
+            ],
+            "groundSwarmDefense": [
+                0.7
+            ],
+            "flyingSwarmDefense": [
+                0.7
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "FrostHarbinger": {
+        "ai": {
+            "tags": [
+                "magic",
+				"swarm"
+            ]
+        }
+    }
+}

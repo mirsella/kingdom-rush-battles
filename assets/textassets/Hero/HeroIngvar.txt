@@ -1,0 +1,225 @@
+{
+    "HeroIngvar": {
+        "ingvar_perk": {
+            "damageMeleePercentage": [
+                3
+            ]
+        },
+        "respawn": [
+            15.0
+        ],
+        "health": [
+            283.5,
+            312.7,
+            344.8,
+            380.3,
+            419.4,
+            462.5,
+            510.1,
+            562.6,
+            620.4,
+            684.2,
+            754.6,
+            832.2,
+            917.8,
+            1012.2,
+            1116.3
+        ],
+        "regenPerSecond": [
+            18.4,
+            20.3,
+            22.4,
+            24.7,
+            27.3,
+            30.1,
+            33.2,
+            36.6,
+            40.3,
+            44.5,
+            49.0,
+            54.1,
+            59.7,
+            65.8,
+            72.6
+        ],
+        "armor": [
+            40
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            2.4
+        ],
+        "blockRange": [
+            1
+        ],
+        "bear_form": {
+            "disabled": [
+                false
+            ],
+            "COMMENT": "If reaches the condition below health it needs to reach cooldown to transform to bear",
+            "cooldown": [
+                38.0
+            ],
+            "healthThreshold": [
+                60.0
+            ],
+            "range": [
+                1
+            ],
+            "poly_mark": {
+                "revertDuration": [
+                    5.0
+                ],
+                "spawnInvulnerable": [
+                    true
+                ]
+            }
+        },
+        "Ancestor_call": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                21.0
+            ],
+            "range": [
+                1
+            ],
+            "unit": {
+                "count": [
+                    2.0
+                ]
+            }
+        },
+        "spin_rage": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                12.0
+            ],
+            "COMMENT": "This is the range that the hero recognizes the creep",
+            "range": [
+                0.4
+            ],
+            "damage": {
+                "minDamage": [
+                    52.5,
+                    60.4,
+                    69.4,
+                    79.8,
+                    91.8,
+                    105.6,
+                    121.4,
+                    139.7,
+                    160.6,
+                    184.7,
+                    212.4,
+                    244.3,
+                    280.9,
+                    323.0,
+                    371.5
+                ],
+                "maxDamage": [
+                    63.0,
+                    72.5,
+                    83.3,
+                    95.8,
+                    110.2,
+                    126.7,
+                    145.7,
+                    167.6,
+                    192.7,
+                    221.6,
+                    254.9,
+                    293.1,
+                    337.1,
+                    387.6,
+                    445.8
+                ],
+                "damageType": [
+                    "True"
+                ],
+                "COMMENT": "This is the actual area in which damage will be inflicted",
+                "areaDamageRange": [
+                    1
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    63.0,
+                    72.5,
+                    83.3,
+                    95.8,
+                    110.2,
+                    126.7,
+                    145.7,
+                    167.6,
+                    192.7,
+                    221.6,
+                    254.9,
+                    293.1,
+                    337.1,
+                    387.6,
+                    445.8
+                ],
+                "maxDamage": [
+                    73.5,
+                    84.5,
+                    97.2,
+                    111.8,
+                    128.6,
+                    147.8,
+                    170.0,
+                    195.5,
+                    224.8,
+                    258.6,
+                    297.3,
+                    342.0,
+                    393.2,
+                    452.2,
+                    520.1
+                ],
+                "damageType": [
+                    "True"
+                ],
+                "rangeType": [
+                    "Melee"
+                ]
+            }
+        },
+        "ai": {
+            "groundPhysicalDamage": [
+                2.5
+            ],
+            "groundMagicDamage": [
+                2.5
+            ],
+            "flyingPhysicalDamage": [
+                0.0
+            ],
+            "flyingMagicDamage": [
+                0.0
+            ],
+            "swarmDefense": [
+                4.0
+            ],
+            "block": [
+                3.0
+            ]
+        }
+    }
+}

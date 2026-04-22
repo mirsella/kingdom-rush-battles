@@ -1,0 +1,8 @@
+{
+  "invalid_keywords": [],
+  "name": "WildCardBarberPoleMaterial",
+  "saved_properties": "UnityPropertySheet(m_Colors=[('_Color', ColorRGBA(r=1.0, g=1.0, b=1.0, a=1.0)), ('_StripeColorA', ColorRGBA(r=0.8500000238418579, g=0.10000000149011612, b=0.10000000149011612, a=1.0)), ('_StripeColorB', ColorRGBA(r=1.0, g=0.0, b=0.9397525787353516, a=1.0)), ('_StripeColorC', ColorRGBA(r=0.10000000149011612, g=0.44999998807907104, b=0.8999999761581421, a=1.0)), ('_StripeColorD', ColorRGBA(r=0.20064258575439453, g=1.0, b=0.0, a=1.0))], m_Floats=[('_AngleDeg', -45.0), ('_BottomAlphaFadeAmount', 0.0), ('_BottomDarkenAmount', 1.0), ('_BottomFadeEndY', 0.0), ('_BottomFadeInvert', 0.0), ('_BottomFadeStartY', 0.5), ('_BottomFadeUseMeshY', 0.0), ('_ColorMask', 15.0), ('_MeshFadeBottom', 0.0), ('_MeshFadeTop', 100.0), ('_Speed', 0.5799999833106995), ('_Stencil', 0.0), ('_StencilComp', 8.0), ('_StencilOp', 0.0), ('_StencilReadMask', 255.0), ('_StencilWriteMask', 255.0), ('_StripeSoftness', 0.019999999552965164), ('_StripeWidth', 0.20000000298023224), ('_UseUIAlphaClip', 0.0)], m_TexEnvs=[('_MainTex', UnityTexEnv(m_Offset=Vector2f(0.0, 0.0), m_Scale=Vector2f(1.0, 1.0), m_Texture=PPtr(m_FileID=0, m_PathID=0, assetsfile=<SerializedFile>)))], m_Ints=[])",
+  "shader": "PPtr(m_FileID=2, m_PathID=-5727415556244922292, assetsfile=<SerializedFile>)",
+  "shader_keywords": null,
+  "valid_keywords": []
+}

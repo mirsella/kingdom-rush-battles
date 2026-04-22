@@ -1,0 +1,98 @@
+{
+    "CreepGhostSmall": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            64.0,
+            100.0,
+            128.0,
+            176.0
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.1
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2,
+                1.2,
+                1.2,
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6,
+                    10,
+                    13,
+                    18
+                ],
+                "maxDamage": [
+                    8,
+                    13,
+                    16,
+                    22
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.8
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6,
+                    9,
+                    11,
+                    15
+                ],
+                "maxDamage": [
+                    9,
+                    14,
+                    18,
+                    24
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            },
+            "burn": {
+                "duration": [
+                    0
+                ],
+                "tickTime": [
+                    0.2
+                ],
+                "minHealth": [
+                    0
+                ],
+                "maxHealth": [
+                    0
+                ]
+            }
+        }
+    }
+}

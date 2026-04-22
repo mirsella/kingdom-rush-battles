@@ -1,0 +1,74 @@
+{
+    "CreepShadowCrowcaller": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            280,
+            508,
+            595,
+            683
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8.8,
+                    16.0,
+                    18.7,
+                    21.5
+                ],
+                "maxDamage": [
+                    13.6,
+                    24.7,
+                    28.9,
+                    33.2
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "crow_calling": {
+            "cooldown": [
+                19.0,
+                16.0,
+                13.0,
+                10.0
+            ],
+            "crow_spawn": {
+                "count": [
+                    1.0,
+                    2.0,
+                    2.0,
+                    2.0
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

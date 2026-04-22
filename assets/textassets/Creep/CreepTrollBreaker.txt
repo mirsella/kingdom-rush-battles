@@ -1,0 +1,66 @@
+{
+    "CreepTrollBreaker": {
+        "goldReward": [
+            69
+        ],
+        "goldRewardShiny": [
+            180
+        ],
+        "health": [
+            820
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.5
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.2
+            ],
+            "areaRange": [
+                40
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    60.0
+                ],
+                "maxDamage": [
+                    70.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    0
+                ],
+                "maxHeal": [
+                    0
+                ],
+                "percentageHeal": [
+                    0.6
+                ]
+            }
+        }
+    }
+}

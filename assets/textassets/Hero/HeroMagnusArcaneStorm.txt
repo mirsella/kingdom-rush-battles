@@ -1,0 +1,56 @@
+{
+    "ArcaneStorm": {
+        "COMMENT": "Needs to match the duration of the ability",
+        "timeToLive": [
+            2.0
+        ],
+        "meteor_shower": {
+            "range": [
+                1.2
+            ],
+            "COMMENT": "How much time passes between one damage infliction and another",
+            "cooldown": [
+                0.14
+            ],
+            "damage": {
+                "minDamage": [
+                    9.9,
+                    11.4,
+                    13.1,
+                    15.1,
+                    17.3,
+                    19.9,
+                    22.9,
+                    26.3,
+                    30.3,
+                    34.8,
+                    40.1,
+                    46.1,
+                    53.0,
+                    60.9,
+                    70.0
+                ],
+                "maxDamage": [
+                    15.4,
+                    17.7,
+                    20.4,
+                    23.4,
+                    26.9,
+                    31.0,
+                    35.6,
+                    41.0,
+                    47.1,
+                    54.2,
+                    62.3,
+                    71.6,
+                    82.4,
+                    94.8,
+                    109.0
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        }
+    }
+}

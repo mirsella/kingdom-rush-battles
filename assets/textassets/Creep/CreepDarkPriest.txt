@@ -1,0 +1,81 @@
+{
+    "CreepDarkPriest": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            340,
+            500,
+            640,
+            920
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.8
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.8
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    9.4,
+                    13.8,
+                    17.6,
+                    25.3
+                ],
+                "maxDamage": [
+                    14.5,
+                    21.3,
+                    27.2,
+                    39.1
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "convert": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                16.0,
+                14.0,
+                12.0,
+                10.0
+            ],
+            "range": [
+                1
+            ],
+            "convert_unit": {
+                "COMMENT": "Creep 01 now is Rookie. Dark knight chance is 100-Creep01Chance",
+                "Creep01Chance": [
+                    75,
+                    50,
+                    25,
+                    0
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

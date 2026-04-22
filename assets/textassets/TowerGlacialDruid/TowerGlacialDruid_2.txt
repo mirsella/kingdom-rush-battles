@@ -1,0 +1,218 @@
+{
+    "tower_glacial_druid_2": {
+        "cost": [
+            160
+        ],
+        "basic_attack": {
+            "range": [
+                1.55
+            ],
+            "cooldown": [
+                2.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    11.55,
+                    13.28,
+                    15.27,
+                    17.57,
+                    20.2,
+                    23.23,
+                    26.72,
+                    30.72,
+                    35.33,
+                    40.63,
+                    46.73,
+                    53.74,
+                    61.8,
+                    71.06,
+                    81.72
+                ],
+                "maxDamage": [
+                    12.6,
+                    14.49,
+                    16.66,
+                    19.16,
+                    22.04,
+                    25.34,
+                    29.14,
+                    33.52,
+                    38.54,
+                    44.33,
+                    50.97,
+                    58.62,
+                    67.41,
+                    77.53,
+                    89.15
+                ],
+                "damageType": [
+                    "Magic"
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            },
+            "trueDamage": {
+                "minDamage": [
+                    11.55,
+                    13.28,
+                    15.27,
+                    17.57,
+                    20.2,
+                    23.23,
+                    26.72,
+                    30.72,
+                    35.33,
+                    40.63,
+                    46.73,
+                    53.74,
+                    61.8,
+                    71.06,
+                    81.72
+                ],
+                "maxDamage": [
+                    12.6,
+                    14.49,
+                    16.66,
+                    19.16,
+                    22.04,
+                    25.34,
+                    29.14,
+                    33.52,
+                    38.54,
+                    44.33,
+                    50.97,
+                    58.62,
+                    67.41,
+                    77.53,
+                    89.15
+                ],
+                "areaDamageRange": [
+                    0.6
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "frostpath": {
+            "range": [
+                1.55
+            ],
+            "cooldown": [
+                2.4
+            ],
+            "chance": [
+                1.0
+            ],
+            "damage": {
+                "minDamage": [
+                    11.55,
+                    13.28,
+                    15.27,
+                    17.57,
+                    20.2,
+                    23.23,
+                    26.72,
+                    30.72,
+                    35.33,
+                    40.63,
+                    46.73,
+                    53.74,
+                    61.8,
+                    71.06,
+                    81.72
+                ],
+                "maxDamage": [
+                    12.6,
+                    14.49,
+                    16.66,
+                    19.16,
+                    22.04,
+                    25.34,
+                    29.14,
+                    33.52,
+                    38.54,
+                    44.33,
+                    50.97,
+                    58.62,
+                    67.41,
+                    77.53,
+                    89.15
+                ],
+                "damageType": [
+                    "Magic"
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            },
+            "slow_modifier": {
+                "movementSpeedPercentage": [
+                    -50
+                ],
+                "duration": [
+                    1.5
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    9.0,
+                    19.0,
+                    25.0
+                ],
+                "flyingMagicDamage": [
+                    0.2
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.2
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.3
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    20.0
+                ],
+                "flyingMagicDamage": [
+                    0.2
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.2
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.3
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    4.1
+                ],
+                "attack": [
+                    1.0
+                ]
+            }
+        }
+    }
+}

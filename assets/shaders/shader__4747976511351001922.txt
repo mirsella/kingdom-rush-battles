@@ -1,0 +1,32 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "MP/HoleSoft" {
+Properties {
+
+_MainTex ("Sprite Texture", 2D) = "white" { }
+
+_Color ("Tint", Color) = (1,1,1,1)
+
+_ColorMask ("Color Mask", Float) = 15.0
+
+_CenterPosition ("CenterPosition", Vector) = (0,0,0,0)
+
+_HoleRadiusInside ("Hole Radius Inside", Float) = 100.0
+
+_HoleRadiusOutside ("Hole Radius Outside", Float) = 100.0
+
+}
+SubShader {
+ Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ Pass {
+ Name "Default"
+  Tags { "CanUseSpriteAtlas" = "true" "IGNOREPROJECTOR" = "true" "PreviewType" = "Plane" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZWrite Off
+ Cull Off
+  GpuProgramID 64591
+}
+}
+}

@@ -1,0 +1,11 @@
+{
+    "Broodmother": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "magic",
+                "bulk"
+            ]
+        }
+    }
+}

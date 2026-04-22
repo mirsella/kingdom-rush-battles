@@ -1,0 +1,34 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/Internal-Colored" {
+Properties {
+
+_Color ("Color", Color) = (1,1,1,1)
+
+_SrcBlend ("SrcBlend", Float) = 5.0
+
+_DstBlend ("DstBlend", Float) = 10.0
+
+_ZWrite ("ZWrite", Float) = 1.0
+
+_ZTest ("ZTest", Float) = 4.0
+
+_Cull ("Cull", Float) = 0.0
+
+_ZBias ("ZBias", Float) = 0.0
+
+}
+SubShader {
+ Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ Pass {
+  Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
+ ZTest Off
+ ZWrite Off
+ Cull Off
+  GpuProgramID 18665
+}
+}
+}

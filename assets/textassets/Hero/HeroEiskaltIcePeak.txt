@@ -1,0 +1,75 @@
+{
+    "IcePeak": {
+        "COMMENT": "How much time the spell is active",
+        "timeToLive": [
+            2.0
+        ],
+        "ice_peak": {
+            "range": [
+                1.6
+            ],
+            "ice_peak_mo": {
+                "duration": [
+                    0.21
+                ],
+                "For GD": [
+                    "Here it says health but in this case is fixed damage being removed over time"
+                ],
+                "minHealth": [
+                    1.32,
+                    1.52,
+                    1.75,
+                    2.01,
+                    2.31,
+                    2.65,
+                    3.05,
+                    3.51,
+                    4.04,
+                    4.64,
+                    5.34,
+                    6.14,
+                    7.06,
+                    8.12,
+                    9.34
+                ],
+                "maxHealth": [
+                    2.42,
+                    2.78,
+                    3.2,
+                    3.68,
+                    4.23,
+                    4.87,
+                    5.6,
+                    6.44,
+                    7.4,
+                    8.51,
+                    9.79,
+                    11.26,
+                    12.95,
+                    14.89,
+                    17.12
+                ],
+                "tickTime": [
+                    0.2
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.3
+            ],
+            "groundDamage": [
+                0.5
+            ],
+            "flyingDamage": [
+                0.0
+            ],
+            "groundSwarmDefense": [
+                0.5
+            ],
+            "flyingSwarmDefense": [
+                0.0
+            ]
+        }
+    }
+}

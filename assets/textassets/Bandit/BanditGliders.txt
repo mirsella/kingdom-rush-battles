@@ -1,0 +1,10 @@
+{
+    "BanditGliders": {
+        "ai": {
+            "tags": [
+                "swarm",
+				"flying"
+            ]
+        }
+    }
+}

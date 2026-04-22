@@ -1,0 +1,44 @@
+{
+    "CreepOrc": {
+        "goldReward": [
+            37
+        ],
+        "goldRewardShiny": [
+            115
+        ],
+        "health": [
+            230
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.9
+        ],
+        "basic_attack": {
+            "abilityType": [
+                "BasicAttack"
+            ],
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "minDamage": [
+                    15.0
+                ],
+                "maxDamage": [
+                    20.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

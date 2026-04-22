@@ -1,0 +1,11 @@
+{
+    "BanditShields": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "armor",
+                "bulk"
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "CreepWarHound": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            59,
+            130,
+            169,
+            299
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            2.2
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "range": [
+                1
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    5,
+                    10,
+                    13,
+                    23
+                ],
+                "maxDamage": [
+                    7,
+                    16,
+                    21,
+                    37
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ]
+        }
+    }
+}

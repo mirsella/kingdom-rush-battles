@@ -1,0 +1,56 @@
+//////////////////////////////////////////
+//
+// NOTE: This is *not* a valid shader file
+//
+///////////////////////////////////////////
+Shader "Hidden/InternalClear" {
+Properties {
+
+}
+SubShader {
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 40659
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 113352
+}
+ Pass {
+ ZTest Always
+ Cull Off
+  GpuProgramID 185454
+}
+ Pass {
+ ZTest Always
+ Cull Off
+  GpuProgramID 202167
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 272253
+}
+ Pass {
+ ZTest Always
+ ZWrite Off
+ Cull Off
+  GpuProgramID 346237
+}
+ Pass {
+ ZTest Always
+ Cull Off
+  GpuProgramID 446987
+}
+ Pass {
+ ZTest Always
+ Cull Off
+  GpuProgramID 517744
+}
+}
+}

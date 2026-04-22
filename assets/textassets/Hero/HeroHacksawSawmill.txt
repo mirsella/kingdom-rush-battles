@@ -1,0 +1,57 @@
+{
+    "HeroHacksawSawmill": {
+        "timeToLive": [
+            5.0
+        ],
+        "sawmill_damage": {
+            "range": [
+                0.5
+            ],
+            "saw_modifier": {
+                "duration": [
+                    0.2
+                ],
+                "For GD": [
+                    "Here it says health but in this case is fixed damage being removed over time"
+                ],
+                "minHealth": [
+                    3.4,
+                    3.9,
+                    4.5,
+                    5.2,
+                    6.0,
+                    6.9,
+                    7.9,
+                    9.1,
+                    10.4,
+                    12.0,
+                    13.8,
+                    15.9,
+                    18.3,
+                    21.0,
+                    24.1
+                ],
+                "maxHealth": [
+                    4.5,
+                    5.1,
+                    5.9,
+                    6.8,
+                    7.8,
+                    9.0,
+                    10.3,
+                    11.9,
+                    13.7,
+                    15.7,
+                    18.1,
+                    20.8,
+                    23.9,
+                    27.5,
+                    31.6
+                ],
+                "tickTime": [
+                    0.2
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "BossFlyingDragon": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            386,
+            695,
+            979,
+            1288
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.1
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "range": [
+                1.5,
+                1.5,
+                1.55,
+                1.6
+            ],
+            "damage": {
+                "minDamage": [
+                    16,
+                    28,
+                    40,
+                    53
+                ],
+                "maxDamage": [
+                    19,
+                    34,
+                    48,
+                    63
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                500.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                2.0
+            ]
+        }
+    }
+}

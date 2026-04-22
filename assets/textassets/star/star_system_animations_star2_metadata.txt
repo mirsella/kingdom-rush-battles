@@ -1,0 +1,16 @@
+{
+	"loop" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"loopStar" : 0
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

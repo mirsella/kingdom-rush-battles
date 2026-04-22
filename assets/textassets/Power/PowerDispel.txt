@@ -1,0 +1,38 @@
+{
+    "Dispel": {
+        "cardCooldown": [
+            17
+        ],
+        "COMMENT": "this power would need custom logic for the bot to use it properly",
+        "timeToLive": [
+            4
+        ],
+        "aura": {
+            "disabled": [
+                false
+            ],
+            "dispel": {
+                "areaRange": [
+                    1.45
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.0
+            ],
+            "groundDamage": [
+                0.0
+            ],
+            "flyingDamage": [
+                0.0
+            ],
+            "groundSwarmDefense": [
+                1.0
+            ],
+            "flyingSwarmDefense": [
+                0.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "CreepPillager": {
+        "goldReward": [
+            60
+        ],
+        "health": [
+            1150
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.6
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.3
+            ],
+            "areaRange": [
+                0.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    35.0
+                ],
+                "maxDamage": [
+                    45.0
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        }
+    }
+}

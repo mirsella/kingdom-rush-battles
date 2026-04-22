@@ -1,0 +1,10 @@
+{
+    "Adubon": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "flying"
+            ]
+        }
+    }
+}

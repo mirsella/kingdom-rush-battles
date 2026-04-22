@@ -1,0 +1,114 @@
+{
+    "BossJuggernaut": {
+        "goldReward": [
+            0
+        ],
+        "goldRewardShiny": [
+            0
+        ],
+        "livesPenalty": [
+            999
+        ],
+        "health": [
+            4000
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.4
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.5
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    0
+                ],
+                "maxDamage": [
+                    0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            },
+            "area_damage": {
+                "areaRange": [
+                    0.4
+                ],
+                "minDamage": [
+                    180.0
+                ],
+                "maxDamage": [
+                    200.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "shoot_missile": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                28.0
+            ],
+            "range": [
+                4
+            ],
+            "damage": {
+                "minDamage": [
+                    70.0
+                ],
+                "maxDamage": [
+                    90.0
+                ],
+                "areaRange": [
+                    0.2
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "spawn_head": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                19.0
+            ],
+            "range": [
+                1
+            ],
+            "maxTargets": [
+                4.0
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                0.1
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

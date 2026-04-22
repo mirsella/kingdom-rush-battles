@@ -1,0 +1,56 @@
+{
+    "MagusStorm": {
+        "COMMENT": "Needs to match the duration of the ability",
+        "timeToLive": [
+            2
+        ],
+        "storm": {
+            "range": [
+                0.8
+            ],
+            "COMMENT": "How much time passes between one damage infliction and another",
+            "cooldown": [
+                0.5
+            ],
+            "damage": {
+                "minDamage": [
+                    15,
+                    17,
+                    20,
+                    23,
+                    26,
+                    30,
+                    35,
+                    40,
+                    46,
+                    53,
+                    61,
+                    70,
+                    80,
+                    92,
+                    106
+                ],
+                "maxDamage": [
+                    20,
+                    23,
+                    26,
+                    30,
+                    35,
+                    40,
+                    46,
+                    53,
+                    61,
+                    70,
+                    81,
+                    93,
+                    107,
+                    123,
+                    142
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        }
+    }
+}

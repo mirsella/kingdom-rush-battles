@@ -1,0 +1,10 @@
+{
+    "WarHounds": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "armor"
+            ]
+        }
+    }
+}

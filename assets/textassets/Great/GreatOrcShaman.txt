@@ -1,0 +1,10 @@
+{
+    "GreatOrcShaman": {
+        "ai": {
+            "tags": [
+                "magic",
+				"stun"
+            ]
+        }
+    }
+}

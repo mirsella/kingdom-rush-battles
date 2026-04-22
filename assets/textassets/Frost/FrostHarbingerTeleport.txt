@@ -1,0 +1,85 @@
+{
+    "FrostHarbingerTeleport": {
+        "COMMENT": "If the spell didnt teleport the max count, then it will close when this time passed",
+        "timeToLive": [
+            3.0
+        ],
+        "frostTeleport": {
+            "range": [
+                0.8
+            ],
+            "COMMENT": "Number of times the spell will teleport creeps before disappearing",
+            "cooldown": [
+                0.1
+            ],
+            "maxPerformCount": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "Teleport_modifier": {
+                "distance": [
+                    1.8
+                ],
+                "COMMENT": "Time the enemy unit is invisible after receiving the spell waiting to be teleported",
+                "duration": [
+                    0.6
+                ]
+            },
+            "teleport_mark": {
+                "COMMENT": "This is the time to wait before teleporting the same creep again",
+                "duration": [
+                    3.0,
+                    4.0,
+                    5.0,
+                    6.0
+                ]
+            }
+        },
+        "ai": {
+            "groundValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "groundArmorValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "groundMagicResistanceValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "flyingValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "flyingArmorValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "flyingMagicResistanceValue": [
+                0.5,
+                1.0,
+                1.5,
+                2.5
+            ],
+            "swarm": [
+                4.5,
+                8.0,
+                11.5,
+                16.0
+            ]
+        }
+    }
+}

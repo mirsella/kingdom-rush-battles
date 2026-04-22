@@ -1,0 +1,44 @@
+{
+    "FarmCreep": {
+        "probability": [
+            0.22
+        ],
+        "maxStreak": [
+            1
+        ],
+        "goldReward": [
+            0
+        ],
+        "health": [
+            175
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.8
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "minDamage": [
+                    7.4
+                ],
+                "maxDamage": [
+                    14.8
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

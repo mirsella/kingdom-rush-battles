@@ -1,0 +1,73 @@
+{
+    "tower_mage_2": {
+        "cost": [
+            145
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.7
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    27.3,
+                    31.4,
+                    36.1,
+                    41.5,
+                    47.7,
+                    54.9,
+                    63.1,
+                    72.6,
+                    83.5,
+                    96.0,
+                    110.4,
+                    127.0,
+                    146.1,
+                    168.0,
+                    193.2
+                ],
+                "maxDamage": [
+                    31.5,
+                    36.2,
+                    41.7,
+                    47.9,
+                    55.1,
+                    63.4,
+                    72.9,
+                    83.8,
+                    96.4,
+                    110.8,
+                    127.4,
+                    146.6,
+                    168.5,
+                    193.8,
+                    222.9
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "buff": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.7
+            ],
+            "faith": {
+                "damageReceivedPercentage": [
+                    -35
+                ]
+            }
+        }
+    }
+}

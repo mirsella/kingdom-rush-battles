@@ -1,0 +1,73 @@
+{
+    "Blizzard": {
+        "blizzard": {
+            "cooldown": [
+                17,
+                15,
+                13,
+                10
+            ],
+            "maxTargets": [
+                1,
+                1,
+                2,
+                3
+            ],
+            "blizzard_stun": {
+                "duration": [
+                    5,
+                    6,
+                    7,
+                    9
+                ]
+            }
+        },
+        "ai": {
+            "tags": [
+                "stun"
+            ],
+            "groundValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "groundArmorValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "groundMagicResistanceValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "flyingValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "flyingArmorValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "flyingMagicResistanceValue": [
+                0.75,
+                1.25,
+                2.75,
+                3.75
+            ],
+            "swarm": [
+                3.0,
+                5.0,
+                7.0,
+                10.0
+            ]
+        }
+    }
+}

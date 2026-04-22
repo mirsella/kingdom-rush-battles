@@ -1,0 +1,11 @@
+{
+    "ShadowCrowcaller": {
+        "ai": {
+            "tags": [
+                "swarm",
+                "armor",
+				"bulk"
+            ]
+        }
+    }
+}

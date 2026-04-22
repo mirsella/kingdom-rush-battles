@@ -1,0 +1,30 @@
+{
+    "CreepDarkSlayerSword": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            450
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0
+        ],
+        "knight_upgrade": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                0
+            ],
+            "range": [
+                0.5
+            ]
+        }
+    }
+}

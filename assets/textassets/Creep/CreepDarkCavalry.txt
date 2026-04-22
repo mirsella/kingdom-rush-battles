@@ -1,0 +1,110 @@
+{
+    "CreepDarkCavalry": {
+        "goldReward": [
+            21
+        ],
+        "health": [
+            450
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.5
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    23
+                ],
+                "maxDamage": [
+                    28
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "rush_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                0.1
+            ],
+            "damage": {
+                "abilityType": [
+                    "Skill"
+                ],
+                "minDamage": [
+                    25
+                ],
+                "maxDamage": [
+                    30
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            },
+            "stun": {
+                "duration": [
+                    5.0
+                ]
+            }
+        },
+        "doom_charge": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                15.0
+            ],
+            "range": [
+                1.8
+            ],
+            "rush_mod": {
+                "duration": [
+                    7.0
+                ],
+                "movementSpeedPercentage": [
+                    100
+                ]
+            },
+            "safeDistanceToExit": [
+                6.5
+            ],
+            "forwardMinDistance": [
+                0.5
+            ],
+            "forwardMaxDistance": [
+                2.5
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                0.9
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                20.0
+            ]
+        }
+    }
+}
