@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 10.0,
+    "x": 10.0,
+    "y": 31.0,
+    "z": 29.0
+  },
+  "name": "hud-asst_hud_hero_lifebar_bg",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 46.0,
+    "width": 41.0,
+    "x": 653.0,
+    "y": 300.0
+  },
+  "texture_name": "GameHud",
+  "texture_path_id": -2768117310584031909,
+  "texture_rect": {
+    "height": 46.0,
+    "width": 41.0,
+    "x": 653.0,
+    "y": 300.0
+  }
+}

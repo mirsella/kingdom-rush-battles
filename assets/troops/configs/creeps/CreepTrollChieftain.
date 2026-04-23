@@ -1,0 +1,97 @@
+{
+    "CreepTrollChieftain": {
+        "goldReward": [
+            58
+        ],
+        "goldRewardShiny": [
+            250
+        ],
+        "health": [
+            780
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.6
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    10.0
+                ],
+                "maxDamage": [
+                    12.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "enrage": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                12
+            ],
+            "range": [
+                1.2
+            ],
+            "enrage_buff": {
+                "duration": [
+                    5.0
+                ],
+                "damagePercentage": [
+                    20
+                ],
+                "attackSpeedPercentage": [
+                    20
+                ],
+                "movementSpeedPercentage": [
+                    20
+                ],
+                "minHealth": [
+                    0
+                ],
+                "maxHealth": [
+                    0
+                ],
+                "healthPercentage": [
+                    14
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    0
+                ],
+                "maxHeal": [
+                    0
+                ],
+                "percentageHeal": [
+                    0.8
+                ]
+            }
+        }
+    }
+}

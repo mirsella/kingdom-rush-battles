@@ -1,0 +1,141 @@
+{
+    "tower_mage_1": {
+        "cost": [
+            75
+        ],
+        "COMMENT": "Holy tower spell cooldown PERK config",
+        "cooldownPercentage": [
+            -2
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.6
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    11.6,
+                    13.3,
+                    15.3,
+                    17.6,
+                    20.2,
+                    23.2,
+                    26.7,
+                    30.7,
+                    35.3,
+                    40.6,
+                    46.7,
+                    53.7,
+                    61.8,
+                    71.1,
+                    81.7
+                ],
+                "maxDamage": [
+                    21.0,
+                    24.2,
+                    27.8,
+                    31.9,
+                    36.7,
+                    42.2,
+                    48.6,
+                    55.9,
+                    64.2,
+                    73.9,
+                    85.0,
+                    97.7,
+                    112.4,
+                    129.2,
+                    148.6
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "buff": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.6
+            ],
+            "faith": {
+                "damageReceivedPercentage": [
+                    -30
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    9.4,
+                    16.9,
+                    26.6
+                ],
+                "flyingMagicDamage": [
+                    0.9
+                ],
+                "flyingPhysicalDamage": [
+                    0.1
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    0.1
+                ],
+                "swarmDefense": [
+                    0.1
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    19.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    0.2
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.5
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    19.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    0.2
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.5
+                ]
+            }
+        }
+    }
+}

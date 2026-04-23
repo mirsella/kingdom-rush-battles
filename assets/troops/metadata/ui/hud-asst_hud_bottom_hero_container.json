@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hud-asst_hud_bottom_hero_container",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 282.0,
+    "width": 244.0,
+    "x": 981.0,
+    "y": 21.0
+  },
+  "texture_name": "GameHud",
+  "texture_path_id": -2768117310584031909,
+  "texture_rect": {
+    "height": 282.0,
+    "width": 244.0,
+    "x": 981.0,
+    "y": 21.0
+  }
+}

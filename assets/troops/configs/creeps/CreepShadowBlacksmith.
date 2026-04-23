@@ -1,0 +1,102 @@
+{
+    "CreepShadowBlacksmith": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            500,
+            700,
+            900,
+            1150
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.7
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    17.0,
+                    23.8,
+                    30.6,
+                    39.1
+                ],
+                "maxDamage": [
+                    23.0,
+                    32.2,
+                    41.4,
+                    52.9
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "reforge": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                18.0,
+                14.0,
+                10.0,
+                9.0
+            ],
+            "range": [
+                1
+            ]
+        },
+        "reforge_knight": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1
+            ],
+            "maxTargets": [
+                2,
+                2,
+                3,
+                3
+            ],
+            "poly_knight": {}
+        },
+        "reforge_rookie": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1
+            ],
+            "maxTargets": [
+                2,
+                3,
+                3,
+                3
+            ],
+            "poly_rookie": {}
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

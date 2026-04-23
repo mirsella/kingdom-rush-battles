@@ -1,0 +1,87 @@
+{
+    "MG_TowerGlacialDruid_1": {
+        "stats": {
+            "COST": [
+                80
+            ],
+            "CARD_RANK": [
+                "D",
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                2.4
+            ],
+            "UNIT_MIN_AREA_DAMAGE": [
+                116,
+                133,
+                153,
+                176,
+                202,
+                232,
+                267,
+                307,
+                353,
+                406,
+                467,
+                537,
+                618,
+                711,
+                817
+            ],
+            "UNIT_MAX_AREA_DAMAGE": [
+                137,
+                157,
+                181,
+                208,
+                239,
+                275,
+                316,
+                363,
+                418,
+                480,
+                552,
+                635,
+                730,
+                840,
+                966
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_ARTILLERY_MAGIC"
+            ],
+            "RANGE": [
+                150
+            ]
+        },
+        "skill1": {
+            "DURATION": [
+                1.0
+            ],
+            "DEBUFF_PERCENTAGE": [
+                "30%"
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Increase_Hero_Speed"
+                ],
+                "perkPercentage": [
+                    2
+                ]
+            }
+        }
+    }
+}

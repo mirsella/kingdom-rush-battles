@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 198.0,
+    "x": 148.0,
+    "y": 198.0,
+    "z": 148.0
+  },
+  "name": "asst_cardinfo_tower_background",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 401.0,
+    "width": 309.0,
+    "x": 1262.0,
+    "y": 756.0
+  },
+  "texture_name": "MetagameCardInfo",
+  "texture_path_id": -3143468699496145507,
+  "texture_rect": {
+    "height": 401.0,
+    "width": 309.0,
+    "x": 1262.0,
+    "y": 756.0
+  }
+}

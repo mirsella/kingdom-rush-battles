@@ -12,14 +12,16 @@ from pathlib import Path
 from typing import Any
 
 
-ROOT = Path("/home/mirsella/dev/apks")
-DEFAULT_PACKAGE_ROOT = ROOT / "phone-extract" / "kingdom-rush-battles"
-DEFAULT_OUTPUT_ROOT = DEFAULT_PACKAGE_ROOT / "public_dump_local"
+ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_PACKAGE_ROOT = ROOT / "apps" / "kingdom-rush-battles"
+DEFAULT_OUTPUT_ROOT = DEFAULT_PACKAGE_ROOT / "work" / "public"
 DEFAULT_VENV_ROOT = ROOT / ".venv-krb"
 
-DEFAULT_APK_PATH = DEFAULT_PACKAGE_ROOT / "apks" / "base.apk"
+DEFAULT_APK_PATH = DEFAULT_PACKAGE_ROOT / "inputs" / "device" / "apks" / "base.apk"
 DEFAULT_CACHE_ROOT = (
     DEFAULT_PACKAGE_ROOT
+    / "inputs"
+    / "device"
     / "storage"
     / "com.ironhidegames.kingdomrush.mp"
     / "files"
@@ -28,6 +30,8 @@ DEFAULT_CACHE_ROOT = (
 )
 DEFAULT_CATALOG_PATH = (
     DEFAULT_PACKAGE_ROOT
+    / "inputs"
+    / "device"
     / "storage"
     / "com.ironhidegames.kingdomrush.mp"
     / "files"
@@ -53,6 +57,9 @@ TEXT_EXTENSIONS = {
     ".yaml",
     ".yml",
 }
+
+GOOGLE_API_KEY_RE = re.compile(r"AIza[0-9A-Za-z_-]+")
+REDACTED_GOOGLE_API_KEY = "[REDACTED_GOOGLE_API_KEY]"
 
 GENERIC_PATH_PARTS = {
     "android",
@@ -84,14 +91,71 @@ GENERIC_PATH_PARTS = {
 }
 
 BUCKET_PARENT_DEPTH = {
-    "audio": 2,
-    "materials": 2,
-    "sprites": 2,
-    "textassets": 2,
-    "textures": 2,
+    "audio": 1,
+    "materials": 1,
+    "sprites": 1,
+    "textassets": 1,
+    "textures": 1,
 }
 
 NAME_GROUP_BUCKETS = {"audio", "sprites", "textassets", "textures"}
+
+TROOP_KEYWORDS = {
+    "hero",
+    "creep",
+    "tower",
+    "mercenary",
+    "reinforcement",
+    "troop",
+    "boss",
+    "enemy",
+    "barrack",
+}
+
+TROOP_UI_MARKERS = {
+    "asst_",
+    "avatar",
+    "background",
+    "bk_",
+    "button",
+    "boosters",
+    "build",
+    "cardinfo",
+    "container",
+    "deck",
+    "emote",
+    "frame",
+    "front",
+    "glow",
+    "hud",
+    "icon",
+    "mask",
+    "metagame",
+    "playerprofile",
+    "player_profile",
+    "popupwindow",
+    "portrait",
+    "quickmenu",
+    "shop",
+    "skill",
+    "slot",
+    "stat",
+    "swfatlas",
+    "trophyroad",
+    "towers-quickmenu",
+    "towerskills-quickmenu",
+}
+
+TROOP_PRIMARY_GROUPS = [
+    ("boss", "bosses"),
+    ("reinforcement", "reinforcements"),
+    ("mercenary", "mercenaries"),
+    ("creep", "creeps"),
+    ("enemy", "creeps"),
+    ("tower", "towers"),
+    ("barrack", "towers"),
+    ("hero", "heroes"),
+]
 
 
 def add_site_packages(venv_root: Path) -> None:
@@ -205,6 +269,10 @@ def bytes_from_value(value: Any) -> bytes:
     raise TypeError(f"unsupported byte value {type(value).__name__}")
 
 
+def redact_public_text(text: str) -> str:
+    return GOOGLE_API_KEY_RE.sub(REDACTED_GOOGLE_API_KEY, text)
+
+
 def jsonable(value: Any, depth: int = 0) -> Any:
     if depth > 4:
         return repr(value)
@@ -233,6 +301,59 @@ def jsonable(value: Any, depth: int = 0) -> Any:
         if result:
             return result
     return repr(value)
+
+
+def is_troop_related(*values: Any) -> bool:
+    haystack = " ".join(str(value) for value in values if value).lower()
+    if not haystack:
+        return False
+    return any(keyword in haystack for keyword in TROOP_KEYWORDS)
+
+
+def troop_group(*values: Any, for_config: bool = False) -> str:
+    haystack = " ".join(str(value) for value in values if value).lower()
+    if not haystack:
+        return "other"
+
+    if for_config and any(token in haystack for token in {"mg_", "/mg/", "metagame"}):
+        return "meta"
+
+    if any(marker in haystack for marker in TROOP_UI_MARKERS):
+        return "ui"
+
+    for keyword, group in TROOP_PRIMARY_GROUPS:
+        if keyword in haystack:
+            return group
+
+    return "other"
+
+
+def rect_to_json(rect: Any) -> dict[str, float] | None:
+    if rect is None:
+        return None
+    payload = {}
+    for key in ("x", "y", "width", "height"):
+        value = getattr(rect, key, None)
+        if value is None and isinstance(rect, dict):
+            value = rect.get(key)
+        if value is None:
+            return None
+        payload[key] = float(value)
+    return payload
+
+
+def vector_to_json(vec: Any, fields: tuple[str, ...]) -> dict[str, float] | None:
+    if vec is None:
+        return None
+    payload = {}
+    for key in fields:
+        value = getattr(vec, key, None)
+        if value is None and isinstance(vec, dict):
+            value = vec.get(key)
+        if value is None:
+            return None
+        payload[key] = float(value)
+    return payload
 
 
 def choose_container_path(paths: list[str], fallback_name: str) -> str:
@@ -279,6 +400,16 @@ def build_shallow_logical_path(
         return Path(filename)
     kept_parents = parents[-max(parent_depth, 1) :]
     return Path(*kept_parents) / filename
+
+
+def troop_export_name(
+    container_paths: list[str], fallback_name: str, suffix: str
+) -> str:
+    return build_shallow_logical_path(
+        choose_container_path(container_paths, fallback_name),
+        suffix,
+        parent_depth=1,
+    ).name
 
 
 def swap_extension(path: Path, suffix: str) -> Path:
@@ -344,12 +475,12 @@ def summarize_catalog(catalog_path: Path) -> dict[str, Any] | None:
 
 def render_readme(manifest: dict[str, Any]) -> str:
     exports = manifest.get("global_exports", {})
+    troop_exports = manifest.get("troop_exports", {})
     catalog_summary = manifest.get("catalog_summary") or {}
     error_count = len((manifest.get("errors") or []))
     export_lines = []
     for key, label in [
         ("sprites", "sprites"),
-        ("textures", "textures"),
         ("audio", "audio clips"),
         ("textassets", "text assets"),
         ("materials", "materials"),
@@ -360,6 +491,17 @@ def render_readme(manifest: dict[str, Any]) -> str:
         count = exports.get(key, 0)
         if count:
             export_lines.append(f"- `{count}` {label}")
+    troop_lines = []
+    for key, label in [
+        ("atlases", "troop atlases"),
+        ("atlas_pages", "troop atlas pages"),
+        ("sprite_metadata", "troop sprite metadata files"),
+        ("sprites", "troop sprites"),
+        ("textassets", "troop config text assets"),
+    ]:
+        count = troop_exports.get(key, 0)
+        if count:
+            troop_lines.append(f"- `{count}` {label}")
     return "\n".join(
         [
             "# Kingdom Rush Battles local asset dump",
@@ -368,13 +510,20 @@ def render_readme(manifest: dict[str, Any]) -> str:
             "",
             "## Scope",
             "",
-            "- Source APK: `apks/base.apk`",
-            "- Cached Unity bundles: `storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/*/*/__data`",
+            "- Source APK: `inputs/device/apks/base.apk`",
+            "- Cached Unity bundles: `inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/*/*/__data`",
             "- Addressables catalog summary: `reports/summary.json`",
             "",
             "## Exported assets",
             "",
             *export_lines,
+            "",
+            "## Troop-preserving exports",
+            "",
+            *troop_lines,
+            "",
+            "These exports keep troop-related atlas pages, cropped sprites, sprite metadata, and config text assets under `assets/troops/` without exporting animation clips or controllers.",
+            "Actual unit art is organized first under `assets/troops/heroes`, `assets/troops/towers`, `assets/troops/creeps`, `assets/troops/bosses`, `assets/troops/reinforcements`, and `assets/troops/mercenaries`, while portraits, quickmenu art, cardinfo art, and shop/deck assets live under `assets/troops/ui`.",
             "",
             "## Important limitation",
             "",
@@ -389,8 +538,8 @@ def render_readme(manifest: dict[str, Any]) -> str:
             "",
             "## Extraction script",
             "",
-            "- Script: `/home/mirsella/dev/apks/extract_kingdom_rush_battles_assets.py`",
-            "- Runtime: `/home/mirsella/dev/apks/.venv-krb`",
+            "- Script: `scripts/extract_kingdom_rush_battles_assets.py`",
+            "- Runtime: `.venv-krb`",
             "",
         ]
     )
@@ -403,6 +552,7 @@ class Exporter:
         self.errors: list[dict[str, Any]] = []
         self.global_exports = Counter()
         self.global_types = Counter()
+        self.troop_exports = Counter()
 
     def claim_target(self, target: Path, path_id: int) -> Path:
         if not target.exists():
@@ -438,7 +588,168 @@ class Exporter:
 
     def export_text(self, target: Path, text: str) -> None:
         ensure_parent(target)
+        text = redact_public_text(text)
         target.write_bytes(text.encode("utf-8", errors="surrogatepass"))
+
+    def note_troop_export(self, bucket: str) -> None:
+        self.troop_exports[bucket] += 1
+
+    def troop_sprite_target(
+        self, object_name: str, container_paths: list[str], suffix: str
+    ) -> Path:
+        group = troop_group(object_name, *container_paths)
+        filename = troop_export_name(container_paths, object_name, suffix)
+        return self.output_root / "assets" / "troops" / group / filename
+
+    def troop_metadata_target(
+        self, object_name: str, container_paths: list[str], suffix: str
+    ) -> Path:
+        group = troop_group(object_name, *container_paths)
+        filename = troop_export_name(container_paths, object_name, suffix)
+        return self.output_root / "assets" / "troops" / "metadata" / group / filename
+
+    def troop_config_target(
+        self, container_choice: str, container_paths: list[str], suffix: str
+    ) -> Path:
+        group = troop_group(container_choice, *container_paths, for_config=True)
+        filename = troop_export_name(container_paths, container_choice, suffix)
+        return self.output_root / "assets" / "troops" / "configs" / group / filename
+
+    def export_troop_sprite(
+        self, obj: Any, data: Any, container_paths: list[str], object_name: str
+    ) -> None:
+        search_values = [object_name, *container_paths]
+        if not is_troop_related(*search_values):
+            return
+
+        sprite_target = self.troop_sprite_target(object_name, container_paths, ".png")
+        sprite_target = self.claim_target(sprite_target, obj.path_id)
+        ensure_parent(sprite_target)
+        data.image.save(sprite_target)
+        self.note_troop_export("sprites")
+
+        texture_name = None
+        texture_path_id = None
+        texture_ptr = getattr(getattr(data, "m_RD", None), "texture", None)
+        if texture_ptr is not None and getattr(texture_ptr, "path_id", 0):
+            texture_path_id = getattr(texture_ptr, "path_id", None)
+            try:
+                texture_name = getattr(texture_ptr.read(), "m_Name", None)
+            except Exception:
+                texture_name = None
+
+        metadata = {
+            "name": object_name,
+            "texture_name": texture_name,
+            "texture_path_id": texture_path_id,
+            "rect": rect_to_json(getattr(data, "m_Rect", None)),
+            "texture_rect": rect_to_json(
+                getattr(getattr(data, "m_RD", None), "textureRect", None)
+            ),
+            "pivot": vector_to_json(getattr(data, "m_Pivot", None), ("x", "y")),
+            "border": vector_to_json(
+                getattr(data, "m_Border", None), ("x", "y", "z", "w")
+            ),
+            "pixels_to_units": getattr(data, "m_PixelsToUnits", None),
+        }
+        metadata_target = self.troop_metadata_target(
+            object_name, container_paths, ".json"
+        )
+        metadata_target = self.claim_target(metadata_target, obj.path_id)
+        write_json(metadata_target, metadata)
+        self.note_troop_export("sprite_metadata")
+
+    def export_troop_textasset(
+        self, obj: Any, script: Any, container_paths: list[str], container_choice: str
+    ) -> None:
+        search_values = [container_choice, *container_paths]
+        if not is_troop_related(*search_values):
+            return
+
+        suffix = Path(container_choice).suffix.lower()
+        if suffix not in TEXT_EXTENSIONS:
+            suffix = ".txt"
+        target = self.troop_config_target(container_choice, container_paths, suffix)
+        target = self.claim_target(target, obj.path_id)
+        if isinstance(script, str):
+            self.export_text(target, script)
+        else:
+            self.export_bytes(target, bytes_from_value(script))
+        self.note_troop_export("textassets")
+
+    def export_troop_atlas(self, obj: Any, object_name: str) -> None:
+        tree = obj.read_typetree()
+        packed_names = tree.get("m_PackedSpriteNamesToIndex", []) or []
+        troop_names = [name for name in packed_names if is_troop_related(name)]
+        if not troop_names:
+            return
+
+        atlas_slug = slugify(object_name)
+        troops_root = self.output_root / "assets" / "troops"
+        atlas_manifest_path = troops_root / "atlases" / f"{atlas_slug}.json"
+        pages_root = troops_root / "atlas_pages"
+        render_map = tree.get("m_RenderDataMap", []) or []
+        page_paths: dict[int, str] = {}
+        entries = []
+
+        for index, sprite_name in enumerate(packed_names):
+            if not is_troop_related(sprite_name):
+                continue
+            render_entry = render_map[index][1] if index < len(render_map) else None
+            if not isinstance(render_entry, dict):
+                continue
+
+            texture_ref = render_entry.get("texture") or {}
+            texture_path_id = texture_ref.get("m_PathID")
+            page_path = None
+            texture_name = None
+            if texture_path_id:
+                if texture_path_id not in page_paths:
+                    texture_obj = obj.assets_file.objects.get(texture_path_id)
+                    if texture_obj is not None:
+                        texture_name = getattr(texture_obj.read(), "m_Name", None)
+                        page_target = (
+                            pages_root
+                            / f"{atlas_slug}__{slugify(texture_name or sprite_name)}.png"
+                        )
+                        page_target = self.claim_target(
+                            page_target, texture_obj.path_id
+                        )
+                        ensure_parent(page_target)
+                        texture_obj.read().image.save(page_target)
+                        page_paths[texture_path_id] = str(
+                            page_target.relative_to(troops_root)
+                        )
+                        self.note_troop_export("atlas_pages")
+                page_path = page_paths.get(texture_path_id)
+                if texture_name is None:
+                    texture_obj = obj.assets_file.objects.get(texture_path_id)
+                    if texture_obj is not None:
+                        texture_name = getattr(texture_obj.read(), "m_Name", None)
+
+            entries.append(
+                {
+                    "name": sprite_name,
+                    "texture_name": texture_name,
+                    "texture_path": page_path,
+                    "texture_rect": render_entry.get("textureRect"),
+                    "texture_rect_offset": render_entry.get("textureRectOffset"),
+                    "atlas_rect_offset": render_entry.get("atlasRectOffset"),
+                    "uv_transform": render_entry.get("uvTransform"),
+                    "downscale_multiplier": render_entry.get("downscaleMultiplier"),
+                    "settings_raw": render_entry.get("settingsRaw"),
+                }
+            )
+
+        manifest = {
+            "atlas_name": object_name,
+            "packed_sprite_count": len(packed_names),
+            "troop_sprite_count": len(entries),
+            "troop_sprite_names": troop_names,
+            "entries": entries,
+        }
+        write_json(atlas_manifest_path, manifest)
+        self.note_troop_export("atlases")
 
     def export_object(
         self,
@@ -453,6 +764,7 @@ class Exporter:
             "Mesh",
             "Shader",
             "Sprite",
+            "SpriteAtlas",
             "TextAsset",
             "Texture2D",
         }:
@@ -470,16 +782,11 @@ class Exporter:
             target = self.claim_target(target, obj.path_id)
             ensure_parent(target)
             data.image.save(target)
+            self.export_troop_sprite(obj, data, container_paths, object_name)
             return "sprites", target
 
         if object_type == "Texture2D":
-            target = self.target_from_container(
-                "textures", container_paths, object_name, ".png"
-            )
-            target = self.claim_target(target, obj.path_id)
-            ensure_parent(target)
-            data.image.save(target)
-            return "textures", target
+            return None, None
 
         if object_type == "AudioClip":
             samples = getattr(data, "samples", {}) or {}
@@ -525,6 +832,7 @@ class Exporter:
                 )
                 target = self.claim_target(target, obj.path_id)
                 self.export_bytes(target, bytes_from_value(script))
+            self.export_troop_textasset(obj, script, container_paths, container_choice)
             return "textassets", target
 
         if object_type == "Font":
@@ -578,6 +886,10 @@ class Exporter:
             target = self.claim_target(target, obj.path_id)
             write_json(target, payload)
             return "materials", target
+
+        if object_type == "SpriteAtlas":
+            self.export_troop_atlas(obj, object_name)
+            return None, None
 
         return None, None
 
@@ -683,12 +995,15 @@ def main() -> int:
         "source_count": len(source_summaries),
         "sources": source_summaries,
         "global_exports": dict(exporter.global_exports),
+        "troop_exports": dict(exporter.troop_exports),
         "global_object_types": dict(exporter.global_types),
         "catalog_summary": catalog_summary,
         "notes": [
             "This dump is local-first: it includes base.apk content and cached UnityFS bundles present on disk.",
             "Remote Addressables bundles advertised by the catalog were not anonymously downloadable from the captured install and likely require authenticated cookies or API-mediated access.",
             "User save/config files were intentionally not exported into the public dump.",
+            "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops without exporting animation clips.",
+            "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages.",
         ],
         "errors": exporter.errors,
     }
@@ -704,6 +1019,7 @@ def main() -> int:
             {
                 "sources": len(source_summaries),
                 "exports": dict(exporter.global_exports),
+                "troop_exports": dict(exporter.troop_exports),
                 "errors": len(exporter.errors),
             },
             indent=2,

@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "metagame_shop_popupwindow_illustration_tower_necromancer",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 1330.0,
+    "width": 1180.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": null,
+  "texture_path_id": null,
+  "texture_rect": {
+    "height": 1330.0,
+    "width": 1180.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

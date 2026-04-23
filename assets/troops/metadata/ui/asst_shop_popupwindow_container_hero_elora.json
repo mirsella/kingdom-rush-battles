@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 58.0,
+    "x": 63.0,
+    "y": 58.0,
+    "z": 63.0
+  },
+  "name": "asst_shop_popupwindow_container_hero_elora",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 120.0,
+    "width": 130.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": null,
+  "texture_path_id": null,
+  "texture_rect": {
+    "height": 120.0,
+    "width": 130.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

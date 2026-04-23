@@ -1,0 +1,35 @@
+{
+    "CreepMagmaShardRock": {
+        "goldReward": [
+            20.0
+        ],
+        "health": [
+            100
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "revive": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                12
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                50.0
+            ],
+            "blockweightmultiplier": [
+                20.0
+            ],
+            "threatlevel": [
+                50.0
+            ]
+        }
+    }
+}

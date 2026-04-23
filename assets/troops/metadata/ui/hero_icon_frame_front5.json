@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 226.0,
+    "x": 205.0,
+    "y": 226.0,
+    "z": 207.0
+  },
+  "name": "hero_icon_frame_front5",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 466.0,
+    "width": 428.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": null,
+  "texture_path_id": null,
+  "texture_rect": {
+    "height": 466.0,
+    "width": 428.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

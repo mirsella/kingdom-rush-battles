@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hero_bonehart._Atlas_",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 100.0,
+  "rect": {
+    "height": 2048.0,
+    "width": 2048.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "hero_bonehart._Atlas_",
+  "texture_path_id": -8894057879053003836,
+  "texture_rect": {
+    "height": 2048.0,
+    "width": 2048.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

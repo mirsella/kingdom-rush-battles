@@ -1,0 +1,35 @@
+{
+    "CreepEldritchMagusClone": {
+        "timeToLive": [
+            12.0
+        ],
+        "health": [
+            150.0
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0
+        ],
+        "Rage_unit": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1
+            ],
+            "Rage_Modif": {
+                "magicResistancePercentage": [
+                    95
+                ],
+                "areaRange": [
+                    1
+                ]
+            }
+        }
+    }
+}

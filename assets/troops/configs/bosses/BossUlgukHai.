@@ -1,0 +1,89 @@
+{
+    "BossUlgukHai": {
+        "livesPenalty": [
+            999
+        ],
+        "goldReward": [
+            0
+        ],
+        "health": [
+            4000,
+            4400,
+            4800
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    150
+                ],
+                "maxDamage": [
+                    180
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "areaRange": [
+                    0.4
+                ]
+            }
+        },
+        "shield_raise": {
+            "modifier": {
+                "extraArmor": [
+                    95
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    0
+                ],
+                "maxHeal": [
+                    0
+                ],
+                "percentageHeal": [
+                    0.125
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                50.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

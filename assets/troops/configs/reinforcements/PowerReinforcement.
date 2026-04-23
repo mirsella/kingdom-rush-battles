@@ -1,0 +1,109 @@
+{
+    "Reinforcement": {
+        "cardCooldown": [
+            22
+        ],
+        "health": [
+            65.0,
+            71.69,
+            79.06,
+            87.19,
+            96.16,
+            106.05,
+            116.95,
+            128.98,
+            142.25,
+            156.88,
+            173.01,
+            190.81,
+            210.43,
+            232.07,
+            255.94
+        ],
+        "armor": [
+            10
+        ],
+        "magicResistance": [
+            0
+        ],
+        "blockRange": [
+            0.8
+        ],
+        "speed": [
+            2.5
+        ],
+        "timeToLive": [
+            15
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    10.0,
+                    11.5,
+                    13.23,
+                    15.21,
+                    17.49,
+                    20.11,
+                    23.13,
+                    26.6,
+                    30.59,
+                    35.18,
+                    40.46,
+                    46.52,
+                    53.5,
+                    61.53,
+                    70.76
+                ],
+                "maxDamage": [
+                    12.0,
+                    13.8,
+                    15.87,
+                    18.25,
+                    20.99,
+                    24.14,
+                    27.76,
+                    31.92,
+                    36.71,
+                    42.21,
+                    48.55,
+                    55.83,
+                    64.2,
+                    73.83,
+                    84.91
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.8
+            ],
+            "groundDamage": [
+                0.6
+            ],
+            "flyingDamage": [
+                0.0
+            ],
+            "groundSwarmDefense": [
+                0.8
+            ],
+            "flyingSwarmDefense": [
+                0.0
+            ],
+            "stopping": [
+                100.0
+            ]
+        }
+    }
+}

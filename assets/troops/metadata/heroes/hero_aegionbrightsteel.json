@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hero_aegionbrightsteel._Atlas_",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 100.0,
+  "rect": {
+    "height": 1024.0,
+    "width": 2048.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "hero_aegionbrightsteel._Atlas_",
+  "texture_path_id": -6967413010651979895,
+  "texture_rect": {
+    "height": 1024.0,
+    "width": 2048.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

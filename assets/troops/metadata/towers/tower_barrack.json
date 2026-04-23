@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "tower_barrack._Atlas_",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 100.0,
+  "rect": {
+    "height": 1024.0,
+    "width": 1024.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "tower_barrack._Atlas_",
+  "texture_path_id": -3006515246358160942,
+  "texture_rect": {
+    "height": 1024.0,
+    "width": 1024.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

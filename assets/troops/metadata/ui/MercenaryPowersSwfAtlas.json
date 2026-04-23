@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "MercenaryPowersSwfAtlas._Atlas_",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 100.0,
+  "rect": {
+    "height": 512.0,
+    "width": 1024.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "MercenaryPowersSwfAtlas._Atlas_",
+  "texture_path_id": -3958362415600949743,
+  "texture_rect": {
+    "height": 512.0,
+    "width": 1024.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

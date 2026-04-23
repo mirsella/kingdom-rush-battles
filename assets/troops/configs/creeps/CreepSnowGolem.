@@ -1,0 +1,72 @@
+{
+    "CreepSnowGolem": {
+        "goldReward": [
+            21
+        ],
+        "health": [
+            470
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    25.0
+                ],
+                "maxDamage": [
+                    40.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ranged_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.8
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "minDamage": [
+                    15.0
+                ],
+                "maxDamage": [
+                    30.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "spawn": {
+            "disabled": [
+                false
+            ],
+            "COMMENT": "Count of spawned units",
+            "pathTargetsCount": [
+                2
+            ]
+        }
+    }
+}

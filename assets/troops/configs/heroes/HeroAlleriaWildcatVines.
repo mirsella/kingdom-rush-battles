@@ -1,0 +1,89 @@
+{
+    "HeroAlleriaWildcatVines": {
+        "timeToLive": [
+            5.0,
+            5.3,
+            5.5,
+            5.8,
+            6.0,
+            6.3,
+            6.5,
+            6.8,
+            7.0,
+            7.3,
+            7.5,
+            7.8,
+            8.0,
+            8.3,
+            8.5
+        ],
+        "vines": {
+            "vines_mod": {
+                "areaRange": [
+                    2.0
+                ],
+                "COMMENT": "Time to calculate damage,also How much time after leaving the area is going to be affected",
+                "movementSpeedPercentage": [
+                    -40,
+                    -41,
+                    -42,
+                    -43,
+                    -44,
+                    -45,
+                    -46,
+                    -47,
+                    -48,
+                    -49,
+                    -50,
+                    -51,
+                    -52,
+                    -53,
+                    -54
+                ],
+                "duration": [
+                    1
+                ],
+                "For GD": [
+                    "Here it says health but in this case is fixed damage being removed over time"
+                ],
+                "minHealth": [
+                    16.5,
+                    19.0,
+                    21.8,
+                    25.1,
+                    28.9,
+                    33.2,
+                    38.2,
+                    43.9,
+                    50.5,
+                    58.0,
+                    66.8,
+                    76.8,
+                    88.3,
+                    101.5,
+                    116.7
+                ],
+                "maxHealth": [
+                    22.0,
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7
+                ],
+                "tickTime": [
+                    0.1
+                ]
+            }
+        }
+    }
+}

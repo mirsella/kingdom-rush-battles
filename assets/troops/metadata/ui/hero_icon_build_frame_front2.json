@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hero_icon_build_frame_front2",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 425.0,
+    "width": 361.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": null,
+  "texture_path_id": null,
+  "texture_rect": {
+    "height": 425.0,
+    "width": 361.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

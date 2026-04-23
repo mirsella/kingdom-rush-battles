@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "cardinfo_hero_ashbite_skill4",
+  "pivot": {
+    "x": 0.4965035021305084,
+    "y": 0.5040000081062317
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 125.0,
+    "width": 143.0,
+    "x": 1813.0,
+    "y": 140.0
+  },
+  "texture_name": "MetagameCardInfoIcons",
+  "texture_path_id": -9217530346856591741,
+  "texture_rect": {
+    "height": 125.0,
+    "width": 143.0,
+    "x": 1813.0,
+    "y": 140.0
+  }
+}

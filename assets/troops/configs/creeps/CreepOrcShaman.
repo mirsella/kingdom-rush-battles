@@ -1,0 +1,122 @@
+{
+    "CreepOrcShaman": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            264,
+            479,
+            627,
+            1089
+        ],
+        "armor": [
+            0.0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.9
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6,
+                    10,
+                    13,
+                    23
+                ],
+                "maxDamage": [
+                    13,
+                    13,
+                    17,
+                    30
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    14,
+                    25,
+                    32,
+                    56
+                ],
+                "maxDamage": [
+                    20,
+                    36,
+                    48,
+                    83
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "thunder_strike": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                11
+            ],
+            "damage": {
+                "minDamage": [
+                    8,
+                    10,
+                    10,
+                    14
+                ],
+                "maxDamage": [
+                    10,
+                    12,
+                    13,
+                    17
+                ],
+                "areaRange": [
+                    1.2
+                ],
+                "damageType": [
+                    "True"
+                ]
+            },
+            "stun": {
+                "areaRange": [
+                    0.6
+                ],
+                "duration": [
+                    3
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                10.0
+            ],
+            "threatlevel": [
+                2.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "tower_arcane_wizard_3": {
+        "cost": [
+            270
+        ],
+        "costUnlockable1": [
+            190
+        ],
+        "costUnlockable2": [
+            200,
+            196,
+            192,
+            188,
+            184,
+            180,
+            176,
+            172,
+            168,
+            164,
+            160,
+            156,
+            152,
+            148,
+            144
+        ],
+        "basic_attack": {
+            "range": [
+                1.7
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "minDamage": [
+                    66.0,
+                    75.9,
+                    87.3,
+                    100.4,
+                    115.4,
+                    132.7,
+                    152.7,
+                    175.6,
+                    201.9,
+                    232.2,
+                    267.0,
+                    307.1,
+                    353.1,
+                    406.1,
+                    467.0
+                ],
+                "maxDamage": [
+                    71.5,
+                    82.2,
+                    94.6,
+                    108.7,
+                    125.1,
+                    143.8,
+                    165.4,
+                    190.2,
+                    218.7,
+                    251.5,
+                    289.3,
+                    332.6,
+                    382.5,
+                    439.9,
+                    505.9
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "COMMENT": "Basic attack and magic break should have every same setting except for the magic break part",
+        "magic_break": {
+            "range": [
+                1.7
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "COMMENT": "Needs to be between 0 and 1, otherwise it throws an error",
+            "chance": [
+                0.4
+            ],
+            "damage": {
+                "minDamage": [
+                    66.0,
+                    75.9,
+                    87.3,
+                    100.4,
+                    115.4,
+                    132.7,
+                    152.7,
+                    175.6,
+                    201.9,
+                    232.2,
+                    267.0,
+                    307.1,
+                    353.1,
+                    406.1,
+                    467.0
+                ],
+                "maxDamage": [
+                    71.5,
+                    82.2,
+                    94.6,
+                    108.7,
+                    125.1,
+                    143.8,
+                    165.4,
+                    190.2,
+                    218.7,
+                    251.5,
+                    289.3,
+                    332.6,
+                    382.5,
+                    439.9,
+                    505.9
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            },
+            "magic_break": {
+                "magicResistancePercentage": [
+                    -70
+                ],
+                "duration": [
+                    13
+                ]
+            }
+        },
+        "death_ray": {
+            "range": [
+                1.7
+            ],
+            "cooldown": [
+                16
+            ],
+            "maxTargets": [
+                1
+            ]
+        },
+        "teleport": {
+            "COMMENT": "How many times a unit can be teleported by all teleport effects (except arcane circle power)",
+            "maxTeleport": [
+                2
+            ],
+            "cooldown": [
+                25
+            ],
+            "range": [
+                1.7
+            ]
+        }
+    }
+}

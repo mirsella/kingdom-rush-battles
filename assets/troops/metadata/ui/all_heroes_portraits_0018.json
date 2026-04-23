@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "all_heroes_portraits_0018",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 1280.0,
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "all_heroes_portraits_0018",
+  "texture_path_id": -6935157206550075871,
+  "texture_rect": {
+    "height": 938.8477172851562,
+    "width": 1270.923828125,
+    "x": 13.076120376586914,
+    "y": 182.0761260986328
+  }
+}

@@ -3,77 +3,28 @@
     {
       "error": "error: unpack_from requires a buffer of at least 14232 bytes for unpacking 4 bytes at offset 14228 (actual buffer size is 14228)",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk",
       "path_id": -7194987917536003926,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": -5262756864533169126,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": -3503001081822433155,
       "source": "base_apk"
     },
     {
       "error": "error: unpack_from requires a buffer of at least 13228 bytes for unpacking 4 bytes at offset 13224 (actual buffer size is 13224)",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk",
       "path_id": -690136881412730828,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 2872068856138669328,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 5581492117839542517,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 8933533571761768465,
       "source": "base_apk"
     },
     {
       "error": "error: unpack_from requires a buffer of at least 1612 bytes for unpacking 4 bytes at offset 1608 (actual buffer size is 1608)",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk",
       "path_id": 19,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 2,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 10103,
       "source": "base_apk"
     },
     {
       "error": "ValueError: 7056 is not a valid ShaderGpuProgramType",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd29dd654e00c60ef590b5931700afe7/f087ff34452addf645a29c50bf0d8d4b/__data",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd29dd654e00c60ef590b5931700afe7/f087ff34452addf645a29c50bf0d8d4b/__data",
       "path_id": 129,
       "source": "cache_cd29dd654e00c60ef590b5931700afe7"
     }

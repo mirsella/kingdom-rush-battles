@@ -1,0 +1,76 @@
+{
+    "tower_rocket_gunners_1": {
+        "rocket_perk_1": {
+            "armorPercentage": [
+                2
+            ]
+        },
+        "cost": [
+            80
+        ],
+        "ai": {
+            "level": {
+                "dps": [
+                    16.0,
+                    30.0,
+                    38.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.05
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    20.0
+                ],
+                "flyingMagicDamage": [
+                    0.4
+                ],
+                "flyingPhysicalDamage": [
+                    0.2
+                ],
+                "groundMagicDamage": [
+                    0.4
+                ],
+                "groundPhysicalDamage": [
+                    0.2
+                ],
+                "swarmDefense": [
+                    0.5
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    20.0
+                ],
+                "flyingMagicDamage": [
+                    1.0
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.0
+                ]
+            }
+        }
+    }
+}

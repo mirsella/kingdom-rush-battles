@@ -1,0 +1,16 @@
+{
+	"Idle1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"Attack1" : 3
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

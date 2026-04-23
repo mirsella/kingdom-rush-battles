@@ -1,0 +1,50 @@
+{
+    "CreepGolemSmallMagic": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            225,
+            313,
+            375,
+            700
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.9
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    12.6,
+                    17.5,
+                    21.0,
+                    39.2
+                ],
+                "maxDamage": [
+                    15.3,
+                    21.25,
+                    25.5,
+                    47.6
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        }
+    }
+}

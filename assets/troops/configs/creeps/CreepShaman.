@@ -1,0 +1,63 @@
+{
+    "CreepShaman": {
+        "goldReward": [
+            9
+        ],
+        "health": [
+            210
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.0
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8
+                ],
+                "maxDamage": [
+                    11
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "healing": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                10.0
+            ],
+            "range": [
+                1.2
+            ],
+            "healing": {
+                "duration": [
+                    2
+                ],
+                "minHealth": [
+                    50
+                ],
+                "maxHealth": [
+                    60
+                ]
+            }
+        }
+    }
+}

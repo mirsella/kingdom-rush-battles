@@ -1,0 +1,46 @@
+{
+    "mercenary_power_big_creep": {
+        "probability": [
+            0.22
+        ],
+        "maxStreak": [
+            1
+        ],
+        "cost": [
+            0
+        ],
+        "cardCooldown": [
+            25.0
+        ],
+        "spawn": {
+            "cooldown": [
+                0
+            ],
+            "summon": {
+                "count": [
+                    1
+                ],
+                "delayBetweenSpawns": [
+                    80
+                ]
+            }
+        },
+        "ai": {
+            "delay": [
+                0.0
+            ],
+            "groundDamage": [
+                0.25
+            ],
+            "flyingDamage": [
+                0.25
+            ],
+            "groundSwarmDefense": [
+                0.25
+            ],
+            "flyingSwarmDefense": [
+                0.25
+            ]
+        }
+    }
+}

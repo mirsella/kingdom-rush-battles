@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hero_portrait_gerald",
+  "pivot": {
+    "x": 0.49794238805770874,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 288.0,
+    "width": 243.0,
+    "x": 254.0,
+    "y": 595.0
+  },
+  "texture_name": "HeroPortraits",
+  "texture_path_id": 1,
+  "texture_rect": {
+    "height": 288.0,
+    "width": 243.0,
+    "x": 254.0,
+    "y": 595.0
+  }
+}

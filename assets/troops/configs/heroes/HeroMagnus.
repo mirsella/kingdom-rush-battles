@@ -1,0 +1,211 @@
+{
+    "HeroMagnus": {
+        "magnus_perk": {
+            "magicResistancePercentage": [
+                -3
+            ]
+        },
+        "respawn": [
+            12.0
+        ],
+        "health": [
+            165.0,
+            182.0,
+            200.7,
+            221.3,
+            244.1,
+            269.2,
+            296.9,
+            327.4,
+            361.1,
+            398.2,
+            439.2,
+            484.4,
+            534.2,
+            589.1,
+            649.7
+        ],
+        "regenPerSecond": [
+            17.3,
+            19.1,
+            21.1,
+            23.2,
+            25.6,
+            28.3,
+            31.2,
+            34.4,
+            37.9,
+            41.8,
+            46.1,
+            50.9,
+            56.1,
+            61.9,
+            68.2
+        ],
+        "armor": [
+            15
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.0
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    5.5,
+                    6.3,
+                    7.3,
+                    8.4,
+                    9.6,
+                    11.1,
+                    12.7,
+                    14.6,
+                    16.8,
+                    19.3,
+                    22.3,
+                    25.6,
+                    29.4,
+                    33.8,
+                    38.9
+                ],
+                "maxDamage": [
+                    6.6,
+                    7.6,
+                    8.7,
+                    10.0,
+                    11.5,
+                    13.3,
+                    15.3,
+                    17.6,
+                    20.2,
+                    23.2,
+                    26.7,
+                    30.7,
+                    35.3,
+                    40.6,
+                    46.7
+                ],
+                "damageType": [
+                    "True"
+                ],
+                "rangeType": [
+                    "Melee"
+                ]
+            }
+        },
+        "range_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.1
+            ],
+            "range": [
+                1.8
+            ],
+            "damage": {
+                "minDamage": [
+                    38.5,
+                    44.3,
+                    50.9,
+                    58.6,
+                    67.3,
+                    77.4,
+                    89.1,
+                    102.4,
+                    117.8,
+                    135.4,
+                    155.8,
+                    179.1,
+                    206.0,
+                    236.9,
+                    272.4
+                ],
+                "maxDamage": [
+                    44.0,
+                    50.6,
+                    58.2,
+                    66.9,
+                    77.0,
+                    88.5,
+                    101.8,
+                    117.0,
+                    134.6,
+                    154.8,
+                    178.0,
+                    204.7,
+                    235.4,
+                    270.7,
+                    311.3
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "arcane_storm": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                17.0
+            ],
+            "COMMENT": "Range to recognize creeps, the ability range is in the arcaneStormUnit.Json",
+            "range": [
+                1.8
+            ]
+        },
+        "mirage": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1
+            ],
+            "cooldown": [
+                19.0
+            ],
+            "COMMENT": "How many clones will make",
+            "positionCount": [
+                1.0
+            ]
+        },
+        "drag_teleport": {
+            "thresholdDistance": [
+                1.2
+            ]
+        },
+        "COMMENT": "magnus needs custom movement logic to be used properly by ai",
+        "ai": {
+            "groundPhysicalDamage": [
+                1.5
+            ],
+            "groundMagicDamage": [
+                1.5
+            ],
+            "flyingPhysicalDamage": [
+                1.5
+            ],
+            "flyingMagicDamage": [
+                1.5
+            ],
+            "swarmDefense": [
+                0.0
+            ],
+            "block": [
+                -10.0
+            ]
+        }
+    }
+}

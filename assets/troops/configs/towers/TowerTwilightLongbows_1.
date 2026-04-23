@@ -1,0 +1,188 @@
+{
+    "tower_twilight_longbows_1": {
+        "twi_dmg_perk": {
+            "damagePercentage": [
+                -3
+            ]
+        },
+        "twilight_perk": {
+            "rangeDamagePercentage": [
+                5
+            ]
+        },
+        "cost": [
+            105
+        ],
+        "attack_buff": {
+            "damage_buff": {
+                "damagePercentage": [
+                    40
+                ],
+                "maxStacks": [
+                    3
+                ],
+                "duration": [
+                    14.0
+                ]
+            }
+        },
+        "basic_attack": {
+            "range": [
+                2.4
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "minDamage": [
+                    16.5,
+                    19.0,
+                    21.8,
+                    25.1,
+                    28.9,
+                    33.2,
+                    38.2,
+                    43.9,
+                    50.5,
+                    58.0,
+                    66.8,
+                    76.8,
+                    88.3,
+                    101.5,
+                    116.7
+                ],
+                "maxDamage": [
+                    22.0,
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_max_hp": {
+            "range": [
+                2.4
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "minDamage": [
+                    16.5,
+                    19.0,
+                    21.8,
+                    25.1,
+                    28.9,
+                    33.2,
+                    38.2,
+                    43.9,
+                    50.5,
+                    58.0,
+                    66.8,
+                    76.8,
+                    88.3,
+                    101.5,
+                    116.7
+                ],
+                "maxDamage": [
+                    22.0,
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    6.0,
+                    11.0,
+                    15.0
+                ],
+                "flyingMagicDamage": [
+                    0.0
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.1
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    15.0
+                ],
+                "flyingMagicDamage": [
+                    0.2
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.0
+                ],
+                "groundPhysicalDamage": [
+                    0.0
+                ],
+                "swarmDefense": [
+                    0.2
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    20.0
+                ],
+                "flyingMagicDamage": [
+                    0.5
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.5
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.3
+                ]
+            }
+        }
+    }
+}

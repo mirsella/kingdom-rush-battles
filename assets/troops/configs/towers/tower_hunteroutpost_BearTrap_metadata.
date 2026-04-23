@@ -1,0 +1,44 @@
+{
+	"Spawning1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Idle1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+
+		}
+	},
+	"Ability1_1" : {
+		"attachs" :
+		{
+
+		},
+		"events" :
+		{
+			"Attack1" : 10
+		},
+		"frames" :
+		{
+
+		}
+	}
+}

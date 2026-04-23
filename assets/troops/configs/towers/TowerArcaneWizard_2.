@@ -1,0 +1,114 @@
+{
+    "tower_arcane_wizard_2": {
+        "cost": [
+            180
+        ],
+        "basic_attack": {
+            "range": [
+                1.6
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "minDamage": [
+                    46.2,
+                    53.1,
+                    61.1,
+                    70.3,
+                    80.8,
+                    92.9,
+                    106.9,
+                    122.9,
+                    141.3,
+                    162.5,
+                    186.9,
+                    214.9,
+                    247.2,
+                    284.3,
+                    326.9
+                ],
+                "maxDamage": [
+                    51.7,
+                    59.5,
+                    68.4,
+                    78.6,
+                    90.4,
+                    104.0,
+                    119.6,
+                    137.5,
+                    158.2,
+                    181.9,
+                    209.2,
+                    240.5,
+                    276.6,
+                    318.1,
+                    365.8
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "COMMENT": "Basic attack and magic break should have every same setting except for the magic break part",
+        "magic_break": {
+            "range": [
+                1.6
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "COMMENT": "Needs to be between 0 and 1, otherwise it throws an error",
+            "chance": [
+                0.4
+            ],
+            "damage": {
+                "minDamage": [
+                    46.2,
+                    53.1,
+                    61.1,
+                    70.3,
+                    80.8,
+                    92.9,
+                    106.9,
+                    122.9,
+                    141.3,
+                    162.5,
+                    186.9,
+                    214.9,
+                    247.2,
+                    284.3,
+                    326.9
+                ],
+                "maxDamage": [
+                    51.7,
+                    59.5,
+                    68.4,
+                    78.6,
+                    90.4,
+                    104.0,
+                    119.6,
+                    137.5,
+                    158.2,
+                    181.9,
+                    209.2,
+                    240.5,
+                    276.6,
+                    318.1,
+                    365.8
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            },
+            "magic_break": {
+                "magicResistancePercentage": [
+                    -60
+                ],
+                "duration": [
+                    11
+                ]
+            }
+        }
+    }
+}

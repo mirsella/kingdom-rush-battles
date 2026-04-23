@@ -1,0 +1,186 @@
+{
+    "tower_arcane_wizard_1": {
+        "arcane_perk": {
+            "damagePercentage": [
+                3
+            ]
+        },
+        "cost": [
+            80
+        ],
+        "basic_attack": {
+            "range": [
+                1.5
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    20.9,
+                    24.0,
+                    27.6,
+                    31.8,
+                    36.6,
+                    42.0,
+                    48.3,
+                    55.6,
+                    63.9,
+                    73.5,
+                    84.6,
+                    97.2,
+                    111.8,
+                    128.6,
+                    147.9
+                ],
+                "maxDamage": [
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7,
+                    179.0
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "COMMENT": "Basic attack and magic break should have every same setting except for the magic break part",
+        "magic_break": {
+            "range": [
+                1.5
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "COMMENT": "Needs to be between 0 and 1, otherwise it throws an error",
+            "chance": [
+                0.3
+            ],
+            "damage": {
+                "minDamage": [
+                    20.9,
+                    24.0,
+                    27.6,
+                    31.8,
+                    36.6,
+                    42.0,
+                    48.3,
+                    55.6,
+                    63.9,
+                    73.5,
+                    84.6,
+                    97.2,
+                    111.8,
+                    128.6,
+                    147.9
+                ],
+                "maxDamage": [
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7,
+                    179.0
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            },
+            "magic_break": {
+                "magicResistancePercentage": [
+                    -50
+                ],
+                "duration": [
+                    10
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    10.7,
+                    22.0,
+                    31.7
+                ],
+                "flyingMagicDamage": [
+                    0.9
+                ],
+                "flyingPhysicalDamage": [
+                    0.2
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    0.2
+                ],
+                "swarmDefense": [
+                    0.3
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    26.1
+                ],
+                "flyingMagicDamage": [
+                    1.0
+                ],
+                "flyingPhysicalDamage": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    1.0
+                ],
+                "swarmDefense": [
+                    0.0
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    9.7
+                ],
+                "flyingMagicDamage": [
+                    0.3
+                ],
+                "flyingPhysicalDamage": [
+                    0.3
+                ],
+                "groundMagicDamage": [
+                    0.3
+                ],
+                "groundPhysicalDamage": [
+                    0.3
+                ],
+                "swarmDefense": [
+                    0.7
+                ]
+            }
+        }
+    }
+}

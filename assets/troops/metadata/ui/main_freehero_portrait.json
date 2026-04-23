@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "main_freehero_portrait",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 460.0,
+    "width": 400.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "main_freehero_portrait",
+  "texture_path_id": 4625580865285159870,
+  "texture_rect": {
+    "height": 456.92388916015625,
+    "width": 400.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

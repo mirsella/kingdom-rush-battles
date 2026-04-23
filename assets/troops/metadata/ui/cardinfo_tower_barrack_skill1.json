@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "cardinfo_tower_barrack_skill1",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 126.0,
+    "width": 144.0,
+    "x": 910.0,
+    "y": 1068.0
+  },
+  "texture_name": "MetagameCardInfoIcons",
+  "texture_path_id": -9217530346856591741,
+  "texture_rect": {
+    "height": 126.0,
+    "width": 144.0,
+    "x": 910.0,
+    "y": 1068.0
+  }
+}

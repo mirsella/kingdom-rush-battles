@@ -1,0 +1,17 @@
+{
+	"MercenaryPowers": {
+			"cardCooldown": [
+				6.0,
+				7.0,
+				8.0,
+                20.0
+			],
+			"timeToReset": [
+				10.0
+			],
+		"COMMENT:": ["This one is for roulette animation."],
+		"animationTime": [
+				1.2
+			]
+	}
+}

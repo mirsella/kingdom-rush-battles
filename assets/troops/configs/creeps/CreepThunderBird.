@@ -1,0 +1,69 @@
+{
+    "CreepThunderbird": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            306,
+            563,
+            990,
+            1170
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.2
+        ],
+        "Thundershock": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                8.0
+            ],
+            "range": [
+                0.6
+            ],
+            "minTargets": [
+                2
+            ],
+            "damage": {
+                "minDamage": [
+                    12,
+                    23,
+                    40,
+                    47
+                ],
+                "maxDamage": [
+                    16,
+                    29,
+                    51,
+                    60
+                ],
+                "damageType": [
+                    "True"
+                ]
+            },
+            "thunder_stun": {
+                "duration": [
+                    4.0,
+                    5.0,
+                    8.0,
+                    10.0
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ]
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "CreepRocketRiderFloor": {
+        "goldReward": [
+            35
+        ],
+        "health": [
+            70
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.9
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8.0
+                ],
+                "maxDamage": [
+                    10.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

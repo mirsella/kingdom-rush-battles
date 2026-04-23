@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "trophyroad_creeps_icon_bg_0002",
+  "pivot": {
+    "x": 0.5045454502105713,
+    "y": 0.5061224699020386
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 245.0,
+    "width": 220.0,
+    "x": 4.0,
+    "y": 607.0
+  },
+  "texture_name": "MetagameTrophyRoadCreeps",
+  "texture_path_id": 8681250179201431202,
+  "texture_rect": {
+    "height": 245.0,
+    "width": 220.0,
+    "x": 4.0,
+    "y": 607.0
+  }
+}

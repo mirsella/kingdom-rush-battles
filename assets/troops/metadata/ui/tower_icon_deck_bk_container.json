@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "tower_icon_deck_bk_container",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 386.0,
+    "width": 305.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": null,
+  "texture_path_id": null,
+  "texture_rect": {
+    "height": 386.0,
+    "width": 305.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

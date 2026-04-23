@@ -1,0 +1,109 @@
+{
+    "BossEinar": {
+        "livesPenalty": [
+            999
+        ],
+        "health": [
+            4000,
+            4400,
+            4800
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.7
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    130.0
+                ],
+                "maxDamage": [
+                    150.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "spawn_worgs": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                19.0
+            ],
+            "unit": {
+                "COMMENT": "delay on start to wait fx animation",
+                "delayBetweenSpawns": [
+                    100.0
+                ],
+                "startingDelay": [
+                    5
+                ],
+                "count": [
+                    3.0
+                ],
+                "spawnDistance": [
+                    1.5
+                ]
+            },
+            "safeDistanceToExit": [
+                4.5
+            ]
+        },
+        "spawn_eagels": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                28.0
+            ],
+            "unit": {
+                "COMMENT": "delay on start to wait fx animation",
+                "delayBetweenSpawns": [
+                    180.0
+                ],
+                "startingDelay": [
+                    5
+                ],
+                "count": [
+                    2.0
+                ],
+                "spawnDistance": [
+                    1.5
+                ]
+            },
+            "safeDistanceToExit": [
+                5.0
+            ]
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                50.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

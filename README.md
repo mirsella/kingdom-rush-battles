@@ -1,53 +1,46 @@
-# Kingdom Rush Battles
+# Kingdom Rush Battles local asset dump
 
-Extracted assets from the installed Android build for `com.ironhidegames.kingdomrush.mp`.
+This dump was extracted from the installed Android package and its on-disk Unity cache.
 
-## Version
+## Scope
 
-- Source dump: installed phone extract + on-disk Unity cache
-- Package name: `com.ironhidegames.kingdomrush.mp`
-- Public repo layout: flattened asset-first export
+- Source APK: `inputs/device/apks/base.apk`
+- Cached Unity bundles: `inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/*/*/__data`
+- Addressables catalog summary: `reports/summary.json`
 
-## Contents
+## Exported assets
 
-- `assets/audio/`: exported audio clips
-- `assets/fonts/`: extracted TTF and OTF fonts
-- `assets/materials/`: Unity material metadata JSON
-- `assets/meshes/`: exported OBJ meshes
-- `assets/shaders/`: exported shader text
-- `assets/sprites/`: exported sprite PNGs
-- `assets/textassets/`: extracted text and JSON assets
-- `assets/textures/`: exported texture PNGs
-- `reports/`: extraction summary and remaining decode failures
-- `scripts/`: helper script used to build the dump
-
-## Export Summary
-
-- `3213` sprites
-- `437` textures
-- `1016` audio clips
-- `758` text assets
-- `372` materials
-- `165` shaders
+- `3609` sprites
+- `1838` audio clips
+- `1244` text assets
+- `451` materials
+- `228` shaders
 - `21` meshes
 - `7` fonts
 
-## Extraction Notes
+## Troop-preserving exports
 
-1. Loaded the installed `base.apk` as a Unity data source with UnityPy.
-2. Loaded the locally cached UnityFS bundles from `UnityCache/Shared/*/*/__data`.
-3. Exported browse-friendly decoded assets into top-level type buckets under `assets/`.
-4. Flattened the public layout while keeping one shallow grouping level for large buckets such as sprites, textures, audio, and text assets.
-5. Excluded user save/config data from the public dump.
+- `5` troop atlases
+- `5` troop atlas pages
+- `609` troop sprite metadata files
+- `609` troop sprites
+- `926` troop config text assets
 
-## Notes
+These exports keep troop-related atlas pages, cropped sprites, sprite metadata, and config text assets under `assets/troops/` without exporting animation clips or controllers.
+Actual unit art is organized first under `assets/troops/heroes`, `assets/troops/towers`, `assets/troops/creeps`, `assets/troops/bosses`, `assets/troops/reinforcements`, and `assets/troops/mercenaries`, while portraits, quickmenu art, cardinfo art, and shop/deck assets live under `assets/troops/ui`.
 
-- This repo intentionally keeps decoded extraction outputs suitable for public release, not the original APK or raw Unity bundle containers.
-- The installed catalog references `125` remote CloudFront bundles that were not anonymously downloadable from the captured install. App strings strongly suggest those requests use authenticated cookies or API-mediated session state.
-- This means the repo is a strong local-first extraction, not yet a fully exhaustive remote-complete mirror.
-- `reports/summary.json` is the authoritative summary for counts, per-source stats, and catalog findings.
-- `reports/errors.json` records the `11` remaining malformed shader or empty streamed-texture export failures.
+## Important limitation
 
-## Included Script
+The installed catalog references `125` remote CloudFront bundles that were not anonymously downloadable from the captured install. The app strings strongly suggest those bundle requests use authenticated cookies or API-mediated session state.
 
-- `scripts/extract_kingdom_rush_battles_assets.py`: main package-specific Unity extractor and organizer
+This means this dump is a strong local-first extraction, not yet a fully exhaustive remote-complete mirror.
+
+## Reports
+
+- `reports/summary.json`: extraction counts, per-source stats, and catalog summary
+- `reports/errors.json`: the `4` decode/export failures that remained after extraction
+
+## Extraction script
+
+- Script: `scripts/extract_kingdom_rush_battles_assets.py`
+- Runtime: `.venv-krb`

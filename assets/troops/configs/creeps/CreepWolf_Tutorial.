@@ -1,0 +1,25 @@
+{
+	"CreepWolf":{
+
+		"goldReward": [ 4 ],
+		"goldRewardShiny": [ 45 ],
+
+		"health": [ 15 ],
+		"armor": [ 0 ],
+		"magicResistance": [ 0 ],
+
+		"speed": [ 2.1 ],
+
+		"basic_attack":{
+			"disabled": [ false ],
+			"cooldown": [ 1.40 ],
+
+			"damage":{
+				"abilityType": ["BasicAttack"],
+				"minDamage":[ 5 ],
+				"maxDamage":[ 7 ],
+				"damageType":[ "Physical" ]
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "CreepGargoyle": {
+        "goldReward": [
+            9
+        ],
+        "health": [
+            95
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.5
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "CreepWorg": {
+        "goldReward": [
+            8
+        ],
+        "goldRewardShiny": [
+            82
+        ],
+        "health": [
+            100
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            1.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    7.0
+                ],
+                "maxDamage": [
+                    9.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "dodge": {
+            "chance": [
+                0.4
+            ],
+            "modifier": {
+                "duration": [
+                    1
+                ]
+            }
+        }
+    }
+}

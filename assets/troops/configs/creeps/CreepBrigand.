@@ -1,0 +1,44 @@
+{
+    "CreepBrigand": {
+        "goldReward": [
+            13
+        ],
+        "goldRewardShiny": [
+            106
+        ],
+        "health": [
+            250
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.8
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    13.0
+                ],
+                "maxDamage": [
+                    19.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

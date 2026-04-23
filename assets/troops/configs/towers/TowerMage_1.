@@ -1,0 +1,154 @@
+{
+    "tower_mage_1": {
+        "cost": [
+            70
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.5
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "damage": {
+                "minDamage": [
+                    13.0,
+                    15.0,
+                    17.2,
+                    19.8,
+                    22.7,
+                    26.1,
+                    30.1,
+                    34.6,
+                    39.8,
+                    45.7,
+                    52.6,
+                    60.5,
+                    69.6,
+                    80.0,
+                    92.0
+                ],
+                "maxDamage": [
+                    16.0,
+                    18.4,
+                    21.2,
+                    24.3,
+                    28.0,
+                    32.2,
+                    37.0,
+                    42.6,
+                    48.9,
+                    56.3,
+                    64.7,
+                    74.4,
+                    85.6,
+                    98.4,
+                    113.2
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            },
+            "clusterCount": [
+                2
+            ],
+            "clusterRange": [
+                1.2
+            ],
+            "clusterDamage": {
+                "minDamage": [
+                    3.9,
+                    4.5,
+                    5.2,
+                    5.9,
+                    6.8,
+                    7.8,
+                    9.0,
+                    10.4,
+                    11.9,
+                    13.7,
+                    15.8,
+                    18.1,
+                    20.9,
+                    24.0,
+                    27.6
+                ],
+                "maxDamage": [
+                    4.8,
+                    5.5,
+                    6.3,
+                    7.3,
+                    8.4,
+                    9.7,
+                    11.1,
+                    12.8,
+                    14.7,
+                    16.9,
+                    19.4,
+                    22.3,
+                    25.7,
+                    29.5,
+                    34.0
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    9.4,
+                    19.7,
+                    29.1
+                ],
+                "flyingMagicDamage": [
+                    0.7
+                ],
+                "flyingPhysicalDamage": [
+                    0.0
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    0.0
+                ],
+                "swarmDefense": [
+                    0.0
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    21.71
+                ],
+                "flyingMagicDamage": [
+                    1.0
+                ],
+                "flyingPhysicalDamage": [
+                    0.2
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    0.2
+                ],
+                "swarmDefense": [
+                    0.35
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    4.5
+                ],
+                "attack": [
+                    1.0
+                ]
+            }
+        }
+    }
+}

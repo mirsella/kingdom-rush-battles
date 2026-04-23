@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "towers-quickmenu_tower_barbarian",
+  "pivot": {
+    "x": 0.49673202633857727,
+    "y": 0.5096774101257324
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 155.0,
+    "width": 153.0,
+    "x": 804.0,
+    "y": 977.0
+  },
+  "texture_name": "QuickmenuIcons",
+  "texture_path_id": 1,
+  "texture_rect": {
+    "height": 155.0,
+    "width": 153.0,
+    "x": 804.0,
+    "y": 977.0
+  }
+}

@@ -1,0 +1,175 @@
+{
+    "tower_blazing_gem_2": {
+        "cost": [
+            220
+        ],
+        "basicAttack": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.75
+            ],
+            "cooldown": [
+                0.3
+            ],
+            "tickTime": [
+                0.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    2.7,
+                    3.1,
+                    3.6,
+                    4.1,
+                    4.7,
+                    5.4,
+                    6.2,
+                    7.2,
+                    8.2,
+                    9.5,
+                    10.9,
+                    12.5,
+                    14.4,
+                    16.6,
+                    19.1
+                ],
+                "maxDamage": [
+                    2.7,
+                    3.1,
+                    3.6,
+                    4.1,
+                    4.7,
+                    5.4,
+                    6.2,
+                    7.2,
+                    8.2,
+                    9.5,
+                    10.9,
+                    12.5,
+                    14.4,
+                    16.6,
+                    19.1
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            },
+            "unstable_power": {
+                "minDamage": [
+                    33.0,
+                    38.0,
+                    43.6,
+                    50.2,
+                    57.7,
+                    66.4,
+                    76.3,
+                    87.8,
+                    100.9,
+                    116.1,
+                    133.5,
+                    153.5,
+                    176.6,
+                    203.0,
+                    233.5
+                ],
+                "maxDamage": [
+                    38.5,
+                    44.3,
+                    50.9,
+                    58.6,
+                    67.3,
+                    77.4,
+                    89.1,
+                    102.4,
+                    117.8,
+                    135.4,
+                    155.8,
+                    179.1,
+                    206.0,
+                    236.9,
+                    272.4
+                ],
+                "damageType": [
+                    "Magic"
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            },
+            "COMMENT": "Third ray level config",
+            "timeToAchieve1": [
+                3.0
+            ],
+            "timeToAchieve2": [
+                6.0
+            ],
+            "permanence_1": {
+                "damagePercentage": [
+                    130
+                ]
+            },
+            "permanence_2": {
+                "damagePercentage": [
+                    245
+                ]
+            }
+        },
+        "destructo_ray": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                36
+            ],
+            "COMMENT": "Chance goes between 0 and 1",
+            "destructo_ray_insta": {
+                "chance": [
+                    0.1
+                ]
+            },
+            "damage": {
+                "minDamage": [
+                    38.5,
+                    44.3,
+                    50.9,
+                    58.6,
+                    67.3,
+                    77.4,
+                    89.1,
+                    102.4,
+                    117.8,
+                    135.4,
+                    155.8,
+                    179.1,
+                    206.0,
+                    236.9,
+                    272.4
+                ],
+                "maxDamage": [
+                    44.0,
+                    50.6,
+                    58.2,
+                    66.9,
+                    77.0,
+                    88.5,
+                    101.8,
+                    117.0,
+                    134.6,
+                    154.8,
+                    178.0,
+                    204.7,
+                    235.4,
+                    270.7,
+                    311.3
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "MG_TowerTwilightLongbows_2": {
+        "stats": {
+            "COST": [
+                210
+            ],
+            "CARD_RANK": [
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+",
+                "EX",
+                "EX",
+                "EX+",
+                "MAX"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                2.0
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                330,
+                380,
+                436,
+                502,
+                577,
+                664,
+                763,
+                878,
+                1009,
+                1161,
+                1335,
+                1535,
+                1766,
+                2030,
+                2335
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                385,
+                443,
+                509,
+                586,
+                673,
+                774,
+                891,
+                1024,
+                1178,
+                1354,
+                1558,
+                1791,
+                2060,
+                2369,
+                2724
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_PHYSICAL"
+            ],
+            "RANGE": [
+                255
+            ]
+        },
+        "skill1": {},
+        "legendarySkill": {
+            "BUFF_PERCENTAGE": [
+                "40%"
+            ],
+            "DURATION": [
+                12.0
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Decrease_Creep_Damage"
+                ],
+                "perkPercentage": [
+                    3
+                ]
+            },
+            "perk2": {
+                "perkType": [
+                    "Increase_Hero_Range_Damage"
+                ],
+                "perkPercentage": [
+                    5
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "tower_arcane_wizard_teleport": {
+        "arcaneTeleport": {
+            "range": [
+                0.8
+            ],
+            "COMMENT": "How many times a unit can be teleported by all teleport effects (except arcane circle power)",
+            "cooldown": [
+                0.1
+            ],
+            "maxPerformCount": [
+                4
+            ],
+            "maxTeleport": [
+                2
+            ],
+            "Teleport_modifier": {
+                "distance": [
+                    1.4,
+                    1.44,
+                    1.48,
+                    1.52,
+                    1.56,
+                    1.6,
+                    1.64,
+                    1.68,
+                    1.72,
+                    1.76,
+                    1.8,
+                    1.84,
+                    1.88,
+                    1.92,
+                    1.96
+                ],
+                "COMMENT": "Time the enemy unit is invisible after receiving the spell waiting to be teleported",
+                "duration": [
+                    0.5
+                ]
+            },
+            "teleport_mark": {
+                "COMMENT": "This is the time to wait before teleporting the same creep again",
+                "duration": [
+                    3
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "CreepBanditLeader": {
+        "goldReward": [
+            0.0
+        ],
+        "health": [
+            450,
+            630,
+            810,
+            1035
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.5
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    17,
+                    24,
+                    31,
+                    39
+                ],
+                "maxDamage": [
+                    22,
+                    31,
+                    40,
+                    51
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "helmest_first": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                18.0,
+                16.0,
+                13.0,
+                10.0
+            ],
+            "range": [
+                1
+            ],
+            "maxTargets": [
+                2,
+                2,
+                3,
+                3
+            ],
+            "poly_bandit": {}
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ],
+            "threatlevel": [
+                1.2
+            ]
+        }
+    }
+}

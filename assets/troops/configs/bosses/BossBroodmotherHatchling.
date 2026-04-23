@@ -1,0 +1,44 @@
+{
+    "BossBroodmotherHatchling": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            49,
+            49,
+            53,
+            60
+        ],
+        "speed": [
+            1.8
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "basic_attack": {
+            "cooldown": [
+                1.2
+            ],
+            "damage": {
+                "minDamage": [
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "maxDamage": [
+                    4,
+                    4,
+                    5,
+                    5
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

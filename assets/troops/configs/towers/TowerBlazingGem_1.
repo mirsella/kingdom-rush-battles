@@ -1,0 +1,237 @@
+{
+    "tower_blazing_gem_1": {
+        "blazing_perk_1": {
+            "damagePercentage": [
+                5
+            ]
+        },
+        "blazing_perk_2": {
+            "cooldownPercentage": [
+                2
+            ]
+        },
+        "cost": [
+            120
+        ],
+        "basicAttack": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.75
+            ],
+            "cooldown": [
+                0.3
+            ],
+            "tickTime": [
+                0.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    1.6,
+                    1.8,
+                    2.1,
+                    2.4,
+                    2.8,
+                    3.2,
+                    3.7,
+                    4.2,
+                    4.9,
+                    5.6,
+                    6.5,
+                    7.4,
+                    8.5,
+                    9.8,
+                    11.3
+                ],
+                "maxDamage": [
+                    1.6,
+                    1.8,
+                    2.1,
+                    2.4,
+                    2.8,
+                    3.2,
+                    3.7,
+                    4.2,
+                    4.9,
+                    5.6,
+                    6.5,
+                    7.4,
+                    8.5,
+                    9.8,
+                    11.3
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            },
+            "unstable_power": {
+                "minDamage": [
+                    22.0,
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.2,
+                    50.9,
+                    58.5,
+                    67.3,
+                    77.4,
+                    89.0,
+                    102.4,
+                    117.7,
+                    135.4,
+                    155.7
+                ],
+                "maxDamage": [
+                    27.5,
+                    31.6,
+                    36.4,
+                    41.8,
+                    48.1,
+                    55.3,
+                    63.6,
+                    73.2,
+                    84.1,
+                    96.7,
+                    111.3,
+                    127.9,
+                    147.1,
+                    169.2,
+                    194.6
+                ],
+                "damageType": [
+                    "Magic"
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            },
+            "COMMENT": "Third ray level config",
+            "timeToAchieve1": [
+                4.0
+            ],
+            "timeToAchieve2": [
+                8.0
+            ],
+            "permanence_1": {
+                "damagePercentage": [
+                    130
+                ]
+            },
+            "permanence_2": {
+                "damagePercentage": [
+                    245
+                ]
+            }
+        },
+        "destructo_ray": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                38
+            ],
+            "COMMENT": "Chance goes between 0 and 1",
+            "destructo_ray_insta": {
+                "chance": [
+                    0.08
+                ]
+            },
+            "damage": {
+                "minDamage": [
+                    27.5,
+                    31.6,
+                    36.4,
+                    41.8,
+                    48.1,
+                    55.3,
+                    63.6,
+                    73.2,
+                    84.1,
+                    96.7,
+                    111.3,
+                    127.9,
+                    147.1,
+                    169.2,
+                    194.6
+                ],
+                "maxDamage": [
+                    33.0,
+                    38.0,
+                    43.6,
+                    50.2,
+                    57.7,
+                    66.4,
+                    76.3,
+                    87.8,
+                    100.9,
+                    116.1,
+                    133.5,
+                    153.5,
+                    176.6,
+                    203.0,
+                    233.5
+                ],
+                "damageType": [
+                    "Magic"
+                ]
+            }
+        },
+        "ai": {
+            "level": {
+                "dps": [
+                    10.7,
+                    22.0,
+                    31.7
+                ],
+                "flyingMagicDamage": [
+                    0.3
+                ],
+                "flyingPhysicalDamage": [
+                    0.0
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    0.0
+                ],
+                "swarmDefense": [
+                    0.0
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    26.1
+                ],
+                "flyingMagicDamage": [
+                    0.3
+                ],
+                "flyingPhysicalDamage": [
+                    0.0
+                ],
+                "groundMagicDamage": [
+                    1.0
+                ],
+                "groundPhysicalDamage": [
+                    0.0
+                ],
+                "swarmDefense": [
+                    0.0
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    9.7
+                ],
+                "attack": [
+                    1.0
+                ]
+            }
+        }
+    }
+}

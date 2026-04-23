@@ -1,0 +1,30 @@
+{
+    "CreepLevelMultipliers": {
+								"extraArmor": [
+									0.0
+								],
+								"armorPercentage": [
+									-65.0,
+									-65.0,
+									-45.0,
+									0.0,
+									0.0,
+									0.0,
+									0.0,
+									0.0
+								],
+								"extraMagicResistance": [
+									0.0
+								],
+								"magicResistancePercentage": [
+									-65.0,
+									-65.0,
+									-45.0,
+									0.0,
+									0.0,
+									0.0,
+									0.0,
+									0.0
+								]
+    }
+}

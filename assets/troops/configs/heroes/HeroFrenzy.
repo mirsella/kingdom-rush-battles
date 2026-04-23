@@ -1,0 +1,14 @@
+{
+	"HeroFrenzy":{
+		
+		"buff":{
+			"damagePercentage" : [ 10, 35, 70, 150 ]
+		},
+
+		"ai": {
+			"tags": [
+				"defense"
+			]
+		}
+	}
+}

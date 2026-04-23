@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "player_profile_stat_HERO_CARDS",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 120.0,
+    "width": 120.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "player_profile_stat_HERO_CARDS",
+  "texture_path_id": 5819929482182384930,
+  "texture_rect": {
+    "height": 120.0,
+    "width": 120.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

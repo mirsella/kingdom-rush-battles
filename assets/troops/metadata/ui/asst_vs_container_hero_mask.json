@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "asst_vs_container_hero_mask",
+  "pivot": {
+    "x": 0.5192307829856873,
+    "y": 0.49038460850715637
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 208.0,
+    "width": 208.0,
+    "x": 159.0,
+    "y": 13.0
+  },
+  "texture_name": "MatchLoading",
+  "texture_path_id": 851882738781781371,
+  "texture_rect": {
+    "height": 208.0,
+    "width": 208.0,
+    "x": 159.0,
+    "y": 13.0
+  }
+}

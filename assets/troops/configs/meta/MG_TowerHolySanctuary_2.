@@ -1,0 +1,84 @@
+{
+    "MG_TowerHolySanctuary_2": {
+        "stats": {
+            "COST": [
+                145
+            ],
+            "CARD_RANK": [
+                "D",
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                1.6
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                273,
+                314,
+                361,
+                415,
+                477,
+                549,
+                631,
+                726,
+                835,
+                960,
+                1104,
+                1270,
+                1461,
+                1680,
+                1932
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                315,
+                362,
+                417,
+                479,
+                551,
+                634,
+                729,
+                838,
+                964,
+                1108,
+                1274,
+                1466,
+                1685,
+                1938,
+                2229
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_MAGIC"
+            ],
+            "RANGE": [
+                170
+            ]
+        },
+        "skill1": {
+            "BUFF_PERCENTAGE": [
+                "35%"
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Decrease_Summon_Spell_Cooldown "
+                ],
+                "perkPercentage": [
+                    2
+                ]
+            }
+        }
+    }
+}

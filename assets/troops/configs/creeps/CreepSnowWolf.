@@ -1,0 +1,54 @@
+{
+    "CreepSnowWolf": {
+        "goldReward": [
+            7
+        ],
+        "goldRewardShiny": [
+            30
+        ],
+        "health": [
+            40
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            2.1
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    6.0
+                ],
+                "maxDamage": [
+                    8.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "dodge": {
+            "chance": [
+                0.5
+            ],
+            "modifier": {
+                "duration": [
+                    1
+                ]
+            }
+        }
+    }
+}

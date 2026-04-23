@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "quickmenu-asst_quickmenu_towers_price_container",
+  "pivot": {
+    "x": 0.49038460850715637,
+    "y": 0.5178571343421936
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 28.0,
+    "width": 52.0,
+    "x": 499.0,
+    "y": 5.0
+  },
+  "texture_name": "GameHud",
+  "texture_path_id": -2768117310584031909,
+  "texture_rect": {
+    "height": 28.0,
+    "width": 52.0,
+    "x": 499.0,
+    "y": 5.0
+  }
+}

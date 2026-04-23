@@ -1,7 +1,7 @@
 {
   "catalog_summary": {
     "build_result_hash": "0a6ce3b8b087f9949533ca6ad7f448a7",
-    "catalog_path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/com.unity.addressables/catalog_2026.03.31.15.57.22.json",
+    "catalog_path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/com.unity.addressables/catalog_2026.03.31.15.57.22.json",
     "entry_data_length": 370540,
     "internal_id_classes": {
       "assets_path": 7266,
@@ -39,170 +39,123 @@
     {
       "error": "error: unpack_from requires a buffer of at least 14232 bytes for unpacking 4 bytes at offset 14228 (actual buffer size is 14228)",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk",
       "path_id": -7194987917536003926,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": -5262756864533169126,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": -3503001081822433155,
       "source": "base_apk"
     },
     {
       "error": "error: unpack_from requires a buffer of at least 13228 bytes for unpacking 4 bytes at offset 13224 (actual buffer size is 13224)",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk",
       "path_id": -690136881412730828,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 2872068856138669328,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 5581492117839542517,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 8933533571761768465,
       "source": "base_apk"
     },
     {
       "error": "error: unpack_from requires a buffer of at least 1612 bytes for unpacking 4 bytes at offset 1608 (actual buffer size is 1608)",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk",
       "path_id": 19,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 2,
-      "source": "base_apk"
-    },
-    {
-      "error": "IsADirectoryError: [Errno 21] Is a directory: '/home/mirsella/dev/apks'",
-      "object_type": "Texture2D",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk",
-      "path_id": 10103,
       "source": "base_apk"
     },
     {
       "error": "ValueError: 7056 is not a valid ShaderGpuProgramType",
       "object_type": "Shader",
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd29dd654e00c60ef590b5931700afe7/f087ff34452addf645a29c50bf0d8d4b/__data",
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd29dd654e00c60ef590b5931700afe7/f087ff34452addf645a29c50bf0d8d4b/__data",
       "path_id": 129,
       "source": "cache_cd29dd654e00c60ef590b5931700afe7"
     }
   ],
   "global_exports": {
-    "audio": 1016,
+    "audio": 1838,
     "fonts": 7,
-    "materials": 372,
+    "materials": 451,
     "meshes": 21,
-    "shaders": 165,
-    "sprites": 3213,
-    "textassets": 758,
-    "textures": 437
+    "shaders": 228,
+    "sprites": 3609,
+    "textassets": 1244
   },
   "global_object_types": {
-    "Animation": 51,
-    "AnimationClip": 417,
-    "Animator": 5067,
+    "Animation": 54,
+    "AnimationClip": 418,
+    "Animator": 5134,
     "AnimatorController": 126,
-    "AssetBundle": 42,
-    "AudioClip": 1016,
+    "AssetBundle": 132,
+    "AudioClip": 1838,
     "AudioManager": 1,
-    "AudioMixerController": 12,
-    "AudioMixerGroupController": 108,
-    "AudioMixerSnapshotController": 12,
-    "AudioSource": 1168,
-    "BoxCollider2D": 9,
+    "AudioMixerController": 60,
+    "AudioMixerGroupController": 540,
+    "AudioMixerSnapshotController": 60,
+    "AudioSource": 2050,
+    "BoxCollider2D": 13,
     "BuildSettings": 1,
     "Camera": 12,
     "Canvas": 569,
-    "CanvasGroup": 5220,
-    "CanvasRenderer": 52171,
+    "CanvasGroup": 5222,
+    "CanvasRenderer": 52230,
     "ComputeShader": 16,
     "Cubemap": 6,
     "DelayedCallManager": 1,
     "Font": 7,
-    "GameObject": 75735,
+    "GameObject": 138038,
     "GraphicsSettings": 1,
-    "Grid": 5,
+    "Grid": 50,
     "InputManager": 1,
     "LightProbes": 3,
     "LightingSettings": 3,
-    "LightmapSettings": 9,
-    "Material": 372,
+    "LightmapSettings": 48,
+    "Material": 451,
     "Mesh": 21,
-    "MeshFilter": 517,
-    "MeshRenderer": 518,
-    "MonoBehaviour": 83022,
+    "MeshFilter": 2531,
+    "MeshRenderer": 2532,
+    "MonoBehaviour": 150141,
     "MonoManager": 1,
-    "MonoScript": 4487,
+    "MonoScript": 6876,
     "NavMeshProjectSettings": 1,
-    "NavMeshSettings": 9,
-    "ParticleSystem": 7039,
-    "ParticleSystemRenderer": 7039,
+    "NavMeshSettings": 48,
+    "ParticleSystem": 11893,
+    "ParticleSystemRenderer": 11893,
     "Physics2DSettings": 1,
     "PhysicsManager": 1,
     "PlayerSettings": 1,
-    "PreloadData": 10,
+    "PreloadData": 49,
     "QualitySettings": 1,
-    "RectTransform": 63417,
-    "RenderSettings": 9,
+    "RectTransform": 63487,
+    "RenderSettings": 48,
     "ResourceManager": 1,
     "RuntimeInitializeOnLoadManager": 1,
     "ScriptMapper": 1,
-    "Shader": 169,
-    "SortingGroup": 573,
-    "Sprite": 3213,
-    "SpriteAtlas": 15,
-    "SpriteRenderer": 3423,
+    "Shader": 232,
+    "SortingGroup": 4519,
+    "Sprite": 3609,
+    "SpriteAtlas": 18,
+    "SpriteRenderer": 49772,
     "StreamingManager": 1,
     "TagManager": 1,
-    "TextAsset": 758,
-    "Texture2D": 444,
-    "Tilemap": 5,
-    "TilemapRenderer": 5,
+    "TextAsset": 1244,
+    "Texture2D": 817,
+    "Tilemap": 50,
+    "TilemapRenderer": 50,
     "TimeManager": 1,
-    "Transform": 12318,
+    "TrailRenderer": 1,
+    "Transform": 74551,
     "UnityConnectSettings": 1,
     "VFXManager": 1
   },
   "notes": [
     "This dump is local-first: it includes base.apk content and cached UnityFS bundles present on disk.",
     "Remote Addressables bundles advertised by the catalog were not anonymously downloadable from the captured install and likely require authenticated cookies or API-mediated access.",
-    "User save/config files were intentionally not exported into the public dump."
+    "User save/config files were intentionally not exported into the public dump.",
+    "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops without exporting animation clips.",
+    "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages."
   ],
-  "output_root": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/public_dump_local",
-  "package_root": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles",
-  "source_count": 36,
+  "output_root": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/work/public",
+  "package_root": "/home/mirsella/dev/apks/apps/kingdom-rush-battles",
+  "source_count": 126,
   "sources": [
     {
       "bundle_name": "e0e95d19345ac28dcdcaaf3e8b63bafd_unitybuiltinshaders.bundle",
       "container_count": 198,
-      "error_count": 10,
+      "error_count": 3,
       "exported": {
         "audio": 718,
         "fonts": 7,
@@ -210,8 +163,7 @@
         "meshes": 21,
         "shaders": 103,
         "sprites": 582,
-        "textassets": 38,
-        "textures": 94
+        "textassets": 38
       },
       "label": "base_apk",
       "object_count": 12077,
@@ -276,7 +228,7 @@
         "UnityConnectSettings": 1,
         "VFXManager": 1
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/apks/base.apk"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/apks/base.apk"
     },
     {
       "bundle_name": "026e8513afa84d803d282a0f01a21995.bundle",
@@ -286,8 +238,7 @@
         "materials": 7,
         "shaders": 6,
         "sprites": 1311,
-        "textassets": 55,
-        "textures": 61
+        "textassets": 55
       },
       "label": "cache_026e8513afa84d803d282a0f01a21995",
       "object_count": 253492,
@@ -317,7 +268,39 @@
         "Texture2D": 61,
         "Transform": 4965
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/026e8513afa84d803d282a0f01a21995/2e4d392491b1ea0aa49d85b829c3f398/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/026e8513afa84d803d282a0f01a21995/2e4d392491b1ea0aa49d85b829c3f398/__data"
+    },
+    {
+      "bundle_name": "02ef10f945666692ee1b3495d98406f7.bundle",
+      "container_count": 40,
+      "error_count": 0,
+      "exported": {
+        "audio": 17,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 11
+      },
+      "label": "cache_02ef10f945666692ee1b3495d98406f7",
+      "object_count": 191,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 17,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 19,
+        "GameObject": 32,
+        "Material": 1,
+        "MonoBehaviour": 58,
+        "MonoScript": 6,
+        "Shader": 1,
+        "Sprite": 1,
+        "TextAsset": 11,
+        "Texture2D": 1,
+        "Transform": 32
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/02ef10f945666692ee1b3495d98406f7/c34816e83c0a2a6b41f9badb88daeca3/__data"
     },
     {
       "bundle_name": "04a26e445b89fb97998e72afeff596af.bundle",
@@ -343,7 +326,7 @@
         "SortingGroup": 13,
         "Transform": 13
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/04a26e445b89fb97998e72afeff596af/e4f0b17843777be773892f7bd89d0051/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/04a26e445b89fb97998e72afeff596af/e4f0b17843777be773892f7bd89d0051/__data"
     },
     {
       "bundle_name": "04fbeafefb5ceae9f521f219ad64c5d8.bundle",
@@ -353,8 +336,7 @@
         "materials": 5,
         "shaders": 3,
         "sprites": 88,
-        "textassets": 6,
-        "textures": 12
+        "textassets": 6
       },
       "label": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
       "object_count": 3798,
@@ -384,7 +366,50 @@
         "Texture2D": 12,
         "Transform": 44
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/04fbeafefb5ceae9f521f219ad64c5d8/1b411b2859868758f16c0e5770ba2c94/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/04fbeafefb5ceae9f521f219ad64c5d8/1b411b2859868758f16c0e5770ba2c94/__data"
+    },
+    {
+      "bundle_name": "0a2eddfc32fb0be00f4b7c7012a77761.bundle",
+      "container_count": 117,
+      "error_count": 0,
+      "exported": {
+        "audio": 46,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 11
+      },
+      "label": "cache_0a2eddfc32fb0be00f4b7c7012a77761",
+      "object_count": 1114,
+      "object_types": {
+        "Animation": 3,
+        "AnimationClip": 1,
+        "Animator": 3,
+        "AssetBundle": 1,
+        "AudioClip": 46,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 48,
+        "CanvasGroup": 2,
+        "CanvasRenderer": 59,
+        "GameObject": 230,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 298,
+        "MonoScript": 43,
+        "ParticleSystem": 60,
+        "ParticleSystemRenderer": 60,
+        "RectTransform": 70,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 11,
+        "Texture2D": 1,
+        "Transform": 160
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0a2eddfc32fb0be00f4b7c7012a77761/f1f858382643580f7856e2748aafe2bd/__data"
     },
     {
       "bundle_name": "0b936e344318ced8f37710cc35c4b0ce.bundle",
@@ -398,7 +423,270 @@
         "MonoBehaviour": 44,
         "MonoScript": 1
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0b936e344318ced8f37710cc35c4b0ce/e63f02dd4235f7214c744dc8f84597e7/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0b936e344318ced8f37710cc35c4b0ce/e63f02dd4235f7214c744dc8f84597e7/__data"
+    },
+    {
+      "bundle_name": "0c8dd97b18eed7888753eaf15f42fc9f.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_0c8dd97b18eed7888753eaf15f42fc9f",
+      "object_count": 7971,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1950,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 1850,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 269,
+        "ParticleSystemRenderer": 269,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 107,
+        "SpriteRenderer": 1432,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1950
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0c8dd97b18eed7888753eaf15f42fc9f/7a257df9c69ad632eb21d4ff32997a25/__data"
+    },
+    {
+      "bundle_name": "0df39fdfc9712c42df392d25c271eb9f.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_0df39fdfc9712c42df392d25c271eb9f",
+      "object_count": 9580,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2353,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 51,
+        "MeshRenderer": 51,
+        "MonoBehaviour": 2275,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 247,
+        "ParticleSystemRenderer": 247,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 102,
+        "SpriteRenderer": 1863,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2353
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0df39fdfc9712c42df392d25c271eb9f/ede4ad8668aa75e84ee3f3ad92b19318/__data"
+    },
+    {
+      "bundle_name": "0df82cc356d096b403a6d62da6fa4e49.bundle",
+      "container_count": 69,
+      "error_count": 0,
+      "exported": {
+        "audio": 18,
+        "materials": 3,
+        "shaders": 2,
+        "sprites": 1,
+        "textassets": 5
+      },
+      "label": "cache_0df82cc356d096b403a6d62da6fa4e49",
+      "object_count": 1150,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 18,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 18,
+        "GameObject": 244,
+        "Material": 3,
+        "MeshFilter": 6,
+        "MeshRenderer": 6,
+        "MonoBehaviour": 176,
+        "MonoScript": 34,
+        "ParticleSystem": 186,
+        "ParticleSystemRenderer": 186,
+        "Shader": 2,
+        "SortingGroup": 8,
+        "Sprite": 1,
+        "TextAsset": 5,
+        "Texture2D": 1,
+        "Transform": 244
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0df82cc356d096b403a6d62da6fa4e49/46cddf27cf5e100e716d3030e2081787/__data"
+    },
+    {
+      "bundle_name": "0e36b7784050df749c6bed6ec6590dda.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_0e36b7784050df749c6bed6ec6590dda",
+      "object_count": 2421,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 565,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 679,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 96,
+        "SpriteRenderer": 309,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 565
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0e36b7784050df749c6bed6ec6590dda/fed4b1b8e92f27ada1f433a4aaff3c3b/__data"
+    },
+    {
+      "bundle_name": "0ee8218f18c253534e581ae32da26494.bundle",
+      "container_count": 491,
+      "error_count": 0,
+      "exported": {
+        "audio": 54,
+        "materials": 2,
+        "shaders": 1,
+        "sprites": 75,
+        "textassets": 40
+      },
+      "label": "cache_0ee8218f18c253534e581ae32da26494",
+      "object_count": 1506,
+      "object_types": {
+        "Animator": 4,
+        "AssetBundle": 1,
+        "AudioClip": 54,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 62,
+        "GameObject": 247,
+        "Grid": 2,
+        "Material": 2,
+        "MeshFilter": 4,
+        "MeshRenderer": 4,
+        "MonoBehaviour": 450,
+        "MonoScript": 35,
+        "ParticleSystem": 80,
+        "ParticleSystemRenderer": 80,
+        "Shader": 1,
+        "SortingGroup": 4,
+        "Sprite": 75,
+        "SpriteAtlas": 1,
+        "SpriteRenderer": 37,
+        "TextAsset": 40,
+        "Texture2D": 61,
+        "Tilemap": 2,
+        "TilemapRenderer": 2,
+        "Transform": 247
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0ee8218f18c253534e581ae32da26494/891f89a2475d4967638cb5c33dd87e56/__data"
+    },
+    {
+      "bundle_name": "0f6fa15c8de3d06d9d5680d0d64bd6e3.bundle",
+      "container_count": 24,
+      "error_count": 0,
+      "exported": {
+        "audio": 15,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 5
+      },
+      "label": "cache_0f6fa15c8de3d06d9d5680d0d64bd6e3",
+      "object_count": 184,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 15,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 15,
+        "GameObject": 25,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 55,
+        "MonoScript": 25,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 5,
+        "Texture2D": 1,
+        "Transform": 25
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/0f6fa15c8de3d06d9d5680d0d64bd6e3/1b2c88e7f8d0ea3df669170909357743/__data"
+    },
+    {
+      "bundle_name": "1128d0aec8510d29e0f36abe28a7bfc4.bundle",
+      "container_count": 2,
+      "error_count": 0,
+      "exported": {
+        "audio": 75
+      },
+      "label": "cache_1128d0aec8510d29e0f36abe28a7bfc4",
+      "object_count": 540,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 75,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 76,
+        "GameObject": 124,
+        "MonoBehaviour": 126,
+        "MonoScript": 3,
+        "Transform": 124
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/1128d0aec8510d29e0f36abe28a7bfc4/fb28b90fb1ed0f86de514f3392937197/__data"
+    },
+    {
+      "bundle_name": "13040ce178c7b5e6765103d86259380b.bundle",
+      "container_count": 46,
+      "error_count": 0,
+      "exported": {
+        "audio": 11,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 8
+      },
+      "label": "cache_13040ce178c7b5e6765103d86259380b",
+      "object_count": 370,
+      "object_types": {
+        "Animator": 1,
+        "AssetBundle": 1,
+        "AudioClip": 11,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 12,
+        "GameObject": 67,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 88,
+        "MonoScript": 28,
+        "ParticleSystem": 33,
+        "ParticleSystemRenderer": 33,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 8,
+        "Texture2D": 1,
+        "Transform": 67
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/13040ce178c7b5e6765103d86259380b/92d79643179054e9502befc15d714522/__data"
     },
     {
       "bundle_name": "139691fd5cdf194fe11e3e65b16efced.bundle",
@@ -409,8 +697,7 @@
         "materials": 5,
         "shaders": 4,
         "sprites": 1,
-        "textassets": 5,
-        "textures": 1
+        "textassets": 5
       },
       "label": "cache_139691fd5cdf194fe11e3e65b16efced",
       "object_count": 157,
@@ -434,7 +721,73 @@
         "Texture2D": 1,
         "Transform": 18
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/139691fd5cdf194fe11e3e65b16efced/c562e4122bde80fa7e46f49cd8311067/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/139691fd5cdf194fe11e3e65b16efced/c562e4122bde80fa7e46f49cd8311067/__data"
+    },
+    {
+      "bundle_name": "155c252631fcd75027cb51a41c31df18.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_155c252631fcd75027cb51a41c31df18",
+      "object_count": 3086,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 737,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 822,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 79,
+        "SpriteRenderer": 508,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 737
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/155c252631fcd75027cb51a41c31df18/a1a69670e67ca5fe6026d7183aa340f7/__data"
+    },
+    {
+      "bundle_name": "15de9c4df8ecbb214289b317d1cfd287.bundle",
+      "container_count": 64,
+      "error_count": 0,
+      "exported": {
+        "audio": 13,
+        "materials": 2,
+        "shaders": 2,
+        "sprites": 3,
+        "textassets": 13
+      },
+      "label": "cache_15de9c4df8ecbb214289b317d1cfd287",
+      "object_count": 272,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 13,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 13,
+        "GameObject": 37,
+        "Material": 2,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 92,
+        "MonoScript": 28,
+        "ParticleSystem": 5,
+        "ParticleSystemRenderer": 5,
+        "Shader": 2,
+        "SortingGroup": 3,
+        "Sprite": 3,
+        "TextAsset": 13,
+        "Texture2D": 3,
+        "Transform": 37
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/15de9c4df8ecbb214289b317d1cfd287/5ff7287b2b791af4c571252f49c0e609/__data"
     },
     {
       "bundle_name": "17f250418de5e4056718fdb71869612d.bundle",
@@ -464,7 +817,181 @@
         "TilemapRenderer": 1,
         "Transform": 1217
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/17f250418de5e4056718fdb71869612d/840f62d402add65ff258b2cefa1775bc/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/17f250418de5e4056718fdb71869612d/840f62d402add65ff258b2cefa1775bc/__data"
+    },
+    {
+      "bundle_name": "1e3be2abf8f2a5dec1bfe1f41f3f7ed4.bundle",
+      "container_count": 9,
+      "error_count": 0,
+      "exported": {
+        "audio": 8
+      },
+      "label": "cache_1e3be2abf8f2a5dec1bfe1f41f3f7ed4",
+      "object_count": 141,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 8,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 8,
+        "GameObject": 25,
+        "MonoBehaviour": 31,
+        "MonoScript": 12,
+        "ParticleSystem": 9,
+        "ParticleSystemRenderer": 9,
+        "SortingGroup": 2,
+        "Transform": 25
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/1e3be2abf8f2a5dec1bfe1f41f3f7ed4/4b5d81234fc510d9d8aa7642838cdd09/__data"
+    },
+    {
+      "bundle_name": "20682d2ddbf0f2154a71ad84a7d890ee.bundle",
+      "container_count": 54,
+      "error_count": 0,
+      "exported": {
+        "audio": 10,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 8
+      },
+      "label": "cache_20682d2ddbf0f2154a71ad84a7d890ee",
+      "object_count": 385,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 10,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 10,
+        "GameObject": 65,
+        "Material": 1,
+        "MeshFilter": 3,
+        "MeshRenderer": 3,
+        "MonoBehaviour": 110,
+        "MonoScript": 32,
+        "ParticleSystem": 30,
+        "ParticleSystemRenderer": 30,
+        "Shader": 1,
+        "SortingGroup": 3,
+        "Sprite": 1,
+        "TextAsset": 8,
+        "Texture2D": 1,
+        "Transform": 65
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/20682d2ddbf0f2154a71ad84a7d890ee/96b3c62e62d39dfe305831ea5804c796/__data"
+    },
+    {
+      "bundle_name": "2605781260e8c2cdb8ed8ca7860587ea.bundle",
+      "container_count": 2,
+      "error_count": 0,
+      "exported": {
+        "audio": 2
+      },
+      "label": "cache_2605781260e8c2cdb8ed8ca7860587ea",
+      "object_count": 36,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 2,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 2,
+        "GameObject": 5,
+        "MonoBehaviour": 7,
+        "MonoScript": 3,
+        "Transform": 5
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/2605781260e8c2cdb8ed8ca7860587ea/996ee3454f58bc0e2d6d80f647bf8dfe/__data"
+    },
+    {
+      "bundle_name": "2dc18a774ec54a5599aca9c939cb02c0.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_2dc18a774ec54a5599aca9c939cb02c0",
+      "object_count": 7388,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1806,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 1698,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 271,
+        "ParticleSystemRenderer": 271,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 102,
+        "SpriteRenderer": 1290,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1806
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/2dc18a774ec54a5599aca9c939cb02c0/c5cf2796cfda60dfd44944778fe17f31/__data"
+    },
+    {
+      "bundle_name": "3217c2c5185aab03c1b69265e6c6185b.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_3217c2c5185aab03c1b69265e6c6185b",
+      "object_count": 3705,
+      "object_types": {
+        "AssetBundle": 1,
+        "BoxCollider2D": 1,
+        "GameObject": 889,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 38,
+        "MeshRenderer": 38,
+        "MonoBehaviour": 976,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 76,
+        "SpriteRenderer": 665,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 889
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/3217c2c5185aab03c1b69265e6c6185b/f2d732c1519fcbf229dc8eebc1bacd02/__data"
+    },
+    {
+      "bundle_name": "32de76bd1a9370b76cfb302a21cb9b3e.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_32de76bd1a9370b76cfb302a21cb9b3e",
+      "object_count": 8568,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2098,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 73,
+        "MeshRenderer": 73,
+        "MonoBehaviour": 2197,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 69,
+        "ParticleSystemRenderer": 69,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 133,
+        "SpriteRenderer": 1717,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2098
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/32de76bd1a9370b76cfb302a21cb9b3e/aec1141ddf8ff73d4daf9ba7198c24a5/__data"
     },
     {
       "bundle_name": "32e4f9a8dc1529f88c5cc20c0c4785c5.bundle",
@@ -478,7 +1005,117 @@
         "MonoBehaviour": 124,
         "MonoScript": 8
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/32e4f9a8dc1529f88c5cc20c0c4785c5/87e77ca27e7633217c54d9f5f6d3fc29/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/32e4f9a8dc1529f88c5cc20c0c4785c5/87e77ca27e7633217c54d9f5f6d3fc29/__data"
+    },
+    {
+      "bundle_name": "32fa59d56c503e8eadc2a8a6a47dfb63.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_32fa59d56c503e8eadc2a8a6a47dfb63",
+      "object_count": 2778,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 657,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 754,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 83,
+        "SpriteRenderer": 416,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 657
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/32fa59d56c503e8eadc2a8a6a47dfb63/c2dce62add5b911325bb97e771ffe342/__data"
+    },
+    {
+      "bundle_name": "335cef2b41d0e3c835e80dbd14de8059.bundle",
+      "container_count": 98,
+      "error_count": 0,
+      "exported": {
+        "audio": 15,
+        "materials": 3,
+        "shaders": 2,
+        "sprites": 2,
+        "textassets": 22
+      },
+      "label": "cache_335cef2b41d0e3c835e80dbd14de8059",
+      "object_count": 784,
+      "object_types": {
+        "Animator": 5,
+        "AssetBundle": 1,
+        "AudioClip": 15,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 15,
+        "GameObject": 155,
+        "Material": 3,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 141,
+        "MonoScript": 24,
+        "ParticleSystem": 114,
+        "ParticleSystemRenderer": 114,
+        "Shader": 2,
+        "SortingGroup": 1,
+        "Sprite": 2,
+        "TextAsset": 22,
+        "Texture2D": 2,
+        "Transform": 155
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/335cef2b41d0e3c835e80dbd14de8059/4b982684bdcc5368676011221b53fbc6/__data"
+    },
+    {
+      "bundle_name": "372b0c7f6e45b2d8a681e1426429845a.bundle",
+      "container_count": 579,
+      "error_count": 0,
+      "exported": {
+        "audio": 79,
+        "materials": 10,
+        "shaders": 6,
+        "sprites": 68,
+        "textassets": 51
+      },
+      "label": "cache_372b0c7f6e45b2d8a681e1426429845a",
+      "object_count": 2700,
+      "object_types": {
+        "Animator": 9,
+        "AssetBundle": 1,
+        "AudioClip": 79,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 85,
+        "GameObject": 512,
+        "Grid": 2,
+        "Material": 10,
+        "MeshFilter": 5,
+        "MeshRenderer": 5,
+        "MonoBehaviour": 627,
+        "MonoScript": 36,
+        "ParticleSystem": 272,
+        "ParticleSystemRenderer": 272,
+        "Shader": 6,
+        "SortingGroup": 15,
+        "Sprite": 68,
+        "SpriteAtlas": 1,
+        "SpriteRenderer": 51,
+        "TextAsset": 51,
+        "Texture2D": 66,
+        "Tilemap": 2,
+        "TilemapRenderer": 2,
+        "Transform": 512
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/372b0c7f6e45b2d8a681e1426429845a/47a8c630d7bb8d1ff6814ffb4a951623/__data"
     },
     {
       "bundle_name": "37bbca42093324a52538c888728d70b7.bundle",
@@ -488,8 +1125,7 @@
         "materials": 12,
         "shaders": 1,
         "sprites": 18,
-        "textassets": 2,
-        "textures": 2
+        "textassets": 2
       },
       "label": "cache_37bbca42093324a52538c888728d70b7",
       "object_count": 1719,
@@ -515,7 +1151,42 @@
         "TextAsset": 2,
         "Texture2D": 2
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/37bbca42093324a52538c888728d70b7/a93a80264c7705b815e009942f2c08dd/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/37bbca42093324a52538c888728d70b7/a93a80264c7705b815e009942f2c08dd/__data"
+    },
+    {
+      "bundle_name": "3930cb4177c20aa6f56ef1eb4a5806f1.bundle",
+      "container_count": 58,
+      "error_count": 0,
+      "exported": {
+        "audio": 9,
+        "materials": 2,
+        "shaders": 2,
+        "sprites": 1,
+        "textassets": 14
+      },
+      "label": "cache_3930cb4177c20aa6f56ef1eb4a5806f1",
+      "object_count": 346,
+      "object_types": {
+        "Animator": 2,
+        "AssetBundle": 1,
+        "AudioClip": 9,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 9,
+        "GameObject": 62,
+        "Material": 2,
+        "MonoBehaviour": 72,
+        "MonoScript": 16,
+        "ParticleSystem": 41,
+        "ParticleSystemRenderer": 41,
+        "Shader": 2,
+        "Sprite": 1,
+        "TextAsset": 14,
+        "Texture2D": 1,
+        "Transform": 62
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/3930cb4177c20aa6f56ef1eb4a5806f1/e54285a31bf576b77e45fb60630b362a/__data"
     },
     {
       "bundle_name": "39705a114b9cdff589fba76fa46b3d83.bundle",
@@ -526,8 +1197,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 23,
-        "textures": 1
+        "textassets": 23
       },
       "label": "cache_39705a114b9cdff589fba76fa46b3d83",
       "object_count": 303,
@@ -553,7 +1223,7 @@
         "Texture2D": 1,
         "Transform": 40
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/39705a114b9cdff589fba76fa46b3d83/8edc481db36fcb25bcf50fe15ddfcd57/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/39705a114b9cdff589fba76fa46b3d83/8edc481db36fcb25bcf50fe15ddfcd57/__data"
     },
     {
       "bundle_name": "3982f32953ddd174ce550b9c9aa4c1b9.bundle",
@@ -585,15 +1255,476 @@
         "SortingGroup": 1,
         "Transform": 4
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/3982f32953ddd174ce550b9c9aa4c1b9/dd02c454ad960e411dd54e95141defb7/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/3982f32953ddd174ce550b9c9aa4c1b9/dd02c454ad960e411dd54e95141defb7/__data"
+    },
+    {
+      "bundle_name": "3c73c834a604841056735d5ff333820a.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_3c73c834a604841056735d5ff333820a",
+      "object_count": 5993,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1463,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 1545,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 73,
+        "SpriteRenderer": 1243,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1463
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/3c73c834a604841056735d5ff333820a/602ade8db03edd76807a07a8b1517ba5/__data"
+    },
+    {
+      "bundle_name": "3cb3b8981bcd27048a11965460bf566e.bundle",
+      "container_count": 55,
+      "error_count": 0,
+      "exported": {
+        "audio": 16,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 12
+      },
+      "label": "cache_3cb3b8981bcd27048a11965460bf566e",
+      "object_count": 323,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 16,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 16,
+        "GameObject": 55,
+        "Material": 1,
+        "MeshFilter": 3,
+        "MeshRenderer": 3,
+        "MonoBehaviour": 89,
+        "MonoScript": 17,
+        "ParticleSystem": 19,
+        "ParticleSystemRenderer": 19,
+        "Shader": 1,
+        "SortingGroup": 3,
+        "Sprite": 1,
+        "TextAsset": 12,
+        "Texture2D": 1,
+        "Transform": 55
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/3cb3b8981bcd27048a11965460bf566e/3fcbfcb97a32674647ef8c2f4c28e3c7/__data"
+    },
+    {
+      "bundle_name": "41726b62dec3317bc5d7567d17269b19.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_41726b62dec3317bc5d7567d17269b19",
+      "object_count": 4024,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 973,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 1049,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 69,
+        "SpriteRenderer": 750,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 973
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/41726b62dec3317bc5d7567d17269b19/107be6f51bfed638d7e3ccef593e109d/__data"
+    },
+    {
+      "bundle_name": "42cb64a38efd931e0d3b7d614ca76bf2.bundle",
+      "container_count": 105,
+      "error_count": 0,
+      "exported": {
+        "audio": 19,
+        "materials": 3,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 11
+      },
+      "label": "cache_42cb64a38efd931e0d3b7d614ca76bf2",
+      "object_count": 1164,
+      "object_types": {
+        "Animator": 10,
+        "AssetBundle": 1,
+        "AudioClip": 19,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 19,
+        "GameObject": 230,
+        "Material": 3,
+        "MeshFilter": 6,
+        "MeshRenderer": 6,
+        "MonoBehaviour": 253,
+        "MonoScript": 34,
+        "ParticleSystem": 161,
+        "ParticleSystemRenderer": 161,
+        "Shader": 1,
+        "SortingGroup": 6,
+        "Sprite": 1,
+        "TextAsset": 11,
+        "Texture2D": 1,
+        "Transform": 230
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/42cb64a38efd931e0d3b7d614ca76bf2/77c7eb7abe9a2ce0d6836b4eee8f22cd/__data"
+    },
+    {
+      "bundle_name": "47facde6df358cf827f947d29f54cef1.bundle",
+      "container_count": 42,
+      "error_count": 0,
+      "exported": {
+        "audio": 20,
+        "materials": 2,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 9
+      },
+      "label": "cache_47facde6df358cf827f947d29f54cef1",
+      "object_count": 266,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 20,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 20,
+        "GameObject": 38,
+        "Material": 2,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 86,
+        "MonoScript": 31,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 9,
+        "Texture2D": 1,
+        "TrailRenderer": 1,
+        "Transform": 38
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/47facde6df358cf827f947d29f54cef1/1865ee040c5398f4e30046e6246b0d6a/__data"
+    },
+    {
+      "bundle_name": "48701d615dc28c2d476acb8ac58c797b.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_48701d615dc28c2d476acb8ac58c797b",
+      "object_count": 2864,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 667,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 817,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 95,
+        "SpriteRenderer": 383,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 667
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/48701d615dc28c2d476acb8ac58c797b/bde8eb624b6d9482359742ee4a235ab9/__data"
+    },
+    {
+      "bundle_name": "49058fc7b97dfa91d39fa26988c5da74.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_49058fc7b97dfa91d39fa26988c5da74",
+      "object_count": 3389,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 810,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 900,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 77,
+        "SpriteRenderer": 586,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 810
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/49058fc7b97dfa91d39fa26988c5da74/dfa170b2e49f1c6e0f95dde074f7038d/__data"
+    },
+    {
+      "bundle_name": "4ee3188c0585595db6d36f5e5101e70c.bundle",
+      "container_count": 46,
+      "error_count": 0,
+      "exported": {
+        "audio": 14,
+        "materials": 2,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 10
+      },
+      "label": "cache_4ee3188c0585595db6d36f5e5101e70c",
+      "object_count": 366,
+      "object_types": {
+        "Animator": 3,
+        "AssetBundle": 1,
+        "AudioClip": 14,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 14,
+        "GameObject": 61,
+        "Material": 2,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 87,
+        "MonoScript": 32,
+        "ParticleSystem": 30,
+        "ParticleSystemRenderer": 30,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "SpriteRenderer": 1,
+        "TextAsset": 10,
+        "Texture2D": 1,
+        "Transform": 61
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/4ee3188c0585595db6d36f5e5101e70c/6059c5b428a088e0d03108c76fdd8b2b/__data"
+    },
+    {
+      "bundle_name": "4fb783d25e786a24270286b55fc62c80.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_4fb783d25e786a24270286b55fc62c80",
+      "object_count": 6255,
+      "object_types": {
+        "AssetBundle": 1,
+        "BoxCollider2D": 1,
+        "GameObject": 1526,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 38,
+        "MeshRenderer": 38,
+        "MonoBehaviour": 1615,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 77,
+        "SpriteRenderer": 1301,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1526
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/4fb783d25e786a24270286b55fc62c80/5d51d5576ebad123f70f236c7ad101ce/__data"
+    },
+    {
+      "bundle_name": "58a3a50358c7c5238bc1d8ce95a9e2ce.bundle",
+      "container_count": 62,
+      "error_count": 0,
+      "exported": {
+        "audio": 11,
+        "materials": 4,
+        "shaders": 4,
+        "sprites": 2,
+        "textassets": 12
+      },
+      "label": "cache_58a3a50358c7c5238bc1d8ce95a9e2ce",
+      "object_count": 288,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 11,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 11,
+        "GameObject": 45,
+        "Material": 4,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 79,
+        "MonoScript": 19,
+        "ParticleSystem": 18,
+        "ParticleSystemRenderer": 18,
+        "Shader": 4,
+        "SortingGroup": 2,
+        "Sprite": 2,
+        "TextAsset": 12,
+        "Texture2D": 2,
+        "Transform": 45
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/58a3a50358c7c5238bc1d8ce95a9e2ce/cc6acc4bb25696569565774c4d597a56/__data"
+    },
+    {
+      "bundle_name": "58a46b67ec6a85f1291572011ea0985e.bundle",
+      "container_count": 36,
+      "error_count": 0,
+      "exported": {
+        "audio": 8,
+        "materials": 2,
+        "shaders": 2,
+        "sprites": 1,
+        "textassets": 9
+      },
+      "label": "cache_58a46b67ec6a85f1291572011ea0985e",
+      "object_count": 170,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 8,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 8,
+        "GameObject": 27,
+        "Material": 2,
+        "MonoBehaviour": 42,
+        "MonoScript": 11,
+        "ParticleSystem": 10,
+        "ParticleSystemRenderer": 10,
+        "Shader": 2,
+        "Sprite": 1,
+        "TextAsset": 9,
+        "Texture2D": 1,
+        "Transform": 27
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/58a46b67ec6a85f1291572011ea0985e/ce829e16db4d3b3291b5bb034091dc2c/__data"
+    },
+    {
+      "bundle_name": "5af37f512ee225f3af3d7b69083af16f.bundle",
+      "container_count": 6,
+      "error_count": 0,
+      "exported": {
+        "audio": 105
+      },
+      "label": "cache_5af37f512ee225f3af3d7b69083af16f",
+      "object_count": 958,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 105,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 136,
+        "GameObject": 232,
+        "MonoBehaviour": 238,
+        "MonoScript": 3,
+        "Transform": 232
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/5af37f512ee225f3af3d7b69083af16f/72580d7a5cd77bbf3c7afd87f7c9630a/__data"
+    },
+    {
+      "bundle_name": "5f6fab413f4b53f0d80f85f9bc7710c9.bundle",
+      "container_count": 25,
+      "error_count": 0,
+      "exported": {
+        "audio": 1,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 4
+      },
+      "label": "cache_5f6fab413f4b53f0d80f85f9bc7710c9",
+      "object_count": 93,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 1,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 1,
+        "GameObject": 7,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 32,
+        "MonoScript": 22,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 4,
+        "Texture2D": 1,
+        "Transform": 7
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/5f6fab413f4b53f0d80f85f9bc7710c9/dede0664ece0e4a14587f29f316e4a07/__data"
+    },
+    {
+      "bundle_name": "6011b22b69324e33e5e8e085fd9a5d75.bundle",
+      "container_count": 27,
+      "error_count": 0,
+      "exported": {
+        "audio": 9,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 4
+      },
+      "label": "cache_6011b22b69324e33e5e8e085fd9a5d75",
+      "object_count": 187,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 9,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 9,
+        "GameObject": 24,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 61,
+        "MonoScript": 30,
+        "ParticleSystem": 2,
+        "ParticleSystemRenderer": 2,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 4,
+        "Texture2D": 1,
+        "Transform": 24
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/6011b22b69324e33e5e8e085fd9a5d75/ec4d0007dd92c089a29020bc26bf3f1d/__data"
     },
     {
       "bundle_name": "61ed3e5c34111e4c58534f4a08ed06bb.bundle",
       "container_count": 1,
       "error_count": 0,
       "exported": {
-        "sprites": 1,
-        "textures": 1
+        "sprites": 1
       },
       "label": "cache_61ed3e5c34111e4c58534f4a08ed06bb",
       "object_count": 1286,
@@ -618,7 +1749,201 @@
         "Texture2D": 1,
         "Transform": 54
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/61ed3e5c34111e4c58534f4a08ed06bb/8aa0a54dc4fd5458551d8d0654b05cde/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/61ed3e5c34111e4c58534f4a08ed06bb/8aa0a54dc4fd5458551d8d0654b05cde/__data"
+    },
+    {
+      "bundle_name": "673c78a093b0acde6ded454a7e3a714d.bundle",
+      "container_count": 45,
+      "error_count": 0,
+      "exported": {
+        "audio": 11,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 9
+      },
+      "label": "cache_673c78a093b0acde6ded454a7e3a714d",
+      "object_count": 275,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 11,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 13,
+        "GameObject": 47,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 74,
+        "MonoScript": 18,
+        "ParticleSystem": 17,
+        "ParticleSystemRenderer": 17,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 9,
+        "Texture2D": 1,
+        "Transform": 47
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/673c78a093b0acde6ded454a7e3a714d/f165f9a899585e0b318b21075c4f82cf/__data"
+    },
+    {
+      "bundle_name": "68e4e7a046f672654717a67ef6c0be82.bundle",
+      "container_count": 54,
+      "error_count": 0,
+      "exported": {
+        "audio": 13,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 11
+      },
+      "label": "cache_68e4e7a046f672654717a67ef6c0be82",
+      "object_count": 242,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 13,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 13,
+        "GameObject": 31,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 94,
+        "MonoScript": 27,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 11,
+        "Texture2D": 1,
+        "Transform": 31
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/68e4e7a046f672654717a67ef6c0be82/50a8d5e5c09134bdf62e2168bd3117f2/__data"
+    },
+    {
+      "bundle_name": "6ad9c6a55af21d6374154507316f3f87.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_6ad9c6a55af21d6374154507316f3f87",
+      "object_count": 3128,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 747,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 838,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 84,
+        "SpriteRenderer": 509,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 747
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/6ad9c6a55af21d6374154507316f3f87/23d4b716e16c2bbc74837828bb8358c6/__data"
+    },
+    {
+      "bundle_name": "6b964f1ceb3b4ca3316e5bf0e8d86f32.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_6b964f1ceb3b4ca3316e5bf0e8d86f32",
+      "object_count": 4819,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1166,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 1262,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 81,
+        "SpriteRenderer": 942,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1166
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/6b964f1ceb3b4ca3316e5bf0e8d86f32/a8f7ddbde7faab7d4bcf867f9b0c0f44/__data"
+    },
+    {
+      "bundle_name": "6d69c5d0b1e25e5c504512d96a54c1fe.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_6d69c5d0b1e25e5c504512d96a54c1fe",
+      "object_count": 6088,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1474,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 1618,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 116,
+        "SpriteRenderer": 1168,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1474
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/6d69c5d0b1e25e5c504512d96a54c1fe/472dff41bf970b5bebec21ddb8e8cbcc/__data"
+    },
+    {
+      "bundle_name": "6ebb77ed84b05fcd55f0f4b8593dcd9b.bundle",
+      "container_count": 13,
+      "error_count": 0,
+      "exported": {
+        "audio": 3,
+        "materials": 2,
+        "shaders": 2,
+        "sprites": 1,
+        "textassets": 1
+      },
+      "label": "cache_6ebb77ed84b05fcd55f0f4b8593dcd9b",
+      "object_count": 104,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 3,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 3,
+        "GameObject": 10,
+        "Material": 2,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 31,
+        "MonoScript": 25,
+        "Shader": 2,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 1,
+        "Texture2D": 1,
+        "Transform": 10
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/6ebb77ed84b05fcd55f0f4b8593dcd9b/f595b57fcafe92e1a4f8ccab6a90a518/__data"
     },
     {
       "bundle_name": "722b8511b14805cffa7e34d03a4155ad.bundle",
@@ -629,8 +1954,7 @@
         "materials": 7,
         "shaders": 4,
         "sprites": 122,
-        "textassets": 58,
-        "textures": 69
+        "textassets": 58
       },
       "label": "cache_722b8511b14805cffa7e34d03a4155ad",
       "object_count": 2330,
@@ -662,7 +1986,384 @@
         "TilemapRenderer": 2,
         "Transform": 413
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/722b8511b14805cffa7e34d03a4155ad/66139e3d4213c193e73875ef9c3d4794/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/722b8511b14805cffa7e34d03a4155ad/66139e3d4213c193e73875ef9c3d4794/__data"
+    },
+    {
+      "bundle_name": "73b7c16c11b0b083afeb4efdd1cee798.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_73b7c16c11b0b083afeb4efdd1cee798",
+      "object_count": 9734,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2390,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 2516,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 106,
+        "SpriteRenderer": 2090,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2390
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/73b7c16c11b0b083afeb4efdd1cee798/b2791df14b3adc18949bc6a15d97076d/__data"
+    },
+    {
+      "bundle_name": "782a79b5bb208921ce01fe1d9a1f65a2.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_782a79b5bb208921ce01fe1d9a1f65a2",
+      "object_count": 13378,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 3303,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 71,
+        "MeshRenderer": 71,
+        "MonoBehaviour": 3417,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 123,
+        "SpriteRenderer": 2951,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 3303
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/782a79b5bb208921ce01fe1d9a1f65a2/348f76b3e3a5301a2ef12b79d9136696/__data"
+    },
+    {
+      "bundle_name": "79594e24acbdcc99ca93a491c841b498.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_79594e24acbdcc99ca93a491c841b498",
+      "object_count": 2487,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 581,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 693,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 93,
+        "SpriteRenderer": 332,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 581
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/79594e24acbdcc99ca93a491c841b498/2192f741d683be249d691dcaaf01fb9e/__data"
+    },
+    {
+      "bundle_name": "7b65b7dfceb5c972ab496ebb60643dc2.bundle",
+      "container_count": 20,
+      "error_count": 0,
+      "exported": {
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 3
+      },
+      "label": "cache_7b65b7dfceb5c972ab496ebb60643dc2",
+      "object_count": 244,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 52,
+        "Material": 1,
+        "MonoBehaviour": 19,
+        "MonoScript": 13,
+        "ParticleSystem": 50,
+        "ParticleSystemRenderer": 50,
+        "Shader": 1,
+        "Sprite": 1,
+        "TextAsset": 3,
+        "Texture2D": 1,
+        "Transform": 52
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/7b65b7dfceb5c972ab496ebb60643dc2/7bc1c27d1e3c6e8c1a3d94449e779c29/__data"
+    },
+    {
+      "bundle_name": "7bdcc4caea367a5d9932f2b1b0993b3d.bundle",
+      "container_count": 19,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_7bdcc4caea367a5d9932f2b1b0993b3d",
+      "object_count": 52,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 4,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 26,
+        "MonoScript": 14,
+        "SortingGroup": 1,
+        "Transform": 4
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/7bdcc4caea367a5d9932f2b1b0993b3d/99b5a4b72ea0fb49db9a07facd3b986a/__data"
+    },
+    {
+      "bundle_name": "7cec77f338db18ec7620ce0b107a6e65.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_7cec77f338db18ec7620ce0b107a6e65",
+      "object_count": 5979,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1453,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 72,
+        "MeshRenderer": 72,
+        "MonoBehaviour": 1557,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 57,
+        "ParticleSystemRenderer": 57,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 128,
+        "SpriteRenderer": 1089,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1453
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/7cec77f338db18ec7620ce0b107a6e65/c605f59c416d158ca20968c6a0585ad5/__data"
+    },
+    {
+      "bundle_name": "7ffa418c0d0f93df086da8f622ec47a7.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_7ffa418c0d0f93df086da8f622ec47a7",
+      "object_count": 6095,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1483,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 41,
+        "MeshRenderer": 41,
+        "MonoBehaviour": 1535,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 93,
+        "ParticleSystemRenderer": 93,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 89,
+        "SpriteRenderer": 1199,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1483
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/7ffa418c0d0f93df086da8f622ec47a7/ec9b1a10945b21eec828337e14cf0c68/__data"
+    },
+    {
+      "bundle_name": "80763b207cd473334d23cff964816d75.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_80763b207cd473334d23cff964816d75",
+      "object_count": 11182,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2753,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 71,
+        "MeshRenderer": 71,
+        "MonoBehaviour": 2871,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 125,
+        "SpriteRenderer": 2399,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2753
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/80763b207cd473334d23cff964816d75/da4581cc57031bc75dab90c17936c9c0/__data"
+    },
+    {
+      "bundle_name": "818915ffb6d16031d1c57ef3cc88b220.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_818915ffb6d16031d1c57ef3cc88b220",
+      "object_count": 10172,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2502,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 71,
+        "MeshRenderer": 71,
+        "MonoBehaviour": 2614,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 122,
+        "SpriteRenderer": 2151,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2502
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/818915ffb6d16031d1c57ef3cc88b220/666fb23ddad833a179b58b5494a6c6a6/__data"
+    },
+    {
+      "bundle_name": "82426de09cc4e35b57e54c83320f73ec.bundle",
+      "container_count": 43,
+      "error_count": 0,
+      "exported": {
+        "audio": 9,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 11
+      },
+      "label": "cache_82426de09cc4e35b57e54c83320f73ec",
+      "object_count": 173,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 9,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 9,
+        "GameObject": 23,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 53,
+        "MonoScript": 18,
+        "ParticleSystem": 4,
+        "ParticleSystemRenderer": 4,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 11,
+        "Texture2D": 1,
+        "Transform": 23
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/82426de09cc4e35b57e54c83320f73ec/f284bb5b0e753db49aea116f32a7c47d/__data"
+    },
+    {
+      "bundle_name": "868c25819c2d39249ebb1de14616e2c8.bundle",
+      "container_count": 34,
+      "error_count": 0,
+      "exported": {
+        "audio": 16,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 9
+      },
+      "label": "cache_868c25819c2d39249ebb1de14616e2c8",
+      "object_count": 174,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 16,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 18,
+        "GameObject": 29,
+        "Material": 1,
+        "MonoBehaviour": 51,
+        "MonoScript": 6,
+        "Shader": 1,
+        "Sprite": 1,
+        "TextAsset": 9,
+        "Texture2D": 1,
+        "Transform": 29
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/868c25819c2d39249ebb1de14616e2c8/0efb38a37d6659ac89f17d5787f76275/__data"
+    },
+    {
+      "bundle_name": "8757edd620f48d5c36a43fd26dd975b7.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_8757edd620f48d5c36a43fd26dd975b7",
+      "object_count": 14790,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 3653,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 75,
+        "MeshRenderer": 75,
+        "MonoBehaviour": 3728,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 93,
+        "ParticleSystemRenderer": 93,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 136,
+        "SpriteRenderer": 3243,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 3653
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/8757edd620f48d5c36a43fd26dd975b7/470a882ac7b7af15b19eec51b29250cd/__data"
+    },
+    {
+      "bundle_name": "88802905ea253e0dd26509f0ea7d7e58.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_88802905ea253e0dd26509f0ea7d7e58",
+      "object_count": 5079,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1236,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 1312,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 69,
+        "SpriteRenderer": 1016,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1236
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/88802905ea253e0dd26509f0ea7d7e58/c725b587d4edd593c34928b90ef1dcf4/__data"
     },
     {
       "bundle_name": "892e94e75874044015d7562344fd8b14.bundle",
@@ -683,7 +2384,74 @@
         "MonoScript": 18,
         "RectTransform": 82
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/892e94e75874044015d7562344fd8b14/7040a9eb21712edba6fa35b5e85a6615/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/892e94e75874044015d7562344fd8b14/7040a9eb21712edba6fa35b5e85a6615/__data"
+    },
+    {
+      "bundle_name": "8cf6d586fb0587daa0385083cdf3fa53.bundle",
+      "container_count": 51,
+      "error_count": 0,
+      "exported": {
+        "audio": 12,
+        "materials": 2,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 10
+      },
+      "label": "cache_8cf6d586fb0587daa0385083cdf3fa53",
+      "object_count": 309,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 12,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 12,
+        "GameObject": 44,
+        "Material": 2,
+        "MeshFilter": 3,
+        "MeshRenderer": 3,
+        "MonoBehaviour": 103,
+        "MonoScript": 32,
+        "ParticleSystem": 13,
+        "ParticleSystemRenderer": 13,
+        "Shader": 1,
+        "SortingGroup": 3,
+        "Sprite": 1,
+        "TextAsset": 10,
+        "Texture2D": 1,
+        "Transform": 44
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/8cf6d586fb0587daa0385083cdf3fa53/23ecf4f438d92ada88d1b8fbaec33ea2/__data"
+    },
+    {
+      "bundle_name": "8d48d108fa8b42e9421e661d396476c1.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_8d48d108fa8b42e9421e661d396476c1",
+      "object_count": 3728,
+      "object_types": {
+        "AssetBundle": 1,
+        "BoxCollider2D": 1,
+        "GameObject": 901,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 38,
+        "MeshRenderer": 38,
+        "MonoBehaviour": 974,
+        "MonoScript": 46,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 70,
+        "SpriteRenderer": 653,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 901
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/8d48d108fa8b42e9421e661d396476c1/e3983744320f88908d38019cf6521249/__data"
     },
     {
       "bundle_name": "915cfa8155b1f8c95aeb72ffe033b7cb.bundle",
@@ -709,7 +2477,105 @@
         "SortingGroup": 1,
         "Transform": 35
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/915cfa8155b1f8c95aeb72ffe033b7cb/89436270429e1cf5de55961304fcc26d/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/915cfa8155b1f8c95aeb72ffe033b7cb/89436270429e1cf5de55961304fcc26d/__data"
+    },
+    {
+      "bundle_name": "92316d903ca24c9d4ea92c515d086048.bundle",
+      "container_count": 23,
+      "error_count": 0,
+      "exported": {
+        "audio": 2,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 2
+      },
+      "label": "cache_92316d903ca24c9d4ea92c515d086048",
+      "object_count": 116,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 2,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 2,
+        "GameObject": 13,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 36,
+        "MonoScript": 21,
+        "ParticleSystem": 4,
+        "ParticleSystemRenderer": 4,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 2,
+        "Texture2D": 1,
+        "Transform": 13
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/92316d903ca24c9d4ea92c515d086048/d8d63b501c90ac889358e30d4f2f3143/__data"
+    },
+    {
+      "bundle_name": "930111ce96453a6bf167a7a34d953a1b.bundle",
+      "container_count": 16,
+      "error_count": 0,
+      "exported": {
+        "audio": 1,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 2
+      },
+      "label": "cache_930111ce96453a6bf167a7a34d953a1b",
+      "object_count": 46,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 1,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 1,
+        "GameObject": 3,
+        "Material": 1,
+        "MonoBehaviour": 14,
+        "MonoScript": 6,
+        "Shader": 1,
+        "Sprite": 1,
+        "TextAsset": 2,
+        "Texture2D": 1,
+        "Transform": 3
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/930111ce96453a6bf167a7a34d953a1b/6f7099ec4d96e1abf9906cafefa27645/__data"
+    },
+    {
+      "bundle_name": "948922aab75c3b911fdbe67e5b7837cd.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_948922aab75c3b911fdbe67e5b7837cd",
+      "object_count": 2864,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 667,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 817,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 95,
+        "SpriteRenderer": 383,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 667
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/948922aab75c3b911fdbe67e5b7837cd/3fb09ead8f2e625b1e619f7057f328de/__data"
     },
     {
       "bundle_name": "98e49c54d73ba9cfa03ee031e4c81f78.bundle",
@@ -719,8 +2585,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 165,
-        "textassets": 1,
-        "textures": 6
+        "textassets": 1
       },
       "label": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
       "object_count": 7310,
@@ -749,7 +2614,74 @@
         "Texture2D": 6,
         "Transform": 33
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/98e49c54d73ba9cfa03ee031e4c81f78/2cdeb8ca17ca666b29dccb4fde6deec7/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/98e49c54d73ba9cfa03ee031e4c81f78/2cdeb8ca17ca666b29dccb4fde6deec7/__data"
+    },
+    {
+      "bundle_name": "9c7bb2b5ef2c815b42af22a6242df2c9.bundle",
+      "container_count": 86,
+      "error_count": 0,
+      "exported": {
+        "audio": 12,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 7
+      },
+      "label": "cache_9c7bb2b5ef2c815b42af22a6242df2c9",
+      "object_count": 1261,
+      "object_types": {
+        "Animator": 12,
+        "AssetBundle": 1,
+        "AudioClip": 12,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 12,
+        "GameObject": 264,
+        "Material": 1,
+        "MeshFilter": 6,
+        "MeshRenderer": 6,
+        "MonoBehaviour": 208,
+        "MonoScript": 34,
+        "ParticleSystem": 207,
+        "ParticleSystemRenderer": 207,
+        "Shader": 1,
+        "SortingGroup": 6,
+        "Sprite": 1,
+        "TextAsset": 7,
+        "Texture2D": 1,
+        "Transform": 264
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/9c7bb2b5ef2c815b42af22a6242df2c9/01ae9833e2836c28bf4dc711f57f2314/__data"
+    },
+    {
+      "bundle_name": "9e95e0afc090ea5e0b59d362c478ba4c.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_9e95e0afc090ea5e0b59d362c478ba4c",
+      "object_count": 4636,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1122,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 1214,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 79,
+        "SpriteRenderer": 897,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1122
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/9e95e0afc090ea5e0b59d362c478ba4c/8ae97664f0ca01eccb893af5f650fb1d/__data"
     },
     {
       "bundle_name": "9f9a758d43bdefbc908f052c313ad691.bundle",
@@ -764,7 +2696,7 @@
         "AssetBundle": 1,
         "TextAsset": 14
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/9f9a758d43bdefbc908f052c313ad691/fe77e40b9dda22cdaf3bc1857bcf7820/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/9f9a758d43bdefbc908f052c313ad691/fe77e40b9dda22cdaf3bc1857bcf7820/__data"
     },
     {
       "bundle_name": "a1242906d903b25a2990de78f874e459.bundle",
@@ -775,8 +2707,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 6,
-        "textures": 1
+        "textassets": 6
       },
       "label": "cache_a1242906d903b25a2990de78f874e459",
       "object_count": 396,
@@ -802,15 +2733,51 @@
         "Texture2D": 1,
         "Transform": 71
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a1242906d903b25a2990de78f874e459/cb060519d4c00e3590202614d25b8eb2/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a1242906d903b25a2990de78f874e459/cb060519d4c00e3590202614d25b8eb2/__data"
+    },
+    {
+      "bundle_name": "a14735bee3de59740d8ee1199fdfafd8.bundle",
+      "container_count": 56,
+      "error_count": 0,
+      "exported": {
+        "audio": 7,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 13
+      },
+      "label": "cache_a14735bee3de59740d8ee1199fdfafd8",
+      "object_count": 206,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 7,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 7,
+        "GameObject": 26,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 73,
+        "MonoScript": 22,
+        "ParticleSystem": 5,
+        "ParticleSystemRenderer": 5,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 13,
+        "Texture2D": 1,
+        "Transform": 26
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a14735bee3de59740d8ee1199fdfafd8/1d65c08e1e810d9cd811d9ec890063b4/__data"
     },
     {
       "bundle_name": "a1d633532ca911423b49097a7e86ca81.bundle",
       "container_count": 30,
       "error_count": 0,
       "exported": {
-        "sprites": 15,
-        "textures": 1
+        "sprites": 15
       },
       "label": "cache_a1d633532ca911423b49097a7e86ca81",
       "object_count": 853,
@@ -832,7 +2799,212 @@
         "Texture2D": 1,
         "Transform": 1
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a1d633532ca911423b49097a7e86ca81/e09a6c3c17490628611cd4118333c7e7/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a1d633532ca911423b49097a7e86ca81/e09a6c3c17490628611cd4118333c7e7/__data"
+    },
+    {
+      "bundle_name": "a22fcf186009974e81e0a0b0dbeb82e4.bundle",
+      "container_count": 30,
+      "error_count": 0,
+      "exported": {
+        "audio": 11,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 7
+      },
+      "label": "cache_a22fcf186009974e81e0a0b0dbeb82e4",
+      "object_count": 172,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 11,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 11,
+        "GameObject": 21,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 56,
+        "MonoScript": 26,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 7,
+        "Texture2D": 1,
+        "Transform": 21
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a22fcf186009974e81e0a0b0dbeb82e4/95560a82bf00b3fc2e9c924d887d35fa/__data"
+    },
+    {
+      "bundle_name": "a41f4a180206c04cb1e9362856b10a7e.bundle",
+      "container_count": 65,
+      "error_count": 0,
+      "exported": {
+        "audio": 15,
+        "materials": 6,
+        "shaders": 5,
+        "sprites": 1,
+        "textassets": 9
+      },
+      "label": "cache_a41f4a180206c04cb1e9362856b10a7e",
+      "object_count": 562,
+      "object_types": {
+        "Animator": 6,
+        "AssetBundle": 1,
+        "AudioClip": 15,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 15,
+        "GameObject": 106,
+        "Material": 6,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 116,
+        "MonoScript": 24,
+        "ParticleSystem": 68,
+        "ParticleSystemRenderer": 68,
+        "Shader": 5,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 9,
+        "Texture2D": 1,
+        "Transform": 106
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a41f4a180206c04cb1e9362856b10a7e/557321f532bb4a0fd82359edb6e69006/__data"
+    },
+    {
+      "bundle_name": "a4a8e8e0be8596d4f97bd9d3c8fe8f71.bundle",
+      "container_count": 39,
+      "error_count": 0,
+      "exported": {
+        "audio": 9,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 3
+      },
+      "label": "cache_a4a8e8e0be8596d4f97bd9d3c8fe8f71",
+      "object_count": 381,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 9,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 9,
+        "GameObject": 65,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 106,
+        "MonoScript": 32,
+        "ParticleSystem": 35,
+        "ParticleSystemRenderer": 35,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 3,
+        "Texture2D": 1,
+        "Transform": 65
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a4a8e8e0be8596d4f97bd9d3c8fe8f71/dbd0b84a72f5b0de8939deb0a0edff09/__data"
+    },
+    {
+      "bundle_name": "a8bafbe058afc7ff997bcecf80bfd447.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_a8bafbe058afc7ff997bcecf80bfd447",
+      "object_count": 2230,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 517,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 626,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 91,
+        "SpriteRenderer": 276,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 517
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a8bafbe058afc7ff997bcecf80bfd447/f17c7441c5dc0c83bf41fd5257834f8b/__data"
+    },
+    {
+      "bundle_name": "a9391540e6e51396995beb0d0e16df52.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_a9391540e6e51396995beb0d0e16df52",
+      "object_count": 7542,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1839,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 1977,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 113,
+        "SpriteRenderer": 1536,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1839
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/a9391540e6e51396995beb0d0e16df52/c0a34ab13e0c5f75467378a5e75ea7c1/__data"
+    },
+    {
+      "bundle_name": "ac116e8b2f6aef9a5305385fa15a9a2b.bundle",
+      "container_count": 58,
+      "error_count": 0,
+      "exported": {
+        "audio": 11,
+        "materials": 2,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 15
+      },
+      "label": "cache_ac116e8b2f6aef9a5305385fa15a9a2b",
+      "object_count": 197,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 11,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 11,
+        "GameObject": 25,
+        "Material": 2,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 67,
+        "MonoScript": 17,
+        "ParticleSystem": 3,
+        "ParticleSystemRenderer": 3,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 15,
+        "Texture2D": 1,
+        "Transform": 25
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ac116e8b2f6aef9a5305385fa15a9a2b/d8de436672fc138c4b47e7c5c957e81d/__data"
     },
     {
       "bundle_name": "ac8d988c11e07acab3b7b9b2d2124835.bundle",
@@ -842,8 +3014,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 1,
-        "textures": 1
+        "textassets": 1
       },
       "label": "cache_ac8d988c11e07acab3b7b9b2d2124835",
       "object_count": 135,
@@ -868,7 +3039,103 @@
         "TextAsset": 1,
         "Texture2D": 1
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ac8d988c11e07acab3b7b9b2d2124835/bd76dc1df153c40f75460d92faebd003/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ac8d988c11e07acab3b7b9b2d2124835/bd76dc1df153c40f75460d92faebd003/__data"
+    },
+    {
+      "bundle_name": "b3ce31c6d55475e76c065f7f71791011.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_b3ce31c6d55475e76c065f7f71791011",
+      "object_count": 10566,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2592,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 2520,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 269,
+        "ParticleSystemRenderer": 269,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 120,
+        "SpriteRenderer": 2060,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2592
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b3ce31c6d55475e76c065f7f71791011/0e0757c7bb5aa600465f0c8d239e027b/__data"
+    },
+    {
+      "bundle_name": "b4df4eef4aaced085a14e8c5260ef74b.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_b4df4eef4aaced085a14e8c5260ef74b",
+      "object_count": 4628,
+      "object_types": {
+        "AssetBundle": 1,
+        "BoxCollider2D": 1,
+        "GameObject": 1122,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 42,
+        "MeshRenderer": 42,
+        "MonoBehaviour": 1159,
+        "MonoScript": 46,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 93,
+        "ParticleSystemRenderer": 93,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 84,
+        "SpriteRenderer": 816,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1122
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b4df4eef4aaced085a14e8c5260ef74b/ec95105bbdb413948058896568b90b6f/__data"
+    },
+    {
+      "bundle_name": "b5c05a6d0a5e26c62e87aed02692c4c7.bundle",
+      "container_count": 48,
+      "error_count": 0,
+      "exported": {
+        "audio": 13,
+        "materials": 2,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 9
+      },
+      "label": "cache_b5c05a6d0a5e26c62e87aed02692c4c7",
+      "object_count": 310,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 13,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 13,
+        "GameObject": 47,
+        "Material": 2,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 89,
+        "MonoScript": 32,
+        "ParticleSystem": 18,
+        "ParticleSystemRenderer": 18,
+        "Shader": 1,
+        "SortingGroup": 3,
+        "Sprite": 1,
+        "TextAsset": 9,
+        "Texture2D": 1,
+        "Transform": 47
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b5c05a6d0a5e26c62e87aed02692c4c7/35d52d2e53e68c7dc301a34ef697a797/__data"
     },
     {
       "bundle_name": "b873fcbb4dd47a7f5bc00d4836eff1de.bundle",
@@ -879,8 +3146,7 @@
         "materials": 2,
         "shaders": 2,
         "sprites": 1,
-        "textassets": 1,
-        "textures": 1
+        "textassets": 1
       },
       "label": "cache_b873fcbb4dd47a7f5bc00d4836eff1de",
       "object_count": 318,
@@ -907,7 +3173,7 @@
         "Texture2D": 1,
         "Transform": 62
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b873fcbb4dd47a7f5bc00d4836eff1de/4766e08b7ebefac8ddada964a2f3bd39/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b873fcbb4dd47a7f5bc00d4836eff1de/4766e08b7ebefac8ddada964a2f3bd39/__data"
     },
     {
       "bundle_name": "b9565d1ab07842b58107f2c9047eddec.bundle",
@@ -917,8 +3183,7 @@
         "materials": 10,
         "shaders": 5,
         "sprites": 625,
-        "textassets": 77,
-        "textures": 24
+        "textassets": 77
       },
       "label": "cache_b9565d1ab07842b58107f2c9047eddec",
       "object_count": 13137,
@@ -950,7 +3215,7 @@
         "Texture2D": 24,
         "Transform": 573
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b9565d1ab07842b58107f2c9047eddec/c0dad668318c4df0b3dfc037d01eb04d/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/b9565d1ab07842b58107f2c9047eddec/c0dad668318c4df0b3dfc037d01eb04d/__data"
     },
     {
       "bundle_name": "ba7e3be16cfd0406d6a8cbf3e57d553d.bundle",
@@ -961,8 +3226,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 7,
-        "textures": 1
+        "textassets": 7
       },
       "label": "cache_ba7e3be16cfd0406d6a8cbf3e57d553d",
       "object_count": 128,
@@ -983,7 +3247,34 @@
         "Texture2D": 1,
         "Transform": 20
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ba7e3be16cfd0406d6a8cbf3e57d553d/e13670216b05498111f28555aa343463/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ba7e3be16cfd0406d6a8cbf3e57d553d/e13670216b05498111f28555aa343463/__data"
+    },
+    {
+      "bundle_name": "bb11c00668bd348cf47585fe216c12ef.bundle",
+      "container_count": 13,
+      "error_count": 0,
+      "exported": {
+        "audio": 3
+      },
+      "label": "cache_bb11c00668bd348cf47585fe216c12ef",
+      "object_count": 202,
+      "object_types": {
+        "Animator": 2,
+        "AssetBundle": 1,
+        "AudioClip": 3,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 3,
+        "GameObject": 40,
+        "MonoBehaviour": 30,
+        "MonoScript": 15,
+        "ParticleSystem": 28,
+        "ParticleSystemRenderer": 28,
+        "SortingGroup": 1,
+        "Transform": 40
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bb11c00668bd348cf47585fe216c12ef/d780ad91c048e96c6d6a4c8f476feb3b/__data"
     },
     {
       "bundle_name": "bb9a43a289ea2706a2b2eabdda5f4fcb.bundle",
@@ -1013,15 +3304,43 @@
         "TilemapRenderer": 1,
         "Transform": 1217
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bb9a43a289ea2706a2b2eabdda5f4fcb/8fb8def5cafa2a490768162d4123a624/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bb9a43a289ea2706a2b2eabdda5f4fcb/8fb8def5cafa2a490768162d4123a624/__data"
+    },
+    {
+      "bundle_name": "bb9b70d09b36c1c6d92d7f791be97f4a.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_bb9b70d09b36c1c6d92d7f791be97f4a",
+      "object_count": 8704,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2136,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 51,
+        "MeshRenderer": 51,
+        "MonoBehaviour": 2274,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 25,
+        "ParticleSystemRenderer": 25,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 97,
+        "SpriteRenderer": 1871,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2136
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bb9b70d09b36c1c6d92d7f791be97f4a/f9fdbe8c0103950e7899d508b9604209/__data"
     },
     {
       "bundle_name": "bd47c920adff08abaa37fb44eb6934ae.bundle",
       "container_count": 33,
       "error_count": 0,
       "exported": {
-        "sprites": 32,
-        "textures": 1
+        "sprites": 32
       },
       "label": "cache_bd47c920adff08abaa37fb44eb6934ae",
       "object_count": 34,
@@ -1030,7 +3349,7 @@
         "Sprite": 32,
         "Texture2D": 1
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bd47c920adff08abaa37fb44eb6934ae/e9f9d55a2409b1fea47b658a727b57c7/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bd47c920adff08abaa37fb44eb6934ae/e9f9d55a2409b1fea47b658a727b57c7/__data"
     },
     {
       "bundle_name": "be7357c000107ebd1d167027856d7890.bundle",
@@ -1047,7 +3366,7 @@
         "MonoScript": 3,
         "TextAsset": 303
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/be7357c000107ebd1d167027856d7890/8c3504d9eb81f7e446448581b7cd5841/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/be7357c000107ebd1d167027856d7890/8c3504d9eb81f7e446448581b7cd5841/__data"
     },
     {
       "bundle_name": "bfce0b3eb6af9f2540e348a35a352259.bundle",
@@ -1058,8 +3377,7 @@
         "materials": 83,
         "shaders": 5,
         "sprites": 157,
-        "textassets": 37,
-        "textures": 18
+        "textassets": 37
       },
       "label": "cache_bfce0b3eb6af9f2540e348a35a352259",
       "object_count": 3936,
@@ -1089,7 +3407,7 @@
         "Texture2D": 18,
         "Transform": 318
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bfce0b3eb6af9f2540e348a35a352259/58195958f4ee2484f29ca7638a158042/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/bfce0b3eb6af9f2540e348a35a352259/58195958f4ee2484f29ca7638a158042/__data"
     },
     {
       "bundle_name": "c14a8dcceb0a8182359e7941df842157.bundle",
@@ -1100,8 +3418,7 @@
         "materials": 2,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 11,
-        "textures": 1
+        "textassets": 11
       },
       "label": "cache_c14a8dcceb0a8182359e7941df842157",
       "object_count": 719,
@@ -1128,7 +3445,42 @@
         "Texture2D": 1,
         "Transform": 141
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/c14a8dcceb0a8182359e7941df842157/bb461d8ad31031498d0913c182b2ec10/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/c14a8dcceb0a8182359e7941df842157/bb461d8ad31031498d0913c182b2ec10/__data"
+    },
+    {
+      "bundle_name": "c60595fb1355ecca3cb22f8ba07c8d14.bundle",
+      "container_count": 27,
+      "error_count": 0,
+      "exported": {
+        "audio": 14,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 6
+      },
+      "label": "cache_c60595fb1355ecca3cb22f8ba07c8d14",
+      "object_count": 182,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 14,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 14,
+        "GameObject": 24,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 56,
+        "MonoScript": 25,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 6,
+        "Texture2D": 1,
+        "Transform": 24
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/c60595fb1355ecca3cb22f8ba07c8d14/bde7fd4062d2dfb1423204ab3b9e5ef1/__data"
     },
     {
       "bundle_name": "c824fc66ca02690433974890bda05512.bundle",
@@ -1139,8 +3491,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 2,
-        "textassets": 2,
-        "textures": 2
+        "textassets": 2
       },
       "label": "cache_c824fc66ca02690433974890bda05512",
       "object_count": 136,
@@ -1164,7 +3515,36 @@
         "Texture2D": 2,
         "Transform": 15
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/c824fc66ca02690433974890bda05512/a85ee8a9085a1c43bbff6bc12a130054/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/c824fc66ca02690433974890bda05512/a85ee8a9085a1c43bbff6bc12a130054/__data"
+    },
+    {
+      "bundle_name": "ca9dcf199684d8dd9a97168c0af54a24.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_ca9dcf199684d8dd9a97168c0af54a24",
+      "object_count": 4420,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1066,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 37,
+        "MeshRenderer": 37,
+        "MonoBehaviour": 1166,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 47,
+        "ParticleSystemRenderer": 47,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 82,
+        "SpriteRenderer": 834,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1066
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ca9dcf199684d8dd9a97168c0af54a24/a38914de5d703aa9d9ad6d9b9fff5bbc/__data"
     },
     {
       "bundle_name": "cb14e0f1fd35d7c55243854b01ff4794.bundle",
@@ -1181,15 +3561,14 @@
         "MonoScript": 3,
         "TextAsset": 95
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cb14e0f1fd35d7c55243854b01ff4794/5856d6a108dd781e37c71dc4ef6d569e/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cb14e0f1fd35d7c55243854b01ff4794/5856d6a108dd781e37c71dc4ef6d569e/__data"
     },
     {
       "bundle_name": "cd29dd654e00c60ef590b5931700afe7.bundle",
       "container_count": 1,
       "error_count": 1,
       "exported": {
-        "shaders": 23,
-        "textures": 74
+        "shaders": 23
       },
       "label": "cache_cd29dd654e00c60ef590b5931700afe7",
       "object_count": 1007,
@@ -1216,7 +3595,7 @@
         "Texture2D": 74,
         "Transform": 23
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd29dd654e00c60ef590b5931700afe7/f087ff34452addf645a29c50bf0d8d4b/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd29dd654e00c60ef590b5931700afe7/f087ff34452addf645a29c50bf0d8d4b/__data"
     },
     {
       "bundle_name": "cd4440d8fca17b1660e683461c2bef66.bundle",
@@ -1226,8 +3605,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 1,
-        "textures": 1
+        "textassets": 1
       },
       "label": "cache_cd4440d8fca17b1660e683461c2bef66",
       "object_count": 103,
@@ -1246,7 +3624,7 @@
         "Texture2D": 1,
         "Transform": 20
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd4440d8fca17b1660e683461c2bef66/7b3b0ca6e113ec233f50ef2f99ce41d9/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/cd4440d8fca17b1660e683461c2bef66/7b3b0ca6e113ec233f50ef2f99ce41d9/__data"
     },
     {
       "bundle_name": "d05cea32d5c1512863a54aecc4db046b.bundle",
@@ -1269,7 +3647,7 @@
         "RectTransform": 834,
         "Transform": 56
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/d05cea32d5c1512863a54aecc4db046b/5fa84c13313ec92e54b6bbd51d5f6c0f/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/d05cea32d5c1512863a54aecc4db046b/5fa84c13313ec92e54b6bbd51d5f6c0f/__data"
     },
     {
       "bundle_name": "d1bbff3ac32f1abd262e1f098d7eca72.bundle",
@@ -1299,7 +3677,82 @@
         "TilemapRenderer": 1,
         "Transform": 1543
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/d1bbff3ac32f1abd262e1f098d7eca72/bcaa99402fe2db099635d5bbc28716ac/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/d1bbff3ac32f1abd262e1f098d7eca72/bcaa99402fe2db099635d5bbc28716ac/__data"
+    },
+    {
+      "bundle_name": "d301e2787015c85ac94cac7c2dbe3492.bundle",
+      "container_count": 42,
+      "error_count": 0,
+      "exported": {
+        "audio": 13,
+        "materials": 2,
+        "shaders": 2,
+        "sprites": 2,
+        "textassets": 8
+      },
+      "label": "cache_d301e2787015c85ac94cac7c2dbe3492",
+      "object_count": 273,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 13,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 13,
+        "GameObject": 41,
+        "Material": 2,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 73,
+        "MonoScript": 29,
+        "ParticleSystem": 16,
+        "ParticleSystemRenderer": 16,
+        "Shader": 2,
+        "SortingGroup": 1,
+        "Sprite": 2,
+        "TextAsset": 8,
+        "Texture2D": 2,
+        "Transform": 41
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/d301e2787015c85ac94cac7c2dbe3492/5debf299b9e30c728a1b8de44d3f21b9/__data"
+    },
+    {
+      "bundle_name": "d354228d6eda7ac153b1dcdcc6027fec.bundle",
+      "container_count": 70,
+      "error_count": 0,
+      "exported": {
+        "audio": 18,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 7
+      },
+      "label": "cache_d354228d6eda7ac153b1dcdcc6027fec",
+      "object_count": 1082,
+      "object_types": {
+        "Animator": 5,
+        "AssetBundle": 1,
+        "AudioClip": 18,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 19,
+        "GameObject": 225,
+        "Material": 1,
+        "MeshFilter": 4,
+        "MeshRenderer": 4,
+        "MonoBehaviour": 189,
+        "MonoScript": 32,
+        "ParticleSystem": 167,
+        "ParticleSystemRenderer": 167,
+        "Shader": 1,
+        "SortingGroup": 4,
+        "Sprite": 1,
+        "TextAsset": 7,
+        "Texture2D": 1,
+        "Transform": 225
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/d354228d6eda7ac153b1dcdcc6027fec/a4d261d692c705ff7783318c0db09944/__data"
     },
     {
       "bundle_name": "dae38180e7d9823b357bf3b4c4b58545.bundle",
@@ -1310,8 +3763,7 @@
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
-        "textassets": 15,
-        "textures": 1
+        "textassets": 15
       },
       "label": "cache_dae38180e7d9823b357bf3b4c4b58545",
       "object_count": 190,
@@ -1337,15 +3789,130 @@
         "Texture2D": 1,
         "Transform": 25
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/dae38180e7d9823b357bf3b4c4b58545/685f619250cc037bf17d1e708ee18179/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/dae38180e7d9823b357bf3b4c4b58545/685f619250cc037bf17d1e708ee18179/__data"
+    },
+    {
+      "bundle_name": "dbb32f9bb2f8a5b4d6b7343bc8e9733e.bundle",
+      "container_count": 683,
+      "error_count": 0,
+      "exported": {
+        "audio": 1,
+        "materials": 3,
+        "shaders": 2,
+        "sprites": 133,
+        "textassets": 38
+      },
+      "label": "cache_dbb32f9bb2f8a5b4d6b7343bc8e9733e",
+      "object_count": 1716,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 1,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 2,
+        "GameObject": 256,
+        "Grid": 2,
+        "Material": 3,
+        "MeshFilter": 9,
+        "MeshRenderer": 9,
+        "MonoBehaviour": 468,
+        "MonoScript": 47,
+        "ParticleSystem": 131,
+        "ParticleSystemRenderer": 131,
+        "Shader": 2,
+        "SortingGroup": 12,
+        "Sprite": 133,
+        "SpriteAtlas": 1,
+        "SpriteRenderer": 73,
+        "TextAsset": 38,
+        "Texture2D": 126,
+        "Tilemap": 2,
+        "TilemapRenderer": 2,
+        "Transform": 256
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/dbb32f9bb2f8a5b4d6b7343bc8e9733e/227774fab625af895eaf3b3ff3e42091/__data"
+    },
+    {
+      "bundle_name": "e06d51631c29d048f0c84f9c55f24091.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_e06d51631c29d048f0c84f9c55f24091",
+      "object_count": 3148,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 750,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 39,
+        "MeshRenderer": 39,
+        "MonoBehaviour": 821,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 71,
+        "ParticleSystemRenderer": 71,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 87,
+        "SpriteRenderer": 481,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 750
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/e06d51631c29d048f0c84f9c55f24091/16a32cf03db4ca714145ffd42ec64007/__data"
+    },
+    {
+      "bundle_name": "e67774c7312e36b52a0e9a9482ab0b98.bundle",
+      "container_count": 201,
+      "error_count": 0,
+      "exported": {
+        "sprites": 75
+      },
+      "label": "cache_e67774c7312e36b52a0e9a9482ab0b98",
+      "object_count": 203,
+      "object_types": {
+        "AssetBundle": 1,
+        "MonoBehaviour": 51,
+        "MonoScript": 1,
+        "Sprite": 75,
+        "Texture2D": 75
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/e67774c7312e36b52a0e9a9482ab0b98/c9cdf310aa1eebdf49baf023d8428305/__data"
+    },
+    {
+      "bundle_name": "eb6f33d153155a71745b6f18e411c856.bundle",
+      "container_count": 13,
+      "error_count": 0,
+      "exported": {
+        "audio": 1
+      },
+      "label": "cache_eb6f33d153155a71745b6f18e411c856",
+      "object_count": 276,
+      "object_types": {
+        "Animator": 2,
+        "AssetBundle": 1,
+        "AudioClip": 1,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 1,
+        "GameObject": 58,
+        "MonoBehaviour": 33,
+        "MonoScript": 14,
+        "ParticleSystem": 48,
+        "ParticleSystemRenderer": 48,
+        "SortingGroup": 1,
+        "Transform": 58
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/eb6f33d153155a71745b6f18e411c856/f77daa6ff131fa75f866ce09551e47ff/__data"
     },
     {
       "bundle_name": "f1a104258f22347628a6712e55c31212.bundle",
       "container_count": 182,
       "error_count": 0,
       "exported": {
-        "sprites": 86,
-        "textures": 63
+        "sprites": 86
       },
       "label": "cache_f1a104258f22347628a6712e55c31212",
       "object_count": 1870,
@@ -1366,8 +3933,280 @@
         "Sprite": 86,
         "Texture2D": 63
       },
-      "path": "/home/mirsella/dev/apks/phone-extract/kingdom-rush-battles/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f1a104258f22347628a6712e55c31212/ccd58cce03ef74c971e994e5fb72b089/__data"
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f1a104258f22347628a6712e55c31212/ccd58cce03ef74c971e994e5fb72b089/__data"
+    },
+    {
+      "bundle_name": "f1e0abc137bd44b5fb84003f4ec0a4eb.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_f1e0abc137bd44b5fb84003f4ec0a4eb",
+      "object_count": 8356,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2040,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 2189,
+        "MonoScript": 30,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 117,
+        "SpriteRenderer": 1728,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2040
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f1e0abc137bd44b5fb84003f4ec0a4eb/ef23189e5d11895ee066bdbfc0dda9ee/__data"
+    },
+    {
+      "bundle_name": "f4e4a0367e990979df5d8ea3bc981120.bundle",
+      "container_count": 61,
+      "error_count": 0,
+      "exported": {
+        "audio": 16,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 19
+      },
+      "label": "cache_f4e4a0367e990979df5d8ea3bc981120",
+      "object_count": 230,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 16,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 16,
+        "GameObject": 32,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 73,
+        "MonoScript": 17,
+        "ParticleSystem": 3,
+        "ParticleSystemRenderer": 3,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 19,
+        "Texture2D": 1,
+        "Transform": 32
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f4e4a0367e990979df5d8ea3bc981120/10cdc72317a8b51724860dd222268564/__data"
+    },
+    {
+      "bundle_name": "f52611768ede47cfdfb2ca74bf1b4a97.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_f52611768ede47cfdfb2ca74bf1b4a97",
+      "object_count": 8690,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 2125,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 72,
+        "MeshRenderer": 72,
+        "MonoBehaviour": 2252,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 57,
+        "ParticleSystemRenderer": 57,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 139,
+        "SpriteRenderer": 1750,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 2125
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f52611768ede47cfdfb2ca74bf1b4a97/d541da6c9a6e706187b1fc97532dd32c/__data"
+    },
+    {
+      "bundle_name": "f8c6df64c3627f9b8fce907aeb803f25.bundle",
+      "container_count": 57,
+      "error_count": 0,
+      "exported": {
+        "audio": 17,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 12
+      },
+      "label": "cache_f8c6df64c3627f9b8fce907aeb803f25",
+      "object_count": 466,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 17,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 20,
+        "GameObject": 84,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 112,
+        "MonoScript": 30,
+        "ParticleSystem": 44,
+        "ParticleSystemRenderer": 44,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 12,
+        "Texture2D": 1,
+        "Transform": 84
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f8c6df64c3627f9b8fce907aeb803f25/3581a8c699043559c7d44e1e48467421/__data"
+    },
+    {
+      "bundle_name": "f9ecb544182a597f9844050c6471d9be.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_f9ecb544182a597f9844050c6471d9be",
+      "object_count": 5444,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 1320,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 71,
+        "MeshRenderer": 71,
+        "MonoBehaviour": 1433,
+        "MonoScript": 33,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 49,
+        "ParticleSystemRenderer": 49,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 123,
+        "SpriteRenderer": 967,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 1320
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/f9ecb544182a597f9844050c6471d9be/de5e108377f14188e4274b7f02ce9378/__data"
+    },
+    {
+      "bundle_name": "fa28411fa5fa4eb0116cd548aeab33b0.bundle",
+      "container_count": 27,
+      "error_count": 0,
+      "exported": {
+        "audio": 9,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 3
+      },
+      "label": "cache_fa28411fa5fa4eb0116cd548aeab33b0",
+      "object_count": 255,
+      "object_types": {
+        "AssetBundle": 1,
+        "AudioClip": 9,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 9,
+        "GameObject": 39,
+        "Material": 1,
+        "MeshFilter": 2,
+        "MeshRenderer": 2,
+        "MonoBehaviour": 77,
+        "MonoScript": 29,
+        "ParticleSystem": 14,
+        "ParticleSystemRenderer": 14,
+        "Shader": 1,
+        "SortingGroup": 2,
+        "Sprite": 1,
+        "TextAsset": 3,
+        "Texture2D": 1,
+        "Transform": 39
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/fa28411fa5fa4eb0116cd548aeab33b0/f0c3eb748f9c0125dc01fdad6e832503/__data"
+    },
+    {
+      "bundle_name": "fb56ba1a5101f5faadfce01b90630fcd.bundle",
+      "container_count": 48,
+      "error_count": 0,
+      "exported": {
+        "audio": 10,
+        "materials": 1,
+        "shaders": 1,
+        "sprites": 1,
+        "textassets": 13
+      },
+      "label": "cache_fb56ba1a5101f5faadfce01b90630fcd",
+      "object_count": 273,
+      "object_types": {
+        "Animator": 3,
+        "AssetBundle": 1,
+        "AudioClip": 10,
+        "AudioMixerController": 1,
+        "AudioMixerGroupController": 9,
+        "AudioMixerSnapshotController": 1,
+        "AudioSource": 10,
+        "GameObject": 45,
+        "Material": 1,
+        "MeshFilter": 1,
+        "MeshRenderer": 1,
+        "MonoBehaviour": 63,
+        "MonoScript": 21,
+        "ParticleSystem": 22,
+        "ParticleSystemRenderer": 22,
+        "Shader": 1,
+        "SortingGroup": 1,
+        "Sprite": 1,
+        "TextAsset": 13,
+        "Texture2D": 1,
+        "Transform": 45
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/fb56ba1a5101f5faadfce01b90630fcd/138731c3e85fc3947e2ef00e95f75352/__data"
+    },
+    {
+      "bundle_name": "ff4573fa6c85d72d7994d9479bd8d5fe.bundle",
+      "container_count": 1,
+      "error_count": 0,
+      "exported": {},
+      "label": "cache_ff4573fa6c85d72d7994d9479bd8d5fe",
+      "object_count": 2870,
+      "object_types": {
+        "AssetBundle": 1,
+        "GameObject": 668,
+        "Grid": 1,
+        "LightmapSettings": 1,
+        "MeshFilter": 53,
+        "MeshRenderer": 53,
+        "MonoBehaviour": 820,
+        "MonoScript": 31,
+        "NavMeshSettings": 1,
+        "ParticleSystem": 45,
+        "ParticleSystemRenderer": 45,
+        "PreloadData": 1,
+        "RenderSettings": 1,
+        "SortingGroup": 96,
+        "SpriteRenderer": 383,
+        "Tilemap": 1,
+        "TilemapRenderer": 1,
+        "Transform": 668
+      },
+      "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ff4573fa6c85d72d7994d9479bd8d5fe/2df9b959040afba244bdbcef886ce95c/__data"
     }
   ],
+  "troop_exports": {
+    "atlas_pages": 5,
+    "atlases": 5,
+    "sprite_metadata": 609,
+    "sprites": 609,
+    "textassets": 926
+  },
   "unitypy_version": "1.25.0"
 }

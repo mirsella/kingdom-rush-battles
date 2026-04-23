@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "towerskills-quickmenu_tower_musketeer_skill2",
+  "pivot": {
+    "x": 0.49673202633857727,
+    "y": 0.5096774101257324
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 155.0,
+    "width": 153.0,
+    "x": 484.0,
+    "y": 167.0
+  },
+  "texture_name": "QuickmenuIcons",
+  "texture_path_id": 284402437092857980,
+  "texture_rect": {
+    "height": 155.0,
+    "width": 153.0,
+    "x": 484.0,
+    "y": 167.0
+  }
+}

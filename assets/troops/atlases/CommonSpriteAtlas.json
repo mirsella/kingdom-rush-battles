@@ -1,0 +1,93 @@
+{
+  "atlas_name": "CommonSpriteAtlas",
+  "entries": [
+    {
+      "atlas_rect_offset": {
+        "x": 864.0,
+        "y": 1744.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_shop_popupwindow_container_tower_mecha",
+      "settings_raw": 1,
+      "texture_name": "sactx-0-4096x4096-ETC2-CommonSpriteAtlas-619f663b",
+      "texture_path": "atlas_pages/CommonSpriteAtlas__sactx-0-4096x4096-ETC2-CommonSpriteAtlas-619f663b.png",
+      "texture_rect": {
+        "height": 164.0,
+        "width": 172.0,
+        "x": 3456.0,
+        "y": 2113.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2195.0,
+        "x": 200.0,
+        "y": 3542.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": -565.5,
+        "y": 3701.5
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_shop_popupwindow_container_hero_elora",
+      "settings_raw": 1,
+      "texture_name": "sactx-0-4096x4096-ETC2-CommonSpriteAtlas-619f663b",
+      "texture_path": "atlas_pages/CommonSpriteAtlas__sactx-0-4096x4096-ETC2-CommonSpriteAtlas-619f663b.png",
+      "texture_rect": {
+        "height": 117.0,
+        "width": 105.0,
+        "x": 602.0,
+        "y": 3932.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3991.0,
+        "x": 200.0,
+        "y": 653.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 766.0,
+        "y": 3680.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_shop_popupwindow_container_tower_tesla",
+      "settings_raw": 1,
+      "texture_name": "sactx-0-4096x4096-ETC2-CommonSpriteAtlas-619f663b",
+      "texture_path": "atlas_pages/CommonSpriteAtlas__sactx-0-4096x4096-ETC2-CommonSpriteAtlas-619f663b.png",
+      "texture_rect": {
+        "height": 104.0,
+        "width": 113.0,
+        "x": 1580.0,
+        "y": 3915.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3967.0,
+        "x": 200.0,
+        "y": 1636.5,
+        "z": 200.0
+      }
+    }
+  ],
+  "packed_sprite_count": 277,
+  "troop_sprite_count": 3,
+  "troop_sprite_names": [
+    "asst_shop_popupwindow_container_tower_mecha",
+    "asst_shop_popupwindow_container_hero_elora",
+    "asst_shop_popupwindow_container_tower_tesla"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hero_portrait_ashbite",
+  "pivot": {
+    "x": 0.49794238805770874,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 288.0,
+    "width": 243.0,
+    "x": 4.0,
+    "y": 890.0
+  },
+  "texture_name": "HeroPortraits",
+  "texture_path_id": -6123707959991859401,
+  "texture_rect": {
+    "height": 288.0,
+    "width": 243.0,
+    "x": 4.0,
+    "y": 890.0
+  }
+}

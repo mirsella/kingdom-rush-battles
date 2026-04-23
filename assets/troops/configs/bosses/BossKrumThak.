@@ -1,0 +1,131 @@
+{
+    "BossKrumThak": {
+        "goldReward": [
+            0
+        ],
+        "livesPenalty": [
+            999
+        ],
+        "health": [
+            4000,
+            4400,
+            4800
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.7
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    160.0
+                ],
+                "maxDamage": [
+                    180.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    200
+                ],
+                "maxDamage": [
+                    220
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "thunderbolt": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                22.0
+            ],
+            "maxTargets": [
+                3.0
+            ],
+            "damage": {
+                "minDamage": [
+                    60
+                ],
+                "maxDamage": [
+                    60
+                ],
+                "damageType": [
+                    "True"
+                ]
+            },
+            "stun": {
+                "duration": [
+                    3.0
+                ]
+            }
+        },
+        "wild_protect": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                19
+            ],
+            "range": [
+                1
+            ],
+            "maxTargets": [
+                5
+            ],
+            "krum_buff": {
+                "damageReceivedPercentage": [
+                    -40
+                ],
+                "duration": [
+                    5
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                50.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

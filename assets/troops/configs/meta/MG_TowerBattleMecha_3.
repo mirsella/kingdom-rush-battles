@@ -1,0 +1,202 @@
+{
+    "MG_TowerBattleMecha_3": {
+        "stats": {
+            "COST": [
+                280
+            ],
+            "CARD_RANK": [
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+",
+                "EX",
+                "EX",
+                "EX+",
+                "MAX"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                2.0
+            ],
+            "UNIT_MIN_AREA_DAMAGE": [
+                330,
+                380,
+                436,
+                502,
+                577,
+                664,
+                763,
+                878,
+                1009,
+                1161,
+                1335,
+                1535,
+                1766,
+                2030,
+                2335
+            ],
+            "UNIT_MAX_AREA_DAMAGE": [
+                429,
+                493,
+                567,
+                652,
+                750,
+                863,
+                992,
+                1141,
+                1312,
+                1509,
+                1736,
+                1996,
+                2295,
+                2640,
+                3035
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_ARTILLERY"
+            ],
+            "RANGE": [
+                180
+            ]
+        },
+        "skill1": {
+            "RANGE": [
+                160
+            ]
+        },
+        "legendarySkill": {
+            "COOLDOWN": [
+                20
+            ],
+            "DURATION": [
+                20
+            ],
+            "NUMBER_OF_UNITS": [
+                6
+            ],
+            "MIN_DAMAGE": [
+                440,
+                506,
+                582,
+                669,
+                770,
+                885,
+                1018,
+                1170,
+                1346,
+                1548,
+                1780,
+                2047,
+                2354,
+                2707,
+                3113
+            ],
+            "MAX_DAMAGE": [
+                495,
+                569,
+                655,
+                753,
+                866,
+                996,
+                1145,
+                1317,
+                1514,
+                1741,
+                2003,
+                2303,
+                2648,
+                3046,
+                3502
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Decrease_Creep_Armor"
+                ],
+                "perkPercentage": [
+                    3
+                ]
+            },
+            "perk2": {
+                "perkType": [
+                    "Increase_Units_Armor"
+                ],
+                "perkPercentage": [
+                    2
+                ]
+            }
+        },
+        "skill2": {
+            "COST": [
+                205
+            ],
+            "COOLDOWN": [
+                15
+            ],
+            "NUMBER_OF_UNITS": [
+                2
+            ],
+            "UNIT_MIN_AREA_DAMAGE": [
+                620,
+                713,
+                820,
+                943,
+                1084,
+                1247,
+                1434,
+                1649,
+                1897,
+                2181,
+                2508,
+                2884,
+                3317,
+                3815,
+                4387
+            ],
+            "UNIT_MAX_AREA_DAMAGE": [
+                720,
+                828,
+                952,
+                1095,
+                1259,
+                1448,
+                1665,
+                1915,
+                2202,
+                2533,
+                2913,
+                3350,
+                3852,
+                4430,
+                5095
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_TRUE"
+            ]
+        },
+        "skill3": {
+            "COST": [
+                160
+            ],
+            "COOLDOWN": [
+                18
+            ],
+            "RANGE": [
+                100
+            ],
+            "DURATION": [
+                5
+            ],
+            "SLOW": [
+                "-40%"
+            ]
+        }
+    }
+}

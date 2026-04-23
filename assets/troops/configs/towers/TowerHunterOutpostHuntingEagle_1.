@@ -1,0 +1,63 @@
+{
+    "tower_hunter_outpost_hunting_eagle_1": {
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.5
+        ],
+        "basic_attack": {
+            "range": [
+                0.3
+            ],
+            "cooldown": [
+                1.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    21.0,
+                    24.2,
+                    27.8,
+                    31.9,
+                    36.7,
+                    42.2,
+                    48.6,
+                    55.9,
+                    64.2,
+                    73.9,
+                    85.0,
+                    97.7,
+                    112.4,
+                    129.2,
+                    148.6
+                ],
+                "maxDamage": [
+                    31.5,
+                    36.2,
+                    41.7,
+                    47.9,
+                    55.1,
+                    63.4,
+                    72.9,
+                    83.8,
+                    96.4,
+                    110.8,
+                    127.4,
+                    146.6,
+                    168.5,
+                    193.8,
+                    222.9
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

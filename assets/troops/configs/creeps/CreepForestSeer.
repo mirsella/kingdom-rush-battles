@@ -1,0 +1,86 @@
+{
+    "CreepForestSeer": {
+        "goldReward": [
+            25
+        ],
+        "health": [
+            200
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.8
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.6
+            ],
+            "range": [
+                0.3
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    18.0
+                ],
+                "maxDamage": [
+                    22.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "range_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.3
+            ],
+            "range": [
+                1.2
+            ],
+            "damage": {
+                "minDamage": [
+                    6.3
+                ],
+                "maxDamage": [
+                    8.3
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "illusion": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                1.2
+            ],
+            "COMMENT": "Must be the same as count in illusion targt",
+            "cooldown": [
+                18
+            ],
+            "maxTargets": [
+                1
+            ],
+            "ilusionSpawn": {
+                "count": [
+                    2
+                ]
+            }
+        }
+    }
+}

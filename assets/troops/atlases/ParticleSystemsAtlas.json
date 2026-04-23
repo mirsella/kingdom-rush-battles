@@ -1,0 +1,205 @@
+{
+  "atlas_name": "ParticleSystemsAtlas",
+  "entries": [
+    {
+      "atlas_rect_offset": {
+        "x": 1304.0,
+        "y": 2711.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_fluteenchanterskill_tracestar",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 50.0,
+        "width": 50.0,
+        "x": 1304.0,
+        "y": 2711.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2736.0,
+        "x": 200.0,
+        "y": 1329.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 184.0,
+        "y": 2096.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_fluteenchanterskill_tracecenter",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 192.0,
+        "width": 180.0,
+        "x": 184.0,
+        "y": 2096.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2192.0,
+        "x": 200.0,
+        "y": 274.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 444.0,
+        "y": 1910.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_wizardtower_ball",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 192.0,
+        "width": 180.0,
+        "x": 444.0,
+        "y": 1910.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2006.0,
+        "x": 200.0,
+        "y": 534.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1932.0,
+        "y": 2496.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_shiny_creep_coin",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 18.0,
+        "width": 18.0,
+        "x": 1932.0,
+        "y": 2496.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2505.0,
+        "x": 200.0,
+        "y": 1941.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 998.0,
+        "y": 3148.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_wizardtower_ball",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 40.0,
+        "width": 54.0,
+        "x": 998.0,
+        "y": 3148.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3168.0,
+        "x": 200.0,
+        "y": 1025.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1000.0,
+        "y": 1374.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_wizardtower_ball_lvlup",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 31.0,
+        "width": 31.0,
+        "x": 1000.0,
+        "y": 1374.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1389.5,
+        "x": 200.0,
+        "y": 1015.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 617.0,
+        "y": 3154.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_wizardtower_ball_blue",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe",
+      "texture_path": "atlas_pages/ParticleSystemsAtlas__sactx-0-4096x4096-ETC2-ParticleSystemsAtlas-fe3a5bbe.png",
+      "texture_rect": {
+        "height": 73.0,
+        "width": 105.0,
+        "x": 617.0,
+        "y": 3154.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3190.5,
+        "x": 200.0,
+        "y": 669.5,
+        "z": 200.0
+      }
+    }
+  ],
+  "packed_sprite_count": 383,
+  "troop_sprite_count": 7,
+  "troop_sprite_names": [
+    "tower_fluteenchanterskill_tracestar",
+    "tower_fluteenchanterskill_tracecenter",
+    "asst_wizardtower_ball",
+    "asst_shiny_creep_coin",
+    "asst_wizardtower_ball",
+    "asst_wizardtower_ball_lvlup",
+    "asst_wizardtower_ball_blue"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+    "MG_TowerRoyalArchers_3": {
+        "stats": {
+            "COST": [
+                220
+            ],
+            "CARD_RANK": [
+                "D",
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                0.5
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                95,
+                109,
+                125,
+                144,
+                165,
+                190,
+                219,
+                251,
+                289,
+                332,
+                382,
+                440,
+                506,
+                581,
+                669
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                116,
+                133,
+                153,
+                176,
+                202,
+                232,
+                267,
+                307,
+                353,
+                406,
+                467,
+                537,
+                618,
+                711,
+                817
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_PHYSICAL"
+            ],
+            "RANGE": [
+                230
+            ]
+        },
+        "skill1": {
+            "BUFF_PERCENTAGE": [
+                "170%"
+            ]
+        },
+        "skill2": {
+            "COST": [
+                150
+            ],
+            "COOLDOWN": [
+                9
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                105,
+                121,
+                139,
+                160,
+                184,
+                211,
+                243,
+                279,
+                321,
+                369,
+                425,
+                489,
+                562,
+                646,
+                743
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                315,
+                362,
+                417,
+                479,
+                551,
+                634,
+                729,
+                838,
+                964,
+                1108,
+                1274,
+                1466,
+                1685,
+                1938,
+                2229
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_PHYSICAL"
+            ]
+        },
+        "skill3": {
+            "COST": [
+                190
+            ],
+            "COOLDOWN": [
+                25
+            ],
+            "MIN_DAMAGE": [
+                95,
+                109,
+                125,
+                144,
+                165,
+                190,
+                219,
+                251,
+                289,
+                332,
+                382,
+                440,
+                506,
+                581,
+                669
+            ],
+            "MAX_DAMAGE": [
+                116,
+                133,
+                153,
+                176,
+                202,
+                232,
+                267,
+                307,
+                353,
+                406,
+                467,
+                537,
+                618,
+                711,
+                817
+            ],
+            "ARMOR_REDUCTION": [
+                "95%"
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_PHYSICAL"
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Decrease_Creep_HP"
+                ],
+                "perkPercentage": [
+                    2
+                ]
+            }
+        }
+    }
+}

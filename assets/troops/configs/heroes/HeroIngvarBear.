@@ -1,0 +1,75 @@
+{
+    "HeroIngvarBear": {
+        "regenPerSecond": [
+            5.0
+        ],
+        "timeToStartRegen": [
+            0
+        ],
+        "speed": [
+            2.8
+        ],
+        "blockRange": [
+            1
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.0
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    12.6,
+                    14.5,
+                    16.7,
+                    19.2,
+                    22.0,
+                    25.3,
+                    29.1,
+                    33.5,
+                    38.5,
+                    44.3,
+                    51.0,
+                    58.6,
+                    67.4,
+                    77.5,
+                    89.2
+                ],
+                "maxDamage": [
+                    15.8,
+                    18.1,
+                    20.8,
+                    24.0,
+                    27.5,
+                    31.7,
+                    36.4,
+                    41.9,
+                    48.2,
+                    55.4,
+                    63.7,
+                    73.3,
+                    84.3,
+                    96.9,
+                    111.4
+                ],
+                "damageType": [
+                    "True"
+                ],
+                "rangeType": [
+                    "Melee"
+                ]
+            }
+        },
+        "polymorph_self": {
+            "COMMENT": "This is the time that hero will remain in bear form",
+            "cooldown": [
+                5.0
+            ]
+        }
+    }
+}

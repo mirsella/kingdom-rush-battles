@@ -1,0 +1,77 @@
+{
+    "BossBroodmother": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            522,
+            783,
+            928,
+            1566
+        ],
+        "speed": [
+            0.8
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "minDamage": [
+                    7,
+                    11,
+                    13,
+                    22
+                ],
+                "maxDamage": [
+                    9,
+                    14,
+                    16,
+                    27
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "drop_egg": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                15.0,
+                13.0,
+                11.0,
+                7.0
+            ],
+            "unit": {
+                "count": [
+                    1
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                200.0
+            ],
+            "blockweightmultiplier": [
+                20.0
+            ],
+            "stoppingweightmultiplier": [
+                30.0
+            ],
+            "threatlevel": [
+                2.0
+            ]
+        }
+    }
+}

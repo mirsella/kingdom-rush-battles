@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hud-asst_towerskill_bought_tick",
+  "pivot": {
+    "x": 0.4852941036224365,
+    "y": 0.5178571343421936
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 28.0,
+    "width": 34.0,
+    "x": 558.0,
+    "y": 5.0
+  },
+  "texture_name": "GameHud",
+  "texture_path_id": -2768117310584031909,
+  "texture_rect": {
+    "height": 28.0,
+    "width": 34.0,
+    "x": 558.0,
+    "y": 5.0
+  }
+}

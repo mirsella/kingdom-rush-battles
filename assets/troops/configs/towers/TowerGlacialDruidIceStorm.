@@ -1,0 +1,14 @@
+{
+    "tower_glacial_druid_ice_storm": {
+        "ice_storm": {
+            "maxTargets": [
+                1
+            ],
+            "ice_storm_stun": {
+                "duration": [
+                    9
+                ]
+            }
+        }
+    }
+}

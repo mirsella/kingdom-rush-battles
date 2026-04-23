@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "hud_spells_icon_reinforcements",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5024154782295227
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 207.0,
+    "width": 186.0,
+    "x": 1547.0,
+    "y": 365.0
+  },
+  "texture_name": "SpellIcons",
+  "texture_path_id": 1,
+  "texture_rect": {
+    "height": 207.0,
+    "width": 186.0,
+    "x": 1547.0,
+    "y": 365.0
+  }
+}

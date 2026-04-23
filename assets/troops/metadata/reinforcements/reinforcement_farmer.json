@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "reinforcement_farmer._Atlas_",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 100.0,
+  "rect": {
+    "height": 256.0,
+    "width": 256.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "reinforcement_farmer._Atlas_",
+  "texture_path_id": 914358382658749472,
+  "texture_rect": {
+    "height": 256.0,
+    "width": 256.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

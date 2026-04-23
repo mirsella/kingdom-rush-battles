@@ -1,0 +1,107 @@
+{
+    "BossEinar": {
+        "livesPenalty": [
+            999
+        ],
+        "health": [
+            4000
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.6
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.2
+            ],
+            "range": [
+                1.55
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    50
+                ],
+                "maxDamage": [
+                    100
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            },
+            "true_damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    50
+                ],
+                "maxDamage": [
+                    100
+                ],
+                "damageType": [
+                    "True"
+                ],
+                "areaRange": [
+                    0.6
+                ]
+            }
+        },
+        "tower_stunning": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                10.0
+            ],
+            "range": [
+                1.55
+            ],
+            "mod_stun": {
+                "duration": [
+                    8.0
+                ]
+            }
+        },
+        "slow_down": {
+            "disabled": [
+                false
+            ],
+            "mod_slow": {
+                "duration": [
+                    2
+                ],
+                "movementSpeedPercentage": [
+                    -50
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                50.0
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

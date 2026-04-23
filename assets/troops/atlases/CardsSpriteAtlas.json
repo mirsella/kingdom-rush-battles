@@ -1,0 +1,2361 @@
+{
+  "atlas_name": "CardsSpriteAtlas",
+  "entries": [
+    {
+      "atlas_rect_offset": {
+        "x": 2086.0,
+        "y": 2759.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "build_tower_slot_glow_mask",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 190.0,
+        "width": 170.0,
+        "x": 2086.0,
+        "y": 2759.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2854.0,
+        "x": 200.0,
+        "y": 2171.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 877.0,
+        "y": 3202.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_deck_build_tower_frame_small3",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 61.0,
+        "width": 61.0,
+        "x": 877.0,
+        "y": 3202.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3232.5,
+        "x": 200.0,
+        "y": 907.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 432.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_frame_frontwhite",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 466.0,
+        "width": 428.0,
+        "x": 432.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 233.0,
+        "x": 200.0,
+        "y": 646.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2778.0,
+        "y": 1452.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_card_tower_build_background",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 2778.0,
+        "y": 1452.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1600.0,
+        "x": 200.0,
+        "y": 2915.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1352.0,
+        "y": 2902.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_sorcerer",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 1352.0,
+        "y": 2902.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3048.0,
+        "x": 200.0,
+        "y": 1477.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3334.0,
+        "y": 1590.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "build_hero_icon_background_container 3.28.21\u202fPM",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3334.0,
+        "y": 1590.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1738.0,
+        "x": 200.0,
+        "y": 3471.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 3007.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_card_hero_build_slot",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 0.0,
+        "y": 3007.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3155.0,
+        "x": 200.0,
+        "y": 137.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1561.0,
+        "y": 3198.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0002",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 47.0,
+        "width": 61.0,
+        "x": 1561.0,
+        "y": 3198.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3221.5,
+        "x": 200.0,
+        "y": 1591.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3189.0,
+        "y": 1890.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_card_tower_build_slot",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 3189.0,
+        "y": 1890.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2033.0,
+        "x": 200.0,
+        "y": 3319.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 264.0,
+        "y": 3307.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_bg_legendary",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 264.0,
+        "y": 3307.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3453.0,
+        "x": 200.0,
+        "y": 389.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3004.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_frame_front3",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 360.0,
+        "width": 360.0,
+        "x": 3004.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 180.0,
+        "x": 200.0,
+        "y": 3184.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1668.0,
+        "y": 1980.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_necromancer",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 1668.0,
+        "y": 1980.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2128.0,
+        "x": 200.0,
+        "y": 1805.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1098.0,
+        "y": 2902.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_deck_build_tower_frame_small4",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 1098.0,
+        "y": 2902.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3048.0,
+        "x": 200.0,
+        "y": 1223.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3612.0,
+        "y": 1590.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_crimson",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3612.0,
+        "y": 1590.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1738.0,
+        "x": 200.0,
+        "y": 3749.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2713.0,
+        "y": 2346.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_archeryscouts",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 273.0,
+        "width": 248.0,
+        "x": 2713.0,
+        "y": 2346.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2482.5,
+        "x": 200.0,
+        "y": 2837.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1821.0,
+        "y": 1287.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_deck_build_tower_frame_small1",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 368.0,
+        "width": 289.0,
+        "x": 1821.0,
+        "y": 1287.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1471.0,
+        "x": 200.0,
+        "y": 1965.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3368.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_build_background_container 3.28.21\u202fPM",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 386.0,
+        "width": 305.0,
+        "x": 3368.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 193.0,
+        "x": 200.0,
+        "y": 3520.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2660.0,
+        "y": 1402.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_frame_front4",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 62.0,
+        "width": 60.0,
+        "x": 2660.0,
+        "y": 1402.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1433.0,
+        "x": 200.0,
+        "y": 2690.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 556.0,
+        "y": 2224.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_build_frame_front4",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 556.0,
+        "y": 2224.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2372.0,
+        "x": 200.0,
+        "y": 693.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2925.0,
+        "y": 1752.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_ranger",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 2925.0,
+        "y": 1752.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1895.0,
+        "x": 200.0,
+        "y": 3055.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2928.0,
+        "y": 944.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_frame_front4",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 204.0,
+        "width": 401.0,
+        "x": 2928.0,
+        "y": 944.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1046.0,
+        "x": 200.0,
+        "y": 3128.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 796.0,
+        "y": 3335.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_blazinggem",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 61.0,
+        "width": 61.0,
+        "x": 796.0,
+        "y": 3335.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3365.5,
+        "x": 200.0,
+        "y": 826.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1849.0,
+        "y": 2752.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_bg_rare",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 260.0,
+        "width": 233.0,
+        "x": 1849.0,
+        "y": 2752.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2882.0,
+        "x": 200.0,
+        "y": 1965.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1112.0,
+        "y": 2606.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0001",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 1112.0,
+        "y": 2606.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2752.0,
+        "x": 200.0,
+        "y": 1237.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2649.0,
+        "y": 1752.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_rocket",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 293.8477783203125,
+        "width": 269.9109802246094,
+        "x": 2651.012939453125,
+        "y": 1752.076171875
+      },
+      "texture_rect_offset": {
+        "x": 2.0129125118255615,
+        "y": 0.07612049579620361
+      },
+      "uv_transform": {
+        "w": 1900.0,
+        "x": 200.0,
+        "y": 2786.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 796.0,
+        "y": 3270.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0007",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 61.0,
+        "width": 61.0,
+        "x": 796.0,
+        "y": 3270.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3300.5,
+        "x": 200.0,
+        "y": 826.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2280.0,
+        "y": 1877.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_arcanewizard",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 64.0,
+        "width": 77.0,
+        "x": 2280.0,
+        "y": 1877.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1909.0,
+        "x": 200.0,
+        "y": 2318.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2016.0,
+        "y": 1877.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_frame_front",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 2016.0,
+        "y": 1877.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2020.0,
+        "x": 200.0,
+        "y": 2146.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1594.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_deck_bk_container",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 1594.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 212.5,
+        "x": 200.0,
+        "y": 1774.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3611.0,
+        "y": 990.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0009",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3611.0,
+        "y": 990.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1138.0,
+        "x": 200.0,
+        "y": 3748.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3561.0,
+        "y": 390.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_mask",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3561.0,
+        "y": 390.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 538.0,
+        "x": 200.0,
+        "y": 3698.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3611.0,
+        "y": 690.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_barrack",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3611.0,
+        "y": 690.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 838.0,
+        "x": 200.0,
+        "y": 3748.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 940.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_dwaarp",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 0.0,
+        "y": 940.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1152.5,
+        "x": 200.0,
+        "y": 180.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 676.0,
+        "y": 1716.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_build_frame_front2",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 204.0,
+        "width": 401.0,
+        "x": 676.0,
+        "y": 1716.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1818.0,
+        "x": 200.0,
+        "y": 876.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 556.0,
+        "y": 2524.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_build_mask",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 556.0,
+        "y": 2524.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2672.0,
+        "x": 200.0,
+        "y": 693.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_trophy_bk_container",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 466.0,
+        "width": 428.0,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 233.0,
+        "x": 200.0,
+        "y": 214.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 556.0,
+        "y": 1924.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_holy",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 556.0,
+        "y": 1924.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2072.0,
+        "x": 200.0,
+        "y": 693.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1112.0,
+        "y": 2316.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_bg_common",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 1112.0,
+        "y": 2316.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2459.0,
+        "x": 200.0,
+        "y": 1242.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1095.0,
+        "y": 1287.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0003",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 1095.0,
+        "y": 1287.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1499.5,
+        "x": 200.0,
+        "y": 1275.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 796.0,
+        "y": 3202.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0008",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 64.0,
+        "width": 77.0,
+        "x": 796.0,
+        "y": 3202.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3234.0,
+        "x": 200.0,
+        "y": 834.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 806.0,
+        "y": 2906.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_background_container",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 806.0,
+        "y": 2906.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3052.0,
+        "x": 200.0,
+        "y": 931.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2172.0,
+        "y": 2463.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_build_frame_front1",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 2172.0,
+        "y": 2463.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2609.0,
+        "x": 200.0,
+        "y": 2297.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 278.0,
+        "y": 2997.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_crossbow",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 278.0,
+        "y": 2997.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3140.0,
+        "x": 200.0,
+        "y": 408.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 278.0,
+        "y": 2107.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_mask",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 278.0,
+        "y": 2107.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2255.0,
+        "x": 200.0,
+        "y": 415.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2810.0,
+        "y": 2623.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "build_hero_icon_background_container",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 2810.0,
+        "y": 2623.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2769.0,
+        "x": 200.0,
+        "y": 2935.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1594.0,
+        "y": 429.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_card_hero_build_slot_icon 4.28.24\u202fPM",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 1594.0,
+        "y": 429.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 641.5,
+        "x": 200.0,
+        "y": 1774.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2669.0,
+        "y": 1069.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_archmage",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 329.0,
+        "width": 255.0,
+        "x": 2669.0,
+        "y": 1069.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1233.5,
+        "x": 200.0,
+        "y": 2796.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3484.0,
+        "y": 1290.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_royalarchers",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3484.0,
+        "y": 1290.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1438.0,
+        "x": 200.0,
+        "y": 3621.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1390.0,
+        "y": 2280.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_card_hero_build_background",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 1390.0,
+        "y": 2280.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2423.0,
+        "x": 200.0,
+        "y": 1520.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1738.0,
+        "y": 1680.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_frame_front1",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 1738.0,
+        "y": 1680.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1828.0,
+        "x": 200.0,
+        "y": 1875.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3558.0,
+        "y": 2084.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_glacial",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 3558.0,
+        "y": 2084.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2230.0,
+        "x": 200.0,
+        "y": 3683.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 1369.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_assassin",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 434.0,
+        "width": 335.0,
+        "x": 0.0,
+        "y": 1369.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1586.0,
+        "x": 200.0,
+        "y": 167.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1959.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0005",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 389.0,
+        "width": 357.0,
+        "x": 1959.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 194.5,
+        "x": 200.0,
+        "y": 2137.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1630.0,
+        "y": 2570.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_frame_front5",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 49.0,
+        "width": 63.0,
+        "x": 1630.0,
+        "y": 2570.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2594.5,
+        "x": 200.0,
+        "y": 1661.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1112.0,
+        "y": 2016.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0014",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 1112.0,
+        "y": 2016.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2164.0,
+        "x": 200.0,
+        "y": 1249.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 365.0,
+        "y": 940.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_frame_front3",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 365.0,
+        "y": 940.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1152.5,
+        "x": 200.0,
+        "y": 545.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1849.0,
+        "y": 3016.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_musketeer",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 191.0,
+        "width": 170.0,
+        "x": 1849.0,
+        "y": 3016.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3111.5,
+        "x": 200.0,
+        "y": 1934.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 542.0,
+        "y": 3114.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_artillery",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 542.0,
+        "y": 3114.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3260.0,
+        "x": 200.0,
+        "y": 667.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1959.0,
+        "y": 789.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_frame_front2",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 360.0,
+        "width": 360.0,
+        "x": 1959.0,
+        "y": 789.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 969.0,
+        "x": 200.0,
+        "y": 2139.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 470.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_mage",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 466.0,
+        "width": 428.0,
+        "x": 0.0,
+        "y": 470.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 703.0,
+        "x": 200.0,
+        "y": 214.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 278.0,
+        "y": 2707.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_build_frame_front3",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 278.0,
+        "y": 2707.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2850.0,
+        "x": 200.0,
+        "y": 408.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1053.0,
+        "y": 3198.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0004",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 285.8971252441406,
+        "width": 246.84774780273438,
+        "x": 1060.076171875,
+        "y": 3198.02685546875
+      },
+      "texture_rect_offset": {
+        "x": 7.076120376586914,
+        "y": 0.02675098180770874
+      },
+      "uv_transform": {
+        "w": 3341.0,
+        "x": 200.0,
+        "y": 1183.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2323.0,
+        "y": 425.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_bg_epic",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 370.0,
+        "width": 342.0,
+        "x": 2323.0,
+        "y": 425.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 610.0,
+        "x": 200.0,
+        "y": 2494.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2323.0,
+        "y": 799.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_hunter",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 370.0,
+        "width": 342.0,
+        "x": 2323.0,
+        "y": 799.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 984.0,
+        "x": 200.0,
+        "y": 2494.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1229.0,
+        "y": 858.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0012",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 1229.0,
+        "y": 858.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1070.5,
+        "x": 200.0,
+        "y": 1409.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3762.0,
+        "y": 1290.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "NO_tower_icon_deck_background_container",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3762.0,
+        "y": 1290.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1438.0,
+        "x": 200.0,
+        "y": 3899.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2455.0,
+        "y": 2346.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "asst_deck_build_tower_frame_small2",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 285.8971252441406,
+        "width": 246.84774780273438,
+        "x": 2462.076171875,
+        "y": 2346.02685546875
+      },
+      "texture_rect_offset": {
+        "x": 7.076120376586914,
+        "y": 0.02675098180770874
+      },
+      "uv_transform": {
+        "w": 2489.0,
+        "x": 200.0,
+        "y": 2585.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2114.0,
+        "y": 1544.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_tesla",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 329.0,
+        "width": 255.0,
+        "x": 2114.0,
+        "y": 1544.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1708.5,
+        "x": 200.0,
+        "y": 2241.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2023.0,
+        "y": 3016.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_archer",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 2023.0,
+        "y": 3016.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3162.0,
+        "x": 200.0,
+        "y": 2148.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 542.0,
+        "y": 2824.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0013",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 542.0,
+        "y": 2824.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2967.0,
+        "x": 200.0,
+        "y": 672.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1376.0,
+        "y": 2570.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_deck_background_container",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 1376.0,
+        "y": 2570.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2716.0,
+        "x": 200.0,
+        "y": 1501.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 834.0,
+        "y": 2316.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0006",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 834.0,
+        "y": 2316.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2464.0,
+        "x": 200.0,
+        "y": 971.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2277.0,
+        "y": 2812.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_barbarian",
+      "settings_raw": 67,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 292.0,
+        "width": 250.0,
+        "x": 2277.0,
+        "y": 2812.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2958.0,
+        "x": 200.0,
+        "y": 2402.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 834.0,
+        "y": 2616.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_build_background_container",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 286.0,
+        "width": 260.0,
+        "x": 834.0,
+        "y": 2616.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2759.0,
+        "x": 200.0,
+        "y": 964.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 864.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_mecha",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 864.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 212.5,
+        "x": 200.0,
+        "y": 1044.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1460.0,
+        "y": 1680.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "tower_icon_frame_front2",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 1460.0,
+        "y": 1680.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1828.0,
+        "x": 200.0,
+        "y": 1597.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 877.0,
+        "y": 3267.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_tower_icons_twilightlongbows",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 47.0,
+        "width": 61.0,
+        "x": 877.0,
+        "y": 3267.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3290.5,
+        "x": 200.0,
+        "y": 907.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3453.0,
+        "y": 1890.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "hero_icon_frame_fron2",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 190.0,
+        "width": 152.0,
+        "x": 3453.0,
+        "y": 1890.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1985.0,
+        "x": 200.0,
+        "y": 3529.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 3056.0,
+        "y": 1452.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0016",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 3056.0,
+        "y": 1452.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1600.0,
+        "x": 200.0,
+        "y": 3193.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 1807.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0010",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 296.0,
+        "width": 274.0,
+        "x": 0.0,
+        "y": 1807.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1955.0,
+        "x": 200.0,
+        "y": 137.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2928.0,
+        "y": 736.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0017",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 204.0,
+        "width": 401.0,
+        "x": 2928.0,
+        "y": 736.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 838.0,
+        "x": 200.0,
+        "y": 3128.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 2640.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0018",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 360.0,
+        "width": 360.0,
+        "x": 2640.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 180.0,
+        "x": 200.0,
+        "y": 2820.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 730.0,
+        "y": 1287.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0015",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 425.0,
+        "width": 361.0,
+        "x": 730.0,
+        "y": 1287.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1499.5,
+        "x": 200.0,
+        "y": 910.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1946.0,
+        "y": 2167.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_deck_hero_icons_0011",
+      "settings_raw": 3,
+      "texture_name": "sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd",
+      "texture_path": "atlas_pages/CardsSpriteAtlas__sactx-0-4096x4096-ETC2-CardsSpriteAtlas-53e23cbd.png",
+      "texture_rect": {
+        "height": 285.0,
+        "width": 258.0,
+        "x": 1946.0,
+        "y": 2167.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2309.5,
+        "x": 200.0,
+        "y": 2075.0,
+        "z": 200.0
+      }
+    }
+  ],
+  "packed_sprite_count": 133,
+  "troop_sprite_count": 84,
+  "troop_sprite_names": [
+    "build_tower_slot_glow_mask",
+    "asst_deck_build_tower_frame_small3",
+    "tower_icon_frame_frontwhite",
+    "asst_card_tower_build_background",
+    "metagame_deck_tower_icons_sorcerer",
+    "build_hero_icon_background_container 3.28.21\u202fPM",
+    "asst_card_hero_build_slot",
+    "metagame_deck_hero_icons_0002",
+    "asst_card_tower_build_slot",
+    "metagame_deck_tower_icons_bg_legendary",
+    "tower_icon_frame_front3",
+    "metagame_deck_tower_icons_necromancer",
+    "asst_deck_build_tower_frame_small4",
+    "metagame_deck_tower_icons_crimson",
+    "metagame_deck_tower_icons_archeryscouts",
+    "asst_deck_build_tower_frame_small1",
+    "tower_icon_build_background_container 3.28.21\u202fPM",
+    "tower_icon_frame_front4",
+    "hero_icon_build_frame_front4",
+    "metagame_deck_tower_icons_ranger",
+    "hero_icon_frame_front4",
+    "metagame_deck_tower_icons_blazinggem",
+    "metagame_deck_tower_icons_bg_rare",
+    "metagame_deck_hero_icons_0001",
+    "metagame_deck_tower_icons_rocket",
+    "metagame_deck_hero_icons_0007",
+    "metagame_deck_tower_icons_arcanewizard",
+    "tower_icon_frame_front",
+    "tower_icon_deck_bk_container",
+    "metagame_deck_hero_icons_0009",
+    "hero_icon_mask",
+    "metagame_deck_tower_icons_barrack",
+    "metagame_deck_tower_icons_dwaarp",
+    "hero_icon_build_frame_front2",
+    "hero_icon_build_mask",
+    "tower_icon_trophy_bk_container",
+    "metagame_deck_tower_icons_holy",
+    "metagame_deck_tower_icons_bg_common",
+    "metagame_deck_hero_icons_0003",
+    "metagame_deck_hero_icons_0008",
+    "hero_icon_background_container",
+    "hero_icon_build_frame_front1",
+    "metagame_deck_tower_icons_crossbow",
+    "tower_icon_mask",
+    "build_hero_icon_background_container",
+    "asst_card_hero_build_slot_icon 4.28.24\u202fPM",
+    "metagame_deck_tower_icons_archmage",
+    "metagame_deck_tower_icons_royalarchers",
+    "asst_card_hero_build_background",
+    "hero_icon_frame_front1",
+    "metagame_deck_tower_icons_glacial",
+    "metagame_deck_tower_icons_assassin",
+    "metagame_deck_hero_icons_0005",
+    "hero_icon_frame_front5",
+    "metagame_deck_hero_icons_0014",
+    "hero_icon_frame_front3",
+    "metagame_deck_tower_icons_musketeer",
+    "metagame_deck_tower_icons_artillery",
+    "hero_icon_frame_front2",
+    "metagame_deck_tower_icons_mage",
+    "hero_icon_build_frame_front3",
+    "metagame_deck_hero_icons_0004",
+    "metagame_deck_tower_icons_bg_epic",
+    "metagame_deck_tower_icons_hunter",
+    "metagame_deck_hero_icons_0012",
+    "NO_tower_icon_deck_background_container",
+    "asst_deck_build_tower_frame_small2",
+    "metagame_deck_tower_icons_tesla",
+    "metagame_deck_tower_icons_archer",
+    "metagame_deck_hero_icons_0013",
+    "tower_icon_deck_background_container",
+    "metagame_deck_hero_icons_0006",
+    "metagame_deck_tower_icons_barbarian",
+    "tower_icon_build_background_container",
+    "metagame_deck_tower_icons_mecha",
+    "tower_icon_frame_front2",
+    "metagame_deck_tower_icons_twilightlongbows",
+    "hero_icon_frame_fron2",
+    "metagame_deck_hero_icons_0016",
+    "metagame_deck_hero_icons_0010",
+    "metagame_deck_hero_icons_0017",
+    "metagame_deck_hero_icons_0018",
+    "metagame_deck_hero_icons_0015",
+    "metagame_deck_hero_icons_0011"
+  ]
+}

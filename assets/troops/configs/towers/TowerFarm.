@@ -1,0 +1,31 @@
+{
+    "tower_farm": {
+        "basic_attack": {
+            "range": [
+                1.6,
+                1.6,
+                1.6
+            ],
+            "cooldown": [
+                1,
+                1,
+                1
+            ],
+            "damage": {
+                "minDamage": [
+                    2,
+                    1,
+                    0
+                ],
+                "maxDamage": [
+                    3,
+                    2,
+                    1
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        }
+    }
+}

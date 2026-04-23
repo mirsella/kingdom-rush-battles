@@ -1,0 +1,78 @@
+{
+    "CreepTrollPathfinder": {
+        "goldReward": [
+            9
+        ],
+        "goldRewardShiny": [
+            75
+        ],
+        "health": [
+            90
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            1.1
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.1
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    7.0
+                ],
+                "maxDamage": [
+                    10.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "regen": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1
+            ],
+            "heal": {
+                "minHeal": [
+                    0
+                ],
+                "maxHeal": [
+                    0
+                ],
+                "percentageHeal": [
+                    5
+                ]
+            }
+        },
+        "stage_mech": {
+            "disabled": [
+                false
+            ],
+            "unblockable": {
+                "movementSpeedPercentage": [
+                    200
+                ]
+            }
+        },
+        "ai": {
+            "blockweightmultiplier": [
+                1.5
+            ]
+        }
+    }
+}

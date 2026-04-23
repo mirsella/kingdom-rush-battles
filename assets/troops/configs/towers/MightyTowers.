@@ -1,0 +1,14 @@
+{
+	"MightyTowers":{
+
+		"buff":{
+			"damagePercentage" : [ 5, 10, 15, 30 ]
+		},
+
+		"ai": {
+			"tags": [
+				"defense"
+			]
+		}
+	}
+}

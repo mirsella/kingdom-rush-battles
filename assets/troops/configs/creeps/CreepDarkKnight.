@@ -1,0 +1,52 @@
+{
+    "CreepDarkKnight": {
+        "goldReward": [
+            30
+        ],
+        "goldRewardShiny": [
+            184
+        ],
+        "health": [
+            700
+        ],
+        "armor": [
+            95
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.4
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    23.0
+                ],
+                "maxDamage": [
+                    28.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "armor_break": {
+            "disabled": [
+                false
+            ],
+            "healthThreshold": [
+                30
+            ]
+        }
+    }
+}

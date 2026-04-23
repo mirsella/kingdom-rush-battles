@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "boosters_defense_icons_herodmg",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 254.0,
+    "width": 232.0,
+    "x": 1443.0,
+    "y": 268.0
+  },
+  "texture_name": "MetagameTrophyRoadBoosters",
+  "texture_path_id": -825687117640800827,
+  "texture_rect": {
+    "height": 254.0,
+    "width": 232.0,
+    "x": 1443.0,
+    "y": 268.0
+  }
+}

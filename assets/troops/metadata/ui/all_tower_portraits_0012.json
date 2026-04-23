@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "all_tower_portraits_0012",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 1280.0,
+    "width": 1284.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "all_tower_portraits_0012",
+  "texture_path_id": 1004251691865543068,
+  "texture_rect": {
+    "height": 997.8056030273438,
+    "width": 1245.8875732421875,
+    "x": 31.076120376586914,
+    "y": 139.0761260986328
+  }
+}

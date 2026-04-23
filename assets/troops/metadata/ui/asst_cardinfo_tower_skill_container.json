@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "asst_cardinfo_tower_skill_container",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5198675394058228
+  },
+  "pixels_to_units": 200.0,
+  "rect": {
+    "height": 151.0,
+    "width": 177.0,
+    "x": 115.0,
+    "y": 7.0
+  },
+  "texture_name": "MetagameCardInfo",
+  "texture_path_id": -3143468699496145507,
+  "texture_rect": {
+    "height": 151.0,
+    "width": 177.0,
+    "x": 115.0,
+    "y": 7.0
+  }
+}

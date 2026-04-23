@@ -1,0 +1,75 @@
+{
+    "Eldritch_Magus": {
+        "goldReward": [
+            30
+        ],
+        "health": [
+            500
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.9
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.2
+            ],
+            "range": [
+                0.3
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    8.0
+                ],
+                "maxDamage": [
+                    13.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "spawn_storm": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                18.0
+            ],
+            "spawn_rage": {
+                "count": [
+                    3
+                ]
+            },
+            "COMMENT": "For damage and duration go to CreepEldritchMagusStorm.Json",
+            "range": [
+                0.8
+            ]
+        },
+        "Rage": {
+            "cooldown": [
+                12.0
+            ],
+            "COMMENT": "Below this health PERCENTAGE value if cooldown reached, it will make this ability",
+            "healthThreshold": [
+                30
+            ],
+            "spawn_rage": {
+                "count": [
+                    1
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "quickmenu-quickmenu_tower_lock",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5096774101257324
+  },
+  "pixels_to_units": 400.0,
+  "rect": {
+    "height": 155.0,
+    "width": 154.0,
+    "x": 1632.0,
+    "y": 550.0
+  },
+  "texture_name": "GameHud",
+  "texture_path_id": -2768117310584031909,
+  "texture_rect": {
+    "height": 155.0,
+    "width": 154.0,
+    "x": 1632.0,
+    "y": 550.0
+  }
+}

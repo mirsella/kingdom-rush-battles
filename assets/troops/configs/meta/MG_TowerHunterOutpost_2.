@@ -1,0 +1,118 @@
+{
+    "MG_TowerHunterOutpost_2": {
+        "stats": {
+            "COST": [
+                155
+            ],
+            "CARD_RANK": [
+                "D",
+                "D+",
+                "C",
+                "C",
+                "C+",
+                "B",
+                "B",
+                "B+",
+                "A",
+                "A",
+                "A+",
+                "S",
+                "S",
+                "S",
+                "S+"
+            ],
+            "UNIT_RANGED_ATTACK_SPEED": [
+                0.8
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                158,
+                181,
+                208,
+                240,
+                275,
+                317,
+                364,
+                419,
+                482,
+                554,
+                637,
+                733,
+                843,
+                969,
+                1114
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                179,
+                205,
+                236,
+                271,
+                312,
+                359,
+                413,
+                475,
+                546,
+                628,
+                722,
+                830,
+                955,
+                1098,
+                1263
+            ],
+            "DAMAGE_TYPE": [
+                "CARD_STAT_DAMAGE_TYPE_PHYSICAL"
+            ],
+            "RANGE": [
+                155
+            ]
+        },
+        "skill1": {
+            "UNIT_RANGED_ATTACK_SPEED": [
+                1.0
+            ],
+            "UNIT_MIN_RANGE_DAMAGE": [
+                357,
+                411,
+                472,
+                543,
+                624,
+                718,
+                826,
+                950,
+                1092,
+                1256,
+                1444,
+                1661,
+                1910,
+                2197,
+                2526
+            ],
+            "UNIT_MAX_RANGE_DAMAGE": [
+                420,
+                483,
+                555,
+                639,
+                735,
+                845,
+                971,
+                1117,
+                1285,
+                1478,
+                1699,
+                1954,
+                2247,
+                2584,
+                2972
+            ]
+        },
+        "perks": {
+            "perk1": {
+                "perkType": [
+                    "Decrease_Creep_Speed"
+                ],
+                "perkPercentage": [
+                    2
+                ]
+            }
+        }
+    }
+}

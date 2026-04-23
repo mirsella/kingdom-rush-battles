@@ -1,0 +1,25 @@
+{
+    "tower_rocket_gunners_3": {
+        "cost": [
+            280
+        ],
+        "costUnlockable1": [
+            140
+        ],
+        "costUnlockable2": [
+            185
+        ],
+        "COMMENT": "Count is not being taken in account in game is here for UI purposes only",
+        "count": [
+            2
+        ],
+        "sting_missiles": {
+            "range": [
+                200
+            ],
+            "cooldown": [
+                28
+            ]
+        }
+    }
+}

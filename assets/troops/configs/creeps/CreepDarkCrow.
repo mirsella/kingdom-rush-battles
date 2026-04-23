@@ -1,0 +1,44 @@
+{
+    "CreepDarkCrow": {
+        "goldReward": [
+            20
+        ],
+        "goldRewardShiny": [
+            32
+        ],
+        "health": [
+            105
+        ],
+        "speed": [
+            1.0
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "basic_attack": {
+            "cooldown": [
+                9.0
+            ],
+            "range": [
+                0.3
+            ],
+            "loops": [
+                3
+            ],
+            "crow_damage": {
+                "duration": [
+                    1.5
+                ],
+                "tickTime": [
+                    0.5
+                ],
+                "health": [
+                    20.0
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+  "atlas_name": "ShopSpriteAtlas",
+  "entries": [
+    {
+      "atlas_rect_offset": {
+        "x": 1184.0,
+        "y": 1334.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_shop_popupwindow_illustration_tower_mecha",
+      "settings_raw": 3,
+      "texture_name": "sactx-1-4096x4096-ETC2-ShopSpriteAtlas-bc543b98",
+      "texture_path": "atlas_pages/ShopSpriteAtlas__sactx-1-4096x4096-ETC2-ShopSpriteAtlas-bc543b98.png",
+      "texture_rect": {
+        "height": 1090.0,
+        "width": 1180.0,
+        "x": 1184.0,
+        "y": 1334.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 1879.0,
+        "x": 200.0,
+        "y": 1774.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 1159.0,
+        "y": 0.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_shop_popupwindow_illustration_tower_arena_forsakenvalley",
+      "settings_raw": 3,
+      "texture_name": "sactx-2-2048x4096-ETC2-ShopSpriteAtlas-bc543b98",
+      "texture_path": "atlas_pages/ShopSpriteAtlas__sactx-2-2048x4096-ETC2-ShopSpriteAtlas-bc543b98.png",
+      "texture_rect": {
+        "height": 560.0,
+        "width": 600.0,
+        "x": 1159.0,
+        "y": 0.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 280.0,
+        "x": 200.0,
+        "y": 1459.0,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 1782.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_shop_popupwindow_illustration_tower_tesla",
+      "settings_raw": 3,
+      "texture_name": "sactx-2-2048x4096-ETC2-ShopSpriteAtlas-bc543b98",
+      "texture_path": "atlas_pages/ShopSpriteAtlas__sactx-2-2048x4096-ETC2-ShopSpriteAtlas-bc543b98.png",
+      "texture_rect": {
+        "height": 590.0,
+        "width": 1155.0,
+        "x": 0.0,
+        "y": 1782.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 2077.0,
+        "x": 200.0,
+        "y": 577.5,
+        "z": 200.0
+      }
+    },
+    {
+      "atlas_rect_offset": {
+        "x": 0.0,
+        "y": 2668.0
+      },
+      "downscale_multiplier": 1.0,
+      "name": "metagame_shop_popupwindow_illustration_tower_necromancer",
+      "settings_raw": 3,
+      "texture_name": "sactx-1-4096x4096-ETC2-ShopSpriteAtlas-bc543b98",
+      "texture_path": "atlas_pages/ShopSpriteAtlas__sactx-1-4096x4096-ETC2-ShopSpriteAtlas-bc543b98.png",
+      "texture_rect": {
+        "height": 697.0,
+        "width": 1360.0,
+        "x": 0.0,
+        "y": 2668.0
+      },
+      "texture_rect_offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "uv_transform": {
+        "w": 3016.5,
+        "x": 200.0,
+        "y": 680.0,
+        "z": 200.0
+      }
+    }
+  ],
+  "packed_sprite_count": 33,
+  "troop_sprite_count": 4,
+  "troop_sprite_names": [
+    "metagame_shop_popupwindow_illustration_tower_mecha",
+    "metagame_shop_popupwindow_illustration_tower_arena_forsakenvalley",
+    "metagame_shop_popupwindow_illustration_tower_tesla",
+    "metagame_shop_popupwindow_illustration_tower_necromancer"
+  ]
+}

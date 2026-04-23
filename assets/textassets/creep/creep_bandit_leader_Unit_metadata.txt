@@ -1,0 +1,1324 @@
+{
+	"Idle1_1" : {
+		"attachs" :
+		{
+			"target1" : [1,0,0,1,0,0],
+			"target1Offset" : [1,0,0,1,0,20.7],
+			"healthbar" : [1,0,0,1,-1,70.1],
+			"touchBounds" : [67,58,0.4,26.6]
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			}
+		}
+	},
+	"Walk1_1" : {
+		"attachs" :
+		{
+			"target1" : [1,0,0,1,0,0],
+			"target1Offset" : [1,0,0,1,0,20.7],
+			"healthbar" : [1,0,0,1,-1,70.1],
+			"touchBounds" : [67,58,0.4,26.6]
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"1" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"2" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"3" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"4" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"5" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"6" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"7" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"8" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"9" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"10" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"11" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"12" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"13" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"14" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"15" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"16" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"17" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"18" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"19" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"20" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"21" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"22" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"23" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"24" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"25" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			}
+		}
+	},
+	"Ability1_1" : {
+		"attachs" :
+		{
+			"target1" : [1,0,0,1,0,0],
+			"target1Offset" : [1,0,0,1,0,20.7],
+			"healthbar" : [1,0,0,1,-1,70.1],
+			"touchBounds" : [67,58,0.4,26.6]
+		},
+		"events" :
+		{
+			" Attack1" : 17
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"1" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"2" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"3" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"4" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"5" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"6" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"7" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"8" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"9" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"10" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"11" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"12" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"13" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"14" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"15" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"16" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"17" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"18" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"19" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"20" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"21" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"22" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"23" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"24" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"25" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"26" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"27" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"28" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"29" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"30" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"31" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"32" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"33" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"34" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"35" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"36" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"37" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"38" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			}
+		}
+	},
+	"Ability2_1" : {
+		"attachs" :
+		{
+			"target1" : [1,0,0,1,0,0],
+			"target1Offset" : [1,0,0,1,0,20.7],
+			"healthbar" : [1,0,0,1,-1,70.1],
+			"touchBounds" : [67,58,0.4,26.6]
+		},
+		"events" :
+		{
+			" Attack1" : 14
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"1" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"2" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"3" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"4" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"5" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"6" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"7" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"8" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"9" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"10" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"11" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"12" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"13" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"14" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"15" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"16" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"17" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"18" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"19" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"20" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"21" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"22" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"23" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"24" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"25" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"26" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"27" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"28" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"29" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"30" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"31" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"32" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"33" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"34" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"35" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"36" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			}
+		}
+	},
+	"Death1_1" : {
+		"attachs" :
+		{
+			"target1" : [1,0,0,1,0,0],
+			"target1Offset" : [1,0,0,1,0,20.7],
+			"healthbar" : [1,0,0,1,-1,70.1],
+			"touchBounds" : [67,58,0.4,26.6]
+		},
+		"events" :
+		{
+
+		},
+		"frames" :
+		{
+			"0" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"1" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"2" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"3" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"4" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"5" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"6" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"7" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"8" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"9" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"10" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"11" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"12" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"13" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"14" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"15" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"16" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"17" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"18" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"19" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"20" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"21" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"22" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"23" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"24" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"25" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"26" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"27" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"28" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"29" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"30" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"31" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"32" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"33" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			},
+			"34" : {
+				"attachs" :
+				{
+					"target1" : [1,0,0,1,0,0],
+					"target1Offset" : [1,0,0,1,0,20.7],
+					"healthbar" : [1,0,0,1,-1,70.1],
+					"touchBounds" : [67,58,0.4,26.6]
+				}
+			}
+		}
+	}
+}

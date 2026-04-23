@@ -1,0 +1,71 @@
+{
+    "tower_barbarian_1": {
+        "cost": [
+            75
+        ],
+        "ai": {
+            "level": {
+                "dps": [
+                    11.4,
+                    25.0,
+                    41.2
+                ],
+                "dpsMultiplier": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.05
+                ],
+                "groundPhysicalDamage": [
+                    0.25
+                ],
+                "swarmDefense": [
+                    1.65
+                ],
+                "coverageMultiplier": [
+                    1.0
+                ]
+            },
+            "skill1": {
+                "dps": [
+                    15.0
+                ],
+                "dpsMultiplier": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.05
+                ],
+                "groundPhysicalDamage": [
+                    0.25
+                ],
+                "swarmDefense": [
+                    1.0
+                ],
+                "coverageMultiplier": [
+                    10.0
+                ]
+            },
+            "skill2": {
+                "dps": [
+                    10.0
+                ],
+                "dpsMultiplier": [
+                    1.0
+                ],
+                "groundMagicDamage": [
+                    0.05
+                ],
+                "groundPhysicalDamage": [
+                    0.25
+                ],
+                "swarmDefense": [
+                    1.0
+                ],
+                "coverageMultiplier": [
+                    10.0
+                ]
+            }
+        }
+    }
+}

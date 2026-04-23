@@ -1,0 +1,58 @@
+{
+    "CreepGolemBigMagic": {
+        "goldReward": [
+            0
+        ],
+        "health": [
+            400,
+            625,
+            750,
+            1400
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            95
+        ],
+        "speed": [
+            0.7
+        ],
+        "basic_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                2.2
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    32,
+                    50,
+                    60,
+                    112
+                ],
+                "maxDamage": [
+                    40,
+                    63,
+                    75,
+                    140
+                ],
+                "damageType": [
+                    "True"
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                80.0
+            ],
+            "blockweightmultiplier": [
+                2.0
+            ]
+        }
+    }
+}

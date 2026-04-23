@@ -1,0 +1,181 @@
+{
+    "tower_royal_archer_3": {
+        "cost": [
+            220
+        ],
+        "costUnlockable1": [
+            150
+        ],
+        "costUnlockable2": [
+            190
+        ],
+        "basic_attack": {
+            "range": [
+                2.3
+            ],
+            "cooldown": [
+                0.5
+            ],
+            "damage": {
+                "minDamage": [
+                    9.5,
+                    10.9,
+                    12.5,
+                    14.4,
+                    16.5,
+                    19.0,
+                    21.9,
+                    25.1,
+                    28.9,
+                    33.2,
+                    38.2,
+                    44.0,
+                    50.6,
+                    58.1,
+                    66.9
+                ],
+                "maxDamage": [
+                    11.6,
+                    13.3,
+                    15.3,
+                    17.6,
+                    20.2,
+                    23.2,
+                    26.7,
+                    30.7,
+                    35.3,
+                    40.6,
+                    46.7,
+                    53.7,
+                    61.8,
+                    71.1,
+                    81.7
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "COMMENT": "Extra damage to flying units",
+                "damageMovementPercentage": [
+                    170
+                ]
+            }
+        },
+        "armor_piercer": {
+            "disabled": [
+                false
+            ],
+            "range": [
+                2.3
+            ],
+            "cooldown": [
+                25
+            ],
+            "maxTargets": [
+                3
+            ],
+            "COMMENT": "First reduce armor and then apply damage",
+            "piercer": {
+                "armorPercentage": [
+                    -95
+                ],
+                "duration": [
+                    3.0
+                ]
+            },
+            "damage": {
+                "minDamage": [
+                    30.0,
+                    34.5,
+                    39.7,
+                    45.6,
+                    52.5,
+                    60.3,
+                    69.4,
+                    79.8,
+                    91.8,
+                    105.5,
+                    121.4,
+                    139.6,
+                    160.5,
+                    184.6,
+                    212.3
+                ],
+                "maxDamage": [
+                    40.0,
+                    46.0,
+                    52.9,
+                    60.8,
+                    70.0,
+                    80.5,
+                    92.5,
+                    106.4,
+                    122.4,
+                    140.7,
+                    161.8,
+                    186.1,
+                    214.0,
+                    246.1,
+                    283.0
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "COMMENT": "Extra damage to flying units",
+                "damageMovementPercentage": [
+                    170
+                ]
+            }
+        },
+        "free_eagle": {
+            "cooldown": [
+                9
+            ],
+            "range": [
+                1.8
+            ],
+            "eagle_damage": {
+                "COMMENT": "Time of eagle dealing damage",
+                "minHealth": [
+                    81,
+                    93,
+                    107,
+                    123,
+                    141,
+                    162,
+                    187,
+                    215,
+                    247,
+                    284,
+                    327,
+                    376,
+                    432,
+                    497,
+                    571
+                ],
+                "maxHealth": [
+                    81,
+                    93,
+                    107,
+                    123,
+                    141,
+                    162,
+                    187,
+                    215,
+                    247,
+                    284,
+                    327,
+                    376,
+                    432,
+                    497,
+                    571
+                ],
+                "tickTime": [
+                    0.3
+                ],
+                "duration": [
+                    5.0
+                ]
+            }
+        }
+    }
+}

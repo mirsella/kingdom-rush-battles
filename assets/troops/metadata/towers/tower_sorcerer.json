@@ -1,0 +1,28 @@
+{
+  "border": {
+    "w": 0.0,
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "name": "tower_sorcerer._Atlas_",
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pixels_to_units": 100.0,
+  "rect": {
+    "height": 2048.0,
+    "width": 1024.0,
+    "x": 0.0,
+    "y": 0.0
+  },
+  "texture_name": "tower_sorcerer._Atlas_",
+  "texture_path_id": -4048216516680062174,
+  "texture_rect": {
+    "height": 2048.0,
+    "width": 1024.0,
+    "x": 0.0,
+    "y": 0.0
+  }
+}

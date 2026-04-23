@@ -1,0 +1,126 @@
+{
+    "BossGulThak": {
+        "goldReward": [
+            0
+        ],
+        "goldRewardShiny": [
+            0
+        ],
+        "livesPenalty": [
+            999
+        ],
+        "health": [
+            3700,
+            4070,
+            4440
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.8
+        ],
+        "melee_attack": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                1.8
+            ],
+            "damage": {
+                "abilityType": [
+                    "BasicAttack"
+                ],
+                "minDamage": [
+                    130
+                ],
+                "maxDamage": [
+                    150
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "rush_reckless": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                30.0
+            ],
+            "range": [
+                1
+            ],
+            "rush_modifier": {
+                "duration": [
+                    5.0
+                ],
+                "movementSpeedPercentage": [
+                    60
+                ]
+            },
+            "safeDistanceToExit": [
+                4.5
+            ]
+        },
+        "rush_damage": {
+            "rush_dmg": {
+                "COMMENT": "Needs to match the duration of the rush_modifier, so units cannot receive damage more than once",
+                "duration": [
+                    5
+                ]
+            },
+            "damage": {
+                "minDamage": [
+                    80.0
+                ],
+                "maxDamage": [
+                    120.0
+                ],
+                "damageType": [
+                    "Physical"
+                ]
+            }
+        },
+        "great_heal": {
+            "disabled": [
+                false
+            ],
+            "cooldown": [
+                20.0
+            ],
+            "range": [
+                1
+            ],
+            "great_heal_TE": {
+                "minHeal": [
+                    0
+                ],
+                "maxHeal": [
+                    0
+                ],
+                "percentageHeal": [
+                    15
+                ]
+            }
+        },
+        "ai": {
+            "weightMultiplier": [
+                300.0
+            ],
+            "blockweightmultiplier": [
+                0.1
+            ],
+            "stoppingweightmultiplier": [
+                100.0
+            ],
+            "threatlevel": [
+                3.0
+            ]
+        }
+    }
+}

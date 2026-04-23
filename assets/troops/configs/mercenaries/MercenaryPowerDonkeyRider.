@@ -1,0 +1,41 @@
+{
+    "donkey_rider": {
+        "probability": [
+            0.22
+        ],
+        "maxStreak": [
+            1
+        ],
+        "health": [
+            612
+        ],
+        "armor": [
+            0
+        ],
+        "magicResistance": [
+            0
+        ],
+        "speed": [
+            0.9
+        ],
+        "basic_attack": {
+            "cooldown": [
+                2.0
+            ],
+            "damage": {
+                "minDamage": [
+                    36.98
+                ],
+                "maxDamage": [
+                    73.97
+                ],
+                "damageType": [
+                    "Physical"
+                ],
+                "areaRange": [
+                    0.7
+                ]
+            }
+        }
+    }
+}
