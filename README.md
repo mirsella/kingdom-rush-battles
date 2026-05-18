@@ -70,8 +70,9 @@ This means this dump is a strong local-first extraction, not yet a fully exhaust
 - `reports/animation_index.json`: Unity animation clips/controllers/animators index
 - `reports/troop_animation_index.json`: hero/tower config animation timeline index
 
-## Extraction script
+## Included scripts
 
-- Script: `scripts/extract_kingdom_rush_battles_assets.py`
-- Troop animation metadata/previews: `scripts/restore_troop_animations.py`
+- `scripts/extract_kingdom_rush_battles_assets.py`: main Kingdom Rush Battles extractor used for this dump; reads `base.apk` plus cached Unity bundles and exports the organized asset tree, troop-preserving assets, Unity animation typetrees, and reports.
+- `scripts/restore_troop_animations.py`: indexes hero/tower troop metadata timelines from `assets/troops/configs/` and writes `assets/troops/animations/metadata_index.json` plus `reports/troop_animation_index.json`.
+- `scripts/extract_unity_xapk_assets.py`: generic Unity APK/XAPK extraction helper kept with the dump for future Android Unity extraction runs and comparison work.
 - Runtime: `.venv-krb`
