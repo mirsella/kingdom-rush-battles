@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/UI/BasicMessageView.prefab"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "BasicMessageView",
+        "path_id": 2224738442605748525,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/UI/BasicMessageAnimator.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "BasicMessageAnimator",
+        "path_id": 5286267524067209059,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/UI/BasicMessageAnimator.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "BasicMessageAnimator",
+        "path_id": 5286267524067209059,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/UI/BasicMessageView.prefab"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "BasicMessageView",
+        "path_id": 2224738442605748525,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+    "container_paths": [],
+    "name": "BasicMessageView__BasicMessageAnimator__Animator",
+    "object_type": "Animator",
+    "path_id": -7383533203584982739,
+    "source": "base_apk"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 5286267524067209059
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 2224738442605748525
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

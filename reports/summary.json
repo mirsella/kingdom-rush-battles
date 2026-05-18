@@ -1,4 +1,13 @@
 {
+  "animation_index": {
+    "counts": {
+      "Animation": 54,
+      "AnimationClip": 418,
+      "Animator": 5134,
+      "AnimatorController": 126
+    },
+    "record_count": 5732
+  },
   "catalog_summary": {
     "build_result_hash": "0a6ce3b8b087f9949533ca6ad7f448a7",
     "catalog_path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/com.unity.addressables/catalog_2026.03.31.15.57.22.json",
@@ -66,8 +75,12 @@
     }
   ],
   "global_exports": {
+    "animation_clips": 418,
+    "animator_controllers": 126,
+    "animators": 5134,
     "audio": 1838,
     "fonts": 7,
+    "legacy_animations": 54,
     "materials": 451,
     "meshes": 21,
     "shaders": 228,
@@ -145,7 +158,8 @@
     "This dump is local-first: it includes base.apk content and cached UnityFS bundles present on disk.",
     "Remote Addressables bundles advertised by the catalog were not anonymously downloadable from the captured install and likely require authenticated cookies or API-mediated access.",
     "User save/config files were intentionally not exported into the public dump.",
-    "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops without exporting animation clips.",
+    "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops; Unity animation data is exported separately under assets/animations.",
+    "Animation exports include full typetree JSON and resolved Unity object references where available, so clips/controllers/animators can be traced back to linked assets.",
     "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages."
   ],
   "output_root": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/work/public",
@@ -157,8 +171,12 @@
       "container_count": 198,
       "error_count": 3,
       "exported": {
+        "animation_clips": 22,
+        "animator_controllers": 5,
+        "animators": 12,
         "audio": 718,
         "fonts": 7,
+        "legacy_animations": 3,
         "materials": 231,
         "meshes": 21,
         "shaders": 103,
@@ -235,6 +253,10 @@
       "container_count": 2075,
       "error_count": 0,
       "exported": {
+        "animation_clips": 234,
+        "animator_controllers": 67,
+        "animators": 4129,
+        "legacy_animations": 37,
         "materials": 7,
         "shaders": 6,
         "sprites": 1311,
@@ -306,7 +328,9 @@
       "bundle_name": "04a26e445b89fb97998e72afeff596af.bundle",
       "container_count": 41,
       "error_count": 0,
-      "exported": {},
+      "exported": {
+        "animators": 59
+      },
       "label": "cache_04a26e445b89fb97998e72afeff596af",
       "object_count": 1239,
       "object_types": {
@@ -333,6 +357,10 @@
       "container_count": 145,
       "error_count": 0,
       "exported": {
+        "animation_clips": 5,
+        "animator_controllers": 2,
+        "animators": 85,
+        "legacy_animations": 3,
         "materials": 5,
         "shaders": 3,
         "sprites": 88,
@@ -373,7 +401,10 @@
       "container_count": 117,
       "error_count": 0,
       "exported": {
+        "animation_clips": 1,
+        "animators": 3,
         "audio": 46,
+        "legacy_animations": 3,
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
@@ -554,6 +585,7 @@
       "container_count": 491,
       "error_count": 0,
       "exported": {
+        "animators": 4,
         "audio": 54,
         "materials": 2,
         "shaders": 1,
@@ -655,6 +687,7 @@
       "container_count": 46,
       "error_count": 0,
       "exported": {
+        "animators": 1,
         "audio": 11,
         "materials": 1,
         "shaders": 1,
@@ -1041,6 +1074,7 @@
       "container_count": 98,
       "error_count": 0,
       "exported": {
+        "animators": 5,
         "audio": 15,
         "materials": 3,
         "shaders": 2,
@@ -1079,6 +1113,7 @@
       "container_count": 579,
       "error_count": 0,
       "exported": {
+        "animators": 9,
         "audio": 79,
         "materials": 10,
         "shaders": 6,
@@ -1122,6 +1157,9 @@
       "container_count": 53,
       "error_count": 0,
       "exported": {
+        "animation_clips": 9,
+        "animator_controllers": 3,
+        "animators": 31,
         "materials": 12,
         "shaders": 1,
         "sprites": 18,
@@ -1158,6 +1196,7 @@
       "container_count": 58,
       "error_count": 0,
       "exported": {
+        "animators": 2,
         "audio": 9,
         "materials": 2,
         "shaders": 2,
@@ -1229,7 +1268,9 @@
       "bundle_name": "3982f32953ddd174ce550b9c9aa4c1b9.bundle",
       "container_count": 1,
       "error_count": 0,
-      "exported": {},
+      "exported": {
+        "animators": 27
+      },
       "label": "cache_3982f32953ddd174ce550b9c9aa4c1b9",
       "object_count": 1478,
       "object_types": {
@@ -1357,6 +1398,7 @@
       "container_count": 105,
       "error_count": 0,
       "exported": {
+        "animators": 10,
         "audio": 19,
         "materials": 3,
         "shaders": 1,
@@ -1489,6 +1531,7 @@
       "container_count": 46,
       "error_count": 0,
       "exported": {
+        "animators": 3,
         "audio": 14,
         "materials": 2,
         "shaders": 1,
@@ -1724,6 +1767,7 @@
       "container_count": 1,
       "error_count": 0,
       "exported": {
+        "animators": 20,
         "sprites": 1
       },
       "label": "cache_61ed3e5c34111e4c58534f4a08ed06bb",
@@ -2369,7 +2413,11 @@
       "bundle_name": "892e94e75874044015d7562344fd8b14.bundle",
       "container_count": 7,
       "error_count": 0,
-      "exported": {},
+      "exported": {
+        "animation_clips": 2,
+        "animator_controllers": 1,
+        "animators": 8
+      },
       "label": "cache_892e94e75874044015d7562344fd8b14",
       "object_count": 388,
       "object_types": {
@@ -2582,6 +2630,9 @@
       "container_count": 372,
       "error_count": 0,
       "exported": {
+        "animation_clips": 21,
+        "animator_controllers": 8,
+        "animators": 288,
         "materials": 1,
         "shaders": 1,
         "sprites": 165,
@@ -2621,6 +2672,7 @@
       "container_count": 86,
       "error_count": 0,
       "exported": {
+        "animators": 12,
         "audio": 12,
         "materials": 1,
         "shaders": 1,
@@ -2777,6 +2829,9 @@
       "container_count": 30,
       "error_count": 0,
       "exported": {
+        "animation_clips": 5,
+        "animator_controllers": 2,
+        "animators": 13,
         "sprites": 15
       },
       "label": "cache_a1d633532ca911423b49097a7e86ca81",
@@ -2841,6 +2896,7 @@
       "container_count": 65,
       "error_count": 0,
       "exported": {
+        "animators": 6,
         "audio": 15,
         "materials": 6,
         "shaders": 5,
@@ -3011,6 +3067,9 @@
       "container_count": 15,
       "error_count": 0,
       "exported": {
+        "animation_clips": 4,
+        "animator_controllers": 2,
+        "animators": 4,
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
@@ -3142,6 +3201,7 @@
       "container_count": 22,
       "error_count": 0,
       "exported": {
+        "animators": 2,
         "audio": 3,
         "materials": 2,
         "shaders": 2,
@@ -3180,6 +3240,10 @@
       "container_count": 873,
       "error_count": 0,
       "exported": {
+        "animation_clips": 94,
+        "animator_controllers": 29,
+        "animators": 194,
+        "legacy_animations": 6,
         "materials": 10,
         "shaders": 5,
         "sprites": 625,
@@ -3254,6 +3318,7 @@
       "container_count": 13,
       "error_count": 0,
       "exported": {
+        "animators": 2,
         "audio": 3
       },
       "label": "cache_bb11c00668bd348cf47585fe216c12ef",
@@ -3373,7 +3438,11 @@
       "container_count": 447,
       "error_count": 0,
       "exported": {
+        "animation_clips": 8,
+        "animator_controllers": 2,
+        "animators": 54,
         "audio": 113,
+        "legacy_animations": 2,
         "materials": 83,
         "shaders": 5,
         "sprites": 157,
@@ -3414,6 +3483,7 @@
       "container_count": 78,
       "error_count": 0,
       "exported": {
+        "animators": 4,
         "audio": 8,
         "materials": 2,
         "shaders": 1,
@@ -3568,6 +3638,7 @@
       "container_count": 1,
       "error_count": 1,
       "exported": {
+        "animators": 20,
         "shaders": 23
       },
       "label": "cache_cd29dd654e00c60ef590b5931700afe7",
@@ -3602,6 +3673,7 @@
       "container_count": 12,
       "error_count": 0,
       "exported": {
+        "animators": 1,
         "materials": 1,
         "shaders": 1,
         "sprites": 1,
@@ -3630,7 +3702,9 @@
       "bundle_name": "d05cea32d5c1512863a54aecc4db046b.bundle",
       "container_count": 8,
       "error_count": 0,
-      "exported": {},
+      "exported": {
+        "animators": 81
+      },
       "label": "cache_d05cea32d5c1512863a54aecc4db046b",
       "object_count": 3679,
       "object_types": {
@@ -3721,6 +3795,7 @@
       "container_count": 70,
       "error_count": 0,
       "exported": {
+        "animators": 5,
         "audio": 18,
         "materials": 1,
         "shaders": 1,
@@ -3885,6 +3960,7 @@
       "container_count": 13,
       "error_count": 0,
       "exported": {
+        "animators": 2,
         "audio": 1
       },
       "label": "cache_eb6f33d153155a71745b6f18e411c856",
@@ -3912,6 +3988,9 @@
       "container_count": 182,
       "error_count": 0,
       "exported": {
+        "animation_clips": 13,
+        "animator_controllers": 5,
+        "animators": 35,
         "sprites": 86
       },
       "label": "cache_f1a104258f22347628a6712e55c31212",
@@ -4138,6 +4217,7 @@
       "container_count": 48,
       "error_count": 0,
       "exported": {
+        "animators": 3,
         "audio": 10,
         "materials": 1,
         "shaders": 1,

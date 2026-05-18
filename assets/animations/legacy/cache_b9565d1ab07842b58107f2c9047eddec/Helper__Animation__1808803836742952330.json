@@ -1,0 +1,120 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Helper",
+        "path_id": -82916342368934518,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 3,
+        "name": null,
+        "path_id": 2584575074925193330,
+        "resolved": false,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": null
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 3,
+        "name": null,
+        "path_id": 3613128423863941410,
+        "resolved": false,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": null
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [],
+          "exported_paths": [],
+          "file_id": 3,
+          "name": null,
+          "path_id": 3613128423863941410,
+          "resolved": false,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": null
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [],
+          "exported_paths": [],
+          "file_id": 3,
+          "name": null,
+          "path_id": 2584575074925193330,
+          "resolved": false,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": null
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 3,
+        "name": null,
+        "path_id": 3613128423863941410,
+        "resolved": false,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Helper",
+        "path_id": -82916342368934518,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [],
+    "name": "Helper__Animation",
+    "object_type": "Animation",
+    "path_id": 1808803836742952330,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 3,
+      "m_PathID": 3613128423863941410
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 3,
+        "m_PathID": 3613128423863941410
+      },
+      {
+        "m_FileID": 3,
+        "m_PathID": 2584575074925193330
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -82916342368934518
+    },
+    "m_PlayAutomatically": true,
+    "m_WrapMode": 0
+  }
+}

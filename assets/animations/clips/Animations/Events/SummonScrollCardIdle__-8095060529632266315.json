@@ -1,0 +1,904 @@
+{
+  "asset_links": {
+    "references": [],
+    "specific": {}
+  },
+  "metadata": {
+    "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+    "container_paths": [
+      "Assets/Content/Metagame/Common/Animations/Events/SummonScrollCardIdle.anim"
+    ],
+    "name": "SummonScrollCardIdle",
+    "object_type": "AnimationClip",
+    "path_id": -8095060529632266315,
+    "source": "cache_026e8513afa84d803d282a0f01a21995"
+  },
+  "typetree": {
+    "m_Bounds": {
+      "m_Center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Extent": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "m_ClipBindingConstant": {
+      "genericBindings": [
+        {
+          "attribute": 1574349066,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "path": 0,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 225
+        },
+        {
+          "attribute": 1460864421,
+          "customType": 28,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        },
+        {
+          "attribute": 538195251,
+          "customType": 28,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        },
+        {
+          "attribute": 2537237887,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        },
+        {
+          "attribute": 3762036201,
+          "customType": 0,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        },
+        {
+          "attribute": 2033536083,
+          "customType": 28,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        },
+        {
+          "attribute": 1967290853,
+          "customType": 28,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        },
+        {
+          "attribute": 38095219,
+          "customType": 28,
+          "isPPtrCurve": 0,
+          "path": 829950261,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "typeID": 224
+        }
+      ],
+      "pptrCurveMapping": []
+    },
+    "m_Compressed": false,
+    "m_CompressedRotationCurves": [],
+    "m_EulerCurves": [],
+    "m_Events": [],
+    "m_FloatCurves": [],
+    "m_HasGenericRootTransform": false,
+    "m_HasMotionFloatCurves": false,
+    "m_Legacy": false,
+    "m_MuscleClip": {
+      "m_AverageAngularSpeed": NaN,
+      "m_AverageSpeed": {
+        "x": NaN,
+        "y": NaN,
+        "z": NaN
+      },
+      "m_Clip": {
+        "data": {
+          "m_ConstantClip": {
+            "data": [
+              0.0,
+              0.0,
+              30.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "m_DenseClip": {
+            "m_BeginTime": 0.0,
+            "m_CurveCount": 0,
+            "m_FrameCount": 2,
+            "m_SampleArray": [],
+            "m_SampleRate": 60.0
+          },
+          "m_StreamedClip": {
+            "curveCount": 0,
+            "data": [
+              2139095040,
+              0
+            ]
+          }
+        }
+      },
+      "m_CycleOffset": 0.0,
+      "m_DeltaPose": {
+        "m_DoFArray": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "m_GoalArray": [
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          },
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          },
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          },
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          }
+        ],
+        "m_LeftHandPose": {
+          "m_CloseOpen": 0.0,
+          "m_DoFArray": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "m_Grab": 0.0,
+          "m_GrabX": {
+            "q": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "m_InOut": 0.0,
+          "m_Override": 0.0
+        },
+        "m_LookAtPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "m_LookAtWeight": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "m_RightHandPose": {
+          "m_CloseOpen": 0.0,
+          "m_DoFArray": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "m_Grab": 0.0,
+          "m_GrabX": {
+            "q": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "m_InOut": 0.0,
+          "m_Override": 0.0
+        },
+        "m_RootX": {
+          "q": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "s": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "t": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "m_TDoFArray": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        ]
+      },
+      "m_HeightFromFeet": false,
+      "m_IndexArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "m_KeepOriginalOrientation": false,
+      "m_KeepOriginalPositionXZ": false,
+      "m_KeepOriginalPositionY": true,
+      "m_LeftFootStartX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_Level": 0.0,
+      "m_LoopBlend": false,
+      "m_LoopBlendOrientation": false,
+      "m_LoopBlendPositionXZ": false,
+      "m_LoopBlendPositionY": false,
+      "m_LoopTime": true,
+      "m_Mirror": false,
+      "m_OrientationOffsetY": 0.0,
+      "m_RightFootStartX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_StartAtOrigin": true,
+      "m_StartTime": 0.0,
+      "m_StartX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_StopTime": 0.0,
+      "m_StopX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_ValueArrayDelta": [
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        },
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        },
+        {
+          "m_Start": 30.0,
+          "m_Stop": 30.0
+        },
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        },
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        },
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        },
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        },
+        {
+          "m_Start": 0.0,
+          "m_Stop": 0.0
+        }
+      ],
+      "m_ValueArrayReferencePose": []
+    },
+    "m_MuscleClipSize": 2632,
+    "m_Name": "SummonScrollCardIdle",
+    "m_PPtrCurves": [],
+    "m_PositionCurves": [],
+    "m_RotationCurves": [],
+    "m_SampleRate": 60.0,
+    "m_ScaleCurves": [],
+    "m_UseHighQualityCurve": true,
+    "m_WrapMode": 0
+  }
+}

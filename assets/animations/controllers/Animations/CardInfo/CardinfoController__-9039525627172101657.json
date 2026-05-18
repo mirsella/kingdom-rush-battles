@@ -1,0 +1,409 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Animations/CardInfo/CardInfoIn.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CardInfoIn",
+        "path_id": 1047541856728017588,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Animations/CardInfo/CardInfoIdle.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CardInfoIdle",
+        "path_id": 7527858315736871438,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+          "container_paths": [
+            "Assets/Content/Metagame/Common/Animations/CardInfo/CardInfoIdle.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "CardInfoIdle",
+          "path_id": 7527858315736871438,
+          "resolved": true,
+          "source": "cache_026e8513afa84d803d282a0f01a21995",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+          "container_paths": [
+            "Assets/Content/Metagame/Common/Animations/CardInfo/CardInfoIn.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "CardInfoIn",
+          "path_id": 1047541856728017588,
+          "resolved": true,
+          "source": "cache_026e8513afa84d803d282a0f01a21995",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+    "container_paths": [
+      "Assets/Content/Metagame/Common/Animations/CardInfo/CardinfoController.controller"
+    ],
+    "name": "CardinfoController",
+    "object_type": "AnimatorController",
+    "path_id": -9039525627172101657,
+    "source": "cache_026e8513afa84d803d282a0f01a21995"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 7527858315736871438
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1047541856728017588
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2374301739,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 730286088,
+                  "m_PathID": 2374301739,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 2024927082,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 1040207246,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2164738899,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2744386115,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2494673264,
+                  "m_PathID": 2744386115,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 2,
+                              "m_EventID": 2024927082,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 4268830284,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2314023676,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 2024927082,
+              "m_Index": 0,
+              "m_Type": 4
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 1425,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "CardinfoController",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        2024927082,
+        "Enter"
+      ],
+      [
+        2314023676,
+        "CardInfoIn -> CardInfoIdle"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        2164738899,
+        "CardInfoIdle -> CardInfoIn"
+      ],
+      [
+        4268830284,
+        "Base Layer.CardInfoIn -> Base Layer.CardInfoIdle"
+      ],
+      [
+        730286088,
+        "CardInfoIdle"
+      ],
+      [
+        2374301739,
+        "Base Layer.CardInfoIdle"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        2494673264,
+        "CardInfoIn"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        1040207246,
+        "Base Layer.CardInfoIdle -> Base Layer.CardInfoIn"
+      ],
+      [
+        2744386115,
+        "Base Layer.CardInfoIn"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,674 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/Hidden.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/WaveModifiers/Animations/Hidden__-8902391610322507976.json"
+        ],
+        "file_id": 0,
+        "name": "Hidden",
+        "path_id": -8902391610322507976,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoosterRouletteAnimation3.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/WaveModifiers/Animations/BoosterRouletteAnimation3__-3686209500647892128.json"
+        ],
+        "file_id": 0,
+        "name": "BoosterRouletteAnimation3",
+        "path_id": -3686209500647892128,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoosterRouletteAnimation.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/WaveModifiers/Animations/BoosterRouletteAnimation__-1637528274387777291.json"
+        ],
+        "file_id": 0,
+        "name": "BoosterRouletteAnimation",
+        "path_id": -1637528274387777291,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoosterRouletteAnimation2.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "BoosterRouletteAnimation2",
+        "path_id": 6132069068699618130,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoosterRouletteAnimation.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/WaveModifiers/Animations/BoosterRouletteAnimation__-1637528274387777291.json"
+          ],
+          "file_id": 0,
+          "name": "BoosterRouletteAnimation",
+          "path_id": -1637528274387777291,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoosterRouletteAnimation2.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "BoosterRouletteAnimation2",
+          "path_id": 6132069068699618130,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoosterRouletteAnimation3.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/WaveModifiers/Animations/BoosterRouletteAnimation3__-3686209500647892128.json"
+          ],
+          "file_id": 0,
+          "name": "BoosterRouletteAnimation3",
+          "path_id": -3686209500647892128,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/Hidden.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/WaveModifiers/Animations/Hidden__-8902391610322507976.json"
+          ],
+          "file_id": 0,
+          "name": "Hidden",
+          "path_id": -8902391610322507976,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [
+      "Assets/Content/Ingame/Common/UI/WaveModifiers/Animations/BoostersRouletteAnimatorController.controller"
+    ],
+    "name": "BoostersRouletteAnimatorController",
+    "object_type": "AnimatorController",
+    "path_id": 1200226042220003158,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -1637528274387777291
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6132069068699618130
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3686209500647892128
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8902391610322507976
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false,
+            false,
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 3,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2361541320,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2414996619,
+                  "m_PathID": 2361541320,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 3555352786,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 3,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 2852074666,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2420809377,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    },
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 2767016004,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 746523599,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 3147065325,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    },
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 1038352894,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 2,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 1534606169,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 3432208251,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 3836440740,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2740261612,
+                  "m_PathID": 3836440740,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 2,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2477539378,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3562152570,
+                  "m_PathID": 2477539378,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2866143128,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3866683510,
+                  "m_PathID": 2866143128,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 3555352786,
+              "m_Index": 0,
+              "m_Type": 4
+            },
+            {
+              "m_ID": 2767016004,
+              "m_Index": 1,
+              "m_Type": 4
+            },
+            {
+              "m_ID": 1038352894,
+              "m_Index": 2,
+              "m_Type": 4
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 2155,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "BoostersRouletteAnimatorController",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        3866683510,
+        "BoosterRouletteAnimation"
+      ],
+      [
+        2767016004,
+        "shuffle1"
+      ],
+      [
+        746523599,
+        "Base Layer.Hidden -> Base Layer.BoosterRouletteAnimation2"
+      ],
+      [
+        3562152570,
+        "BoosterRouletteAnimation3"
+      ],
+      [
+        2420809377,
+        "Hidden -> BoosterRouletteAnimation"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        2852074666,
+        "Base Layer.Hidden -> Base Layer.BoosterRouletteAnimation"
+      ],
+      [
+        3836440740,
+        "Base Layer.BoosterRouletteAnimation2"
+      ],
+      [
+        3147065325,
+        "Hidden -> BoosterRouletteAnimation2"
+      ],
+      [
+        1038352894,
+        "shuffle2"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        3432208251,
+        "Hidden -> BoosterRouletteAnimation3"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        2477539378,
+        "Base Layer.BoosterRouletteAnimation3"
+      ],
+      [
+        2361541320,
+        "Base Layer.Hidden"
+      ],
+      [
+        2740261612,
+        "BoosterRouletteAnimation2"
+      ],
+      [
+        2866143128,
+        "Base Layer.BoosterRouletteAnimation"
+      ],
+      [
+        1534606169,
+        "Base Layer.Hidden -> Base Layer.BoosterRouletteAnimation3"
+      ],
+      [
+        3555352786,
+        "shuffle0"
+      ],
+      [
+        2414996619,
+        "Hidden"
+      ]
+    ]
+  }
+}

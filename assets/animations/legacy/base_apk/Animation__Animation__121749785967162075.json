@@ -1,0 +1,100 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Animation",
+        "path_id": -8936595894193458469,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/Loading/LoadingViewFadeAnimation.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LoadingViewFadeAnimation",
+        "path_id": 5160044978589855736,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+          "container_paths": [
+            "Assets/Content/CommonLocal/Loading/LoadingViewFadeAnimation.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "LoadingViewFadeAnimation",
+          "path_id": 5160044978589855736,
+          "resolved": true,
+          "source": "base_apk",
+          "type": "AnimationClip"
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/Loading/LoadingViewFadeAnimation.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LoadingViewFadeAnimation",
+        "path_id": 5160044978589855736,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "AnimationClip"
+      },
+      "game_object": {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Animation",
+        "path_id": -8936595894193458469,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+    "container_paths": [],
+    "name": "Animation__Animation",
+    "object_type": "Animation",
+    "path_id": 121749785967162075,
+    "source": "base_apk"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 0,
+      "m_PathID": 5160044978589855736
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5160044978589855736
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -8936595894193458469
+    },
+    "m_PlayAutomatically": false,
+    "m_WrapMode": 0
+  }
+}

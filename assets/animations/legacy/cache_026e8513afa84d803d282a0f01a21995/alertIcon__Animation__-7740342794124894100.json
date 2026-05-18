@@ -1,0 +1,100 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "alertIcon",
+        "path_id": 6065790562192875628,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Rewards/Animations/AlertIconSpawn.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "AlertIconSpawn",
+        "path_id": 7239601316875196845,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+          "container_paths": [
+            "Assets/Content/Metagame/Common/Rewards/Animations/AlertIconSpawn.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "AlertIconSpawn",
+          "path_id": 7239601316875196845,
+          "resolved": true,
+          "source": "cache_026e8513afa84d803d282a0f01a21995",
+          "type": "AnimationClip"
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Rewards/Animations/AlertIconSpawn.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "AlertIconSpawn",
+        "path_id": 7239601316875196845,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimationClip"
+      },
+      "game_object": {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "alertIcon",
+        "path_id": 6065790562192875628,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+    "container_paths": [],
+    "name": "alertIcon__Animation",
+    "object_type": "Animation",
+    "path_id": -7740342794124894100,
+    "source": "cache_026e8513afa84d803d282a0f01a21995"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 0,
+      "m_PathID": 7239601316875196845
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 7239601316875196845
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 6065790562192875628
+    },
+    "m_PlayAutomatically": true,
+    "m_WrapMode": 0
+  }
+}

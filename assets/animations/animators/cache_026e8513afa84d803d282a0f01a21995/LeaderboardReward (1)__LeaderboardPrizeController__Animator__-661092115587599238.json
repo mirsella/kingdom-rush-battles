@@ -1,0 +1,89 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Leaderboard/Animations/LeaderboardPrizeController.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LeaderboardPrizeController",
+        "path_id": 1772522731668756078,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimatorController"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LeaderboardReward (1)",
+        "path_id": 3222397441552807034,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Leaderboard/Animations/LeaderboardPrizeController.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LeaderboardPrizeController",
+        "path_id": 1772522731668756078,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LeaderboardReward (1)",
+        "path_id": 3222397441552807034,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+    "container_paths": [],
+    "name": "LeaderboardReward (1)__LeaderboardPrizeController__Animator",
+    "object_type": "Animator",
+    "path_id": -661092115587599238,
+    "source": "cache_026e8513afa84d803d282a0f01a21995"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 1772522731668756078
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 3222397441552807034
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

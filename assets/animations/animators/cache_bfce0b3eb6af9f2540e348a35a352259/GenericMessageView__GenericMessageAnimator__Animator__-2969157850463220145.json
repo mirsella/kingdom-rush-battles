@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "GenericMessageView",
+        "path_id": -7892002916715868593,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [
+          "Assets/Content/Common/UI/GenericMessage/GenericMessageAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/UI/GenericMessage/GenericMessageAnimator__-7045249663062796940.json"
+        ],
+        "file_id": 0,
+        "name": "GenericMessageAnimator",
+        "path_id": -7045249663062796940,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [
+          "Assets/Content/Common/UI/GenericMessage/GenericMessageAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/UI/GenericMessage/GenericMessageAnimator__-7045249663062796940.json"
+        ],
+        "file_id": 0,
+        "name": "GenericMessageAnimator",
+        "path_id": -7045249663062796940,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "GenericMessageView",
+        "path_id": -7892002916715868593,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+    "container_paths": [],
+    "name": "GenericMessageView__GenericMessageAnimator__Animator",
+    "object_type": "Animator",
+    "path_id": -2969157850463220145,
+    "source": "cache_bfce0b3eb6af9f2540e348a35a352259"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -7045249663062796940
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -7892002916715868593
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Helper",
+        "path_id": -4170087896917530492,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [
+          "Assets/Content/Common/UI/ToastMessage/ToastMessageOnlyShow.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "ToastMessageOnlyShow",
+        "path_id": 2584575074925193330,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [
+          "Assets/Content/Common/UI/ToastMessage/ToastMessageShowAndHide.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "ToastMessageShowAndHide",
+        "path_id": 3613128423863941410,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+          "container_paths": [
+            "Assets/Content/Common/UI/ToastMessage/ToastMessageShowAndHide.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "ToastMessageShowAndHide",
+          "path_id": 3613128423863941410,
+          "resolved": true,
+          "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+          "container_paths": [
+            "Assets/Content/Common/UI/ToastMessage/ToastMessageOnlyShow.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "ToastMessageOnlyShow",
+          "path_id": 2584575074925193330,
+          "resolved": true,
+          "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+          "type": "AnimationClip"
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [
+          "Assets/Content/Common/UI/ToastMessage/ToastMessageShowAndHide.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "ToastMessageShowAndHide",
+        "path_id": 3613128423863941410,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "AnimationClip"
+      },
+      "game_object": {
+        "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Helper",
+        "path_id": -4170087896917530492,
+        "resolved": true,
+        "source": "cache_bfce0b3eb6af9f2540e348a35a352259",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-5110a721fe07a82625e9cfbafdd1122f",
+    "container_paths": [],
+    "name": "Helper__Animation",
+    "object_type": "Animation",
+    "path_id": 1127200756931897476,
+    "source": "cache_bfce0b3eb6af9f2540e348a35a352259"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 0,
+      "m_PathID": 3613128423863941410
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3613128423863941410
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2584575074925193330
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -4170087896917530492
+    },
+    "m_PlayAutomatically": true,
+    "m_WrapMode": 0
+  }
+}

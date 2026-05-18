@@ -1,0 +1,408 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarIdle.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/PlayerProfile/Animations/EquippedAvatarIdle__-3295557390444733525.json"
+        ],
+        "file_id": 0,
+        "name": "EquippedAvatarIdle",
+        "path_id": -3295557390444733525,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarEquip.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/PlayerProfile/Animations/EquippedAvatarEquip__-2456126834813204375.json"
+        ],
+        "file_id": 0,
+        "name": "EquippedAvatarEquip",
+        "path_id": -2456126834813204375,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarIdle.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/PlayerProfile/Animations/EquippedAvatarIdle__-3295557390444733525.json"
+          ],
+          "file_id": 0,
+          "name": "EquippedAvatarIdle",
+          "path_id": -3295557390444733525,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarEquip.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/PlayerProfile/Animations/EquippedAvatarEquip__-2456126834813204375.json"
+          ],
+          "file_id": 0,
+          "name": "EquippedAvatarEquip",
+          "path_id": -2456126834813204375,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+    "container_paths": [
+      "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarController.controller"
+    ],
+    "name": "EquippedAvatarController",
+    "object_type": "AnimatorController",
+    "path_id": -2118771647366634915,
+    "source": "cache_f1a104258f22347628a6712e55c31212"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -3295557390444733525
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2456126834813204375
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 4271509265,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2686844577,
+                  "m_PathID": 4271509265,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 867364020,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 4107923476,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 1838800045,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 4114397459,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 1040430446,
+                  "m_PathID": 4114397459,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 1.0,
+                        "m_FullPathID": 1779685600,
+                        "m_HasExitTime": true,
+                        "m_HasFixedDuration": true,
+                        "m_ID": 4179265901,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 867364020,
+              "m_Index": 0,
+              "m_Type": 4
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 1393,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "EquippedAvatarController",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        867364020,
+        "Equip"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        4114397459,
+        "Base Layer.EquippedAvatarEquip"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        2686844577,
+        "EquippedAvatarIdle"
+      ],
+      [
+        4107923476,
+        "Base Layer.EquippedAvatarIdle -> Base Layer.EquippedAvatarEquip"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        1040430446,
+        "EquippedAvatarEquip"
+      ],
+      [
+        1779685600,
+        "Base Layer.EquippedAvatarEquip -> Base Layer.EquippedAvatarIdle"
+      ],
+      [
+        4271509265,
+        "Base Layer.EquippedAvatarIdle"
+      ],
+      [
+        1838800045,
+        "EquippedAvatarIdle -> EquippedAvatarEquip"
+      ],
+      [
+        4179265901,
+        "EquippedAvatarEquip -> EquippedAvatarIdle"
+      ]
+    ]
+  }
+}

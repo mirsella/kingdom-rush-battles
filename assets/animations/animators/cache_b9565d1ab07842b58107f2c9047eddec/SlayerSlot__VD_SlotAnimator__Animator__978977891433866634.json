@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/VictoryDefeat/Animation/VD_SlotAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/VictoryDefeat/Animation/VD_SlotAnimator__-1829316886648044814.json"
+        ],
+        "file_id": 0,
+        "name": "VD_SlotAnimator",
+        "path_id": -1829316886648044814,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimatorController"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "SlayerSlot",
+        "path_id": 1024744722102576522,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/VictoryDefeat/Animation/VD_SlotAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/VictoryDefeat/Animation/VD_SlotAnimator__-1829316886648044814.json"
+        ],
+        "file_id": 0,
+        "name": "VD_SlotAnimator",
+        "path_id": -1829316886648044814,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "SlayerSlot",
+        "path_id": 1024744722102576522,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [],
+    "name": "SlayerSlot__VD_SlotAnimator__Animator",
+    "object_type": "Animator",
+    "path_id": 978977891433866634,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -1829316886648044814
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 1024744722102576522
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/Lives/PlayerLivesBlueAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/UI/Lives/PlayerLivesBlueAnimator__-8016317111961578657.json"
+        ],
+        "file_id": 0,
+        "name": "PlayerLivesBlueAnimator",
+        "path_id": -8016317111961578657,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimatorController"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Content",
+        "path_id": 1463149175665616266,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/Lives/PlayerLivesBlueAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/UI/Lives/PlayerLivesBlueAnimator__-8016317111961578657.json"
+        ],
+        "file_id": 0,
+        "name": "PlayerLivesBlueAnimator",
+        "path_id": -8016317111961578657,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Content",
+        "path_id": 1463149175665616266,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [],
+    "name": "Content__PlayerLivesBlueAnimator__Animator",
+    "object_type": "Animator",
+    "path_id": 5743906745604269450,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -8016317111961578657
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 1463149175665616266
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [
+          "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoSelect.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/SeasonPassBuy/Animations/SeasonPassInfoSelect__-3727565949391421830.json"
+        ],
+        "file_id": 0,
+        "name": "SeasonPassInfoSelect",
+        "path_id": -3727565949391421830,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [
+          "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoInactive.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/SeasonPassBuy/Animations/SeasonPassInfoInactive__-506648663620109092.json"
+        ],
+        "file_id": 0,
+        "name": "SeasonPassInfoInactive",
+        "path_id": -506648663620109092,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [
+          "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoActive.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "SeasonPassInfoActive",
+        "path_id": 8956338631546261330,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+          "container_paths": [
+            "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoSelect.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/SeasonPassBuy/Animations/SeasonPassInfoSelect__-3727565949391421830.json"
+          ],
+          "file_id": 0,
+          "name": "SeasonPassInfoSelect",
+          "path_id": -3727565949391421830,
+          "resolved": true,
+          "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+          "container_paths": [
+            "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoInactive.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/SeasonPassBuy/Animations/SeasonPassInfoInactive__-506648663620109092.json"
+          ],
+          "file_id": 0,
+          "name": "SeasonPassInfoInactive",
+          "path_id": -506648663620109092,
+          "resolved": true,
+          "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+          "container_paths": [
+            "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoActive.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "SeasonPassInfoActive",
+          "path_id": 8956338631546261330,
+          "resolved": true,
+          "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+    "container_paths": [
+      "Assets/Content/Metagame/BattlePass/SeasonPassBuy/Animations/SeasonPassInfoTab.controller"
+    ],
+    "name": "SeasonPassInfoTab",
+    "object_type": "AnimatorController",
+    "path_id": 1286890152969139334,
+    "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -3727565949391421830
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -506648663620109092
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8956338631546261330
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 1194339932,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 4174867193,
+                  "m_PathID": 1194339932,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 3385554051,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 876853096,
+                  "m_PathID": 3385554051,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 2,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 3374801473,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 883925418,
+                  "m_PathID": 3374801473,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": []
+        }
+      }
+    },
+    "m_ControllerSize": 1480,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "SeasonPassInfoTab",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        1194339932,
+        "Base Layer.TabInactive"
+      ],
+      [
+        3374801473,
+        "Base Layer.TabActive"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        4174867193,
+        "TabInactive"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        883925418,
+        "TabActive"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        876853096,
+        "TabSelect"
+      ],
+      [
+        3385554051,
+        "Base Layer.TabSelect"
+      ]
+    ]
+  }
+}

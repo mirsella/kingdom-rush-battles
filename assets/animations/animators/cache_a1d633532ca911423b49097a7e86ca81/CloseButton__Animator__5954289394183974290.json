@@ -1,0 +1,85 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CloseButton",
+        "path_id": -888292470007321198,
+        "resolved": true,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 2,
+        "name": null,
+        "path_id": 409201675598288949,
+        "resolved": false,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": null
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 2,
+        "name": null,
+        "path_id": 409201675598288949,
+        "resolved": false,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CloseButton",
+        "path_id": -888292470007321198,
+        "resolved": true,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+    "container_paths": [],
+    "name": "CloseButton__Animator",
+    "object_type": "Animator",
+    "path_id": 5954289394183974290,
+    "source": "cache_a1d633532ca911423b49097a7e86ca81"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 2,
+      "m_PathID": 409201675598288949
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -888292470007321198
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

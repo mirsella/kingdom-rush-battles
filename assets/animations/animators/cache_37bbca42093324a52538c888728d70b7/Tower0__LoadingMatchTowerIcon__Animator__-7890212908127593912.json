@@ -1,0 +1,89 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/LoadingMatchTowerIcon.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LoadingMatchTowerIcon",
+        "path_id": 265931834591378986,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimatorController"
+      },
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Tower0",
+        "path_id": 6193599725213932104,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/LoadingMatchTowerIcon.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LoadingMatchTowerIcon",
+        "path_id": 265931834591378986,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Tower0",
+        "path_id": 6193599725213932104,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+    "container_paths": [],
+    "name": "Tower0__LoadingMatchTowerIcon__Animator",
+    "object_type": "Animator",
+    "path_id": -7890212908127593912,
+    "source": "cache_37bbca42093324a52538c888728d70b7"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 265931834591378986
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 6193599725213932104
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

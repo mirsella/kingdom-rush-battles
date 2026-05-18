@@ -1,0 +1,89 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "AvatarImage",
+        "path_id": -9096570558677765425,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarController.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "EquippedAvatarController",
+        "path_id": -2118771647366634915,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/EquippedAvatarController.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "EquippedAvatarController",
+        "path_id": -2118771647366634915,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "AvatarImage",
+        "path_id": -9096570558677765425,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+    "container_paths": [],
+    "name": "AvatarImage__EquippedAvatarController__Animator",
+    "object_type": "Animator",
+    "path_id": -5693244202749316401,
+    "source": "cache_f1a104258f22347628a6712e55c31212"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -2118771647366634915
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -9096570558677765425
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

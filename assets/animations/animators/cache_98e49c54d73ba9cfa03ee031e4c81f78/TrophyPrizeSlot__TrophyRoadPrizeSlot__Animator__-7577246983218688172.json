@@ -1,0 +1,89 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "TrophyPrizeSlot",
+        "path_id": -3855173505412133036,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [
+          "Assets/Content/Metagame/TrophyRoad/Animations/TrophyRoadPrizeSlot.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "TrophyRoadPrizeSlot",
+        "path_id": 7282324743768823569,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [
+          "Assets/Content/Metagame/TrophyRoad/Animations/TrophyRoadPrizeSlot.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "TrophyRoadPrizeSlot",
+        "path_id": 7282324743768823569,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "TrophyPrizeSlot",
+        "path_id": -3855173505412133036,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+    "container_paths": [],
+    "name": "TrophyPrizeSlot__TrophyRoadPrizeSlot__Animator",
+    "object_type": "Animator",
+    "path_id": -7577246983218688172,
+    "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 7282324743768823569
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -3855173505412133036
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

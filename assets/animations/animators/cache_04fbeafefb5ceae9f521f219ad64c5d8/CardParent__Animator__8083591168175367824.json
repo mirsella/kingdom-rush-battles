@@ -1,0 +1,85 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CardParent",
+        "path_id": 1984610866425161360,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 2,
+        "name": null,
+        "path_id": 7975454447352897581,
+        "resolved": false,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": null
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 2,
+        "name": null,
+        "path_id": 7975454447352897581,
+        "resolved": false,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CardParent",
+        "path_id": 1984610866425161360,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+    "container_paths": [],
+    "name": "CardParent__Animator",
+    "object_type": "Animator",
+    "path_id": 8083591168175367824,
+    "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 2,
+      "m_PathID": 7975454447352897581
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 1984610866425161360
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

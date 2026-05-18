@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/Animations/LoadingText/LoadingTextAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/Animations/LoadingText/LoadingTextAnimator__-1895304344002590572.json"
+        ],
+        "file_id": 0,
+        "name": "LoadingTextAnimator",
+        "path_id": -1895304344002590572,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "AnimatorController"
+      },
+      {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "ProgressBar",
+        "path_id": 7804969807168303835,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [
+          "Assets/Content/CommonLocal/Animations/LoadingText/LoadingTextAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/Animations/LoadingText/LoadingTextAnimator__-1895304344002590572.json"
+        ],
+        "file_id": 0,
+        "name": "LoadingTextAnimator",
+        "path_id": -1895304344002590572,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "ProgressBar",
+        "path_id": 7804969807168303835,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-8646880d2fc8a625820184d13aed083c",
+    "container_paths": [],
+    "name": "ProgressBar__LoadingTextAnimator__Animator",
+    "object_type": "Animator",
+    "path_id": 8133703746408051419,
+    "source": "base_apk"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -1895304344002590572
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 7804969807168303835
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

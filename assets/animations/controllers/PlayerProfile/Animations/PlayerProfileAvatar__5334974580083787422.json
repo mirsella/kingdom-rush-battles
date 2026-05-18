@@ -1,0 +1,596 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/PlayerProfileAvatarHidden.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/PlayerProfile/Animations/PlayerProfileAvatarHidden__-7658427784360671773.json"
+        ],
+        "file_id": 0,
+        "name": "PlayerProfileAvatarHidden",
+        "path_id": -7658427784360671773,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/PlayerProfileAvatarShow.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/PlayerProfile/Animations/PlayerProfileAvatarShow__-6561043060982359449.json"
+        ],
+        "file_id": 0,
+        "name": "PlayerProfileAvatarShow",
+        "path_id": -6561043060982359449,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/ProfileAvatarShowOutIn.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "ProfileAvatarShowOutIn",
+        "path_id": 5682628850898258278,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/PlayerProfileAvatarHidden.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/PlayerProfile/Animations/PlayerProfileAvatarHidden__-7658427784360671773.json"
+          ],
+          "file_id": 0,
+          "name": "PlayerProfileAvatarHidden",
+          "path_id": -7658427784360671773,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/PlayerProfileAvatarShow.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/PlayerProfile/Animations/PlayerProfileAvatarShow__-6561043060982359449.json"
+          ],
+          "file_id": 0,
+          "name": "PlayerProfileAvatarShow",
+          "path_id": -6561043060982359449,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/ProfileAvatarShowOutIn.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "ProfileAvatarShowOutIn",
+          "path_id": 5682628850898258278,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+    "container_paths": [
+      "Assets/Content/Metagame/PlayerProfile/Animations/PlayerProfileAvatar.controller"
+    ],
+    "name": "PlayerProfileAvatar",
+    "object_type": "AnimatorController",
+    "path_id": 5334974580083787422,
+    "source": "cache_f1a104258f22347628a6712e55c31212"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -7658427784360671773
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6561043060982359449
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5682628850898258278
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false,
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2807745820,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3768889172,
+                  "m_PathID": 2807745820,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 2453435967,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 3033563256,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 1604569386,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    },
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 1761914787,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 2,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 681307855,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 1441039114,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 3080396243,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 1941745138,
+                  "m_PathID": 3080396243,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 2,
+                              "m_EventID": 2453435967,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 157266066,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 3693355267,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 2,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 3588507981,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2468270260,
+                  "m_PathID": 3588507981,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 2,
+                              "m_EventID": 1761914787,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 1457084503,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2544579626,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 2453435967,
+              "m_Index": 0,
+              "m_Type": 4
+            },
+            {
+              "m_ID": 1761914787,
+              "m_Index": 1,
+              "m_Type": 4
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 1954,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "PlayerProfileAvatar",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        2544579626,
+        "ProfileAvatarShowOutIn -> PlayerProfileAvatarHidden"
+      ],
+      [
+        3033563256,
+        "Base Layer.PlayerProfileAvatarHidden -> Base Layer.PlayerProfileAvatarShow"
+      ],
+      [
+        2468270260,
+        "ProfileAvatarShowOutIn"
+      ],
+      [
+        1604569386,
+        "PlayerProfileAvatarHidden -> PlayerProfileAvatarShow"
+      ],
+      [
+        3080396243,
+        "Base Layer.PlayerProfileAvatarShow"
+      ],
+      [
+        3588507981,
+        "Base Layer.ProfileAvatarShowOutIn"
+      ],
+      [
+        1761914787,
+        "ShowAlt"
+      ],
+      [
+        3693355267,
+        "PlayerProfileAvatarShow -> PlayerProfileAvatarHidden"
+      ],
+      [
+        1457084503,
+        "Base Layer.ProfileAvatarShowOutIn -> Base Layer.PlayerProfileAvatarHidden"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        1941745138,
+        "PlayerProfileAvatarShow"
+      ],
+      [
+        681307855,
+        "Base Layer.PlayerProfileAvatarHidden -> Base Layer.ProfileAvatarShowOutIn"
+      ],
+      [
+        3768889172,
+        "PlayerProfileAvatarHidden"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        2453435967,
+        "Show"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        2807745820,
+        "Base Layer.PlayerProfileAvatarHidden"
+      ],
+      [
+        157266066,
+        "Base Layer.PlayerProfileAvatarShow -> Base Layer.PlayerProfileAvatarHidden"
+      ],
+      [
+        1441039114,
+        "PlayerProfileAvatarHidden -> ProfileAvatarShowOutIn"
+      ]
+    ]
+  }
+}

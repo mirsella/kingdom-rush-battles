@@ -1,0 +1,97 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/QuickMenu/QuickMenuActionRallypointButton.prefab"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "QuickMenuActionRallypointButton",
+        "path_id": -7964079087741652333,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/QuickMenu/QuickMenuButtonAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/UI/QuickMenu/QuickMenuButtonAnimator__1457042158830758837.json"
+        ],
+        "file_id": 0,
+        "name": "QuickMenuButtonAnimator",
+        "path_id": 1457042158830758837,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/QuickMenu/QuickMenuButtonAnimator.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/UI/QuickMenu/QuickMenuButtonAnimator__1457042158830758837.json"
+        ],
+        "file_id": 0,
+        "name": "QuickMenuButtonAnimator",
+        "path_id": 1457042158830758837,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/QuickMenu/QuickMenuActionRallypointButton.prefab"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "QuickMenuActionRallypointButton",
+        "path_id": -7964079087741652333,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [],
+    "name": "QuickMenuActionRallypointButton__QuickMenuButtonAnimator__Animator",
+    "object_type": "Animator",
+    "path_id": 4695876664317555347,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 1457042158830758837
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -7964079087741652333
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

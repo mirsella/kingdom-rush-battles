@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [
+          "Assets/Content/Metagame/TrophyRoad/Prefabs/Animations/TrophyInfoIcon.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/Prefabs/Animations/TrophyInfoIcon__-3335589627129510280.json"
+        ],
+        "file_id": 0,
+        "name": "TrophyInfoIcon",
+        "path_id": -3335589627129510280,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "AnimatorController"
+      },
+      {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "TrophyInfoCreep (1)",
+        "path_id": 7084269365471889352,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [
+          "Assets/Content/Metagame/TrophyRoad/Prefabs/Animations/TrophyInfoIcon.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/Prefabs/Animations/TrophyInfoIcon__-3335589627129510280.json"
+        ],
+        "file_id": 0,
+        "name": "TrophyInfoIcon",
+        "path_id": -3335589627129510280,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "TrophyInfoCreep (1)",
+        "path_id": 7084269365471889352,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+    "container_paths": [],
+    "name": "TrophyInfoCreep (1)__TrophyInfoIcon__Animator",
+    "object_type": "Animator",
+    "path_id": 7238173181500082120,
+    "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -3335589627129510280
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 7084269365471889352
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

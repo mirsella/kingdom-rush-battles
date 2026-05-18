@@ -1,0 +1,100 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-85d2a3d980dd9a1708db947c18616542",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "RouletteAnimation",
+        "path_id": 7320198373045881708,
+        "resolved": true,
+        "source": "cache_0a2eddfc32fb0be00f4b7c7012a77761",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-85d2a3d980dd9a1708db947c18616542",
+        "container_paths": [
+          "Assets/Content/Ingame/MercenaryPowers/UI/SpecialButtonRouletteStart.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "SpecialButtonRouletteStart",
+        "path_id": 8607311678035613128,
+        "resolved": true,
+        "source": "cache_0a2eddfc32fb0be00f4b7c7012a77761",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-85d2a3d980dd9a1708db947c18616542",
+          "container_paths": [
+            "Assets/Content/Ingame/MercenaryPowers/UI/SpecialButtonRouletteStart.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "SpecialButtonRouletteStart",
+          "path_id": 8607311678035613128,
+          "resolved": true,
+          "source": "cache_0a2eddfc32fb0be00f4b7c7012a77761",
+          "type": "AnimationClip"
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-85d2a3d980dd9a1708db947c18616542",
+        "container_paths": [
+          "Assets/Content/Ingame/MercenaryPowers/UI/SpecialButtonRouletteStart.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "SpecialButtonRouletteStart",
+        "path_id": 8607311678035613128,
+        "resolved": true,
+        "source": "cache_0a2eddfc32fb0be00f4b7c7012a77761",
+        "type": "AnimationClip"
+      },
+      "game_object": {
+        "assets_file": "CAB-85d2a3d980dd9a1708db947c18616542",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "RouletteAnimation",
+        "path_id": 7320198373045881708,
+        "resolved": true,
+        "source": "cache_0a2eddfc32fb0be00f4b7c7012a77761",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-85d2a3d980dd9a1708db947c18616542",
+    "container_paths": [],
+    "name": "RouletteAnimation__Animation",
+    "object_type": "Animation",
+    "path_id": 5404987880651082604,
+    "source": "cache_0a2eddfc32fb0be00f4b7c7012a77761"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 0,
+      "m_PathID": 8607311678035613128
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 8607311678035613128
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 7320198373045881708
+    },
+    "m_PlayAutomatically": true,
+    "m_WrapMode": 0
+  }
+}

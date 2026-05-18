@@ -1,0 +1,530 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/TowerIconIn.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/MatchLoading/TowerIconIn__-3264710633557746796.json"
+        ],
+        "file_id": 0,
+        "name": "TowerIconIn",
+        "path_id": -3264710633557746796,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/TowerIconDefault.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/MatchLoading/TowerIconDefault__-2825518958352380778.json"
+        ],
+        "file_id": 0,
+        "name": "TowerIconDefault",
+        "path_id": -2825518958352380778,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/TowerIconShow2.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/MatchLoading/TowerIconShow2__-2021472828294383709.json"
+        ],
+        "file_id": 0,
+        "name": "TowerIconShow2",
+        "path_id": -2021472828294383709,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+          "container_paths": [
+            "Assets/Content/MatchLoading/TowerIconDefault.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/MatchLoading/TowerIconDefault__-2825518958352380778.json"
+          ],
+          "file_id": 0,
+          "name": "TowerIconDefault",
+          "path_id": -2825518958352380778,
+          "resolved": true,
+          "source": "cache_37bbca42093324a52538c888728d70b7",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+          "container_paths": [
+            "Assets/Content/MatchLoading/TowerIconIn.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/MatchLoading/TowerIconIn__-3264710633557746796.json"
+          ],
+          "file_id": 0,
+          "name": "TowerIconIn",
+          "path_id": -3264710633557746796,
+          "resolved": true,
+          "source": "cache_37bbca42093324a52538c888728d70b7",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+          "container_paths": [
+            "Assets/Content/MatchLoading/TowerIconShow2.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/MatchLoading/TowerIconShow2__-2021472828294383709.json"
+          ],
+          "file_id": 0,
+          "name": "TowerIconShow2",
+          "path_id": -2021472828294383709,
+          "resolved": true,
+          "source": "cache_37bbca42093324a52538c888728d70b7",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+    "container_paths": [
+      "Assets/Content/MatchLoading/LoadingMatchTowerIcon.controller"
+    ],
+    "name": "LoadingMatchTowerIcon",
+    "object_type": "AnimatorController",
+    "path_id": 265931834591378986,
+    "source": "cache_37bbca42093324a52538c888728d70b7"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -2825518958352380778
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3264710633557746796
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2021472828294383709
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false,
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2982809453,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3532367027,
+                  "m_PathID": 2982809453,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 2453435967,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 2115074364,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 808043175,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    },
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 2887888710,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 2,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 2724513158,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2081512756,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 397224582,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2823450147,
+                  "m_PathID": 397224582,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 2,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 971788057,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 1277439479,
+                  "m_PathID": 971788057,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 2453435967,
+              "m_Index": 0,
+              "m_Type": 4
+            },
+            {
+              "m_ID": 2887888710,
+              "m_Index": 1,
+              "m_Type": 4
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 1730,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "LoadingMatchTowerIcon",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        2081512756,
+        "TowerIconDefault -> TowerIconShow2"
+      ],
+      [
+        2982809453,
+        "Base Layer.TowerIconDefault"
+      ],
+      [
+        2887888710,
+        "Show2"
+      ],
+      [
+        2724513158,
+        "Base Layer.TowerIconDefault -> Base Layer.TowerIconShow2"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        397224582,
+        "Base Layer.TowerIconIn"
+      ],
+      [
+        2115074364,
+        "Base Layer.TowerIconDefault -> Base Layer.TowerIconIn"
+      ],
+      [
+        3532367027,
+        "TowerIconDefault"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        2453435967,
+        "Show"
+      ],
+      [
+        971788057,
+        "Base Layer.TowerIconShow2"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        808043175,
+        "TowerIconDefault -> TowerIconIn"
+      ],
+      [
+        2823450147,
+        "TowerIconIn"
+      ],
+      [
+        1277439479,
+        "TowerIconShow2"
+      ]
+    ]
+  }
+}

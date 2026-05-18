@@ -1,0 +1,85 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CardViewPowerTrophyRoad",
+        "path_id": 5242474709127915152,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 4,
+        "name": null,
+        "path_id": 409201675598288949,
+        "resolved": false,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": null
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 4,
+        "name": null,
+        "path_id": 409201675598288949,
+        "resolved": false,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CardViewPowerTrophyRoad",
+        "path_id": 5242474709127915152,
+        "resolved": true,
+        "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-980b2a0763b3c967785498952701c90f",
+    "container_paths": [],
+    "name": "CardViewPowerTrophyRoad__Animator",
+    "object_type": "Animator",
+    "path_id": 7826329391320327824,
+    "source": "cache_04fbeafefb5ceae9f521f219ad64c5d8"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 4,
+      "m_PathID": 409201675598288949
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 5242474709127915152
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

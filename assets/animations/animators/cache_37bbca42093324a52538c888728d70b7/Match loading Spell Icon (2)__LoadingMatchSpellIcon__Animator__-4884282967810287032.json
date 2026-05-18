@@ -1,0 +1,89 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Match loading Spell Icon (2)",
+        "path_id": -8165686080323298744,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/LoadingMatchSpellIcon.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LoadingMatchSpellIcon",
+        "path_id": -150068524462280749,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [
+          "Assets/Content/MatchLoading/LoadingMatchSpellIcon.controller"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "LoadingMatchSpellIcon",
+        "path_id": -150068524462280749,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Match loading Spell Icon (2)",
+        "path_id": -8165686080323298744,
+        "resolved": true,
+        "source": "cache_37bbca42093324a52538c888728d70b7",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7fdecd1c9b250776b39e0f1c19ebb5d6",
+    "container_paths": [],
+    "name": "Match loading Spell Icon (2)__LoadingMatchSpellIcon__Animator",
+    "object_type": "Animator",
+    "path_id": -4884282967810287032,
+    "source": "cache_37bbca42093324a52538c888728d70b7"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": -150068524462280749
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -8165686080323298744
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

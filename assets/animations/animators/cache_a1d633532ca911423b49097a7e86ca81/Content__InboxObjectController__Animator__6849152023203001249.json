@@ -1,0 +1,93 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Content",
+        "path_id": 5036015247998432161,
+        "resolved": true,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [
+          "Assets/Content/Metagame/Inbox/Animations/InboxObjectController.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/Inbox/Animations/InboxObjectController__5778166354544623365.json"
+        ],
+        "file_id": 0,
+        "name": "InboxObjectController",
+        "path_id": 5778166354544623365,
+        "resolved": true,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": "AnimatorController"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [
+          "Assets/Content/Metagame/Inbox/Animations/InboxObjectController.controller"
+        ],
+        "exported_paths": [
+          "assets/animations/controllers/Inbox/Animations/InboxObjectController__5778166354544623365.json"
+        ],
+        "file_id": 0,
+        "name": "InboxObjectController",
+        "path_id": 5778166354544623365,
+        "resolved": true,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": "AnimatorController"
+      },
+      "game_object": {
+        "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Content",
+        "path_id": 5036015247998432161,
+        "resolved": true,
+        "source": "cache_a1d633532ca911423b49097a7e86ca81",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-33acc4de3e09a1962d6a122fd6c2cf3b",
+    "container_paths": [],
+    "name": "Content__InboxObjectController__Animator",
+    "object_type": "Animator",
+    "path_id": 6849152023203001249,
+    "source": "cache_a1d633532ca911423b49097a7e86ca81"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 5778166354544623365
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 5036015247998432161
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

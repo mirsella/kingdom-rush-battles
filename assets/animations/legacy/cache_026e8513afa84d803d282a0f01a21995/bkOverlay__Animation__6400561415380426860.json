@@ -1,0 +1,106 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Rewards/Animations/CycleChestShineLocked.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/Rewards/Animations/CycleChestShineLocked__2400852174144523822.json"
+        ],
+        "file_id": 0,
+        "name": "CycleChestShineLocked",
+        "path_id": 2400852174144523822,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "bkOverlay",
+        "path_id": 9101477302356435052,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+          "container_paths": [
+            "Assets/Content/Metagame/Common/Rewards/Animations/CycleChestShineLocked.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/Rewards/Animations/CycleChestShineLocked__2400852174144523822.json"
+          ],
+          "file_id": 0,
+          "name": "CycleChestShineLocked",
+          "path_id": 2400852174144523822,
+          "resolved": true,
+          "source": "cache_026e8513afa84d803d282a0f01a21995",
+          "type": "AnimationClip"
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Rewards/Animations/CycleChestShineLocked.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/Rewards/Animations/CycleChestShineLocked__2400852174144523822.json"
+        ],
+        "file_id": 0,
+        "name": "CycleChestShineLocked",
+        "path_id": 2400852174144523822,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "AnimationClip"
+      },
+      "game_object": {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "bkOverlay",
+        "path_id": 9101477302356435052,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+    "container_paths": [],
+    "name": "bkOverlay__Animation",
+    "object_type": "Animation",
+    "path_id": 6400561415380426860,
+    "source": "cache_026e8513afa84d803d282a0f01a21995"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 0,
+      "m_PathID": 2400852174144523822
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2400852174144523822
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 9101477302356435052
+    },
+    "m_PlayAutomatically": false,
+    "m_WrapMode": 0
+  }
+}

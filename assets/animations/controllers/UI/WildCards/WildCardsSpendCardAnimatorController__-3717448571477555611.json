@@ -1,0 +1,838 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WildCards/WildCardSpendAddCard.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/UI/WildCards/WildCardSpendAddCard__-4503728566842144182.json"
+        ],
+        "file_id": 0,
+        "name": "WildCardSpendAddCard",
+        "path_id": -4503728566842144182,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendCardDefault.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "WildCardsSpendCardDefault",
+        "path_id": -2635498728611079952,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WildCards/WildCardSpendCenterCard.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "WildCardSpendCenterCard",
+        "path_id": 5775262146991288847,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendCardHide.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "WildCardsSpendCardHide",
+        "path_id": 6185583939104018015,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendSpawnCard.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "WildCardsSpendSpawnCard",
+        "path_id": 8654629168173397036,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendSpawnCard.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "WildCardsSpendSpawnCard",
+          "path_id": 8654629168173397036,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendCardDefault.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "WildCardsSpendCardDefault",
+          "path_id": -2635498728611079952,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendCardHide.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "WildCardsSpendCardHide",
+          "path_id": 6185583939104018015,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WildCards/WildCardSpendAddCard.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/UI/WildCards/WildCardSpendAddCard__-4503728566842144182.json"
+          ],
+          "file_id": 0,
+          "name": "WildCardSpendAddCard",
+          "path_id": -4503728566842144182,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/WildCards/WildCardSpendCenterCard.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "WildCardSpendCenterCard",
+          "path_id": 5775262146991288847,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [
+      "Assets/Content/Ingame/Common/UI/WildCards/WildCardsSpendCardAnimatorController.controller"
+    ],
+    "name": "WildCardsSpendCardAnimatorController",
+    "object_type": "AnimatorController",
+    "path_id": -3717448571477555611,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 8654629168173397036
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2635498728611079952
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6185583939104018015
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4503728566842144182
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5775262146991288847
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false,
+            false,
+            false,
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [
+              {
+                "data": {
+                  "m_CanTransitionToSelf": true,
+                  "m_ConditionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionMode": 1,
+                        "m_EventID": 3310826759,
+                        "m_EventThreshold": 0.0,
+                        "m_ExitTime": 0.0
+                      }
+                    }
+                  ],
+                  "m_DestinationState": 3,
+                  "m_ExitTime": 0.9992693662643433,
+                  "m_FullPathID": 3572971185,
+                  "m_HasExitTime": false,
+                  "m_HasFixedDuration": false,
+                  "m_ID": 629915353,
+                  "m_InterruptionSource": 2,
+                  "m_OrderedInterruption": true,
+                  "m_TransitionDuration": 0.0,
+                  "m_TransitionOffset": 0.0,
+                  "m_UserID": 0
+                }
+              },
+              {
+                "data": {
+                  "m_CanTransitionToSelf": false,
+                  "m_ConditionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionMode": 1,
+                        "m_EventID": 1197272594,
+                        "m_EventThreshold": 0.0,
+                        "m_ExitTime": 0.0
+                      }
+                    }
+                  ],
+                  "m_DestinationState": 4,
+                  "m_ExitTime": 0.9972150921821594,
+                  "m_FullPathID": 3324326642,
+                  "m_HasExitTime": false,
+                  "m_HasFixedDuration": false,
+                  "m_ID": 705202127,
+                  "m_InterruptionSource": 3,
+                  "m_OrderedInterruption": true,
+                  "m_TransitionDuration": 0.0,
+                  "m_TransitionOffset": 0.0,
+                  "m_UserID": 0
+                }
+              }
+            ],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2037315824,
+                  "m_IKOnFeet": false,
+                  "m_Loop": true,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 1049664184,
+                  "m_PathID": 2037315824,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 1372578019,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.75,
+                        "m_FullPathID": 696503057,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 286400669,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 1461781178,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2466689691,
+                  "m_PathID": 1461781178,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 78341141,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 2,
+                        "m_ExitTime": 0.06250005960464478,
+                        "m_FullPathID": 1054130377,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 3168380485,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 2,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 401249878,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 1360007087,
+                  "m_PathID": 401249878,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 3201834720,
+                        "m_HasExitTime": true,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2624933536,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 3,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2855809608,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 2219245765,
+                  "m_PathID": 2855809608,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 4,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 327639286,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3617640663,
+                  "m_PathID": 327639286,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [],
+                  "m_WriteDefaultValues": false
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 1372578019,
+              "m_Index": 0,
+              "m_Type": 9
+            },
+            {
+              "m_ID": 78341141,
+              "m_Index": 1,
+              "m_Type": 9
+            },
+            {
+              "m_ID": 3310826759,
+              "m_Index": 2,
+              "m_Type": 9
+            },
+            {
+              "m_ID": 1197272594,
+              "m_Index": 3,
+              "m_Type": 9
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 2652,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "WildCardsSpendCardAnimatorController",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        1461781178,
+        "Base Layer.WildCardsSpendSpawnCard"
+      ],
+      [
+        1049664184,
+        "WildCardsSpendCardDefault"
+      ],
+      [
+        705202127,
+        "AnyState -> WildCardSpendCenterCard"
+      ],
+      [
+        3168380485,
+        "WildCardsSpendSpawnCard -> WildCardsSpendCardHide"
+      ],
+      [
+        3201834720,
+        "Base Layer.WildCardsSpendCardHide -> Base Layer.WildCardsSpendCardDefault"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        3617640663,
+        "WildCardSpendCenterCard"
+      ],
+      [
+        286400669,
+        "WildCardsSpendCardDefault -> WildCardsSpendSpawnCard"
+      ],
+      [
+        1372578019,
+        "Spawn"
+      ],
+      [
+        3324326642,
+        "Entry -> Base Layer.WildCardSpendCenterCard"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        78341141,
+        "Hide"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        1360007087,
+        "WildCardsSpendCardHide"
+      ],
+      [
+        2037315824,
+        "Base Layer.WildCardsSpendCardDefault"
+      ],
+      [
+        1054130377,
+        "Base Layer.WildCardsSpendSpawnCard -> Base Layer.WildCardsSpendCardHide"
+      ],
+      [
+        3310826759,
+        "Add"
+      ],
+      [
+        629915353,
+        "AnyState -> WildCardSpendAddCard"
+      ],
+      [
+        2624933536,
+        "WildCardsSpendCardHide -> WildCardsSpendCardDefault"
+      ],
+      [
+        2466689691,
+        "WildCardsSpendSpawnCard"
+      ],
+      [
+        401249878,
+        "Base Layer.WildCardsSpendCardHide"
+      ],
+      [
+        2219245765,
+        "WildCardSpendAddCard"
+      ],
+      [
+        1197272594,
+        "Center"
+      ],
+      [
+        3572971185,
+        "Entry -> Base Layer.WildCardSpendAddCard"
+      ],
+      [
+        696503057,
+        "Base Layer.WildCardsSpendCardDefault -> Base Layer.WildCardsSpendSpawnCard"
+      ],
+      [
+        2855809608,
+        "Base Layer.WildCardSpendAddCard"
+      ],
+      [
+        327639286,
+        "Base Layer.WildCardSpendCenterCard"
+      ]
+    ]
+  }
+}

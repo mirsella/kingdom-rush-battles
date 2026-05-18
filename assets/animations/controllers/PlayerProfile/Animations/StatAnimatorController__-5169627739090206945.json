@@ -1,0 +1,592 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimationShowAlt.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/PlayerProfile/Animations/StatAnimationShowAlt__-5562096972057121912.json"
+        ],
+        "file_id": 0,
+        "name": "StatAnimationShowAlt",
+        "path_id": -5562096972057121912,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimationShow.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "StatAnimationShow",
+        "path_id": -4358987327142953525,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+        "container_paths": [
+          "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimatorHidden.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "StatAnimatorHidden",
+        "path_id": 15621109319520537,
+        "resolved": true,
+        "source": "cache_f1a104258f22347628a6712e55c31212",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animation_clips": [
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimatorHidden.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "StatAnimatorHidden",
+          "path_id": 15621109319520537,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimationShow.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "StatAnimationShow",
+          "path_id": -4358987327142953525,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+          "container_paths": [
+            "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimationShowAlt.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/PlayerProfile/Animations/StatAnimationShowAlt__-5562096972057121912.json"
+          ],
+          "file_id": 0,
+          "name": "StatAnimationShowAlt",
+          "path_id": -5562096972057121912,
+          "resolved": true,
+          "source": "cache_f1a104258f22347628a6712e55c31212",
+          "type": "AnimationClip"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-f1c3a133d37665ebc199be584327ee7c",
+    "container_paths": [
+      "Assets/Content/Metagame/PlayerProfile/Animations/StatAnimatorController.controller"
+    ],
+    "name": "StatAnimatorController",
+    "object_type": "AnimatorController",
+    "path_id": -5169627739090206945,
+    "source": "cache_f1a104258f22347628a6712e55c31212"
+  },
+  "typetree": {
+    "m_AnimationClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 15621109319520537
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4358987327142953525
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5562096972057121912
+      }
+    ],
+    "m_Controller": {
+      "m_DefaultValues": {
+        "data": {
+          "m_BoolValues": [
+            false,
+            false
+          ],
+          "m_FloatValues": [],
+          "m_IntValues": [],
+          "m_PositionValues": [],
+          "m_QuaternionValues": [],
+          "m_ScaleValues": []
+        }
+      },
+      "m_LayerArray": [
+        {
+          "data": {
+            "(int&)m_LayerBlendingMode": 0,
+            "m_Binding": 756556552,
+            "m_BodyMask": {
+              "word0": 4294967295,
+              "word1": 4294967295,
+              "word2": 524287
+            },
+            "m_DefaultWeight": 0.0,
+            "m_IKPass": false,
+            "m_SkeletonMask": {
+              "data": {
+                "m_Data": []
+              }
+            },
+            "m_StateMachineIndex": 0,
+            "m_StateMachineSynchronizedLayerIndex": 0,
+            "m_SyncedLayerAffectsTiming": false
+          }
+        }
+      ],
+      "m_StateMachineArray": [
+        {
+          "data": {
+            "m_AnyStateTransitionConstantArray": [],
+            "m_DefaultState": 0,
+            "m_SelectorStateConstantArray": [
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": true,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 0
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "data": {
+                  "m_FullPathID": 756556552,
+                  "m_IsEntry": false,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_ConditionConstantArray": [],
+                        "m_Destination": 30000
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "m_StateConstantArray": [
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 0,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 2462321639,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3430677079,
+                  "m_PathID": 2462321639,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 2453435967,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 1,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 288289187,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 3702396523,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    },
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 1,
+                              "m_EventID": 1761914787,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 2,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 443978096,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 2035134542,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 1,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 221756285,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 1816069381,
+                  "m_PathID": 221756285,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 2,
+                              "m_EventID": 2453435967,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 3111915192,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 3133344350,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              },
+              {
+                "data": {
+                  "m_BlendTreeConstantArray": [
+                    {
+                      "data": {
+                        "m_NodeArray": [
+                          {
+                            "data": {
+                              "m_Blend1dData": {
+                                "data": {
+                                  "m_ChildThresholdArray": []
+                                }
+                              },
+                              "m_Blend2dData": {
+                                "data": {
+                                  "m_ChildMagnitudeArray": [],
+                                  "m_ChildNeighborListArray": [],
+                                  "m_ChildPairAvgMagInvArray": [],
+                                  "m_ChildPairVectorArray": [],
+                                  "m_ChildPositionArray": []
+                                }
+                              },
+                              "m_BlendDirectData": {
+                                "data": {
+                                  "m_ChildBlendEventIDArray": [],
+                                  "m_NormalizedBlendValues": false
+                                }
+                              },
+                              "m_BlendEventID": 4294967295,
+                              "m_BlendEventYID": 4294967295,
+                              "m_BlendType": 0,
+                              "m_ChildIndices": [],
+                              "m_ClipID": 2,
+                              "m_CycleOffset": 0.0,
+                              "m_Duration": 1.0,
+                              "m_Mirror": false
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "m_BlendTreeConstantIndexArray": [
+                    0
+                  ],
+                  "m_CycleOffset": 0.0,
+                  "m_CycleOffsetParamID": 0,
+                  "m_FullPathID": 4087121433,
+                  "m_IKOnFeet": false,
+                  "m_Loop": false,
+                  "m_Mirror": false,
+                  "m_MirrorParamID": 0,
+                  "m_NameID": 3722687636,
+                  "m_PathID": 4087121433,
+                  "m_Speed": 1.0,
+                  "m_SpeedParamID": 0,
+                  "m_TagID": 0,
+                  "m_TimeParamID": 0,
+                  "m_TransitionConstantArray": [
+                    {
+                      "data": {
+                        "m_CanTransitionToSelf": true,
+                        "m_ConditionConstantArray": [
+                          {
+                            "data": {
+                              "m_ConditionMode": 2,
+                              "m_EventID": 1761914787,
+                              "m_EventThreshold": 0.0,
+                              "m_ExitTime": 0.0
+                            }
+                          }
+                        ],
+                        "m_DestinationState": 0,
+                        "m_ExitTime": 0.0,
+                        "m_FullPathID": 3956919814,
+                        "m_HasExitTime": false,
+                        "m_HasFixedDuration": false,
+                        "m_ID": 796405755,
+                        "m_InterruptionSource": 0,
+                        "m_OrderedInterruption": true,
+                        "m_TransitionDuration": 0.0,
+                        "m_TransitionOffset": 0.0,
+                        "m_UserID": 0
+                      }
+                    }
+                  ],
+                  "m_WriteDefaultValues": true
+                }
+              }
+            ],
+            "m_SynchronizedLayerCount": 1
+          }
+        }
+      ],
+      "m_Values": {
+        "data": {
+          "m_ValueArray": [
+            {
+              "m_ID": 2453435967,
+              "m_Index": 0,
+              "m_Type": 4
+            },
+            {
+              "m_ID": 1761914787,
+              "m_Index": 1,
+              "m_Type": 4
+            }
+          ]
+        }
+      }
+    },
+    "m_ControllerSize": 1954,
+    "m_MultiThreadedStateMachine": true,
+    "m_Name": "StatAnimatorController",
+    "m_StateMachineBehaviourVectorDescription": {
+      "m_StateMachineBehaviourIndices": [],
+      "m_StateMachineBehaviourRanges": []
+    },
+    "m_StateMachineBehaviours": [],
+    "m_TOS": [
+      [
+        4087121433,
+        "Base Layer.StatAnimationShowAlt"
+      ],
+      [
+        1816069381,
+        "StatAnimationShow"
+      ],
+      [
+        1761914787,
+        "ShowAlt"
+      ],
+      [
+        3133344350,
+        "StatAnimationShow -> StatAnimatorHidden"
+      ],
+      [
+        2035134542,
+        "StatAnimatorHidden -> StatAnimationShowAlt"
+      ],
+      [
+        2105523844,
+        "GravityWeight"
+      ],
+      [
+        443978096,
+        "Base Layer.StatAnimatorHidden -> Base Layer.StatAnimationShowAlt"
+      ],
+      [
+        3111915192,
+        "Base Layer.StatAnimationShow -> Base Layer.StatAnimatorHidden"
+      ],
+      [
+        756556552,
+        "Base Layer"
+      ],
+      [
+        2453435967,
+        "Show"
+      ],
+      [
+        288289187,
+        "Base Layer.StatAnimatorHidden -> Base Layer.StatAnimationShow"
+      ],
+      [
+        796405755,
+        "StatAnimationShowAlt -> StatAnimatorHidden"
+      ],
+      [
+        3956919814,
+        "Base Layer.StatAnimationShowAlt -> Base Layer.StatAnimatorHidden"
+      ],
+      [
+        0,
+        ""
+      ],
+      [
+        221756285,
+        "Base Layer.StatAnimationShow"
+      ],
+      [
+        3722687636,
+        "StatAnimationShowAlt"
+      ],
+      [
+        3430677079,
+        "StatAnimatorHidden"
+      ],
+      [
+        3702396523,
+        "StatAnimatorHidden -> StatAnimationShow"
+      ],
+      [
+        2462321639,
+        "Base Layer.StatAnimatorHidden"
+      ]
+    ]
+  }
+}

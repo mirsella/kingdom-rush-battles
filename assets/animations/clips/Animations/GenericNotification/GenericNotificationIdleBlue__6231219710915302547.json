@@ -1,0 +1,1184 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0005.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0005",
+        "path_id": -9180192443484365738,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0004.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0004",
+        "path_id": -8578977997402497962,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0007.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0007",
+        "path_id": -7471447821707142058,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0001.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0001",
+        "path_id": -7107112728868840362,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0010.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0010",
+        "path_id": -6206841044692788138,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0008.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0008",
+        "path_id": -3354652727267451818,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0006.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0006",
+        "path_id": -919353123127649194,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Image",
+        "path_id": 350208831926335389,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "MonoScript"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0002.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0002",
+        "path_id": 5049515009425644630,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0003.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0003",
+        "path_id": 5677248495215352918,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      },
+      {
+        "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+        "container_paths": [
+          "Assets/Content/Metagame/Common/Sprites/CommonSpritesAtlas/CommonSprites/MetagameCommon.png"
+        ],
+        "exported_paths": [
+          "assets/sprites/generic/generic_notification_green_0009.png"
+        ],
+        "file_id": 0,
+        "name": "generic_notification_green_0009",
+        "path_id": 8468533317226241110,
+        "resolved": true,
+        "source": "cache_026e8513afa84d803d282a0f01a21995",
+        "type": "Sprite"
+      }
+    ],
+    "specific": {}
+  },
+  "metadata": {
+    "assets_file": "CAB-615d547d15ed0c4641d5e1a6530fa46b",
+    "container_paths": [
+      "Assets/Content/Metagame/Common/Animations/GenericNotification/GenericNotificationIdleBlue.anim"
+    ],
+    "name": "GenericNotificationIdleBlue",
+    "object_type": "AnimationClip",
+    "path_id": 6231219710915302547,
+    "source": "cache_026e8513afa84d803d282a0f01a21995"
+  },
+  "typetree": {
+    "m_Bounds": {
+      "m_Center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Extent": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    "m_ClipBindingConstant": {
+      "genericBindings": [
+        {
+          "attribute": 2015549526,
+          "customType": 0,
+          "isPPtrCurve": 1,
+          "path": 83635035,
+          "script": {
+            "m_FileID": 0,
+            "m_PathID": 350208831926335389
+          },
+          "typeID": 114
+        }
+      ],
+      "pptrCurveMapping": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7107112728868840362
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5049515009425644630
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5677248495215352918
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8578977997402497962
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -9180192443484365738
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -919353123127649194
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7471447821707142058
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3354652727267451818
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8468533317226241110
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6206841044692788138
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7107112728868840362
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5049515009425644630
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5677248495215352918
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8578977997402497962
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -9180192443484365738
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -919353123127649194
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7471447821707142058
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3354652727267451818
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8468533317226241110
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6206841044692788138
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7107112728868840362
+        }
+      ]
+    },
+    "m_Compressed": false,
+    "m_CompressedRotationCurves": [],
+    "m_EulerCurves": [],
+    "m_Events": [],
+    "m_FloatCurves": [],
+    "m_HasGenericRootTransform": false,
+    "m_HasMotionFloatCurves": false,
+    "m_Legacy": false,
+    "m_MuscleClip": {
+      "m_AverageAngularSpeed": 0.0,
+      "m_AverageSpeed": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_Clip": {
+        "data": {
+          "m_ConstantClip": {
+            "data": []
+          },
+          "m_DenseClip": {
+            "m_BeginTime": 0.0,
+            "m_CurveCount": 0,
+            "m_FrameCount": 103,
+            "m_SampleArray": [],
+            "m_SampleRate": 60.0
+          },
+          "m_StreamedClip": {
+            "curveCount": 1,
+            "data": [
+              4286578687,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1028443341,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1065353216,
+              1036831949,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1073741824,
+              1041865114,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1077936128,
+              1045220557,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1082130432,
+              1048576000,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1084227584,
+              1050253722,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1086324736,
+              1051931443,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1088421888,
+              1053609165,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1090519040,
+              1054727646,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1091567616,
+              1062557013,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1092616192,
+              1063395874,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1093664768,
+              1064234735,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1094713344,
+              1065073596,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1095761920,
+              1065632836,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1096810496,
+              1066052267,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1097859072,
+              1066471697,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1098907648,
+              1066891127,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1099431936,
+              1067310558,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1099956224,
+              1067590178,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1100480512,
+              1070945621,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1101004800,
+              2139095040,
+              0
+            ]
+          }
+        }
+      },
+      "m_CycleOffset": 0.0,
+      "m_DeltaPose": {
+        "m_DoFArray": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "m_GoalArray": [
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          },
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          },
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          },
+          {
+            "m_HintT": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "m_HintWeightT": 0.0,
+            "m_WeightR": 0.0,
+            "m_WeightT": 0.0,
+            "m_X": {
+              "q": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "s": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "t": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          }
+        ],
+        "m_LeftHandPose": {
+          "m_CloseOpen": 0.0,
+          "m_DoFArray": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "m_Grab": 0.0,
+          "m_GrabX": {
+            "q": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "m_InOut": 0.0,
+          "m_Override": 0.0
+        },
+        "m_LookAtPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "m_LookAtWeight": {
+          "w": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "m_RightHandPose": {
+          "m_CloseOpen": 0.0,
+          "m_DoFArray": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "m_Grab": 0.0,
+          "m_GrabX": {
+            "q": {
+              "w": 1.0,
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "s": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "t": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "m_InOut": 0.0,
+          "m_Override": 0.0
+        },
+        "m_RootX": {
+          "q": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "s": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "t": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "m_TDoFArray": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        ]
+      },
+      "m_HeightFromFeet": false,
+      "m_IndexArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "m_KeepOriginalOrientation": false,
+      "m_KeepOriginalPositionXZ": false,
+      "m_KeepOriginalPositionY": true,
+      "m_LeftFootStartX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_Level": 0.0,
+      "m_LoopBlend": false,
+      "m_LoopBlendOrientation": false,
+      "m_LoopBlendPositionXZ": false,
+      "m_LoopBlendPositionY": false,
+      "m_LoopTime": true,
+      "m_Mirror": false,
+      "m_OrientationOffsetY": 0.0,
+      "m_RightFootStartX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_StartAtOrigin": true,
+      "m_StartTime": 0.0,
+      "m_StartX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_StopTime": 1.6833332777023315,
+      "m_StopX": {
+        "q": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "s": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "t": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "m_ValueArrayDelta": [
+        {
+          "m_Start": 0.0,
+          "m_Stop": 20.0
+        }
+      ],
+      "m_ValueArrayReferencePose": []
+    },
+    "m_MuscleClipSize": 3132,
+    "m_Name": "GenericNotificationIdleBlue",
+    "m_PPtrCurves": [],
+    "m_PositionCurves": [],
+    "m_RotationCurves": [],
+    "m_SampleRate": 60.0,
+    "m_ScaleCurves": [],
+    "m_UseHighQualityCurve": true,
+    "m_WrapMode": 0
+  }
+}

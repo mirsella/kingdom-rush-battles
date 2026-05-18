@@ -1,0 +1,94 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-bc538ffb738fb703be73112c42ffaf87",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Animation",
+        "path_id": 18,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-bc538ffb738fb703be73112c42ffaf87",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 2,
+        "name": null,
+        "path_id": 5160044978589855736,
+        "resolved": false,
+        "source": "base_apk",
+        "type": null
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-bc538ffb738fb703be73112c42ffaf87",
+          "container_paths": [],
+          "exported_paths": [],
+          "file_id": 2,
+          "name": null,
+          "path_id": 5160044978589855736,
+          "resolved": false,
+          "source": "base_apk",
+          "type": null
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-bc538ffb738fb703be73112c42ffaf87",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 2,
+        "name": null,
+        "path_id": 5160044978589855736,
+        "resolved": false,
+        "source": "base_apk",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-bc538ffb738fb703be73112c42ffaf87",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Animation",
+        "path_id": 18,
+        "resolved": true,
+        "source": "base_apk",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-bc538ffb738fb703be73112c42ffaf87",
+    "container_paths": [],
+    "name": "Animation__Animation",
+    "object_type": "Animation",
+    "path_id": 45,
+    "source": "base_apk"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 2,
+      "m_PathID": 5160044978589855736
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 2,
+        "m_PathID": 5160044978589855736
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 18
+    },
+    "m_PlayAutomatically": false,
+    "m_WrapMode": 0
+  }
+}

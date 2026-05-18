@@ -1,0 +1,85 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CircleGradient",
+        "path_id": 5596131410757240776,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 1,
+        "name": null,
+        "path_id": -8260692719662520473,
+        "resolved": false,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": null
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 1,
+        "name": null,
+        "path_id": -8260692719662520473,
+        "resolved": false,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "CircleGradient",
+        "path_id": 5596131410757240776,
+        "resolved": true,
+        "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-e6b3e5929d4da8565ffa92d84a4161fd",
+    "container_paths": [],
+    "name": "CircleGradient__Animator",
+    "object_type": "Animator",
+    "path_id": 7406522656275777480,
+    "source": "cache_98e49c54d73ba9cfa03ee031e4c81f78"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 1,
+      "m_PathID": -8260692719662520473
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 5596131410757240776
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

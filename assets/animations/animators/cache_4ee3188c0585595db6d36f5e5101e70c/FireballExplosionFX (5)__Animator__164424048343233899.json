@@ -1,0 +1,64 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-28840bb1eeb7529944b55b62cafe0cb3",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "FireballExplosionFX (5)",
+        "path_id": -2467073589466909333,
+        "resolved": true,
+        "source": "cache_4ee3188c0585595db6d36f5e5101e70c",
+        "type": "GameObject"
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": null,
+      "game_object": {
+        "assets_file": "CAB-28840bb1eeb7529944b55b62cafe0cb3",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "FireballExplosionFX (5)",
+        "path_id": -2467073589466909333,
+        "resolved": true,
+        "source": "cache_4ee3188c0585595db6d36f5e5101e70c",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-28840bb1eeb7529944b55b62cafe0cb3",
+    "container_paths": [],
+    "name": "FireballExplosionFX (5)__Animator",
+    "object_type": "Animator",
+    "path_id": 164424048343233899,
+    "source": "cache_4ee3188c0585595db6d36f5e5101e70c"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 0,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -2467073589466909333
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}

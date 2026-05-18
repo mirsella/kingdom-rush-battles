@@ -11,6 +11,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
+from restore_troop_animations import build_troop_animation_index
+
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_PACKAGE_ROOT = ROOT / "apps" / "kingdom-rush-battles"
@@ -58,6 +60,20 @@ TEXT_EXTENSIONS = {
     ".yml",
 }
 
+ANIMATION_OBJECT_TYPES = {
+    "Animation",
+    "AnimationClip",
+    "Animator",
+    "AnimatorController",
+}
+
+ANIMATION_BUCKETS = {
+    "Animation": ("legacy", "legacy_animations"),
+    "AnimationClip": ("clips", "animation_clips"),
+    "Animator": ("animators", "animators"),
+    "AnimatorController": ("controllers", "animator_controllers"),
+}
+
 GOOGLE_API_KEY_RE = re.compile(r"AIza[0-9A-Za-z_-]+")
 REDACTED_GOOGLE_API_KEY = "[REDACTED_GOOGLE_API_KEY]"
 
@@ -76,6 +92,7 @@ GENERIC_PATH_PARTS = {
     "mesh",
     "meshes",
     "resources",
+    "runtimeanimatorcontroller",
     "shader",
     "shaders",
     "shared",
@@ -303,6 +320,102 @@ def jsonable(value: Any, depth: int = 0) -> Any:
     return repr(value)
 
 
+def jsonable_full(value: Any) -> Any:
+    if value is None or isinstance(value, (bool, int, float)):
+        return value
+    if isinstance(value, str):
+        return redact_public_text(value)
+    if isinstance(value, (bytes, bytearray, memoryview)):
+        raw = bytes_from_value(value)
+        return {"byte_length": len(raw)}
+    if isinstance(value, Path):
+        return str(value)
+    if isinstance(value, dict):
+        return {str(key): jsonable_full(item) for key, item in value.items()}
+    if isinstance(value, (list, tuple, set)):
+        return [jsonable_full(item) for item in value]
+    if hasattr(value, "__dict__"):
+        result = {}
+        for key, item in vars(value).items():
+            if key.startswith("_"):
+                continue
+            result[key] = jsonable_full(item)
+        if result:
+            return result
+    return repr(value)
+
+
+def int_or_none(value: Any) -> int | None:
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def is_pptr_dict(value: Any) -> bool:
+    return isinstance(value, dict) and "m_PathID" in value and "m_FileID" in value
+
+
+def collect_asset_references(value: Any) -> list[dict[str, Any]]:
+    references: dict[tuple[int | None, int], dict[str, Any]] = {}
+
+    def visit(item: Any, json_path: str) -> None:
+        if is_pptr_dict(item):
+            path_id = int_or_none(item.get("m_PathID"))
+            file_id = int_or_none(item.get("m_FileID"))
+            if path_id:
+                key = (file_id, path_id)
+                entry = references.setdefault(
+                    key,
+                    {
+                        "file_id": file_id,
+                        "path_id": path_id,
+                        "occurrences": 0,
+                        "found_at": [],
+                    },
+                )
+                entry["occurrences"] += 1
+                if len(entry["found_at"]) < 32:
+                    entry["found_at"].append(json_path)
+            return
+
+        if isinstance(item, dict):
+            for key, child in item.items():
+                visit(child, f"{json_path}.{key}")
+            return
+
+        if isinstance(item, (list, tuple)):
+            for index, child in enumerate(item):
+                visit(child, f"{json_path}[{index}]")
+
+    visit(value, "$")
+    return sorted(
+        references.values(),
+        key=lambda ref: (ref.get("file_id") or 0, ref.get("path_id") or 0),
+    )
+
+
+def compact_reference(ref: dict[str, Any] | None) -> dict[str, Any] | None:
+    if ref is None:
+        return None
+    compact = {
+        "file_id": ref.get("file_id"),
+        "path_id": ref.get("path_id"),
+        "type": ref.get("type"),
+        "name": ref.get("name"),
+        "container_paths": ref.get("container_paths", []),
+        "exported_paths": ref.get("exported_paths", []),
+        "resolved": ref.get("resolved"),
+    }
+    if ref.get("source") is not None:
+        compact["source"] = ref.get("source")
+    if ref.get("assets_file") is not None:
+        compact["assets_file"] = ref.get("assets_file")
+    if ref.get("read_error") is not None:
+        compact["read_error"] = ref.get("read_error")
+    return compact
+
+
 def is_troop_related(*values: Any) -> bool:
     haystack = " ".join(str(value) for value in values if value).lower()
     if not haystack:
@@ -476,6 +589,10 @@ def summarize_catalog(catalog_path: Path) -> dict[str, Any] | None:
 def render_readme(manifest: dict[str, Any]) -> str:
     exports = manifest.get("global_exports", {})
     troop_exports = manifest.get("troop_exports", {})
+    animation_index = manifest.get("animation_index", {})
+    troop_animation_index = manifest.get("troop_animation_index", {})
+    animation_counts = animation_index.get("counts", {})
+    troop_animation_counts = troop_animation_index.get("counts", {})
     catalog_summary = manifest.get("catalog_summary") or {}
     error_count = len((manifest.get("errors") or []))
     export_lines = []
@@ -487,6 +604,10 @@ def render_readme(manifest: dict[str, Any]) -> str:
         ("shaders", "shaders"),
         ("meshes", "meshes"),
         ("fonts", "fonts"),
+        ("animation_clips", "Unity animation clips"),
+        ("animator_controllers", "Unity animator controllers"),
+        ("animators", "Unity animator components"),
+        ("legacy_animations", "legacy Unity animation components"),
     ]:
         count = exports.get(key, 0)
         if count:
@@ -502,6 +623,16 @@ def render_readme(manifest: dict[str, Any]) -> str:
         count = troop_exports.get(key, 0)
         if count:
             troop_lines.append(f"- `{count}` {label}")
+    animation_lines = []
+    for key, label in [
+        ("AnimationClip", "AnimationClip typetrees"),
+        ("AnimatorController", "AnimatorController typetrees"),
+        ("Animator", "Animator component typetrees"),
+        ("Animation", "legacy Animation component typetrees"),
+    ]:
+        count = animation_counts.get(key, 0)
+        if count:
+            animation_lines.append(f"- `{count}` {label}")
     return "\n".join(
         [
             "# Kingdom Rush Battles local asset dump",
@@ -522,8 +653,26 @@ def render_readme(manifest: dict[str, Any]) -> str:
             "",
             *troop_lines,
             "",
-            "These exports keep troop-related atlas pages, cropped sprites, sprite metadata, and config text assets under `assets/troops/` without exporting animation clips or controllers.",
+            "These exports keep troop-related atlas pages, cropped sprites, sprite metadata, and config text assets under `assets/troops/`.",
             "Actual unit art is organized first under `assets/troops/heroes`, `assets/troops/towers`, `assets/troops/creeps`, `assets/troops/bosses`, `assets/troops/reinforcements`, and `assets/troops/mercenaries`, while portraits, quickmenu art, cardinfo art, and shop/deck assets live under `assets/troops/ui`.",
+            "",
+            "## Animation exports",
+            "",
+            *animation_lines,
+            "",
+            "Animation data lives under `assets/animations/`. Each JSON file includes the full Unity typetree plus resolved asset references where available.",
+            "Use `assets/animations/index.json` or `reports/animation_index.json` to see which controllers, clips, animators, GameObjects, and container paths are linked together.",
+            "",
+            "## Hero/tower animation metadata",
+            "",
+            f"- `{troop_animation_counts.get('configs_with_animations', 0)}` hero/tower metadata configs indexed",
+            f"- `{troop_animation_counts.get('animations', 0)}` named animation timelines indexed",
+            f"- `{troop_animation_counts.get('animations_with_frames', 0)}` timelines include explicit frame indices",
+            f"- `{troop_animation_counts.get('events', 0)}` animation events indexed",
+            "",
+            "Timeline metadata lives under `assets/troops/animations/metadata_index.json` and `reports/troop_animation_index.json`.",
+            "Exact layered/skeletal animation restoration is not possible from the exported PNG atlas plus these metadata files alone because per-part draw order and crop/layer binding data is not present there.",
+            "For best-effort atlas-sliced previews, run `python scripts/restore_troop_animations.py --write-previews` after extraction.",
             "",
             "## Important limitation",
             "",
@@ -553,16 +702,37 @@ class Exporter:
         self.global_exports = Counter()
         self.global_types = Counter()
         self.troop_exports = Counter()
+        self.animation_records: list[dict[str, Any]] = []
 
     def claim_target(self, target: Path, path_id: int) -> Path:
         if not target.exists():
             return target
         return target.with_name(f"{target.stem}__{path_id}{target.suffix}")
 
-    def build_container_index(self, env: Any) -> dict[tuple[str, int], list[str]]:
+    def record_export_path(
+        self,
+        obj: Any,
+        written_path: Path,
+        object_export_paths: dict[tuple[str, int], list[str]],
+    ) -> None:
+        key = (obj.assets_file.name, obj.path_id)
+        try:
+            rel_path = written_path.relative_to(self.output_root)
+        except ValueError:
+            rel_path = written_path
+        object_export_paths[key].append(str(rel_path))
+
+    def build_container_index(
+        self, env: Any, *, resolve_pointers: bool = False
+    ) -> dict[tuple[str, int], list[str]]:
         index: dict[tuple[str, int], list[str]] = defaultdict(list)
         for container_path, pointer in env.container.items():
             asset = getattr(pointer, "asset", pointer)
+            if resolve_pointers and getattr(asset, "assets_file", None) is None:
+                try:
+                    asset = pointer.deref()
+                except Exception:
+                    continue
             path_id = getattr(asset, "path_id", None)
             assets_file = getattr(asset, "assets_file", None)
             assets_name = getattr(assets_file, "name", None)
@@ -581,6 +751,30 @@ class Exporter:
             bucket,
         )
         return self.output_root / "assets" / bucket / logical_path
+
+    def animation_target(
+        self,
+        object_type: str,
+        source_label: str,
+        container_paths: list[str],
+        object_name: str,
+        path_id: int,
+    ) -> Path:
+        subdir, _ = ANIMATION_BUCKETS[object_type]
+        if container_paths:
+            candidate = container_paths[0]
+        else:
+            candidate = f"{source_label}/{object_name}"
+        logical_path = build_shallow_logical_path(candidate, ".json", 2)
+        filename = f"{logical_path.stem}__{path_id}.json"
+        return (
+            self.output_root
+            / "assets"
+            / "animations"
+            / subdir
+            / logical_path.parent
+            / filename
+        )
 
     def export_bytes(self, target: Path, data: bytes) -> None:
         ensure_parent(target)
@@ -614,6 +808,286 @@ class Exporter:
         group = troop_group(container_choice, *container_paths, for_config=True)
         filename = troop_export_name(container_paths, container_choice, suffix)
         return self.output_root / "assets" / "troops" / "configs" / group / filename
+
+    def resolve_reference(
+        self,
+        ref: dict[str, Any],
+        obj: Any,
+        source_label: str,
+        container_index: dict[tuple[str, int], list[str]],
+        object_export_paths: dict[tuple[str, int], list[str]],
+    ) -> dict[str, Any]:
+        resolved = dict(ref)
+        resolved["source"] = source_label
+        resolved["assets_file"] = obj.assets_file.name
+        resolved["resolved"] = False
+
+        file_id = resolved.get("file_id")
+        path_id = resolved.get("path_id")
+        if file_id not in (None, 0) or not path_id:
+            return resolved
+
+        target_obj = obj.assets_file.objects.get(path_id)
+        if target_obj is None:
+            return resolved
+
+        resolved["resolved"] = True
+        resolved["type"] = target_obj.type.name
+        resolved["container_paths"] = container_index.get(
+            (target_obj.assets_file.name, target_obj.path_id), []
+        )
+        resolved["exported_paths"] = object_export_paths.get(
+            (target_obj.assets_file.name, target_obj.path_id), []
+        )
+        try:
+            target_data = target_obj.read()
+            resolved["name"] = getattr(target_data, "m_Name", None)
+        except Exception as exc:
+            resolved["name"] = None
+            resolved["read_error"] = f"{type(exc).__name__}: {exc}"
+        return resolved
+
+    def resolve_pointer_field(
+        self,
+        tree: dict[str, Any],
+        field_name: str,
+        obj: Any,
+        source_label: str,
+        container_index: dict[tuple[str, int], list[str]],
+        object_export_paths: dict[tuple[str, int], list[str]],
+    ) -> dict[str, Any] | None:
+        value = tree.get(field_name)
+        if (
+            not isinstance(value, dict)
+            or "m_PathID" not in value
+            or "m_FileID" not in value
+        ):
+            return None
+        ref = {
+            "file_id": int_or_none(value.get("m_FileID")),
+            "path_id": int_or_none(value.get("m_PathID")),
+            "occurrences": 1,
+            "found_at": [f"$.{field_name}"],
+        }
+        if not ref["path_id"]:
+            return None
+        return self.resolve_reference(
+            ref, obj, source_label, container_index, object_export_paths
+        )
+
+    def resolve_pointer_list(
+        self,
+        values: Any,
+        field_name: str,
+        obj: Any,
+        source_label: str,
+        container_index: dict[tuple[str, int], list[str]],
+        object_export_paths: dict[tuple[str, int], list[str]],
+    ) -> list[dict[str, Any]]:
+        resolved = []
+        if not isinstance(values, list):
+            return resolved
+        for index, value in enumerate(values):
+            if (
+                not isinstance(value, dict)
+                or "m_PathID" not in value
+                or "m_FileID" not in value
+            ):
+                continue
+            ref = {
+                "file_id": int_or_none(value.get("m_FileID")),
+                "path_id": int_or_none(value.get("m_PathID")),
+                "occurrences": 1,
+                "found_at": [f"$.{field_name}[{index}]"],
+            }
+            if not ref["path_id"]:
+                continue
+            resolved.append(
+                self.resolve_reference(
+                    ref, obj, source_label, container_index, object_export_paths
+                )
+            )
+        return resolved
+
+    def animation_display_name(
+        self,
+        object_type: str,
+        tree: dict[str, Any],
+        specific_links: dict[str, Any],
+    ) -> str:
+        tree_name = tree.get("m_Name")
+        if tree_name:
+            return str(tree_name)
+        if object_type == "Animator":
+            game_object = specific_links.get("game_object") or {}
+            controller = specific_links.get("controller") or {}
+            names = [game_object.get("name"), controller.get("name"), "Animator"]
+            return "__".join(str(name) for name in names if name) or "Animator"
+        if object_type == "Animation":
+            game_object = specific_links.get("game_object") or {}
+            return (
+                f"{game_object.get('name')}__Animation"
+                if game_object.get("name")
+                else "Animation"
+            )
+        return object_type
+
+    def specific_animation_links(
+        self,
+        object_type: str,
+        tree: dict[str, Any],
+        obj: Any,
+        source_label: str,
+        container_index: dict[tuple[str, int], list[str]],
+        object_export_paths: dict[tuple[str, int], list[str]],
+    ) -> dict[str, Any]:
+        if object_type == "Animator":
+            return {
+                "game_object": compact_reference(
+                    self.resolve_pointer_field(
+                        tree,
+                        "m_GameObject",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ),
+                "controller": compact_reference(
+                    self.resolve_pointer_field(
+                        tree,
+                        "m_Controller",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ),
+                "avatar": compact_reference(
+                    self.resolve_pointer_field(
+                        tree,
+                        "m_Avatar",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ),
+            }
+
+        if object_type == "Animation":
+            return {
+                "game_object": compact_reference(
+                    self.resolve_pointer_field(
+                        tree,
+                        "m_GameObject",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ),
+                "default_animation": compact_reference(
+                    self.resolve_pointer_field(
+                        tree,
+                        "m_Animation",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ),
+                "animations": [
+                    compact_reference(ref)
+                    for ref in self.resolve_pointer_list(
+                        tree.get("m_Animations"),
+                        "m_Animations",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ],
+            }
+
+        if object_type == "AnimatorController":
+            return {
+                "animation_clips": [
+                    compact_reference(ref)
+                    for ref in self.resolve_pointer_list(
+                        tree.get("m_AnimationClips"),
+                        "m_AnimationClips",
+                        obj,
+                        source_label,
+                        container_index,
+                        object_export_paths,
+                    )
+                ]
+            }
+
+        return {}
+
+    def export_animation_object(
+        self,
+        obj: Any,
+        source_label: str,
+        container_index: dict[tuple[str, int], list[str]],
+        object_export_paths: dict[tuple[str, int], list[str]],
+    ) -> tuple[str, Path]:
+        object_type = obj.type.name
+        _, export_bucket = ANIMATION_BUCKETS[object_type]
+        tree = obj.read_typetree()
+        asset_key = (obj.assets_file.name, obj.path_id)
+        container_paths = container_index.get(asset_key, [])
+        raw_refs = collect_asset_references(tree)
+        resolved_refs = [
+            self.resolve_reference(
+                ref, obj, source_label, container_index, object_export_paths
+            )
+            for ref in raw_refs
+        ]
+        specific_links = self.specific_animation_links(
+            object_type,
+            tree,
+            obj,
+            source_label,
+            container_index,
+            object_export_paths,
+        )
+        object_name = self.animation_display_name(object_type, tree, specific_links)
+        target = self.animation_target(
+            object_type, source_label, container_paths, object_name, obj.path_id
+        )
+        target = self.claim_target(target, obj.path_id)
+
+        metadata = {
+            "source": source_label,
+            "assets_file": obj.assets_file.name,
+            "object_type": object_type,
+            "path_id": obj.path_id,
+            "name": object_name,
+            "container_paths": container_paths,
+        }
+        asset_links = {
+            "references": [compact_reference(ref) for ref in resolved_refs],
+            "specific": specific_links,
+        }
+        payload = {
+            "metadata": metadata,
+            "asset_links": asset_links,
+            "typetree": jsonable_full(tree),
+        }
+        write_json(target, payload)
+
+        record = {
+            **metadata,
+            "export_bucket": export_bucket,
+            "json_path": str(target.relative_to(self.output_root)),
+            "reference_count": len(resolved_refs),
+            "asset_links": asset_links,
+        }
+        self.animation_records.append(record)
+        return export_bucket, target
 
     def export_troop_sprite(
         self, obj: Any, data: Any, container_paths: list[str], object_name: str
@@ -754,9 +1228,16 @@ class Exporter:
     def export_object(
         self,
         obj: Any,
+        source_label: str,
         container_index: dict[tuple[str, int], list[str]],
+        object_export_paths: dict[tuple[str, int], list[str]],
     ) -> tuple[str | None, Path | None]:
         object_type = obj.type.name
+        if object_type in ANIMATION_OBJECT_TYPES:
+            return self.export_animation_object(
+                obj, source_label, container_index, object_export_paths
+            )
+
         if object_type not in {
             "AudioClip",
             "Font",
@@ -907,6 +1388,9 @@ class Exporter:
 
         env = self.UnityPy.load(str(path))
         container_index = self.build_container_index(env)
+        resolved_container_index = self.build_container_index(
+            env, resolve_pointers=True
+        )
         summary["container_count"] = len(env.container)
         summary["object_count"] = len(env.objects)
 
@@ -915,17 +1399,26 @@ class Exporter:
         summary["object_types"] = dict(object_types)
         self.global_types.update(object_types)
         error_start = len(self.errors)
+        object_export_paths: dict[tuple[str, int], list[str]] = defaultdict(list)
 
-        for obj in env.objects:
+        def process_object(obj: Any) -> None:
+            nonlocal exported
             if obj.type.name == "AssetBundle" and summary["bundle_name"] is None:
                 try:
                     summary["bundle_name"] = getattr(obj.read(), "m_Name", None)
                 except Exception:
                     summary["bundle_name"] = None
-                continue
+                return
 
             try:
-                bucket, written_path = self.export_object(obj, container_index)
+                index_for_object = (
+                    resolved_container_index
+                    if obj.type.name in ANIMATION_OBJECT_TYPES
+                    else container_index
+                )
+                bucket, written_path = self.export_object(
+                    obj, label, index_for_object, object_export_paths
+                )
             except Exception as exc:
                 self.errors.append(
                     {
@@ -936,16 +1429,128 @@ class Exporter:
                         "error": f"{type(exc).__name__}: {exc}",
                     }
                 )
-                continue
+                return
 
             if bucket is None or written_path is None:
-                continue
+                return
+            self.record_export_path(obj, written_path, object_export_paths)
             exported[bucket] += 1
             self.global_exports[bucket] += 1
+
+        for obj in env.objects:
+            if obj.type.name in ANIMATION_OBJECT_TYPES:
+                continue
+            process_object(obj)
+
+        for obj in env.objects:
+            if obj.type.name not in ANIMATION_OBJECT_TYPES:
+                continue
+            process_object(obj)
 
         summary["exported"] = dict(exported)
         summary["error_count"] = len(self.errors) - error_start
         return summary
+
+    def write_animation_index(self) -> dict[str, Any]:
+        counts = Counter(record["object_type"] for record in self.animation_records)
+        if not self.animation_records:
+            return {"counts": {}, "record_count": 0}
+
+        def record_key(record: dict[str, Any]) -> tuple[str, str, int]:
+            return (record["source"], record["assets_file"], record["path_id"])
+
+        def ref_key(ref: dict[str, Any] | None) -> tuple[str, str, int] | None:
+            if not ref or not ref.get("resolved"):
+                return None
+            source = ref.get("source")
+            assets_file = ref.get("assets_file")
+            path_id = ref.get("path_id")
+            if source is None or assets_file is None or path_id is None:
+                return None
+            return (str(source), str(assets_file), int(path_id))
+
+        def compact_record(record: dict[str, Any]) -> dict[str, Any]:
+            return {
+                "source": record["source"],
+                "assets_file": record["assets_file"],
+                "path_id": record["path_id"],
+                "object_type": record["object_type"],
+                "name": record["name"],
+                "json_path": record["json_path"],
+                "container_paths": record.get("container_paths", []),
+            }
+
+        records_by_key = {
+            record_key(record): record for record in self.animation_records
+        }
+        clip_to_controllers: dict[tuple[str, str, int], list[dict[str, Any]]] = (
+            defaultdict(list)
+        )
+        clip_to_legacy: dict[tuple[str, str, int], list[dict[str, Any]]] = defaultdict(
+            list
+        )
+        controller_to_animators: dict[tuple[str, str, int], list[dict[str, Any]]] = (
+            defaultdict(list)
+        )
+
+        for record in self.animation_records:
+            specific = record["asset_links"].get("specific", {})
+            if record["object_type"] == "AnimatorController":
+                for clip in specific.get("animation_clips", []):
+                    key = ref_key(clip)
+                    if key in records_by_key:
+                        clip_to_controllers[key].append(compact_record(record))
+            elif record["object_type"] == "Animator":
+                key = ref_key(specific.get("controller"))
+                if key in records_by_key:
+                    animator_record = compact_record(record)
+                    animator_record["game_object"] = specific.get("game_object")
+                    controller_to_animators[key].append(animator_record)
+            elif record["object_type"] == "Animation":
+                refs = [specific.get("default_animation")]
+                refs.extend(specific.get("animations", []))
+                for clip in refs:
+                    key = ref_key(clip)
+                    if key in records_by_key:
+                        clip_to_legacy[key].append(compact_record(record))
+
+        grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for record in self.animation_records:
+            item = compact_record(record)
+            key = record_key(record)
+            specific = record["asset_links"].get("specific", {})
+            item["reference_count"] = record.get("reference_count", 0)
+            item["specific_links"] = specific
+
+            if record["object_type"] == "AnimationClip":
+                item["used_by_controllers"] = clip_to_controllers.get(key, [])
+                item["used_by_legacy_animations"] = clip_to_legacy.get(key, [])
+            elif record["object_type"] == "AnimatorController":
+                item["animation_clips"] = specific.get("animation_clips", [])
+                item["used_by_animators"] = controller_to_animators.get(key, [])
+            elif record["object_type"] == "Animator":
+                item["game_object"] = specific.get("game_object")
+                item["controller"] = specific.get("controller")
+            elif record["object_type"] == "Animation":
+                item["game_object"] = specific.get("game_object")
+                item["default_animation"] = specific.get("default_animation")
+                item["animations"] = specific.get("animations", [])
+
+            grouped[record["export_bucket"]].append(item)
+
+        payload = {
+            "record_count": len(self.animation_records),
+            "counts": dict(counts),
+            "notes": [
+                "Animation JSON files contain full Unity typetrees plus resolved PPtr asset references where available.",
+                "Animator records link controllers to GameObjects, whose container paths usually identify the prefab or scene asset that uses them.",
+                "Some Unity references are external or null and therefore remain unresolved.",
+            ],
+            **{key: value for key, value in sorted(grouped.items())},
+        }
+        write_json(self.output_root / "assets" / "animations" / "index.json", payload)
+        write_json(self.output_root / "reports" / "animation_index.json", payload)
+        return {"counts": dict(counts), "record_count": len(self.animation_records)}
 
 
 def parse_args() -> argparse.Namespace:
@@ -987,6 +1592,8 @@ def main() -> int:
         print(f"[extract] {label}: {path}")
         source_summaries.append(exporter.export_source(label, path))
 
+    animation_index = exporter.write_animation_index()
+    troop_animation_index = build_troop_animation_index(args.output_root)
     catalog_summary = summarize_catalog(args.catalog_path)
     manifest = {
         "package_root": str(args.package_root),
@@ -997,12 +1604,16 @@ def main() -> int:
         "global_exports": dict(exporter.global_exports),
         "troop_exports": dict(exporter.troop_exports),
         "global_object_types": dict(exporter.global_types),
+        "animation_index": animation_index,
+        "troop_animation_index": troop_animation_index,
         "catalog_summary": catalog_summary,
         "notes": [
             "This dump is local-first: it includes base.apk content and cached UnityFS bundles present on disk.",
             "Remote Addressables bundles advertised by the catalog were not anonymously downloadable from the captured install and likely require authenticated cookies or API-mediated access.",
             "User save/config files were intentionally not exported into the public dump.",
-            "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops without exporting animation clips.",
+            "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops; Unity animation data is exported separately under assets/animations.",
+            "Animation exports include full typetree JSON and resolved Unity object references where available, so clips/controllers/animators can be traced back to linked assets.",
+            "Hero/tower animation metadata indexes the extracted troop config timelines/events and can produce explicit best-effort atlas-sliced previews on request.",
             "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages.",
         ],
         "errors": exporter.errors,
@@ -1020,6 +1631,8 @@ def main() -> int:
                 "sources": len(source_summaries),
                 "exports": dict(exporter.global_exports),
                 "troop_exports": dict(exporter.troop_exports),
+                "animation_index": animation_index,
+                "troop_animation_index": troop_animation_index,
                 "errors": len(exporter.errors),
             },
             indent=2,

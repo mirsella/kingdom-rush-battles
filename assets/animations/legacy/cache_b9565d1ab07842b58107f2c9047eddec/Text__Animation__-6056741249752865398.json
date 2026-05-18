@@ -1,0 +1,136 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/GameMessage/MatchText.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/UI/GameMessage/MatchText__-8298148662770145516.json"
+        ],
+        "file_id": 0,
+        "name": "MatchText",
+        "path_id": -8298148662770145516,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Text",
+        "path_id": 8117686181754135946,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/GameMessage/MatchTextShow.anim"
+        ],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "MatchTextShow",
+        "path_id": 8189301125086430655,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      }
+    ],
+    "specific": {
+      "animations": [
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/GameMessage/MatchText.anim"
+          ],
+          "exported_paths": [
+            "assets/animations/clips/UI/GameMessage/MatchText__-8298148662770145516.json"
+          ],
+          "file_id": 0,
+          "name": "MatchText",
+          "path_id": -8298148662770145516,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        },
+        {
+          "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+          "container_paths": [
+            "Assets/Content/Ingame/Common/UI/GameMessage/MatchTextShow.anim"
+          ],
+          "exported_paths": [],
+          "file_id": 0,
+          "name": "MatchTextShow",
+          "path_id": 8189301125086430655,
+          "resolved": true,
+          "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+          "type": "AnimationClip"
+        }
+      ],
+      "default_animation": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [
+          "Assets/Content/Ingame/Common/UI/GameMessage/MatchText.anim"
+        ],
+        "exported_paths": [
+          "assets/animations/clips/UI/GameMessage/MatchText__-8298148662770145516.json"
+        ],
+        "file_id": 0,
+        "name": "MatchText",
+        "path_id": -8298148662770145516,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "AnimationClip"
+      },
+      "game_object": {
+        "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Text",
+        "path_id": 8117686181754135946,
+        "resolved": true,
+        "source": "cache_b9565d1ab07842b58107f2c9047eddec",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-7452736df5f6bf2d32d84d9131671f4d",
+    "container_paths": [],
+    "name": "Text__Animation",
+    "object_type": "Animation",
+    "path_id": -6056741249752865398,
+    "source": "cache_b9565d1ab07842b58107f2c9047eddec"
+  },
+  "typetree": {
+    "m_AnimatePhysics": false,
+    "m_Animation": {
+      "m_FileID": 0,
+      "m_PathID": -8298148662770145516
+    },
+    "m_Animations": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -8298148662770145516
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8189301125086430655
+      }
+    ],
+    "m_CullingType": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 8117686181754135946
+    },
+    "m_PlayAutomatically": true,
+    "m_WrapMode": 0
+  }
+}

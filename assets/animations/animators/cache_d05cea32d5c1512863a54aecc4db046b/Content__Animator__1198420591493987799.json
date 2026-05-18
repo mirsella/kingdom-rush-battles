@@ -1,0 +1,85 @@
+{
+  "asset_links": {
+    "references": [
+      {
+        "assets_file": "CAB-a93b3b54070a9547e587b1d51e199ead",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Content",
+        "path_id": -1658884407328686633,
+        "resolved": true,
+        "source": "cache_d05cea32d5c1512863a54aecc4db046b",
+        "type": "GameObject"
+      },
+      {
+        "assets_file": "CAB-a93b3b54070a9547e587b1d51e199ead",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 1,
+        "name": null,
+        "path_id": 4557723562009013433,
+        "resolved": false,
+        "source": "cache_d05cea32d5c1512863a54aecc4db046b",
+        "type": null
+      }
+    ],
+    "specific": {
+      "avatar": null,
+      "controller": {
+        "assets_file": "CAB-a93b3b54070a9547e587b1d51e199ead",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 1,
+        "name": null,
+        "path_id": 4557723562009013433,
+        "resolved": false,
+        "source": "cache_d05cea32d5c1512863a54aecc4db046b",
+        "type": null
+      },
+      "game_object": {
+        "assets_file": "CAB-a93b3b54070a9547e587b1d51e199ead",
+        "container_paths": [],
+        "exported_paths": [],
+        "file_id": 0,
+        "name": "Content",
+        "path_id": -1658884407328686633,
+        "resolved": true,
+        "source": "cache_d05cea32d5c1512863a54aecc4db046b",
+        "type": "GameObject"
+      }
+    }
+  },
+  "metadata": {
+    "assets_file": "CAB-a93b3b54070a9547e587b1d51e199ead",
+    "container_paths": [],
+    "name": "Content__Animator",
+    "object_type": "Animator",
+    "path_id": 1198420591493987799,
+    "source": "cache_d05cea32d5c1512863a54aecc4db046b"
+  },
+  "typetree": {
+    "m_AllowConstantClipSamplingOptimization": true,
+    "m_ApplyRootMotion": false,
+    "m_Avatar": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Controller": {
+      "m_FileID": 1,
+      "m_PathID": 4557723562009013433
+    },
+    "m_CullingMode": 0,
+    "m_Enabled": 1,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": -1658884407328686633
+    },
+    "m_HasTransformHierarchy": true,
+    "m_KeepAnimatorStateOnDisable": false,
+    "m_LinearVelocityBlending": false,
+    "m_StabilizeFeet": false,
+    "m_UpdateMode": 0,
+    "m_WriteDefaultValuesOnDisable": false
+  }
+}
