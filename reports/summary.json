@@ -74,6 +74,36 @@
       "source": "cache_cd29dd654e00c60ef590b5931700afe7"
     }
   ],
+  "ftruntime_animation_index": {
+    "counts": {
+      "class_counts": {
+        "AnimationSettingsAsset": 760,
+        "EntityComponentAnimator": 109,
+        "FTRuntime.SwfAsset": 194,
+        "FTRuntime.SwfClip": 2415,
+        "FTRuntime.SwfClipAsset": 968,
+        "FTRuntime.SwfClipController": 2415,
+        "FTRuntime.SwfManager": 44,
+        "MP.Ingame.SwfAnimator": 2057,
+        "MP.UI.SwfAnimatorUI": 287,
+        "SwfUIAnimation": 94,
+        "_MP.Utils.CustomAnimatorEvents": 50
+      },
+      "records": 9393,
+      "troop_class_counts": {
+        "AnimationSettingsAsset": 664,
+        "EntityComponentAnimator": 85,
+        "FTRuntime.SwfAsset": 134,
+        "FTRuntime.SwfClip": 30,
+        "FTRuntime.SwfClipAsset": 732,
+        "FTRuntime.SwfClipController": 1,
+        "MP.Ingame.SwfAnimator": 1,
+        "_MP.Utils.CustomAnimatorEvents": 2
+      },
+      "troop_related_records": 1649
+    },
+    "record_count": 9393
+  },
   "global_exports": {
     "animation_clips": 418,
     "animator_controllers": 126,
@@ -160,7 +190,8 @@
     "User save/config files were intentionally not exported into the public dump.",
     "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops; Unity animation data is exported separately under assets/animations.",
     "Animation exports include full typetree JSON and resolved Unity object references where available, so clips/controllers/animators can be traced back to linked assets.",
-    "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages."
+    "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages.",
+    "Hero/tower playback uses FTRuntime/SWF runtime animation data; atlas-sliced GIF previews were removed because they are incorrect. See reports/ftruntime_animation_index.json."
   ],
   "output_root": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/work/public",
   "package_root": "/home/mirsella/dev/apks/apps/kingdom-rush-battles",
@@ -4281,6 +4312,19 @@
       "path": "/home/mirsella/dev/apks/apps/kingdom-rush-battles/inputs/device/storage/com.ironhidegames.kingdomrush.mp/files/UnityCache/Shared/ff4573fa6c85d72d7994d9479bd8d5fe/2df9b959040afba244bdbcef886ce95c/__data"
     }
   ],
+  "troop_animation_index": {
+    "counts": {
+      "animations": 1033,
+      "animations_with_frames": 569,
+      "animations_without_frames": 464,
+      "configs_scanned": 384,
+      "configs_with_animations": 384,
+      "configs_with_atlas": 364,
+      "configs_without_atlas": 20,
+      "events": 339
+    },
+    "record_count": 384
+  },
   "troop_exports": {
     "atlas_pages": 5,
     "atlases": 5,

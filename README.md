@@ -49,13 +49,18 @@ Use `assets/animations/index.json` or `reports/animation_index.json` to see whic
 - `1033` named animation timelines indexed
 - `569` timelines include explicit frame indices
 - `339` animation events indexed
-- `20` sample best-effort GIF previews generated
 
 Timeline metadata lives under `assets/troops/animations/metadata_index.json` and `reports/troop_animation_index.json`.
-The index restores what is available from the exported config metadata: animation names, frame indices, events, and attachment transforms for heroes and towers.
+The config metadata is not enough to render correct playback from the PNG atlas by itself.
+Atlas-sliced GIF previews are intentionally not generated because they produce incorrect flying-spritesheet results.
 
-Important limitation: exact layered or skeletal animation restoration is not possible from the exported PNG atlas plus these metadata files alone because per-part draw order and crop/layer binding data is not present there.
-The generated GIFs under `assets/troops/animations/previews/` are explicitly best-effort atlas-sliced previews, not confirmed original runtime animation playback.
+## FTRuntime/SWF animation runtime index
+
+- `9393` FTRuntime/SWF runtime objects indexed
+- `1649` troop-related FTRuntime/SWF runtime objects indexed
+
+Runtime animation data lives under `assets/animations/ftruntime_index.json` and `reports/ftruntime_animation_index.json`.
+This game uses FTRuntime/SWF-style Unity animation data for the hero/tower playback path, not a plain Spine atlas or simple sprite sheet.
 
 ## Important limitation
 
@@ -69,10 +74,12 @@ This means this dump is a strong local-first extraction, not yet a fully exhaust
 - `reports/errors.json`: the `4` decode/export failures that remained after extraction
 - `reports/animation_index.json`: Unity animation clips/controllers/animators index
 - `reports/troop_animation_index.json`: hero/tower config animation timeline index
+- `reports/ftruntime_animation_index.json`: FTRuntime/SWF runtime animation object index
 
 ## Included scripts
 
-- `scripts/extract_kingdom_rush_battles_assets.py`: main Kingdom Rush Battles extractor used for this dump; reads `base.apk` plus cached Unity bundles and exports the organized asset tree, troop-preserving assets, Unity animation typetrees, and reports.
+- `scripts/extract_kingdom_rush_battles_assets.py`: main Kingdom Rush Battles extractor used for this dump; reads `base.apk` plus cached Unity bundles and exports the organized asset tree, troop-preserving assets, Unity animation typetrees, FTRuntime/SWF runtime index, and reports.
 - `scripts/restore_troop_animations.py`: indexes hero/tower troop metadata timelines from `assets/troops/configs/` and writes `assets/troops/animations/metadata_index.json` plus `reports/troop_animation_index.json`.
+- `scripts/index_ftruntime_animations.py`: indexes FTRuntime/SWF Unity MonoBehaviour runtime animation objects needed for real hero/tower playback reconstruction.
 - `scripts/extract_unity_xapk_assets.py`: generic Unity APK/XAPK extraction helper kept with the dump for future Android Unity extraction runs and comparison work.
 - Runtime: `.venv-krb`

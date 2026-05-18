@@ -11,6 +11,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
+from index_ftruntime_animations import build_ftruntime_index
 from restore_troop_animations import build_troop_animation_index
 
 
@@ -591,8 +592,10 @@ def render_readme(manifest: dict[str, Any]) -> str:
     troop_exports = manifest.get("troop_exports", {})
     animation_index = manifest.get("animation_index", {})
     troop_animation_index = manifest.get("troop_animation_index", {})
+    ftruntime_animation_index = manifest.get("ftruntime_animation_index", {})
     animation_counts = animation_index.get("counts", {})
     troop_animation_counts = troop_animation_index.get("counts", {})
+    ftruntime_counts = ftruntime_animation_index.get("counts", {})
     catalog_summary = manifest.get("catalog_summary") or {}
     error_count = len((manifest.get("errors") or []))
     export_lines = []
@@ -671,8 +674,16 @@ def render_readme(manifest: dict[str, Any]) -> str:
             f"- `{troop_animation_counts.get('events', 0)}` animation events indexed",
             "",
             "Timeline metadata lives under `assets/troops/animations/metadata_index.json` and `reports/troop_animation_index.json`.",
-            "Exact layered/skeletal animation restoration is not possible from the exported PNG atlas plus these metadata files alone because per-part draw order and crop/layer binding data is not present there.",
-            "For best-effort atlas-sliced previews, run `python scripts/restore_troop_animations.py --write-previews` after extraction.",
+            "The config metadata is not enough to render correct playback from the PNG atlas by itself.",
+            "Atlas-sliced GIF previews are intentionally not generated because they produce incorrect flying-spritesheet results.",
+            "",
+            "## FTRuntime/SWF animation runtime index",
+            "",
+            f"- `{ftruntime_counts.get('records', 0)}` FTRuntime/SWF runtime objects indexed",
+            f"- `{ftruntime_counts.get('troop_related_records', 0)}` troop-related FTRuntime/SWF runtime objects indexed",
+            "",
+            "Runtime animation data lives under `assets/animations/ftruntime_index.json` and `reports/ftruntime_animation_index.json`.",
+            "This game uses FTRuntime/SWF-style Unity animation data for the hero/tower playback path, not a plain Spine atlas or simple sprite sheet.",
             "",
             "## Important limitation",
             "",
@@ -684,10 +695,16 @@ def render_readme(manifest: dict[str, Any]) -> str:
             "",
             "- `reports/summary.json`: extraction counts, per-source stats, and catalog summary",
             f"- `reports/errors.json`: the `{error_count}` decode/export failures that remained after extraction",
+            "- `reports/animation_index.json`: Unity animation clips/controllers/animators index",
+            "- `reports/troop_animation_index.json`: hero/tower config animation timeline index",
+            "- `reports/ftruntime_animation_index.json`: FTRuntime/SWF runtime animation object index",
             "",
-            "## Extraction script",
+            "## Included scripts",
             "",
-            "- Script: `scripts/extract_kingdom_rush_battles_assets.py`",
+            "- `scripts/extract_kingdom_rush_battles_assets.py`: main Kingdom Rush Battles extractor used for this dump; reads `base.apk` plus cached Unity bundles and exports the organized asset tree, troop-preserving assets, Unity animation typetrees, FTRuntime/SWF runtime index, and reports.",
+            "- `scripts/restore_troop_animations.py`: indexes hero/tower troop metadata timelines from `assets/troops/configs/` and writes `assets/troops/animations/metadata_index.json` plus `reports/troop_animation_index.json`.",
+            "- `scripts/index_ftruntime_animations.py`: indexes FTRuntime/SWF Unity MonoBehaviour runtime animation objects needed for real hero/tower playback reconstruction.",
+            "- `scripts/extract_unity_xapk_assets.py`: generic Unity APK/XAPK extraction helper kept with the dump for future Android Unity extraction runs and comparison work.",
             "- Runtime: `.venv-krb`",
             "",
         ]
@@ -1594,6 +1611,9 @@ def main() -> int:
 
     animation_index = exporter.write_animation_index()
     troop_animation_index = build_troop_animation_index(args.output_root)
+    ftruntime_animation_index = build_ftruntime_index(
+        args.output_root, sources, UnityPy
+    )
     catalog_summary = summarize_catalog(args.catalog_path)
     manifest = {
         "package_root": str(args.package_root),
@@ -1606,6 +1626,7 @@ def main() -> int:
         "global_object_types": dict(exporter.global_types),
         "animation_index": animation_index,
         "troop_animation_index": troop_animation_index,
+        "ftruntime_animation_index": ftruntime_animation_index,
         "catalog_summary": catalog_summary,
         "notes": [
             "This dump is local-first: it includes base.apk content and cached UnityFS bundles present on disk.",
@@ -1613,7 +1634,8 @@ def main() -> int:
             "User save/config files were intentionally not exported into the public dump.",
             "Troop-focused exports preserve Unity sprite crops, source textures, and SpriteAtlas metadata under assets/troops; Unity animation data is exported separately under assets/animations.",
             "Animation exports include full typetree JSON and resolved Unity object references where available, so clips/controllers/animators can be traced back to linked assets.",
-            "Hero/tower animation metadata indexes the extracted troop config timelines/events and can produce explicit best-effort atlas-sliced previews on request.",
+            "Hero/tower animation metadata indexes extracted troop config timelines/events, but correct playback needs the FTRuntime/SWF runtime data indexed under assets/animations/ftruntime_index.json.",
+            "Atlas-sliced GIF previews are intentionally not generated because they produce incorrect flying-spritesheet results.",
             "Standalone Texture2D PNG exports are intentionally omitted to reduce duplication with Sprite PNG exports; troop atlas pages remain under assets/troops/atlas_pages.",
         ],
         "errors": exporter.errors,
@@ -1633,6 +1655,7 @@ def main() -> int:
                 "troop_exports": dict(exporter.troop_exports),
                 "animation_index": animation_index,
                 "troop_animation_index": troop_animation_index,
+                "ftruntime_animation_index": ftruntime_animation_index,
                 "errors": len(exporter.errors),
             },
             indent=2,
